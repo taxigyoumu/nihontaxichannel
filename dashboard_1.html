@@ -1,0 +1,461 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>タクシードライバー情報ダッシュボード</title>
+  <meta http-equiv="refresh" content="600" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@300;400;500;700;900&display=swap" rel="stylesheet" />
+
+  <style>
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    :root {
+      --bg-base:        #0D1117;
+      --bg-panel:       #161B27;
+      --bg-panel-hover: #1C2333;
+      --accent:         #F0B429;
+      --accent-dim:     #B98A1C;
+      --text-primary:   #E2E8F0;
+      --text-secondary: #94A3B8;
+      --border:         #2D3748;
+      --header-h:       72px;
+      --gap:            10px;
+      --panel-radius:   10px;
+      /* 年金支給日カラー */
+      --nenkin:         #10B981;
+      --nenkin-dim:     #065F46;
+    }
+
+    html, body { width: 100vw; height: 100vh; overflow: hidden; background-color: var(--bg-base); font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic Pro', sans-serif; color: var(--text-primary); }
+
+    #app { display: flex; flex-direction: column; width: 100vw; height: 100vh; padding: var(--gap); gap: var(--gap); }
+
+    /* ヘッダー */
+    #header {
+      flex-shrink: 0; height: var(--header-h); background: var(--bg-panel); border-radius: var(--panel-radius); border: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; padding: 0 24px; position: relative; overflow: hidden;
+    }
+    #header::after { content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 3px; background: linear-gradient(90deg, transparent 0%, var(--accent-dim) 10%, var(--accent) 40%, var(--accent) 60%, var(--accent-dim) 90%, transparent 100%); }
+
+    .header-left { display: flex; align-items: center; gap: 14px; }
+    .taxi-icon { font-size: 28px; line-height: 1; }
+    .header-title { font-size: 16px; font-weight: 500; color: var(--text-secondary); letter-spacing: 0.08em; }
+
+    #datetime-display { display: flex; align-items: baseline; gap: 16px; }
+    #clock-date { font-size: 20px; font-weight: 400; color: var(--text-secondary); letter-spacing: 0.04em; }
+    #clock-time { font-size: 44px; font-weight: 900; color: var(--accent); letter-spacing: 0.05em; line-height: 1; font-variant-numeric: tabular-nums; font-feature-settings: "tnum"; }
+
+    .header-right { font-size: 13px; color: var(--text-secondary); text-align: right; line-height: 1.6; }
+
+    /* 年金支給日バナー（ヘッダー内） */
+    #nenkin-badge {
+      display: flex; align-items: center; gap: 8px;
+      background: linear-gradient(135deg, rgba(16,185,129,0.2) 0%, rgba(16,185,129,0.08) 100%);
+      border: 1px solid var(--nenkin);
+      border-radius: 8px; padding: 6px 14px;
+      animation: nenkin-pulse 2.5s ease-in-out infinite;
+    }
+    @keyframes nenkin-pulse {
+      0%,100% { box-shadow: 0 0 0 0 rgba(16,185,129,0.4); }
+      50%      { box-shadow: 0 0 0 6px rgba(16,185,129,0); }
+    }
+    .nenkin-label { font-size: 13px; font-weight: 900; color: var(--nenkin); letter-spacing: 0.06em; }
+    .nenkin-sub   { font-size: 11px; color: #6EE7B7; }
+
+    /* グリッド */
+    #grid { flex: 1; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: var(--gap); min-height: 0; }
+
+    /* 共通パネル */
+    .panel { background: var(--bg-panel); border: 1px solid var(--border); border-radius: var(--panel-radius); display: flex; flex-direction: column; overflow: hidden; position: relative; }
+    .panel-header { flex-shrink: 0; display: flex; align-items: center; gap: 10px; padding: 10px 16px; border-bottom: 1px solid var(--border); background: var(--bg-panel-hover); }
+    .panel-icon { font-size: 18px; line-height: 1; }
+    .panel-title { font-size: 14px; font-weight: 700; letter-spacing: 0.06em; color: var(--text-primary); }
+    .panel-subtitle { font-size: 11px; color: var(--text-secondary); margin-left: auto; }
+    .panel-header::before { content: ''; display: block; width: 3px; height: 18px; background: var(--accent); border-radius: 2px; flex-shrink: 0; }
+    .panel-body { flex: 1; position: relative; overflow: hidden; }
+    .panel-body iframe { width: 100%; height: 100%; border: none; display: block; background: var(--bg-panel-hover); }
+
+    /* 各パネルカラー */
+    #panel-weather .panel-header { border-bottom-color: #2A5A8A; }
+    #panel-weather .panel-header::before { background: #4A9EDB; }
+    #panel-traffic .panel-header { border-bottom-color: #3A5A2A; }
+    #panel-traffic .panel-header::before { background: #6AB547; }
+    #panel-transit .panel-header { border-bottom-color: #0a4a32; }
+    #panel-transit .panel-header::before { background: var(--nenkin); }
+    #panel-events .panel-header { border-bottom-color: #6A4A2A; }
+    #panel-events .panel-header::before { background: var(--accent); }
+
+    /* 左下：営業情報パネル内スタイル */
+    .sw-bar {
+      display: flex; align-items: center; gap: 8px;
+      background: var(--bg-panel-hover); border-radius: 8px;
+      padding: 7px 12px; margin-bottom: 8px; flex-wrap: wrap;
+    }
+
+    /* 年金バナー（パネル内大型） */
+    .nenkin-panel-banner {
+      display: flex; align-items: center; gap: 12px;
+      background: linear-gradient(135deg, rgba(16,185,129,0.18) 0%, rgba(16,185,129,0.06) 100%);
+      border: 1.5px solid var(--nenkin);
+      border-radius: 8px; padding: 10px 14px; margin-bottom: 8px;
+    }
+    .nenkin-panel-icon { font-size: 28px; flex-shrink: 0; }
+    .nenkin-panel-text { flex: 1; }
+    .nenkin-panel-title { font-size: 15px; font-weight: 900; color: var(--nenkin); letter-spacing: 0.06em; margin-bottom: 2px; }
+    .nenkin-panel-body  { font-size: 12px; color: #6EE7B7; line-height: 1.5; }
+
+    /* 需要スポットカード */
+    .spot-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-bottom: 8px; }
+    .spot-card {
+      background: var(--bg-panel-hover); border-radius: 6px; padding: 7px 10px;
+      border-left: 3px solid var(--nenkin);
+    }
+    .spot-label { font-size: 10px; color: var(--text-secondary); margin-bottom: 2px; }
+    .spot-name  { font-size: 12px; font-weight: 700; color: var(--text-primary); }
+    .spot-note  { font-size: 10px; color: #6EE7B7; margin-top: 2px; }
+
+    .info-card {
+      background: var(--bg-panel-hover); border-radius: 6px; padding: 8px 12px; margin-bottom: 6px;
+    }
+    .info-label { font-size: 10px; color: var(--text-secondary); margin-bottom: 2px; }
+    .info-body  { font-size: 13px; line-height: 1.5; }
+
+    .sales-card {
+      background: rgba(15,160,104,.1); border: 1px solid #0fa068; border-radius: 6px;
+      padding: 8px 12px; margin-bottom: 6px;
+    }
+    .sales-label { font-size: 11px; color: #40e0a8; font-weight: 700; margin-bottom: 2px; }
+    .sales-body  { font-size: 14px; font-weight: 700; line-height: 1.5; color: #fff; }
+
+    .ukai-card {
+      background: var(--bg-panel-hover); border-left: 4px solid #20d49c;
+      border-radius: 6px; padding: 8px 12px; margin-bottom: 6px;
+    }
+    .ukai-label { font-size: 10px; color: var(--text-secondary); margin-bottom: 2px; }
+
+    .footer-note { font-size: 10px; color: var(--text-secondary); font-style: italic; }
+
+    /* ズームコントロール */
+    .zoom-controls { display: flex; align-items: center; gap: 6px; }
+    .zoom-btn { background: var(--bg-panel-hover); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-size: 15px; font-weight: 700; padding: 6px 14px; cursor: pointer; transition: all .2s; white-space: nowrap; }
+    .zoom-btn:hover { background: var(--accent); color: #000; border-color: var(--accent); }
+
+    @media screen and (max-width: 768px) {
+      html, body, #app { height: auto; min-height: 100vh; overflow-y: auto; }
+      #header { height: auto; flex-direction: column; align-items: flex-start; padding: 12px 16px; gap: 12px; }
+      #clock-time { font-size: 32px; }
+      .zoom-controls { width: 100%; justify-content: flex-end; }
+      #grid { display: flex; flex-direction: column; }
+      .panel { min-height: 450px; }
+      #panel-traffic { min-height: 550px; }
+      .spot-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+<div id="app">
+
+  <!-- ヘッダー -->
+  <header id="header">
+    <div class="header-left">
+      <span class="taxi-icon">🚕</span>
+      <span class="header-title">岐阜エリア ドライバー情報ダッシュボード</span>
+    </div>
+
+    <!-- 年金支給日バナー（ヘッダー中央） -->
+    <div id="nenkin-badge">
+      <span style="font-size:20px;">💴</span>
+      <div>
+        <div class="nenkin-label">🏦 年金支給日</div>
+        <div class="nenkin-sub">需要拡大予測 → 積極営業推奨</div>
+      </div>
+    </div>
+
+    <div id="datetime-display">
+      <span id="clock-date">読み込み中...</span>
+      <span id="clock-time">--:--:--</span>
+    </div>
+
+    <div class="header-right zoom-controls">
+      <button class="zoom-btn" id="fs-btn" onclick="goFullscreen()">⛶ 全画面で開く</button>
+    </div>
+  </header>
+
+  <!-- 4分割グリッド -->
+  <main id="grid">
+
+    <!-- 左上：雨雲レーダー -->
+    <section class="panel" id="panel-weather">
+      <div class="panel-header">
+        <span class="panel-icon">🌤</span>
+        <span class="panel-title">雨雲レーダー（岐阜市周辺）</span>
+        <span class="panel-subtitle">実況・リアルタイム</span>
+      </div>
+      <div class="panel-body">
+        <iframe
+          src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km/h&zoom=10&overlay=radar&product=radar&level=surface&lat=35.4233&lon=136.7607&detailLat=35.4233&detailLon=136.7607&marker=true"
+          frameborder="0">
+        </iframe>
+      </div>
+    </section>
+
+    <!-- 右上：交通状況 -->
+    <section class="panel" id="panel-traffic">
+      <div class="panel-header">
+        <span class="panel-icon">🚦</span>
+        <span class="panel-title">岐阜市周辺の交通状況・渋滞情報</span>
+        <span class="panel-subtitle">VICS・リアルタイム</span>
+      </div>
+      <div class="panel-body" style="display:flex;flex-direction:column;">
+        <div style="display:flex;gap:8px;padding:10px;flex-shrink:0;">
+          <button class="zoom-btn" style="flex:1;font-size:14px;padding:10px;"
+            onclick="window.open('https://www.jartic.or.jp/','jartic')">
+            🚦 JARTIC 渋滞地図（VICS）を開く
+          </button>
+          <button class="zoom-btn" style="flex:1;font-size:14px;padding:10px;"
+            onclick="window.open('https://www.google.com/maps/@35.4233,136.7607,13z/data=!5m1!1e1','gmap_traffic')">
+            🗺 Googleマップ渋滞表示を開く
+          </button>
+        </div>
+        <div style="flex:1;position:relative;">
+          <iframe
+            src="https://maps.google.com/maps?q=%E5%B2%90%E9%98%9C%E9%A7%85&z=13&output=embed"
+            width="100%" height="100%"
+            style="border:0;position:absolute;inset:0;"
+            loading="lazy" referrerpolicy="no-referrer-when-downgrade"
+            title="岐阜駅周辺マップ">
+          </iframe>
+        </div>
+        <div style="font-size:11px;color:var(--text-secondary);padding:6px 10px;flex-shrink:0;font-style:italic;">
+          ※VICS渋滞地図は提供元の規約により埋め込み不可のため、ボタンから別画面で開いてください
+        </div>
+      </div>
+    </section>
+
+    <!-- 左下：本日の営業情報（年金支給日版） -->
+    <section class="panel" id="panel-transit">
+      <div class="panel-header">
+        <span class="panel-icon">💴</span>
+        <span class="panel-title">本日の営業情報 ─ 年金支給日</span>
+        <span class="panel-subtitle">需要予測・気象庁データ自動更新</span>
+      </div>
+      <div class="panel-body" style="padding:12px;overflow-y:auto;">
+
+        <!-- 年金支給日大バナー -->
+        <div class="nenkin-panel-banner">
+          <div class="nenkin-panel-icon">💴</div>
+          <div class="nenkin-panel-text">
+            <div class="nenkin-panel-title">🏦 本日は年金支給日（偶数月15日）</div>
+            <div class="nenkin-panel-body">
+              銀行・郵便局・スーパー周辺を中心に終日需要増を予測。<br>
+              高齢者の外出が集中する <strong style="color:#fff;">9〜12時・14〜17時</strong> は特に積極営業！
+            </div>
+          </div>
+        </div>
+
+        <!-- 気象バー -->
+        <div class="sw-bar">
+          <span id="sw-am" style="background:rgba(30,109,181,.25);color:#9ecbff;padding:3px 12px;border-radius:14px;font-size:13px;">読み込み中...</span>
+          <span id="sw-pm" style="background:rgba(30,109,181,.12);color:#6aa5d4;padding:3px 12px;border-radius:14px;font-size:13px;"></span>
+          <span id="sw-warn" style="display:none;background:rgba(230,0,18,.18);color:#ff9090;padding:3px 10px;border-radius:5px;font-size:12px;font-weight:700;">スリップ注意</span>
+          <span id="sw-temp" style="margin-left:auto;color:var(--accent);font-size:15px;font-weight:700;"></span>
+        </div>
+
+        <!-- 年金支給日 需要スポット -->
+        <div style="font-size:10px;color:var(--nenkin);font-weight:700;margin-bottom:5px;letter-spacing:0.05em;">📍 年金日 重点エリア</div>
+        <div class="spot-grid">
+          <div class="spot-card">
+            <div class="spot-label">🏦 銀行・ATM</div>
+            <div class="spot-name">十六フィナンシャルG<br>郵便局・ゆうちょ</div>
+            <div class="spot-note">午前中ピーク</div>
+          </div>
+          <div class="spot-card">
+            <div class="spot-label">🛒 買い物需要</div>
+            <div class="spot-name">マーサ21・モレラ岐阜<br>イオン各務原</div>
+            <div class="spot-note">午後ピーク</div>
+          </div>
+          <div class="spot-card">
+            <div class="spot-label">🏥 通院需要</div>
+            <div class="spot-name">岐阜市民病院<br>県総合医療センター<br>岐阜大学病院</div>
+            <div class="spot-note">9〜11時集中</div>
+          </div>
+          <div class="spot-card">
+            <div class="spot-label">🍽 外食需要</div>
+            <div class="spot-name">柳ヶ瀬周辺<br>長良川温泉エリア</div>
+            <div class="spot-note">昼〜夕方</div>
+          </div>
+        </div>
+
+        <!-- 天気連動：午前の需要 -->
+        <div class="info-card">
+          <div class="info-label">☀ 午前の需要</div>
+          <div class="info-body" id="sw-am-desc">天気情報を取得しています...</div>
+        </div>
+
+        <!-- 天気連動：午後の需要 -->
+        <div class="info-card">
+          <div class="info-label">🌆 午後の需要・注意</div>
+          <div class="info-body" id="sw-pm-desc"></div>
+        </div>
+
+        <!-- 鵜飼情報 -->
+        <div class="ukai-card">
+          <div class="ukai-label">🎣 長良川鵜飼（5/11〜10/15）</div>
+          <div id="sw-ukai" style="font-size:13px;line-height:1.5;color:#7ee8c8;"></div>
+        </div>
+
+        <!-- 営業のひとこと -->
+        <div class="sales-card">
+          <div class="sales-label">💡 今日の「営業のひとこと」</div>
+          <div class="sales-body" id="sw-sales"></div>
+        </div>
+
+        <div class="footer-note">※JR・名鉄の遅延運休は出庫前に公式サイトで確認。遅延時は岐阜駅の乗り遅れ需要が急増します</div>
+      </div>
+    </section>
+
+    <!-- 右下：点呼情報スライド -->
+    <section class="panel" id="panel-events">
+      <div class="panel-header">
+        <span class="panel-icon">📋</span>
+        <span class="panel-title">点呼情報・業務連絡</span>
+        <span class="panel-subtitle">Googleスライド（自動ループ再生）</span>
+      </div>
+      <div class="panel-body">
+        <iframe
+          src="https://docs.google.com/presentation/d/1ibujGbqtfEu7PIE46xKfIoQhuN19VGGP584w-L28w7k/embed?start=true&loop=true&delayms=99999&rm=minimal"
+          width="100%" height="100%"
+          frameborder="0"
+          allow="autoplay"
+          allowfullscreen
+          title="点呼情報スライド">
+        </iframe>
+      </div>
+    </section>
+
+  </main>
+</div>
+
+<!-- リアルタイム時刻 -->
+<script>
+  const WEEKDAYS = ['日','月','火','水','木','金','土'];
+  function updateClock() {
+    const now = new Date();
+    document.getElementById('clock-date').textContent =
+      `${now.getFullYear()}年${now.getMonth()+1}月${now.getDate()}日(${WEEKDAYS[now.getDay()]})`;
+    document.getElementById('clock-time').textContent =
+      `${String(now.getHours()).padStart(2,'0')}:${String(now.getMinutes()).padStart(2,'0')}:${String(now.getSeconds()).padStart(2,'0')}`;
+  }
+  updateClock();
+  setInterval(updateClock, 1000);
+</script>
+
+<!-- 気象庁API 営業情報 -->
+<script>
+  function ukaiText(hasRain) {
+    var d = new Date(), m = d.getMonth()+1, day = d.getDate();
+    var inSeason = (m > 5 || (m===5 && day>=11)) && (m < 10 || (m===10 && day<=15));
+    if (!inSeason) return "鵜飼シーズン外（5/11〜10/15が開催期間）";
+    return hasRain
+      ? "今夜は雨天でも決行予定。長良川温泉周辺・十八楼・岐阜グランドホテルへの送迎に注力"
+      : "今夜の鵜飼は開催予定。長良川温泉周辺・ホテルへの送迎需要が見込めます";
+  }
+
+  fetch("https://www.jma.go.jp/bosai/forecast/data/forecast/210000.json")
+    .then(r => r.json())
+    .then(data => {
+      var today = new Date();
+      var todayStr = today.getFullYear() + "-" + String(today.getMonth()+1).padStart(2,"0") + "-" + String(today.getDate()).padStart(2,"0");
+      var ts0 = data[0].timeSeries[0];
+      var wTexts = [];
+      for (var i=0;i<ts0.timeDefines.length;i++) {
+        if (ts0.timeDefines[i].slice(0,10)===todayStr) wTexts.push((ts0.areas[0].weathers||[])[i]||"");
+      }
+      var w = wTexts.join(" ");
+      var hasRain  = w.indexOf("雨")!==-1 || w.indexOf("雷")!==-1;
+      var hasSnow  = w.indexOf("雪")!==-1;
+      var cloudy   = w.indexOf("くもり")!==-1 || w.indexOf("曇")!==-1;
+      var sunny    = w.indexOf("晴")!==-1;
+
+      var am="午前 曇り", pm="午後 曇り";
+      if (hasRain)           { am="午前 雨 ☔"; pm="午後 雨 ☔"; }
+      else if(sunny&&cloudy) { am="午前 晴れ ☀"; pm="午後 曇り ☁"; }
+      else if(sunny)         { am="午前 晴れ ☀"; pm="午後 晴れ ☀"; }
+      else if(cloudy)        { am="午前 曇り ☁"; pm="午後 曇り ☁"; }
+
+      document.getElementById("sw-am").textContent = am;
+      document.getElementById("sw-pm").textContent = pm;
+      if (hasRain||hasSnow) document.getElementById("sw-warn").style.display="inline-block";
+
+      var tempMax=null;
+      if (data[0].timeSeries.length>=3) {
+        var ts2=data[0].timeSeries[2], temps=[];
+        for (var j=0;j<ts2.timeDefines.length;j++) {
+          if (ts2.timeDefines[j].slice(0,10)===todayStr) {
+            var t=parseInt((ts2.areas[0].temps||[])[j]);
+            if (!isNaN(t)) temps.push(t);
+          }
+        }
+        if (temps.length>0) tempMax=Math.max.apply(null,temps);
+      }
+      if (tempMax!==null) document.getElementById("sw-temp").textContent="最高 "+tempMax+"℃";
+
+      // 年金支給日専用：天気連動メッセージ
+      document.getElementById("sw-am-desc").innerHTML = hasRain
+        ? '☔ 雨天でも<b style="color:#10B981">年金支給日の外出需要は底堅い</b>。銀行・郵便局への送迎が中心。迎車・予約対応を優先して'
+        : '<b style="color:#10B981">年金受け取り後の買い物・通院</b>が集中する時間帯。岐阜市民病院・十六銀行・ゆうちょ周辺を重点巡回';
+
+      document.getElementById("sw-pm-desc").innerHTML = hasRain
+        ? '💧 雨天＋年金支給日の相乗効果で<b style="color:var(--accent)">夕方の迎車需要が急増</b>の可能性。<b style="color:#ff9090">路面スリップに警戒！</b>'
+        : '<b style="color:#10B981">外食・夕食の買い出し需要</b>が加わる夕方帯を狙う。柳ヶ瀬・マーサ21周辺でのスタンバイを推奨';
+
+      document.getElementById("sw-ukai").textContent = ukaiText(hasRain);
+
+      // 年金日専用ひとこと
+      document.getElementById("sw-sales").textContent = hasRain
+        ? "「今日は年金日＋雨天のダブル需要！お足元が悪い日こそ、お年寄りのそばに寄り添う営業を」"
+        : "「年金日は高齢者の足になるチャンス。急がず安全運転で、また乗ってもらえる信頼を築こう！」";
+    })
+    .catch(() => {
+      document.getElementById("sw-am").textContent="天気取得エラー";
+      document.getElementById("sw-am-desc").textContent="気象庁サイトに接続できませんでした。10分後の自動更新をお待ちください。";
+    });
+</script>
+
+<!-- 全画面スクリプト -->
+<script>
+  // Google Sites の iframe 内からは requestFullscreen() が使えないため
+  // 新タブで同じページを開き、そこで自動的に全画面にする方式
+  function goFullscreen() {
+    var url = location.href.split('#')[0] + '#standalone';
+    window.open(url, '_blank');
+  }
+
+  // 新タブで開かれた場合（#standalone）は自動で全画面化
+  if (location.hash === '#standalone') {
+    document.addEventListener('DOMContentLoaded', function() {
+      var btn = document.getElementById('fs-btn');
+      if (btn) {
+        btn.textContent = '✕ 全画面を終了';
+        btn.onclick = function() { document.exitFullscreen(); };
+      }
+      document.documentElement.requestFullscreen().catch(function(){});
+    });
+    document.addEventListener('fullscreenchange', function() {
+      var btn = document.getElementById('fs-btn');
+      if (!btn) return;
+      if (document.fullscreenElement) {
+        btn.textContent = '✕ 全画面を終了';
+        btn.onclick = function() { document.exitFullscreen(); };
+      } else {
+        btn.textContent = '⛶ 全画面で開く';
+        btn.onclick = goFullscreen;
+      }
+    });
+  }
+</script>
+
+</body>
+</html>
