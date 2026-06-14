@@ -141,6 +141,13 @@
     .zoom-controls { display: flex; align-items: center; gap: 6px; }
     .zoom-btn { background: var(--bg-panel-hover); border: 1px solid var(--border); border-radius: 8px; color: var(--text-primary); font-size: 15px; font-weight: 700; padding: 6px 14px; cursor: pointer; transition: all .2s; white-space: nowrap; }
     .zoom-btn:hover { background: var(--accent); color: #000; border-color: var(--accent); }
+    /* 鉄道運行情報ボタン（赤系統で区別） */
+    .train-btn {
+      background: rgba(220,60,60,0.12); border: 1px solid #c84444; border-radius: 8px;
+      color: #ffb0b0; font-size: 14px; font-weight: 700; padding: 10px;
+      cursor: pointer; transition: all .2s; white-space: nowrap; font-family: inherit;
+    }
+    .train-btn:hover { background: #c84444; color: #fff; border-color: #c84444; }
 
     @media screen and (max-width: 768px) {
       html, body, #app { height: auto; min-height: 100vh; overflow-y: auto; }
@@ -209,7 +216,7 @@
         <span class="panel-subtitle">VICS・リアルタイム</span>
       </div>
       <div class="panel-body" style="display:flex;flex-direction:column;">
-        <div style="display:flex;gap:8px;padding:10px;flex-shrink:0;">
+        <div style="display:flex;gap:8px;padding:10px 10px 4px;flex-shrink:0;">
           <button class="zoom-btn" style="flex:1;font-size:14px;padding:10px;"
             onclick="window.open('https://www.jartic.or.jp/','jartic')">
             🚦 JARTIC 渋滞地図（VICS）を開く
@@ -217,6 +224,16 @@
           <button class="zoom-btn" style="flex:1;font-size:14px;padding:10px;"
             onclick="window.open('https://www.google.com/maps/@35.4233,136.7607,13z/data=!5m1!1e1','gmap_traffic')">
             🗺 Googleマップ渋滞表示を開く
+          </button>
+        </div>
+        <div style="display:flex;gap:8px;padding:0 10px 8px;flex-shrink:0;">
+          <button class="train-btn" style="flex:1;"
+            onclick="window.open('https://traininfo.jr-central.co.jp/zairaisen/index.html?lang=ja','jr_train')">
+            🚆 JR東海 在来線 運行状況
+          </button>
+          <button class="train-btn" style="flex:1;"
+            onclick="window.open('https://top.meitetsu.co.jp/em/','meitetsu_train')">
+            🚃 名鉄 運行情報
           </button>
         </div>
         <div style="flex:1;position:relative;">
