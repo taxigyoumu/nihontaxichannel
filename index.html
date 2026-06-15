@@ -171,12 +171,12 @@
       <span class="header-title">岐阜エリア ドライバー情報ダッシュボード</span>
     </div>
 
-    <!-- 年金支給日バナー（ヘッダー中央） -->
+    <!-- 年金支給日／イベント バナー（ヘッダー中央・日付連動） -->
     <div id="nenkin-badge">
-      <span style="font-size:20px;">💴</span>
+      <span style="font-size:20px;" id="badge-icon">💴</span>
       <div>
-        <div class="nenkin-label">🏦 年金支給日</div>
-        <div class="nenkin-sub">需要拡大予測 → 積極営業推奨</div>
+        <div class="nenkin-label" id="badge-title">🏦 年金支給日</div>
+        <div class="nenkin-sub" id="badge-sub">需要拡大予測 → 積極営業推奨</div>
       </div>
     </div>
 
@@ -267,11 +267,11 @@
         <div class="tr-page" data-icon="💴" data-title="本日の営業情報 ─ 年金支給日" data-sub="①今日の概況 ／ 25秒ごと切替"
              style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:1;transition:opacity .5s ease;">
 
-          <div class="nenkin-panel-banner">
-            <div class="nenkin-panel-icon">💴</div>
+          <div class="nenkin-panel-banner" id="tr-day-banner">
+            <div class="nenkin-panel-icon" id="tr-day-icon">💴</div>
             <div class="nenkin-panel-text">
-              <div class="nenkin-panel-title">🏦 本日は年金支給日（偶数月15日）</div>
-              <div class="nenkin-panel-body">
+              <div class="nenkin-panel-title" id="tr-day-title">🏦 本日は年金支給日（偶数月15日）</div>
+              <div class="nenkin-panel-body" id="tr-day-body">
                 銀行・郵便局・スーパー周辺を中心に終日需要増を予測。<br>
                 高齢者の外出が集中する <strong style="color:#fff;">9〜12時・14〜17時</strong> は特に積極営業！
               </div>
@@ -299,7 +299,7 @@
         <div class="tr-page" data-icon="📍" data-title="年金日 重点エリア" data-sub="②需要スポット ／ 25秒ごと切替"
              style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;">
 
-          <div style="font-size:13px;color:var(--nenkin);font-weight:900;margin-bottom:8px;letter-spacing:0.05em;">📍 年金支給日 重点エリア（時間帯別）</div>
+          <div style="font-size:13px;color:var(--nenkin);font-weight:900;margin-bottom:8px;letter-spacing:0.05em;" id="tr-spot-title">📍 年金支給日 重点エリア（時間帯別）</div>
           <div class="spot-grid">
             <div class="spot-card">
               <div class="spot-label">🏦 銀行・ATM</div>
@@ -348,10 +348,12 @@
           <div class="footer-note" style="margin-top:12px;">※JR・名鉄の遅延運休は出庫前に公式サイトで確認。遅延時は岐阜駅の乗り遅れ需要が急増します</div>
         </div>
 
-      </div>
-    </section>
+        <!-- ▼ イベントページ（events.json から動的生成・日付連動） -->
+        <div class="tr-page" id="tr-event-page" data-icon="📣" data-title="イベント情報" data-sub="臨時タクシー乗り場 案内"
+             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;display:none;">
+          <!-- ここに events.json の内容がJSで挿入されます -->
+        </div>
 
-    <!-- 右下：点呼スライド ⇄ 安全注意喚起（20秒ごと自動切替） -->
     <section class="panel" id="panel-events">
       <div class="panel-header">
         <span class="panel-icon" id="ev-icon">📋</span>
@@ -733,21 +735,35 @@
       }
       if (tempMax!==null) document.getElementById("sw-temp").textContent="最高 "+tempMax+"℃";
 
-      // 年金支給日専用：天気連動メッセージ
-      document.getElementById("sw-am-desc").innerHTML = hasRain
-        ? '☔ 雨天でも<b style="color:#10B981">年金支給日の外出需要は底堅い</b>。銀行・郵便局への送迎が中心。迎車・予約対応を優先して'
-        : '<b style="color:#10B981">年金受け取り後の買い物・通院</b>が集中する時間帯。岐阜市民病院・十六銀行・ゆうちょ周辺を重点巡回';
+      // 年金支給日（偶数月15日）かどうかを判定し、文言を出し分け
+      var _now = new Date();
+      var _isPension = (_now.getDate() === 15) && ((_now.getMonth()+1) % 2 === 0);
 
-      document.getElementById("sw-pm-desc").innerHTML = hasRain
-        ? '💧 雨天＋年金支給日の相乗効果で<b style="color:var(--accent)">夕方の迎車需要が急増</b>の可能性。<b style="color:#ff9090">路面スリップに警戒！</b>'
-        : '<b style="color:#10B981">外食・夕食の買い出し需要</b>が加わる夕方帯を狙う。柳ヶ瀬・マーサ21周辺でのスタンバイを推奨';
+      if (_isPension) {
+        // ===== 年金支給日モード =====
+        document.getElementById("sw-am-desc").innerHTML = hasRain
+          ? '☔ 雨天でも<b style="color:#10B981">年金支給日の外出需要は底堅い</b>。銀行・郵便局への送迎が中心。迎車・予約対応を優先して'
+          : '<b style="color:#10B981">年金受け取り後の買い物・通院</b>が集中する時間帯。岐阜市民病院・十六銀行・ゆうちょ周辺を重点巡回';
+        document.getElementById("sw-pm-desc").innerHTML = hasRain
+          ? '💧 雨天＋年金支給日の相乗効果で<b style="color:var(--accent)">夕方の迎車需要が急増</b>の可能性。<b style="color:#ff9090">路面スリップに警戒！</b>'
+          : '<b style="color:#10B981">外食・夕食の買い出し需要</b>が加わる夕方帯を狙う。柳ヶ瀬・マーサ21周辺でのスタンバイを推奨';
+        document.getElementById("sw-sales").textContent = hasRain
+          ? "「今日は年金日＋雨天のダブル需要！お足元が悪い日こそ、お年寄りのそばに寄り添う営業を」"
+          : "「年金日は高齢者の足になるチャンス。急がず安全運転で、また乗ってもらえる信頼を築こう！」";
+      } else {
+        // ===== 通常モード =====
+        document.getElementById("sw-am-desc").innerHTML = hasRain
+          ? '☔ 雨天は迎車需要が増加。<b style="color:#9ecbff">通院・買い物の送迎</b>が中心。岐阜市民病院・主要商業施設周辺に注目'
+          : '通院・買い物の通常需要が中心。<b style="color:#9ecbff">岐阜市民病院・メモリアルセンター周辺</b>を巡回';
+        document.getElementById("sw-pm-desc").innerHTML = hasRain
+          ? '💧 雨天で<b style="color:var(--accent)">夕方の迎車需要が増加</b>の可能性。<b style="color:#ff9090">路面スリップに警戒！</b>'
+          : '夕方の通勤・買い物帰り需要に備えて、<b style="color:#9ecbff">マーサ21・柳ヶ瀬</b>周辺の主要待機所でスタンバイを';
+        document.getElementById("sw-sales").textContent = hasRain
+          ? "「雨の日こそ、丁寧な接客が次の予約につながります。安全運転で今日も一期一会を」"
+          : "「笑顔の挨拶が次の予約につながります。今日も一期一会の接客を！」";
+      }
 
       document.getElementById("sw-ukai").textContent = ukaiText(hasRain);
-
-      // 年金日専用ひとこと
-      document.getElementById("sw-sales").textContent = hasRain
-        ? "「今日は年金日＋雨天のダブル需要！お足元が悪い日こそ、お年寄りのそばに寄り添う営業を」"
-        : "「年金日は高齢者の足になるチャンス。急がず安全運転で、また乗ってもらえる信頼を築こう！」";
     })
     .catch(() => {
       document.getElementById("sw-am").textContent="天気取得エラー";
@@ -818,59 +834,206 @@
 })();
 </script>
 
-<!-- 左下パネル 3ページ自動ループ -->
+<!-- 左下パネル 日付連動 自動ループ（年金日・events.json自動読込） -->
 <script>
 (function(){
   var INTERVAL = 25000;   // 各25秒
+  var EVENT_DURATION = 35000; // イベントページは長め
   var TICK = 250;
-  var pages = Array.prototype.slice.call(document.querySelectorAll('#panel-transit .tr-page'));
-  if(pages.length === 0) return;
 
-  var iconEl  = document.getElementById('tr-icon');
-  var titleEl = document.getElementById('tr-title');
-  var subEl   = document.getElementById('tr-sub');
-  var barEl   = document.getElementById('tr-progress');
-  var dotsEl  = document.getElementById('tr-dots');
+  // ===== 今日の日付判定 =====
+  var now = new Date();
+  var todayStr = now.getFullYear() + '-' +
+                 String(now.getMonth()+1).padStart(2,'0') + '-' +
+                 String(now.getDate()).padStart(2,'0');
+  // 年金支給日 = 偶数月(2,4,6,8,10,12)の15日
+  var isPensionDay = (now.getDate() === 15) && ((now.getMonth()+1) % 2 === 0);
 
-  // ドット生成
-  pages.forEach(function(_, i){
-    var d = document.createElement('span');
-    d.style.cssText = 'width:8px;height:8px;border-radius:50%;background:var(--border);transition:background .3s;';
-    d.className = 'tr-dot';
-    dotsEl.appendChild(d);
-  });
-  var dots = Array.prototype.slice.call(dotsEl.children);
+  // ===== 年金日 / 通常 でページ1・2の文言を切替 =====
+  function applyDayMode(){
+    var banner = document.getElementById('tr-day-banner');
+    var icon   = document.getElementById('tr-day-icon');
+    var title  = document.getElementById('tr-day-title');
+    var body   = document.getElementById('tr-day-body');
+    var spotTitle = document.getElementById('tr-spot-title');
 
-  var idx = 0, elapsed = 0;
-
-  function show(i){
-    pages.forEach(function(p, n){
-      var on = (n === i);
-      p.style.opacity = on ? '1' : '0';
-      p.style.pointerEvents = on ? 'auto' : 'none';
-    });
-    dots.forEach(function(d, n){
-      d.style.background = (n === i) ? 'var(--nenkin)' : 'var(--border)';
-    });
-    var pg = pages[i];
-    if(iconEl)  iconEl.textContent  = pg.getAttribute('data-icon');
-    if(titleEl) titleEl.textContent = pg.getAttribute('data-title');
-    if(subEl)   subEl.textContent   = pg.getAttribute('data-sub');
+    if(isPensionDay){
+      if(banner){ banner.style.background='linear-gradient(135deg, rgba(16,185,129,0.18) 0%, rgba(16,185,129,0.06) 100%)'; banner.style.borderColor='var(--nenkin)'; }
+      if(icon)  icon.textContent = '💴';
+      if(title){ title.textContent = '🏦 本日は年金支給日（偶数月15日）'; title.style.color='var(--nenkin)'; }
+      if(body)  body.innerHTML = '<strong style="color:#fff;">2か月分</strong>がまとめて支給される日。手元資金に余裕が出るため、銀行・郵便局・スーパー周辺で<strong style="color:#fff;">終日の需要増</strong>を予測。<br>特に <strong style="color:#fff;">9〜12時・14〜17時</strong> の高齢者の外出が集中。少し遠方の買い物・通院・外食の足にも積極営業を！';
+      if(spotTitle) spotTitle.textContent = '📍 年金支給日 重点エリア（時間帯別）';
+    } else {
+      if(banner){ banner.style.background='linear-gradient(135deg, rgba(74,158,219,0.16) 0%, rgba(74,158,219,0.05) 100%)'; banner.style.borderColor='#4A9EDB'; }
+      if(icon)  icon.textContent = '🚕';
+      if(title){ title.textContent = '本日の営業情報'; title.style.color='#9ecbff'; }
+      if(body)  body.innerHTML = '通院・買い物・通勤の通常需要が中心。<br>天気と時間帯に応じて、主要待機所でこまめにスタンバイを。';
+      if(spotTitle) spotTitle.textContent = '📍 主要 需要エリア（時間帯別）';
+    }
   }
 
-  show(0);
-
-  setInterval(function(){
-    elapsed += TICK;
-    var pct = Math.min(100, (elapsed / INTERVAL) * 100);
-    if(barEl) barEl.style.width = pct + '%';
-    if(elapsed >= INTERVAL){
-      elapsed = 0;
-      idx = (idx + 1) % pages.length;
-      show(idx);
-      if(barEl) barEl.style.width = '0%';
+  // ===== ヘッダーバッジ切替 =====
+  function applyHeaderBadge(hasEvent, eventTitle, eventSpot){
+    var badge = document.getElementById('nenkin-badge');
+    var bIcon = document.getElementById('badge-icon');
+    var bTitle= document.getElementById('badge-title');
+    var bSub  = document.getElementById('badge-sub');
+    if(!badge) return;
+    if(isPensionDay){
+      badge.style.display = 'flex';
+      badge.style.background = 'linear-gradient(135deg, rgba(16,185,129,0.2) 0%, rgba(16,185,129,0.08) 100%)';
+      badge.style.borderColor = 'var(--nenkin)';
+      if(bIcon) bIcon.textContent = '💴';
+      if(bTitle){ bTitle.textContent = '🏦 年金支給日'; bTitle.style.color = 'var(--nenkin)'; }
+      if(bSub){ bSub.textContent = '2か月分支給・需要増 → 積極営業'; bSub.style.color = '#6EE7B7'; }
+    } else if(hasEvent){
+      badge.style.display = 'flex';
+      badge.style.background = 'linear-gradient(135deg, rgba(20,83,196,0.25) 0%, rgba(200,16,46,0.18) 100%)';
+      badge.style.borderColor = '#E5342E';
+      if(bIcon) bIcon.textContent = '📣';
+      if(bTitle){ bTitle.textContent = eventTitle || 'イベント開催'; bTitle.style.color = '#ffd966'; }
+      if(bSub){ bSub.textContent = eventSpot ? (eventSpot + 'をご利用ください') : '臨時乗り場にご注意ください'; bSub.style.color = '#cfe0ff'; }
+    } else {
+      badge.style.display = 'none';
     }
-  }, TICK);
+  }
+
+  // ===== イベントページのHTMLを組み立てる =====
+  function buildEventHTML(ev){
+    var html = '';
+    // 大型バナー（highlightで色を変える）
+    var grad = ev.highlight
+      ? 'linear-gradient(135deg,#0a3a8c 0%,#1453c4 60%,#c8102e 100%)'
+      : 'linear-gradient(135deg,#1a5276 0%,#2980b9 100%)';
+    html += '<div style="background:'+grad+';border-radius:10px;padding:14px 16px;box-shadow:0 0 22px rgba(20,83,196,.4);">';
+    html += '<div style="display:flex;align-items:center;gap:12px;">';
+    html += '<span style="font-size:34px;line-height:1;">📣</span>';
+    html += '<div style="flex:1;">';
+    if(ev.subtitle) html += '<div style="font-size:11px;font-weight:700;color:#ffd966;letter-spacing:0.06em;margin-bottom:2px;">'+ev.subtitle+'</div>';
+    html += '<div style="font-size:20px;font-weight:900;color:#fff;line-height:1.2;text-shadow:0 2px 4px rgba(0,0,0,.4);">'+(ev.title||'')+'</div>';
+    if(ev.venue) html += '<div style="font-size:13px;font-weight:700;color:#cfe0ff;margin-top:3px;">'+ev.venue+'</div>';
+    html += '</div></div></div>';
+
+    // 乗り場変更の警告（taxiChangeがtrueの時）
+    if(ev.taxiChange){
+      html += '<div style="background:rgba(229,52,46,.14);border:2px solid #E5342E;border-radius:10px;padding:14px 16px;margin-top:10px;">';
+      html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;"><span style="font-size:22px;">🚕</span><span style="font-size:16px;font-weight:900;color:#ff9090;letter-spacing:0.04em;">⚠ タクシー乗り場が変更になります</span></div>';
+      html += '<div style="display:flex;align-items:center;gap:14px;justify-content:center;padding:6px 0;">';
+      html += '<div style="text-align:center;opacity:0.6;"><div style="font-size:11px;color:var(--text-secondary);">通常</div><div style="font-size:17px;font-weight:900;color:var(--text-secondary);text-decoration:line-through;">'+(ev.normalSpot||'通常乗り場')+'</div></div>';
+      html += '<div style="font-size:26px;color:var(--accent);">➡</div>';
+      html += '<div style="text-align:center;"><div style="font-size:11px;color:#ffd966;font-weight:700;">本日</div><div style="font-size:22px;font-weight:900;color:#fff;background:#E5342E;padding:4px 16px;border-radius:8px;">'+(ev.specialSpot||'臨時乗り場')+'</div></div>';
+      html += '</div>';
+      html += '<div style="font-size:12.5px;color:#ffd0ce;line-height:1.5;margin-top:8px;text-align:center;">本日は<strong style="color:#fff;">'+(ev.specialSpot||'臨時乗り場')+'</strong>をご利用ください。'+(ev.normalSpot||'通常乗り場')+'は使用しません。</div>';
+      html += '</div>';
+    }
+
+    // 営業ヒント
+    if(ev.demandNote){
+      html += '<div class="info-card" style="margin-top:10px;border-left:4px solid #1453c4;">';
+      html += '<div class="info-label">📈 需要のヒント</div>';
+      html += '<div class="info-body" style="line-height:1.6;">'+ev.demandNote+'</div>';
+      html += '</div>';
+    }
+    return html;
+  }
+
+  // ===== メイン：events.json を読み込んで初期化 =====
+  function init(activeEvents){
+    applyDayMode();
+
+    // イベントページの設定（複数あれば最初の1件を表示。highlightを優先）
+    var eventPage = document.getElementById('tr-event-page');
+    var shownEvent = null;
+    if(activeEvents.length > 0){
+      // highlight優先、なければ先頭
+      shownEvent = activeEvents.filter(function(e){return e.highlight;})[0] || activeEvents[0];
+      if(eventPage){
+        eventPage.innerHTML = buildEventHTML(shownEvent);
+        eventPage.style.display = '';
+        eventPage.setAttribute('data-title', 'イベント情報');
+        eventPage.setAttribute('data-sub', (shownEvent.title || 'イベント') + ' ／ 臨時乗り場案内');
+      }
+    }
+    applyHeaderBadge(shownEvent !== null, shownEvent ? shownEvent.title : '', shownEvent ? shownEvent.specialSpot : '');
+
+    // 表示対象ページ収集
+    var allPages = Array.prototype.slice.call(document.querySelectorAll('#panel-transit .tr-page'));
+    var pages = allPages.filter(function(p){ return p.style.display !== 'none'; });
+    if(pages.length === 0) return;
+
+    var iconEl  = document.getElementById('tr-icon');
+    var titleEl = document.getElementById('tr-title');
+    var subEl   = document.getElementById('tr-sub');
+    var barEl   = document.getElementById('tr-progress');
+    var dotsEl  = document.getElementById('tr-dots');
+
+    // イベントページを先頭に
+    var evIdx = pages.findIndex(function(p){ return p.id === 'tr-event-page'; });
+    if(evIdx > 0){
+      var evPage = pages.splice(evIdx, 1)[0];
+      pages.unshift(evPage);
+    }
+
+    // ドット生成
+    dotsEl.innerHTML = '';
+    pages.forEach(function(p){
+      var d = document.createElement('span');
+      var isEvent = (p.id === 'tr-event-page');
+      d.style.cssText = 'width:8px;height:8px;border-radius:50%;background:var(--border);transition:background .3s;';
+      d.className = 'tr-dot';
+      d.setAttribute('data-event', isEvent ? '1' : '0');
+      dotsEl.appendChild(d);
+    });
+    var dots = Array.prototype.slice.call(dotsEl.children);
+
+    var idx = 0, elapsed = 0;
+    function durationFor(i){
+      return (pages[i] && pages[i].id === 'tr-event-page') ? EVENT_DURATION : INTERVAL;
+    }
+    function show(i){
+      pages.forEach(function(p, n){
+        var on = (n === i);
+        p.style.opacity = on ? '1' : '0';
+        p.style.pointerEvents = on ? 'auto' : 'none';
+      });
+      dots.forEach(function(d, n){
+        var isEvent = d.getAttribute('data-event') === '1';
+        d.style.background = (n === i) ? (isEvent ? '#E5342E' : 'var(--nenkin)') : 'var(--border)';
+      });
+      var pg = pages[i];
+      if(iconEl)  iconEl.textContent  = pg.getAttribute('data-icon');
+      if(titleEl) titleEl.textContent = pg.getAttribute('data-title');
+      if(subEl)   subEl.textContent   = pg.getAttribute('data-sub');
+      if(barEl) barEl.style.background = (pg.id === 'tr-event-page') ? '#E5342E' : 'var(--nenkin)';
+    }
+    show(0);
+    setInterval(function(){
+      elapsed += TICK;
+      var dur = durationFor(idx);
+      var pct = Math.min(100, (elapsed / dur) * 100);
+      if(barEl) barEl.style.width = pct + '%';
+      if(elapsed >= dur){
+        elapsed = 0;
+        idx = (idx + 1) % pages.length;
+        show(idx);
+        if(barEl) barEl.style.width = '0%';
+      }
+    }, TICK);
+  }
+
+  // events.json 読み込み（失敗してもイベント無しで動作継続）
+  fetch('events.json?t=' + Date.now())
+    .then(function(r){ return r.json(); })
+    .then(function(data){
+      var evts = (data && data.events) ? data.events : [];
+      var active = evts.filter(function(ev){
+        return todayStr >= ev.start && todayStr <= ev.end;
+      });
+      init(active);
+    })
+    .catch(function(){
+      init([]); // events.json が無くても通常表示は動く
+    });
 })();
 </script>
 
