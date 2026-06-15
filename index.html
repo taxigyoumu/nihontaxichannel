@@ -263,18 +263,90 @@
 
       <div class="panel-body" style="position:relative;">
 
-        <!-- ▼ ページ1：今日の概況 -->
-        <div class="tr-page" data-icon="💴" data-title="本日の営業情報 ─ 年金支給日" data-sub="①今日の概況 ／ 25秒ごと切替"
-             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:1;transition:opacity .5s ease;">
+        <!-- ▼ ページ1：今の狙い目（時刻連動） -->
+        <div class="tr-page" data-icon="🎯" data-title="今の狙い目" data-sub="①時刻連動 ／ 自動切替"
+             style="position:absolute;inset:0;padding:12px;opacity:1;transition:opacity .5s ease;display:flex;flex-direction:column;">
+
+          <!-- 現在時刻＋時間帯メッセージ -->
+          <div id="guide-nowbar" style="display:flex;align-items:center;gap:12px;background:linear-gradient(135deg,#0a4a32 0%,#20d49c 100%);border-radius:10px;padding:11px 16px;margin-bottom:10px;flex-shrink:0;">
+            <div>
+              <div id="guide-time" style="font-size:28px;font-weight:900;color:#fff;line-height:1;font-variant-numeric:tabular-nums;">--:--</div>
+              <div id="guide-band" style="font-size:12px;color:#c8ffe8;font-weight:700;margin-top:3px;">時間帯を判定中…</div>
+            </div>
+            <div id="guide-msg" style="flex:1;font-size:13.5px;color:#fff;font-weight:700;line-height:1.4;text-align:right;"></div>
+          </div>
+
+          <!-- 狙い目カード3枚（JSで内容差し替え） -->
+          <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:8px;flex:1;min-height:0;">
+            <div class="guide-card" id="guide-card-0" style="background:var(--bg-panel-hover);border-radius:8px;padding:10px 12px;display:flex;flex-direction:column;border-left:4px solid var(--border);">
+              <span class="guide-rank" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;align-self:flex-start;margin-bottom:6px;"></span>
+              <div class="guide-place" style="font-size:15px;font-weight:900;line-height:1.3;margin-bottom:4px;"></div>
+              <div class="guide-why" style="font-size:11px;color:var(--text-secondary);line-height:1.5;"></div>
+              <div class="guide-pktime" style="font-size:10.5px;color:var(--accent);margin-top:auto;padding-top:6px;font-weight:700;"></div>
+            </div>
+            <div class="guide-card" id="guide-card-1" style="background:var(--bg-panel-hover);border-radius:8px;padding:10px 12px;display:flex;flex-direction:column;border-left:4px solid var(--border);">
+              <span class="guide-rank" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;align-self:flex-start;margin-bottom:6px;"></span>
+              <div class="guide-place" style="font-size:15px;font-weight:900;line-height:1.3;margin-bottom:4px;"></div>
+              <div class="guide-why" style="font-size:11px;color:var(--text-secondary);line-height:1.5;"></div>
+              <div class="guide-pktime" style="font-size:10.5px;color:var(--accent);margin-top:auto;padding-top:6px;font-weight:700;"></div>
+            </div>
+            <div class="guide-card" id="guide-card-2" style="background:var(--bg-panel-hover);border-radius:8px;padding:10px 12px;display:flex;flex-direction:column;border-left:4px solid var(--border);">
+              <span class="guide-rank" style="font-size:10px;font-weight:700;padding:2px 8px;border-radius:10px;align-self:flex-start;margin-bottom:6px;"></span>
+              <div class="guide-place" style="font-size:15px;font-weight:900;line-height:1.3;margin-bottom:4px;"></div>
+              <div class="guide-why" style="font-size:11px;color:var(--text-secondary);line-height:1.5;"></div>
+              <div class="guide-pktime" style="font-size:10.5px;color:var(--accent);margin-top:auto;padding-top:6px;font-weight:700;"></div>
+            </div>
+          </div>
+        </div>
+
+        <!-- ▼ ページ2：施設の人が出る時間 一覧 -->
+        <div class="tr-page" data-icon="🕐" data-title="主要施設 人が出る時間" data-sub="②時間マップ ／ 自動切替"
+             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;">
+          <div style="font-size:13px;color:#9ecbff;font-weight:900;margin-bottom:8px;letter-spacing:0.04em;">🕐 主要施設「人が出る時間」一覧</div>
+          <div style="display:flex;flex-direction:column;gap:7px;">
+            <div style="display:flex;align-items:center;gap:10px;background:var(--bg-panel-hover);border-radius:7px;padding:8px 12px;">
+              <span style="font-size:18px;flex-shrink:0;">🏥</span>
+              <div style="flex:1;"><b style="font-size:13.5px;">岐阜市民病院</b><span style="font-size:11px;color:var(--text-secondary);margin-left:6px;">受付 月〜金 8:00〜11:00 ／ 土日祝 休診</span></div>
+              <div style="font-size:11.5px;color:var(--accent);font-weight:700;text-align:right;">帰り客 ⏰11〜13時頃</div>
+            </div>
+            <div style="display:flex;align-items:center;gap:10px;background:var(--bg-panel-hover);border-radius:7px;padding:8px 12px;">
+              <span style="font-size:18px;flex-shrink:0;">🏥</span>
+              <div style="flex:1;"><b style="font-size:13.5px;">県総合医療センター・岐阜大学病院</b><span style="font-size:11px;color:var(--text-secondary);margin-left:6px;">午前外来中心</span></div>
+              <div style="font-size:11.5px;color:var(--accent);font-weight:700;text-align:right;">帰り客 ⏰昼前後</div>
+            </div>
+            <div style="display:flex;align-items:center;gap:10px;background:var(--bg-panel-hover);border-radius:7px;padding:8px 12px;">
+              <span style="font-size:18px;flex-shrink:0;">🛒</span>
+              <div style="flex:1;"><b style="font-size:13.5px;">マーサ21</b><span style="font-size:11px;color:var(--text-secondary);margin-left:6px;">専門店10:00〜21:00 ／ イオン9:00〜21:00 ／ 年中無休</span></div>
+              <div style="font-size:11.5px;color:var(--accent);font-weight:700;text-align:right;">買い物帰り ⏰15〜18時</div>
+            </div>
+            <div style="display:flex;align-items:center;gap:10px;background:var(--bg-panel-hover);border-radius:7px;padding:8px 12px;">
+              <span style="font-size:18px;flex-shrink:0;">🚉</span>
+              <div style="flex:1;"><b style="font-size:13.5px;">JR岐阜駅・名鉄岐阜駅</b><span style="font-size:11px;color:var(--text-secondary);margin-left:6px;">通勤・出張・流し客</span></div>
+              <div style="font-size:11.5px;color:var(--accent);font-weight:700;text-align:right;">⏰朝夕・終電後</div>
+            </div>
+            <div style="display:flex;align-items:center;gap:10px;background:var(--bg-panel-hover);border-radius:7px;padding:8px 12px;">
+              <span style="font-size:18px;flex-shrink:0;">🍽</span>
+              <div style="flex:1;"><b style="font-size:13.5px;">柳ヶ瀬・玉宮町（飲食街）</b><span style="font-size:11px;color:var(--text-secondary);margin-left:6px;">夜の繁華街</span></div>
+              <div style="font-size:11.5px;color:var(--accent);font-weight:700;text-align:right;">⏰21時〜終電後</div>
+            </div>
+            <div style="display:flex;align-items:center;gap:10px;background:var(--bg-panel-hover);border-radius:7px;padding:8px 12px;">
+              <span style="font-size:18px;flex-shrink:0;">♨</span>
+              <div style="flex:1;"><b style="font-size:13.5px;">長良川温泉</b><span style="font-size:11px;color:var(--text-secondary);margin-left:6px;">旅館の送迎・チェックイン/アウト</span></div>
+              <div style="font-size:11.5px;color:var(--accent);font-weight:700;text-align:right;">⏰15時 / 10時</div>
+            </div>
+          </div>
+          <div class="footer-note" style="margin-top:10px;">※診察・営業時間は目安です。祝日や臨時休業で変わる場合があります。</div>
+        </div>
+
+        <!-- ▼ ページ3：天気・年金日連動アドバイス -->
+        <div class="tr-page" data-icon="☀" data-title="天気・需要アドバイス" data-sub="③天気連動 ／ 自動切替"
+             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;">
 
           <div class="nenkin-panel-banner" id="tr-day-banner">
-            <div class="nenkin-panel-icon" id="tr-day-icon">💴</div>
+            <div class="nenkin-panel-icon" id="tr-day-icon">🚕</div>
             <div class="nenkin-panel-text">
-              <div class="nenkin-panel-title" id="tr-day-title">🏦 本日は年金支給日（偶数月15日）</div>
-              <div class="nenkin-panel-body" id="tr-day-body">
-                銀行・郵便局・スーパー周辺を中心に終日需要増を予測。<br>
-                高齢者の外出が集中する <strong style="color:#fff;">9〜12時・14〜17時</strong> は特に積極営業！
-              </div>
+              <div class="nenkin-panel-title" id="tr-day-title">本日の営業情報</div>
+              <div class="nenkin-panel-body" id="tr-day-body"></div>
             </div>
           </div>
 
@@ -293,59 +365,16 @@
             <div class="info-label">🌆 午後の需要・注意</div>
             <div class="info-body" id="sw-pm-desc"></div>
           </div>
-        </div>
-
-        <!-- ▼ ページ2：重点エリア -->
-        <div class="tr-page" data-icon="📍" data-title="年金日 重点エリア" data-sub="②需要スポット ／ 25秒ごと切替"
-             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;">
-
-          <div style="font-size:13px;color:var(--nenkin);font-weight:900;margin-bottom:8px;letter-spacing:0.05em;" id="tr-spot-title">📍 年金支給日 重点エリア（時間帯別）</div>
-          <div class="spot-grid">
-            <div class="spot-card">
-              <div class="spot-label">🏦 銀行・ATM</div>
-              <div class="spot-name">十六フィナンシャルG<br>郵便局・ゆうちょ</div>
-              <div class="spot-note">午前中ピーク</div>
-            </div>
-            <div class="spot-card">
-              <div class="spot-label">🛒 買い物需要</div>
-              <div class="spot-name">マーサ21・モレラ岐阜<br>イオン各務原</div>
-              <div class="spot-note">午後ピーク</div>
-            </div>
-            <div class="spot-card">
-              <div class="spot-label">🏥 通院需要</div>
-              <div class="spot-name">岐阜市民病院<br>県総合医療センター<br>岐阜大学病院</div>
-              <div class="spot-note">9〜11時集中</div>
-            </div>
-            <div class="spot-card">
-              <div class="spot-label">🍽 外食需要</div>
-              <div class="spot-name">柳ヶ瀬周辺<br>長良川温泉エリア</div>
-              <div class="spot-note">昼〜夕方</div>
-            </div>
-          </div>
-        </div>
-
-        <!-- ▼ ページ3：夜間需要・ひとこと -->
-        <div class="tr-page" data-icon="🎣" data-title="夜間需要・営業のひとこと" data-sub="③鵜飼・ひとこと ／ 25秒ごと切替"
-             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;">
-
-          <div class="ukai-card">
-            <div class="ukai-label">🎣 長良川鵜飼（5/11〜10/15）</div>
-            <div id="sw-ukai" style="font-size:14px;line-height:1.6;color:#7ee8c8;"></div>
-          </div>
-
-          <div class="info-card" style="margin-top:10px;border-left:4px solid #A770C8;">
-            <div class="info-label">🌃 夜間の重点エリア</div>
-            <div class="info-body" style="line-height:1.6;">
-              <strong style="color:#c89ce0;">柳ヶ瀬・玉宮町</strong>の飲食店街は閉店後の帰宅需要、<strong style="color:#c89ce0;">岐阜駅・名鉄岐阜駅</strong>は終電後の需要が見込めます。長良川温泉の旅館送迎も忘れずに。
-            </div>
-          </div>
 
           <div class="sales-card" style="margin-top:10px;">
             <div class="sales-label">💡 今日の「営業のひとこと」</div>
             <div class="sales-body" id="sw-sales"></div>
           </div>
 
-          <div class="footer-note" style="margin-top:12px;">※JR・名鉄の遅延運休は出庫前に公式サイトで確認。遅延時は岐阜駅の乗り遅れ需要が急増します</div>
+          <div id="sw-ukai-wrap" class="ukai-card" style="margin-top:10px;">
+            <div class="ukai-label">🎣 長良川鵜飼（5/11〜10/15）</div>
+            <div id="sw-ukai" style="font-size:13px;line-height:1.5;color:#7ee8c8;"></div>
+          </div>
         </div>
 
         <!-- ▼ イベントページ（events.json から動的生成・日付連動） -->
@@ -928,6 +957,110 @@
       if(barEl) barEl.style.width = '0%';
     }
   }, TICK);
+})();
+</script>
+
+<!-- 今の狙い目（時刻連動）スクリプト -->
+<script>
+(function(){
+  // 時間帯別の狙い目データ。rank: 'hot'(🔥今の狙い目) / 'good'(◎好機) / 'normal'(○通常)
+  // 各時間帯で3か所を提示
+  var BANDS = [
+    { from:0,  to:5,  band:'深夜帯', msg:'終電後〜早朝。流し中心。主要駅と繁華街の残り客を。',
+      cards:[
+        {rank:'good', place:'JR岐阜駅<br>名鉄岐阜駅', why:'終電後の帰宅難民、始発前の出張客。駅前で待機。', time:'⏰〜2時 / 5時〜'},
+        {rank:'normal', place:'柳ヶ瀬・玉宮町', why:'深夜営業店からの帰宅客。流して拾う。', time:'⏰〜3時頃'},
+        {rank:'normal', place:'長良川温泉', why:'宿泊客の早朝移動・空港送迎の予約に注意。', time:'⏰早朝'}
+      ]},
+    { from:5,  to:9,  band:'朝の通勤・始動帯', msg:'通勤・通学と病院の朝一受付。駅と病院を軸に。',
+      cards:[
+        {rank:'hot', place:'JR岐阜駅<br>名鉄岐阜駅', why:'通勤・通学・出張客が集中。駅前ロータリーで待機を。', time:'⏰7〜9時ピーク'},
+        {rank:'good', place:'岐阜市民病院ほか', why:'8時受付開始。朝一の外来患者を病院前へ送る需要。', time:'⏰7:30〜8:30'},
+        {rank:'normal', place:'長良川温泉', why:'宿泊客のチェックアウト・朝の移動。', time:'⏰8〜10時'}
+      ]},
+    { from:9,  to:11, band:'午前の外来・用足し帯', msg:'病院外来と銀行・郵便局の用足し需要が中心。',
+      cards:[
+        {rank:'hot', place:'岐阜市民病院<br>大学病院', why:'午前外来の受付ピーク（〜11時）。送り客・付き添い客。', time:'⏰9〜11時'},
+        {rank:'good', place:'銀行・郵便局', why:'高齢者の用足し移動。年金日は特に集中。', time:'⏰9〜11時'},
+        {rank:'normal', place:'マーサ21<br>商業施設', why:'開店直後の買い物客。10時開店の専門店街へ。', time:'⏰10時〜'}
+      ]},
+    { from:11, to:13, band:'昼・病院帰り帯', msg:'午前診療を終えた通院客の帰宅needsがピーク。',
+      cards:[
+        {rank:'hot', place:'岐阜市民病院<br>各病院', why:'会計・薬を終えた患者が続々と帰宅。病院前で待機を。', time:'⏰11〜13時'},
+        {rank:'good', place:'マーサ21<br>イオン岐阜', why:'昼の買い物・昼食客。荷物が多く乗車率高め。', time:'⏰11〜13時'},
+        {rank:'normal', place:'JR岐阜駅', why:'ビジネス客の移動・昼の出張需要。', time:'⏰終日'}
+      ]},
+    { from:13, to:15, band:'午後の買い物・午後診帯', msg:'商業施設の買い物客と午後診の病院を狙う。',
+      cards:[
+        {rank:'hot', place:'マーサ21<br>商業施設', why:'午後の買い物客。家族連れ・高齢者の帰宅needs。', time:'⏰13〜15時'},
+        {rank:'good', place:'午後診の病院<br>クリニック', why:'午後診療のある医院の通院客。', time:'⏰14時〜'},
+        {rank:'normal', place:'長良川温泉', why:'チェックイン前の観光移動・送迎。', time:'⏰14〜15時'}
+      ]},
+    { from:15, to:18, band:'夕方の帰宅・買い物帰り帯', msg:'買い物帰りと夕方通勤が重なる稼ぎ時。',
+      cards:[
+        {rank:'hot', place:'マーサ21<br>イオン岐阜', why:'買い物を終えた客の帰宅が集中。荷物多く乗車率高。', time:'⏰15〜18時'},
+        {rank:'good', place:'JR岐阜駅<br>名鉄岐阜駅', why:'夕方の帰宅・通勤客。駅前で待機を。', time:'⏰17時〜'},
+        {rank:'normal', place:'病院（会計遅め）', why:'午後診を終えた通院客の帰宅。', time:'⏰16〜17時'}
+      ]},
+    { from:18, to:21, band:'夜の外食・繁華街帯', msg:'柳ヶ瀬・玉宮の飲食客と駅needs。夜の稼ぎ時へ。',
+      cards:[
+        {rank:'hot', place:'柳ヶ瀬・玉宮町', why:'飲食店へ向かう客、一次会後の移動。繁華街で流す。', time:'⏰18〜21時'},
+        {rank:'good', place:'JR岐阜駅<br>名鉄岐阜駅', why:'帰宅・出張客。長良川温泉の夕食外出も。', time:'⏰18〜20時'},
+        {rank:'normal', place:'長良川温泉', why:'夕食の外出・鵜飼観覧の送迎（シーズン中）。', time:'⏰18時〜'}
+      ]},
+    { from:21, to:24, band:'夜間・終電後帯', msg:'飲食店の閉店後と終電後の帰宅needsが最大化。',
+      cards:[
+        {rank:'hot', place:'柳ヶ瀬・玉宮町', why:'飲食店の閉店・二次会後の帰宅客が集中。最大の稼ぎ時。', time:'⏰21〜24時'},
+        {rank:'good', place:'JR岐阜駅<br>名鉄岐阜駅', why:'終電後の帰宅難民needs。駅前で待機を。', time:'⏰23時〜'},
+        {rank:'normal', place:'長良川温泉', why:'宴会後の宿泊客送迎。', time:'⏰21〜23時'}
+      ]}
+  ];
+
+  var RANK_STYLE = {
+    hot:    { label:'🔥 今の狙い目', bg:'rgba(229,52,46,.08)',  border:'#E5342E', rankBg:'#E5342E', rankColor:'#fff' },
+    good:   { label:'◎ 好機',        bg:'rgba(32,212,156,.08)', border:'#20d49c', rankBg:'#20d49c', rankColor:'#06281d' },
+    normal: { label:'○ 通常で狙う',  bg:'var(--bg-panel-hover)',border:'#2D3748', rankBg:'#475569', rankColor:'#fff' }
+  };
+
+  function currentBand(){
+    var h = new Date().getHours();
+    for(var i=0;i<BANDS.length;i++){
+      if(h >= BANDS[i].from && h < BANDS[i].to) return BANDS[i];
+    }
+    return BANDS[0];
+  }
+
+  function update(){
+    var now = new Date();
+    var hh = String(now.getHours()).padStart(2,'0');
+    var mm = String(now.getMinutes()).padStart(2,'0');
+    var tEl = document.getElementById('guide-time');
+    if(tEl) tEl.textContent = hh + ':' + mm;
+
+    var band = currentBand();
+    var bEl = document.getElementById('guide-band');
+    var mEl = document.getElementById('guide-msg');
+    if(bEl) bEl.textContent = band.band;
+    if(mEl) mEl.innerHTML = band.msg;
+
+    band.cards.forEach(function(c, i){
+      var card = document.getElementById('guide-card-' + i);
+      if(!card) return;
+      var st = RANK_STYLE[c.rank] || RANK_STYLE.normal;
+      card.style.background = st.bg;
+      card.style.borderLeftColor = st.border;
+      var rankEl = card.querySelector('.guide-rank');
+      rankEl.textContent = st.label;
+      rankEl.style.background = st.rankBg;
+      rankEl.style.color = st.rankColor;
+      card.querySelector('.guide-place').innerHTML = c.place;
+      card.querySelector('.guide-why').innerHTML = c.why;
+      card.querySelector('.guide-pktime').innerHTML = c.time;
+    });
+  }
+
+  update();
+  setInterval(update, 30000); // 30秒ごとに時刻と狙い目を更新
 })();
 </script>
 
