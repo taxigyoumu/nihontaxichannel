@@ -1,1 +1,38 @@
+name: Update News
 
+# 実行タイミング
+on:
+  schedule:
+    - cron: '*/30 * * * *'   # 30分ごと（UTC基準・実際の間隔は多少前後します）
+  workflow_dispatch:          # 手動実行も可能（Actionsタブから手動でも回せる）
+
+# news.json をコミットするための書き込み権限
+permissions:
+  contents: write
+
+jobs:
+  update-news:
+    runs-on: ubuntu-latest
+    steps:
+      - name: リポジトリをチェックアウト
+        uses: actions/checkout@v4
+
+      - name: Python セットアップ
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: ニュース取得スクリプト実行
+        run: python fetch_news.py
+
+      - name: news.json を更新（変更があればコミット）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add news.json
+          if git diff --staged --quiet; then
+            echo "変更なし。コミットをスキップします。"
+          else
+            git commit -m "ニュース自動更新 $(date -u '+%Y-%m-%d %H:%M UTC')"
+            git push
+          fi
