@@ -795,7 +795,44 @@
 
   var slots = [slideEl, safetyEl, videoEl];
 
+  // 動画の確実な再生を試みる（失敗してもリトライ）
+  function tryPlayVideo(){
+    if(!videoTag) return;
+    // 念のためミュート（自動再生の必須条件）
+    videoTag.muted = true;
+    videoTag.defaultMuted = true;
+    var pr = videoTag.play();
+    if(pr && typeof pr.catch === 'function'){
+      pr.catch(function(){
+        // 自動再生がブロックされた場合、少し後に再試行
+        setTimeout(function(){
+          videoTag.muted = true;
+          var p2 = videoTag.play();
+          if(p2 && typeof p2.catch === 'function'){ p2.catch(function(){}); }
+        }, 500);
+      });
+    }
+  }
+
+  // 動画の読み込みが完了していなければ読み込みを促す
+  if(videoTag){
+    videoTag.muted = true;
+    videoTag.setAttribute('muted','');
+    videoTag.setAttribute('playsinline','');
+    // 読み込みエラー時は再ロードを試みる
+    videoTag.addEventListener('error', function(){
+      try { videoTag.load(); } catch(e){}
+    });
+    // メタデータ読み込み後に一度再生を試みる（先頭フレーム表示のため）
+    videoTag.addEventListener('loadeddata', function(){
+      if(currentIdx === 2) tryPlayVideo();
+    });
+  }
+
+  var currentIdx = 0;
+
   function show(i){
+    currentIdx = i;
     slots.forEach(function(el, n){
       if(!el) return;
       var on = (n === i);
@@ -805,8 +842,7 @@
     // 動画スロットの再生制御（続きから再生：currentTimeはリセットしない）
     if(videoTag){
       if(i === 2){
-        // 前回の続きから再生（loop属性で最後まで行けば自動的に先頭へ戻る）
-        try { videoTag.play(); } catch(e){}
+        tryPlayVideo();
       } else {
         try { videoTag.pause(); } catch(e){}
       }
@@ -816,6 +852,23 @@
     if(titleEl) titleEl.textContent = v.title;
     if(subEl)   subEl.textContent   = v.sub + ' ／ 自動切替';
   }
+
+  // 最初のユーザー操作（クリック・タップ・キー）で動画を一度起こす
+  // （サイネージで一度でも画面に触れれば、以降の自動再生が安定する）
+  function primeVideo(){
+    if(videoTag){
+      videoTag.muted = true;
+      var p = videoTag.play();
+      if(p && typeof p.catch === 'function'){ p.catch(function(){}); }
+      if(currentIdx !== 2){ try { videoTag.pause(); } catch(e){} }
+    }
+    document.removeEventListener('click', primeVideo);
+    document.removeEventListener('touchstart', primeVideo);
+    document.removeEventListener('keydown', primeVideo);
+  }
+  document.addEventListener('click', primeVideo);
+  document.addEventListener('touchstart', primeVideo);
+  document.addEventListener('keydown', primeVideo);
 
   show(0);
 
