@@ -32,5 +32,6 @@ jobs:
             echo "no change"
           else
             git commit -m "update news"
+            git pull --rebase origin main
             git push
           fi
