@@ -349,7 +349,7 @@
         </div>
 
         <!-- ▼ イベントページ（events.json から動的生成・日付連動） -->
-        <div class="tr-page" id="tr-event-page" data-icon="📣" data-title="イベント情報" data-sub="臨時タクシー乗り場 案内"
+        <div class="tr-page" id="tr-event-page" data-icon="📣" data-title="イベント情報" data-sub="臨時タクシー乗り場 案内" data-is-event="1"
              style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;display:none;">
           <!-- ここに events.json の内容がJSで挿入されます -->
         </div>
@@ -927,6 +927,14 @@
       html += '</div>';
     }
 
+    // GOアプリ 注意事項（goWarningがある場合・黄色で強調）
+    if(ev.goWarning){
+      html += '<div style="background:rgba(240,180,41,.14);border:2px solid var(--accent);border-radius:10px;padding:12px 16px;margin-top:10px;">';
+      html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;"><span style="font-size:20px;">📱</span><span style="font-size:15px;font-weight:900;color:var(--accent);letter-spacing:0.03em;">⚠ GOアプリ 配車にご注意</span></div>';
+      html += '<div style="font-size:12.5px;color:#ffe6b0;line-height:1.6;">'+ev.goWarning+'</div>';
+      html += '</div>';
+    }
+
     // 営業ヒント
     if(ev.demandNote){
       html += '<div class="info-card" style="margin-top:10px;border-left:4px solid #1453c4;">';
@@ -941,20 +949,38 @@
   function init(activeEvents){
     applyDayMode();
 
-    // イベントページの設定（複数あれば最初の1件を表示。highlightを優先）
-    var eventPage = document.getElementById('tr-event-page');
-    var shownEvent = null;
-    if(activeEvents.length > 0){
-      // highlight優先、なければ先頭
-      shownEvent = activeEvents.filter(function(e){return e.highlight;})[0] || activeEvents[0];
-      if(eventPage){
-        eventPage.innerHTML = buildEventHTML(shownEvent);
-        eventPage.style.display = '';
-        eventPage.setAttribute('data-title', 'イベント情報');
-        eventPage.setAttribute('data-sub', (shownEvent.title || 'イベント') + ' ／ 臨時乗り場案内');
-      }
+    // イベントページの雛形を取得
+    var templatePage = document.getElementById('tr-event-page');
+    var container = templatePage ? templatePage.parentNode : null;
+
+    // highlightを優先し、その後 start日が近い順に並べる
+    activeEvents.sort(function(a,b){
+      if(!!b.highlight !== !!a.highlight) return (b.highlight?1:0) - (a.highlight?1:0);
+      return (a.start < b.start) ? -1 : 1;
+    });
+
+    var headEvent = null;
+    if(activeEvents.length > 0 && templatePage && container){
+      headEvent = activeEvents[0];
+      // 該当イベントの数だけページを生成（雛形を複製）
+      activeEvents.forEach(function(ev, i){
+        var page;
+        if(i === 0){
+          page = templatePage;      // 1件目は雛形を再利用
+        } else {
+          page = templatePage.cloneNode(false); // 属性だけ複製、中身は入れ替え
+          page.id = 'tr-event-page-' + i;
+          container.appendChild(page);
+        }
+        page.innerHTML = buildEventHTML(ev);
+        page.style.display = '';
+        page.setAttribute('data-icon', '📣');
+        page.setAttribute('data-title', 'イベント情報');
+        page.setAttribute('data-sub', (ev.title || 'イベント') + ' ／ 需要・乗り場案内');
+        page.setAttribute('data-is-event', '1');
+      });
     }
-    applyHeaderBadge(shownEvent !== null, shownEvent ? shownEvent.title : '', shownEvent ? shownEvent.specialSpot : '');
+    applyHeaderBadge(headEvent !== null, headEvent ? headEvent.title : '', headEvent ? headEvent.specialSpot : '');
 
     // 表示対象ページ収集
     var allPages = Array.prototype.slice.call(document.querySelectorAll('#panel-transit .tr-page'));
@@ -967,28 +993,27 @@
     var barEl   = document.getElementById('tr-progress');
     var dotsEl  = document.getElementById('tr-dots');
 
-    // イベントページを先頭に
-    var evIdx = pages.findIndex(function(p){ return p.id === 'tr-event-page'; });
-    if(evIdx > 0){
-      var evPage = pages.splice(evIdx, 1)[0];
-      pages.unshift(evPage);
-    }
+    function isEventPage(p){ return p.getAttribute('data-is-event') === '1'; }
+
+    // イベントページ群を先頭に集める（順序維持）
+    var eventPages = pages.filter(isEventPage);
+    var otherPages = pages.filter(function(p){ return !isEventPage(p); });
+    pages = eventPages.concat(otherPages);
 
     // ドット生成
     dotsEl.innerHTML = '';
     pages.forEach(function(p){
       var d = document.createElement('span');
-      var isEvent = (p.id === 'tr-event-page');
       d.style.cssText = 'width:8px;height:8px;border-radius:50%;background:var(--border);transition:background .3s;';
       d.className = 'tr-dot';
-      d.setAttribute('data-event', isEvent ? '1' : '0');
+      d.setAttribute('data-event', isEventPage(p) ? '1' : '0');
       dotsEl.appendChild(d);
     });
     var dots = Array.prototype.slice.call(dotsEl.children);
 
     var idx = 0, elapsed = 0;
     function durationFor(i){
-      return (pages[i] && pages[i].id === 'tr-event-page') ? EVENT_DURATION : INTERVAL;
+      return (pages[i] && isEventPage(pages[i])) ? EVENT_DURATION : INTERVAL;
     }
     function show(i){
       pages.forEach(function(p, n){
@@ -997,14 +1022,14 @@
         p.style.pointerEvents = on ? 'auto' : 'none';
       });
       dots.forEach(function(d, n){
-        var isEvent = d.getAttribute('data-event') === '1';
-        d.style.background = (n === i) ? (isEvent ? '#E5342E' : 'var(--nenkin)') : 'var(--border)';
+        var isEv = d.getAttribute('data-event') === '1';
+        d.style.background = (n === i) ? (isEv ? '#E5342E' : 'var(--nenkin)') : 'var(--border)';
       });
       var pg = pages[i];
       if(iconEl)  iconEl.textContent  = pg.getAttribute('data-icon');
       if(titleEl) titleEl.textContent = pg.getAttribute('data-title');
       if(subEl)   subEl.textContent   = pg.getAttribute('data-sub');
-      if(barEl) barEl.style.background = (pg.id === 'tr-event-page') ? '#E5342E' : 'var(--nenkin)';
+      if(barEl) barEl.style.background = isEventPage(pg) ? '#E5342E' : 'var(--nenkin)';
     }
     show(0);
     setInterval(function(){
