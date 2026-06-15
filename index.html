@@ -251,85 +251,107 @@
       </div>
     </section>
 
-    <!-- 左下：本日の営業情報（年金支給日版） -->
+    <!-- 左下：本日の営業情報（年金支給日版・3ページ自動ループ） -->
     <section class="panel" id="panel-transit">
       <div class="panel-header">
-        <span class="panel-icon">💴</span>
-        <span class="panel-title">本日の営業情報 ─ 年金支給日</span>
-        <span class="panel-subtitle">需要予測・気象庁データ自動更新</span>
+        <span class="panel-icon" id="tr-icon">💴</span>
+        <span class="panel-title" id="tr-title">本日の営業情報 ─ 年金支給日</span>
+        <span class="panel-subtitle" id="tr-sub">需要予測・気象庁データ自動更新</span>
       </div>
-      <div class="panel-body" style="padding:12px;overflow-y:auto;">
+      <!-- 切替プログレスバー -->
+      <div style="height:3px;background:var(--border);flex-shrink:0;">
+        <div id="tr-progress" style="height:100%;width:0%;background:var(--nenkin);transition:width .25s linear;"></div>
+      </div>
+      <!-- ページインジケーター -->
+      <div id="tr-dots" style="display:flex;gap:6px;justify-content:center;padding:6px 0 0;flex-shrink:0;"></div>
 
-        <!-- 年金支給日大バナー -->
-        <div class="nenkin-panel-banner">
-          <div class="nenkin-panel-icon">💴</div>
-          <div class="nenkin-panel-text">
-            <div class="nenkin-panel-title">🏦 本日は年金支給日（偶数月15日）</div>
-            <div class="nenkin-panel-body">
-              銀行・郵便局・スーパー周辺を中心に終日需要増を予測。<br>
-              高齢者の外出が集中する <strong style="color:#fff;">9〜12時・14〜17時</strong> は特に積極営業！
+      <div class="panel-body" style="position:relative;">
+
+        <!-- ▼ ページ1：今日の概況 -->
+        <div class="tr-page" data-icon="💴" data-title="本日の営業情報 ─ 年金支給日" data-sub="①今日の概況 ／ 25秒ごと切替"
+             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:1;transition:opacity .5s ease;">
+
+          <div class="nenkin-panel-banner">
+            <div class="nenkin-panel-icon">💴</div>
+            <div class="nenkin-panel-text">
+              <div class="nenkin-panel-title">🏦 本日は年金支給日（偶数月15日）</div>
+              <div class="nenkin-panel-body">
+                銀行・郵便局・スーパー周辺を中心に終日需要増を予測。<br>
+                高齢者の外出が集中する <strong style="color:#fff;">9〜12時・14〜17時</strong> は特に積極営業！
+              </div>
+            </div>
+          </div>
+
+          <div class="sw-bar" style="margin-top:10px;">
+            <span id="sw-am" style="background:rgba(30,109,181,.25);color:#9ecbff;padding:3px 12px;border-radius:14px;font-size:13px;">読み込み中...</span>
+            <span id="sw-pm" style="background:rgba(30,109,181,.12);color:#6aa5d4;padding:3px 12px;border-radius:14px;font-size:13px;"></span>
+            <span id="sw-warn" style="display:none;background:rgba(230,0,18,.18);color:#ff9090;padding:3px 10px;border-radius:5px;font-size:12px;font-weight:700;">スリップ注意</span>
+            <span id="sw-temp" style="margin-left:auto;color:var(--accent);font-size:15px;font-weight:700;"></span>
+          </div>
+
+          <div class="info-card" style="margin-top:10px;">
+            <div class="info-label">☀ 午前の需要</div>
+            <div class="info-body" id="sw-am-desc">天気情報を取得しています...</div>
+          </div>
+          <div class="info-card">
+            <div class="info-label">🌆 午後の需要・注意</div>
+            <div class="info-body" id="sw-pm-desc"></div>
+          </div>
+        </div>
+
+        <!-- ▼ ページ2：重点エリア -->
+        <div class="tr-page" data-icon="📍" data-title="年金日 重点エリア" data-sub="②需要スポット ／ 25秒ごと切替"
+             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;">
+
+          <div style="font-size:13px;color:var(--nenkin);font-weight:900;margin-bottom:8px;letter-spacing:0.05em;">📍 年金支給日 重点エリア（時間帯別）</div>
+          <div class="spot-grid">
+            <div class="spot-card">
+              <div class="spot-label">🏦 銀行・ATM</div>
+              <div class="spot-name">十六フィナンシャルG<br>郵便局・ゆうちょ</div>
+              <div class="spot-note">午前中ピーク</div>
+            </div>
+            <div class="spot-card">
+              <div class="spot-label">🛒 買い物需要</div>
+              <div class="spot-name">マーサ21・モレラ岐阜<br>イオン各務原</div>
+              <div class="spot-note">午後ピーク</div>
+            </div>
+            <div class="spot-card">
+              <div class="spot-label">🏥 通院需要</div>
+              <div class="spot-name">岐阜市民病院<br>県総合医療センター<br>岐阜大学病院</div>
+              <div class="spot-note">9〜11時集中</div>
+            </div>
+            <div class="spot-card">
+              <div class="spot-label">🍽 外食需要</div>
+              <div class="spot-name">柳ヶ瀬周辺<br>長良川温泉エリア</div>
+              <div class="spot-note">昼〜夕方</div>
             </div>
           </div>
         </div>
 
-        <!-- 気象バー -->
-        <div class="sw-bar">
-          <span id="sw-am" style="background:rgba(30,109,181,.25);color:#9ecbff;padding:3px 12px;border-radius:14px;font-size:13px;">読み込み中...</span>
-          <span id="sw-pm" style="background:rgba(30,109,181,.12);color:#6aa5d4;padding:3px 12px;border-radius:14px;font-size:13px;"></span>
-          <span id="sw-warn" style="display:none;background:rgba(230,0,18,.18);color:#ff9090;padding:3px 10px;border-radius:5px;font-size:12px;font-weight:700;">スリップ注意</span>
-          <span id="sw-temp" style="margin-left:auto;color:var(--accent);font-size:15px;font-weight:700;"></span>
-        </div>
+        <!-- ▼ ページ3：夜間需要・ひとこと -->
+        <div class="tr-page" data-icon="🎣" data-title="夜間需要・営業のひとこと" data-sub="③鵜飼・ひとこと ／ 25秒ごと切替"
+             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;">
 
-        <!-- 年金支給日 需要スポット -->
-        <div style="font-size:10px;color:var(--nenkin);font-weight:700;margin-bottom:5px;letter-spacing:0.05em;">📍 年金日 重点エリア</div>
-        <div class="spot-grid">
-          <div class="spot-card">
-            <div class="spot-label">🏦 銀行・ATM</div>
-            <div class="spot-name">十六フィナンシャルG<br>郵便局・ゆうちょ</div>
-            <div class="spot-note">午前中ピーク</div>
+          <div class="ukai-card">
+            <div class="ukai-label">🎣 長良川鵜飼（5/11〜10/15）</div>
+            <div id="sw-ukai" style="font-size:14px;line-height:1.6;color:#7ee8c8;"></div>
           </div>
-          <div class="spot-card">
-            <div class="spot-label">🛒 買い物需要</div>
-            <div class="spot-name">マーサ21・モレラ岐阜<br>イオン各務原</div>
-            <div class="spot-note">午後ピーク</div>
+
+          <div class="info-card" style="margin-top:10px;border-left:4px solid #A770C8;">
+            <div class="info-label">🌃 夜間の重点エリア</div>
+            <div class="info-body" style="line-height:1.6;">
+              <strong style="color:#c89ce0;">柳ヶ瀬・玉宮町</strong>の飲食店街は閉店後の帰宅需要、<strong style="color:#c89ce0;">岐阜駅・名鉄岐阜駅</strong>は終電後の需要が見込めます。長良川温泉の旅館送迎も忘れずに。
+            </div>
           </div>
-          <div class="spot-card">
-            <div class="spot-label">🏥 通院需要</div>
-            <div class="spot-name">岐阜市民病院<br>県総合医療センター<br>岐阜大学病院</div>
-            <div class="spot-note">9〜11時集中</div>
+
+          <div class="sales-card" style="margin-top:10px;">
+            <div class="sales-label">💡 今日の「営業のひとこと」</div>
+            <div class="sales-body" id="sw-sales"></div>
           </div>
-          <div class="spot-card">
-            <div class="spot-label">🍽 外食需要</div>
-            <div class="spot-name">柳ヶ瀬周辺<br>長良川温泉エリア</div>
-            <div class="spot-note">昼〜夕方</div>
-          </div>
+
+          <div class="footer-note" style="margin-top:12px;">※JR・名鉄の遅延運休は出庫前に公式サイトで確認。遅延時は岐阜駅の乗り遅れ需要が急増します</div>
         </div>
 
-        <!-- 天気連動：午前の需要 -->
-        <div class="info-card">
-          <div class="info-label">☀ 午前の需要</div>
-          <div class="info-body" id="sw-am-desc">天気情報を取得しています...</div>
-        </div>
-
-        <!-- 天気連動：午後の需要 -->
-        <div class="info-card">
-          <div class="info-label">🌆 午後の需要・注意</div>
-          <div class="info-body" id="sw-pm-desc"></div>
-        </div>
-
-        <!-- 鵜飼情報 -->
-        <div class="ukai-card">
-          <div class="ukai-label">🎣 長良川鵜飼（5/11〜10/15）</div>
-          <div id="sw-ukai" style="font-size:13px;line-height:1.5;color:#7ee8c8;"></div>
-        </div>
-
-        <!-- 営業のひとこと -->
-        <div class="sales-card">
-          <div class="sales-label">💡 今日の「営業のひとこと」</div>
-          <div class="sales-body" id="sw-sales"></div>
-        </div>
-
-        <div class="footer-note">※JR・名鉄の遅延運休は出庫前に公式サイトで確認。遅延時は岐阜駅の乗り遅れ需要が急増します</div>
       </div>
     </section>
 
@@ -639,33 +661,66 @@
     .then(data => {
       var today = new Date();
       var todayStr = today.getFullYear() + "-" + String(today.getMonth()+1).padStart(2,"0") + "-" + String(today.getDate()).padStart(2,"0");
-      var ts0 = data[0].timeSeries[0];
-      var wTexts = [];
-      for (var i=0;i<ts0.timeDefines.length;i++) {
-        if (ts0.timeDefines[i].slice(0,10)===todayStr) wTexts.push((ts0.areas[0].weathers||[])[i]||"");
-      }
-      var w = wTexts.join(" ");
-      var hasRain  = w.indexOf("雨")!==-1 || w.indexOf("雷")!==-1;
-      var hasSnow  = w.indexOf("雪")!==-1;
-      var cloudy   = w.indexOf("くもり")!==-1 || w.indexOf("曇")!==-1;
-      var sunny    = w.indexOf("晴")!==-1;
 
-      var am="午前 曇り", pm="午後 曇り";
-      if (hasRain)           { am="午前 雨 ☔"; pm="午後 雨 ☔"; }
-      else if(sunny&&cloudy) { am="午前 晴れ ☀"; pm="午後 曇り ☁"; }
-      else if(sunny)         { am="午前 晴れ ☀"; pm="午後 晴れ ☀"; }
-      else if(cloudy)        { am="午前 曇り ☁"; pm="午後 曇り ☁"; }
+      // 美濃地方（岐阜市側・area code 210010）を明示的に選択
+      var ts0 = data[0].timeSeries[0];
+      function pickMino(areas){
+        for (var k=0;k<areas.length;k++){
+          if (areas[k].area && areas[k].area.code === "210010") return areas[k];
+        }
+        return areas[0];
+      }
+      var minoArea = pickMino(ts0.areas);
+
+      // 当日分の「天気コード」を取得（予報文の文字ではなくコードで判定）
+      var todayCode = null, todayWeatherText = "";
+      for (var i=0;i<ts0.timeDefines.length;i++) {
+        if (ts0.timeDefines[i].slice(0,10)===todayStr) {
+          todayCode = (minoArea.weatherCodes||[])[i] || null;
+          todayWeatherText = (minoArea.weathers||[])[i] || "";
+          break;
+        }
+      }
+      // 当日エントリが無ければ先頭を使う
+      if (todayCode === null && ts0.timeDefines.length>0) {
+        todayCode = (minoArea.weatherCodes||[])[0] || null;
+        todayWeatherText = (minoArea.weathers||[])[0] || "";
+      }
+
+      // 気象庁天気コード体系：100番台=晴れ / 200番台=くもり / 300番台=雨 / 400番台=雪
+      var codeNum = todayCode ? parseInt(todayCode) : 0;
+      var hasRain = (codeNum >= 300 && codeNum < 400);
+      var hasSnow = (codeNum >= 400 && codeNum < 500);
+      var cloudy  = (codeNum >= 200 && codeNum < 300);
+      var sunny   = (codeNum >= 100 && codeNum < 200);
+      // 「のち雨」「時々雨」など晴れ/くもりコードでも後半に降水を含むケースを補足
+      var willRainLater = (todayWeatherText.indexOf("雨")!==-1 || todayWeatherText.indexOf("雷")!==-1);
+
+      var am="午前 曇り ☁", pm="午後 曇り ☁";
+      if (hasRain)            { am="午前 雨 ☔"; pm="午後 雨 ☔"; }
+      else if (hasSnow)       { am="午前 雪 ❄"; pm="午後 雪 ❄"; }
+      else if (sunny && willRainLater) { am="午前 晴れ ☀"; pm="午後 一部雨 ☂"; }
+      else if (sunny && cloudy){ am="午前 晴れ ☀"; pm="午後 曇り ☁"; }
+      else if (sunny)         { am="午前 晴れ ☀"; pm="午後 晴れ ☀"; }
+      else if (cloudy && willRainLater){ am="午前 曇り ☁"; pm="午後 一部雨 ☂"; }
+      else if (cloudy)        { am="午前 曇り ☁"; pm="午後 曇り ☁"; }
 
       document.getElementById("sw-am").textContent = am;
       document.getElementById("sw-pm").textContent = pm;
-      if (hasRain||hasSnow) document.getElementById("sw-warn").style.display="inline-block";
+      // 警告は「実際に雨/雪コード」または「のち雨」の時のみ
+      if (hasRain || hasSnow) document.getElementById("sw-warn").style.display="inline-block";
 
       var tempMax=null;
       if (data[0].timeSeries.length>=3) {
         var ts2=data[0].timeSeries[2], temps=[];
+        // 「岐阜」観測点（code 52586）を明示選択
+        var gifuTemp = ts2.areas[0];
+        for (var a=0;a<ts2.areas.length;a++){
+          if (ts2.areas[a].area && ts2.areas[a].area.code === "52586") { gifuTemp = ts2.areas[a]; break; }
+        }
         for (var j=0;j<ts2.timeDefines.length;j++) {
           if (ts2.timeDefines[j].slice(0,10)===todayStr) {
-            var t=parseInt((ts2.areas[0].temps||[])[j]);
+            var t=parseInt((gifuTemp.temps||[])[j]);
             if (!isNaN(t)) temps.push(t);
           }
         }
@@ -737,6 +792,62 @@
     if(elapsed >= INTERVAL){
       elapsed = 0;
       idx = (idx + 1) % views.length;
+      show(idx);
+      if(barEl) barEl.style.width = '0%';
+    }
+  }, TICK);
+})();
+</script>
+
+<!-- 左下パネル 3ページ自動ループ -->
+<script>
+(function(){
+  var INTERVAL = 25000;   // 各25秒
+  var TICK = 250;
+  var pages = Array.prototype.slice.call(document.querySelectorAll('#panel-transit .tr-page'));
+  if(pages.length === 0) return;
+
+  var iconEl  = document.getElementById('tr-icon');
+  var titleEl = document.getElementById('tr-title');
+  var subEl   = document.getElementById('tr-sub');
+  var barEl   = document.getElementById('tr-progress');
+  var dotsEl  = document.getElementById('tr-dots');
+
+  // ドット生成
+  pages.forEach(function(_, i){
+    var d = document.createElement('span');
+    d.style.cssText = 'width:8px;height:8px;border-radius:50%;background:var(--border);transition:background .3s;';
+    d.className = 'tr-dot';
+    dotsEl.appendChild(d);
+  });
+  var dots = Array.prototype.slice.call(dotsEl.children);
+
+  var idx = 0, elapsed = 0;
+
+  function show(i){
+    pages.forEach(function(p, n){
+      var on = (n === i);
+      p.style.opacity = on ? '1' : '0';
+      p.style.pointerEvents = on ? 'auto' : 'none';
+    });
+    dots.forEach(function(d, n){
+      d.style.background = (n === i) ? 'var(--nenkin)' : 'var(--border)';
+    });
+    var pg = pages[i];
+    if(iconEl)  iconEl.textContent  = pg.getAttribute('data-icon');
+    if(titleEl) titleEl.textContent = pg.getAttribute('data-title');
+    if(subEl)   subEl.textContent   = pg.getAttribute('data-sub');
+  }
+
+  show(0);
+
+  setInterval(function(){
+    elapsed += TICK;
+    var pct = Math.min(100, (elapsed / INTERVAL) * 100);
+    if(barEl) barEl.style.width = pct + '%';
+    if(elapsed >= INTERVAL){
+      elapsed = 0;
+      idx = (idx + 1) % pages.length;
       show(idx);
       if(barEl) barEl.style.width = '0%';
     }
