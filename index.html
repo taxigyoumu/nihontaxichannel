@@ -333,22 +333,276 @@
       </div>
     </section>
 
-    <!-- 右下：点呼情報スライド -->
+    <!-- 右下：点呼スライド ⇄ 安全注意喚起（20秒ごと自動切替） -->
     <section class="panel" id="panel-events">
       <div class="panel-header">
-        <span class="panel-icon">📋</span>
-        <span class="panel-title">点呼情報・業務連絡</span>
-        <span class="panel-subtitle">Googleスライド（自動ループ再生）</span>
+        <span class="panel-icon" id="ev-icon">📋</span>
+        <span class="panel-title" id="ev-title">点呼情報・業務連絡</span>
+        <span class="panel-subtitle" id="ev-sub">20秒ごと自動切替</span>
       </div>
-      <div class="panel-body">
-        <iframe
-          src="https://docs.google.com/presentation/d/1ibujGbqtfEu7PIE46xKfIoQhuN19VGGP584w-L28w7k/embed?start=true&loop=true&delayms=99999&rm=minimal"
-          width="100%" height="100%"
-          frameborder="0"
-          allow="autoplay"
-          allowfullscreen
-          title="点呼情報スライド">
-        </iframe>
+      <!-- 切替プログレスバー -->
+      <div id="ev-progress-track" style="height:3px;background:var(--border);flex-shrink:0;">
+        <div id="ev-progress" style="height:100%;width:0%;background:var(--accent);transition:width .25s linear;"></div>
+      </div>
+      <div class="panel-body" style="position:relative;">
+        <!-- ① 点呼スライド -->
+        <div class="ev-slot" id="ev-slide" style="position:absolute;inset:0;opacity:1;transition:opacity .5s ease;">
+          <iframe
+            src="https://docs.google.com/presentation/d/1ibujGbqtfEu7PIE46xKfIoQhuN19VGGP584w-L28w7k/embed?start=true&loop=true&delayms=99999&rm=minimal"
+            width="100%" height="100%"
+            frameborder="0" allow="autoplay" allowfullscreen
+            title="点呼情報スライド">
+          </iframe>
+        </div>
+        <!-- ② 安全注意喚起ページ -->
+        <div class="ev-slot" id="ev-safety" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;">
+          <iframe
+            srcdoc="<!DOCTYPE html>
+<html lang=&quot;ja&quot;>
+<head>
+<meta charset=&quot;UTF-8&quot;>
+<meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
+<title>安全注意喚起</title>
+<link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;>
+<link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin>
+<link href=&quot;https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&amp;display=swap&quot; rel=&quot;stylesheet&quot;>
+<style>
+  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+  :root{
+    --bg:#0D1117; --panel:#161B27; --panel2:#1C2333;
+    --red:#E5342E; --red-dark:#8B1A16; --red-glow:rgba(229,52,46,.5);
+    --amber:#F0B429; --txt:#E2E8F0; --txt-sub:#94A3B8; --border:#2D3748;
+  }
+  html,body{width:100%;height:100%;background:var(--bg);font-family:'Noto Sans JP',sans-serif;color:var(--txt);overflow:hidden;}
+
+  .wrap{display:flex;flex-direction:column;height:100vh;padding:12px;gap:12px;}
+
+  /* 警告ヘッダー（点滅ストライプ） */
+  .alert-head{
+    flex-shrink:0;position:relative;overflow:hidden;
+    background:linear-gradient(135deg,var(--red-dark) 0%,var(--red) 100%);
+    border-radius:10px;padding:12px 16px;
+    display:flex;align-items:center;gap:14px;
+    box-shadow:0 0 20px var(--red-glow);
+    animation:alertPulse 2s ease-in-out infinite;
+  }
+  @keyframes alertPulse{0%,100%{box-shadow:0 0 14px var(--red-glow);}50%{box-shadow:0 0 28px var(--red-glow);}}
+  /* 上下の警告ストライプ */
+  .alert-head::before,.alert-head::after{
+    content:'';position:absolute;left:0;width:100%;height:6px;
+    background:repeating-linear-gradient(45deg,#000 0 12px,var(--amber) 12px 24px);
+    opacity:.85;
+  }
+  .alert-head::before{top:0;}
+  .alert-head::after{bottom:0;}
+  .alert-icon{flex-shrink:0;width:54px;height:54px;animation:shake 3s ease-in-out infinite;}
+  @keyframes shake{0%,90%,100%{transform:rotate(0);}92%{transform:rotate(-8deg);}96%{transform:rotate(8deg);}}
+  .alert-title{flex:1;}
+  .alert-title .big{font-size:26px;font-weight:900;letter-spacing:.04em;line-height:1.1;color:#fff;text-shadow:0 2px 4px rgba(0,0,0,.4);}
+  .alert-title .sub{font-size:13px;font-weight:700;color:#FFE0DE;margin-top:3px;letter-spacing:.06em;}
+
+  /* 重大事故 速報バナー */
+  .breaking{
+    flex-shrink:0;background:#000;border:2px solid var(--red);border-radius:8px;
+    padding:10px 14px;display:flex;align-items:center;gap:12px;
+  }
+  .breaking-label{
+    flex-shrink:0;background:var(--red);color:#fff;font-size:12px;font-weight:900;
+    padding:4px 10px;border-radius:4px;letter-spacing:.08em;
+    animation:blink 1.2s step-start infinite;
+  }
+  @keyframes blink{50%{opacity:.35;}}
+  .breaking-txt{flex:1;font-size:16px;font-weight:700;line-height:1.5;color:#fff;}
+  .breaking-txt em{color:var(--amber);font-style:normal;}
+
+  /* 自責事故 注意ブロック */
+  .selfcause{
+    flex-shrink:0;background:var(--panel);border:1px solid var(--border);
+    border-radius:8px;padding:12px 14px;display:flex;gap:12px;align-items:center;
+  }
+  .selfcause .ico{flex-shrink:0;width:46px;height:46px;}
+  .selfcause .txt{flex:1;}
+  .selfcause .ttl{font-size:14px;font-weight:900;color:var(--amber);margin-bottom:4px;}
+  .selfcause .dsc{font-size:12.5px;color:var(--txt);line-height:1.5;}
+  .selfcause .dsc strong{color:#ff7a74;}
+
+  /* 本文：基本動作カード */
+  .body{flex:1;display:flex;flex-direction:column;gap:12px;min-height:0;overflow-y:auto;justify-content:space-evenly;}
+  .sec-title{
+    font-size:14px;font-weight:900;color:var(--amber);letter-spacing:.05em;
+    display:flex;align-items:center;gap:8px;margin-top:2px;
+  }
+  .sec-title::before{content:'';width:4px;height:18px;background:var(--amber);border-radius:2px;}
+
+  .basics{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
+  .basic-card{
+    background:var(--panel2);border-radius:8px;padding:13px 14px;
+    border-left:4px solid var(--red);display:flex;align-items:center;gap:10px;
+  }
+  .basic-card .ico{flex-shrink:0;width:38px;height:38px;}
+  .basic-card .txt{flex:1;}
+  .basic-card .ttl{font-size:14px;font-weight:900;color:#fff;line-height:1.2;}
+  .basic-card .dsc{font-size:11px;color:var(--txt-sub);margin-top:3px;line-height:1.4;}
+
+  /* スローガン帯 */
+  .slogan{
+    flex-shrink:0;background:linear-gradient(90deg,var(--red-dark),var(--red));
+    border-radius:8px;padding:12px 16px;text-align:center;
+    position:relative;overflow:hidden;
+  }
+  .slogan .label{font-size:11px;color:#FFD0CE;font-weight:700;letter-spacing:.1em;margin-bottom:3px;}
+  .slogan .main{font-size:20px;font-weight:900;color:#fff;letter-spacing:.04em;text-shadow:0 2px 4px rgba(0,0,0,.4);line-height:1.3;}
+
+  .footer{flex-shrink:0;font-size:10px;color:var(--txt-sub);text-align:right;font-style:italic;}
+
+  /* 横長パネル（ダッシュボード右下）向け最適化 */
+  @media (max-aspect-ratio: 5/2) and (max-height: 480px), (min-aspect-ratio: 2/1){
+    .wrap{padding:8px;gap:6px;}
+    .alert-head{padding:7px 12px;}
+    .alert-head::before,.alert-head::after{height:4px;}
+    .alert-icon{width:38px;height:38px;}
+    .alert-title .big{font-size:19px;}
+    .alert-title .sub{font-size:11px;margin-top:1px;}
+    .breaking{padding:6px 10px;gap:8px;}
+    .breaking-label{font-size:10px;padding:3px 7px;}
+    .breaking-txt{font-size:12px;line-height:1.3;}
+    .body{gap:8px;justify-content:center;}
+    .sec-title{font-size:11px;}
+    .sec-title::before{height:13px;}
+    .basics{grid-template-columns:repeat(4,1fr);gap:5px;}
+    .basic-card{padding:6px 7px;flex-direction:column;text-align:center;gap:3px;}
+    .basic-card .ico{width:26px;height:26px;}
+    .basic-card .ttl{font-size:10.5px;}
+    .basic-card .dsc{font-size:8.5px;line-height:1.2;}
+    .selfcause{display:none;}  /* 横長では速報バナーに統合 */
+    .selfcause .ico{width:34px;height:34px;}
+    .selfcause .ttl{font-size:11.5px;margin-bottom:2px;}
+    .selfcause .dsc{font-size:10.5px;line-height:1.35;}
+    .slogan{padding:7px 12px;}
+    .slogan .label{font-size:9px;margin-bottom:1px;}
+    .slogan .main{font-size:14px;line-height:1.2;}
+    .footer{font-size:9px;}
+  }
+
+</style>
+</head>
+<body>
+<div class=&quot;wrap&quot;>
+
+  <!-- 警告ヘッダー -->
+  <div class=&quot;alert-head&quot;>
+    <svg class=&quot;alert-icon&quot; viewBox=&quot;0 0 64 64&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;>
+      <path d=&quot;M32 6 L60 56 H4 Z&quot; fill=&quot;#FFD400&quot; stroke=&quot;#000&quot; stroke-width=&quot;3&quot; stroke-linejoin=&quot;round&quot;/>
+      <rect x=&quot;28.5&quot; y=&quot;24&quot; width=&quot;7&quot; height=&quot;18&quot; rx=&quot;3.5&quot; fill=&quot;#000&quot;/>
+      <circle cx=&quot;32&quot; cy=&quot;49&quot; r=&quot;4&quot; fill=&quot;#000&quot;/>
+    </svg>
+    <div class=&quot;alert-title&quot;>
+      <div class=&quot;big&quot;>⚠ 安全運転 緊急喚起</div>
+      <div class=&quot;sub&quot;>事故ゼロは「基本の徹底」から</div>
+    </div>
+  </div>
+
+  <!-- 重大事故 速報 -->
+  <div class=&quot;breaking&quot;>
+    <span class=&quot;breaking-label&quot;>重大事故 発生</span>
+    <div class=&quot;breaking-txt&quot;>
+      社内・業界で<em>重大事故</em>が続発、<em>自責事故</em>（当て逃げ・物損・後退時接触）も増加中。<br>
+      「自分は大丈夫」が一番危険。<em>今日の一運行</em>に集中を。
+    </div>
+  </div>
+
+  <!-- 基本動作 -->
+  <div class=&quot;body&quot;>
+    <div class=&quot;sec-title&quot;>徹底すべき「安全確認」4つの基本</div>
+    <div class=&quot;basics&quot;>
+
+      <div class=&quot;basic-card&quot;>
+        <svg class=&quot;ico&quot; viewBox=&quot;0 0 48 48&quot; fill=&quot;none&quot;>
+          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;22&quot; fill=&quot;#E5342E&quot;/>
+          <path d=&quot;M14 24l7 7 13-14&quot; stroke=&quot;#fff&quot; stroke-width=&quot;4.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;/>
+        </svg>
+        <div class=&quot;txt&quot;>
+          <div class=&quot;ttl&quot;>指差呼称</div>
+          <div class=&quot;dsc&quot;>右よし・左よし。声と指で確認を習慣化</div>
+        </div>
+      </div>
+
+      <div class=&quot;basic-card&quot;>
+        <svg class=&quot;ico&quot; viewBox=&quot;0 0 48 48&quot; fill=&quot;none&quot;>
+          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;22&quot; fill=&quot;#E5342E&quot;/>
+          <ellipse cx=&quot;24&quot; cy=&quot;24&quot; rx=&quot;13&quot; ry=&quot;9&quot; fill=&quot;none&quot; stroke=&quot;#fff&quot; stroke-width=&quot;3.5&quot;/>
+          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;4.5&quot; fill=&quot;#fff&quot;/>
+        </svg>
+        <div class=&quot;txt&quot;>
+          <div class=&quot;ttl&quot;>目視・死角確認</div>
+          <div class=&quot;dsc&quot;>巻き込み・後退時は必ず直接目視</div>
+        </div>
+      </div>
+
+      <div class=&quot;basic-card&quot;>
+        <svg class=&quot;ico&quot; viewBox=&quot;0 0 48 48&quot; fill=&quot;none&quot;>
+          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;22&quot; fill=&quot;#E5342E&quot;/>
+          <path d=&quot;M24 12v13l9 5&quot; stroke=&quot;#fff&quot; stroke-width=&quot;4&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;/>
+          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;15&quot; fill=&quot;none&quot; stroke=&quot;#fff&quot; stroke-width=&quot;2.5&quot;/>
+        </svg>
+        <div class=&quot;txt&quot;>
+          <div class=&quot;ttl&quot;>十分な車間</div>
+          <div class=&quot;dsc&quot;>「だろう」より「かもしれない」運転</div>
+        </div>
+      </div>
+
+      <div class=&quot;basic-card&quot;>
+        <svg class=&quot;ico&quot; viewBox=&quot;0 0 48 48&quot; fill=&quot;none&quot;>
+          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;22&quot; fill=&quot;#E5342E&quot;/>
+          <rect x=&quot;15&quot; y=&quot;14&quot; width=&quot;18&quot; height=&quot;20&quot; rx=&quot;3&quot; fill=&quot;none&quot; stroke=&quot;#fff&quot; stroke-width=&quot;3&quot;/>
+          <path d=&quot;M20 22h8M20 27h8&quot; stroke=&quot;#fff&quot; stroke-width=&quot;3&quot; stroke-linecap=&quot;round&quot;/>
+        </svg>
+        <div class=&quot;txt&quot;>
+          <div class=&quot;ttl&quot;>一時停止の励行</div>
+          <div class=&quot;dsc&quot;>交差点・一旦停止は完全停止で</div>
+        </div>
+      </div>
+
+    </div>
+
+    <!-- 自責事故 注意 -->
+    <div class=&quot;selfcause&quot;>
+      <svg class=&quot;ico&quot; viewBox=&quot;0 0 56 56&quot; fill=&quot;none&quot;>
+        <rect x=&quot;6&quot; y=&quot;22&quot; width=&quot;44&quot; height=&quot;20&quot; rx=&quot;4&quot; fill=&quot;#F0B429&quot;/>
+        <rect x=&quot;12&quot; y=&quot;14&quot; width=&quot;32&quot; height=&quot;12&quot; rx=&quot;3&quot; fill=&quot;#F0B429&quot;/>
+        <circle cx=&quot;16&quot; cy=&quot;42&quot; r=&quot;5&quot; fill=&quot;#1C2333&quot; stroke=&quot;#fff&quot; stroke-width=&quot;2&quot;/>
+        <circle cx=&quot;40&quot; cy=&quot;42&quot; r=&quot;5&quot; fill=&quot;#1C2333&quot; stroke=&quot;#fff&quot; stroke-width=&quot;2&quot;/>
+        <path d=&quot;M44 18 L52 8&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3.5&quot; stroke-linecap=&quot;round&quot;/>
+        <path d=&quot;M48 8 L52 8 L52 12&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;/>
+        <path d=&quot;M42 30 l5 5 m0 -5 l-5 5&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3&quot; stroke-linecap=&quot;round&quot;/>
+      </svg>
+      <div class=&quot;txt&quot;>
+        <div class=&quot;ttl&quot;>⚑ 「自責事故」が増えています</div>
+        <div class=&quot;dsc&quot;>
+          相手のいない<strong>当て逃げ・物損・後退時の接触</strong>が多発。<br>
+          焦りと慣れが原因の大半です。<strong>降車時の周囲確認</strong>を忘れずに。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- スローガン -->
+  <div class=&quot;slogan&quot;>
+    <div class=&quot;label&quot;>━━ 今日のスローガン ━━</div>
+    <div class=&quot;main&quot;>「あせらず・無理せず・安全第一」<br>あなたの帰りを待つ人がいます</div>
+  </div>
+
+  <div class=&quot;footer&quot;>日本タクシー 安全管理室</div>
+
+</div>
+</body>
+</html>
+"
+            width="100%" height="100%"
+            frameborder="0"
+            title="安全注意喚起">
+          </iframe>
+        </div>
       </div>
     </section>
 
@@ -439,6 +693,55 @@
       document.getElementById("sw-am").textContent="天気取得エラー";
       document.getElementById("sw-am-desc").textContent="気象庁サイトに接続できませんでした。10分後の自動更新をお待ちください。";
     });
+</script>
+
+<!-- 右下パネル 自動切替スクリプト（点呼スライド ⇄ 安全注意喚起） -->
+<script>
+(function(){
+  var INTERVAL = 20000;      // 各20秒
+  var TICK = 250;            // プログレス更新間隔
+  var views = [
+    { slot:'ev-slide',  icon:'📋', title:'点呼情報・業務連絡', sub:'Googleスライド' },
+    { slot:'ev-safety', icon:'⚠️', title:'安全注意喚起',       sub:'重大事故・自責事故 警戒' }
+  ];
+  var idx = 0;
+  var elapsed = 0;
+
+  var slideEl  = document.getElementById('ev-slide');
+  var safetyEl = document.getElementById('ev-safety');
+  var iconEl   = document.getElementById('ev-icon');
+  var titleEl  = document.getElementById('ev-title');
+  var subEl    = document.getElementById('ev-sub');
+  var barEl    = document.getElementById('ev-progress');
+
+  function show(i){
+    var slots = [slideEl, safetyEl];
+    slots.forEach(function(el, n){
+      if(!el) return;
+      var on = (n === i);
+      el.style.opacity = on ? '1' : '0';
+      el.style.pointerEvents = on ? 'auto' : 'none';
+    });
+    var v = views[i];
+    if(iconEl)  iconEl.textContent  = v.icon;
+    if(titleEl) titleEl.textContent = v.title;
+    if(subEl)   subEl.textContent   = v.sub + ' ／ 20秒ごと自動切替';
+  }
+
+  show(0);
+
+  setInterval(function(){
+    elapsed += TICK;
+    var pct = Math.min(100, (elapsed / INTERVAL) * 100);
+    if(barEl) barEl.style.width = pct + '%';
+    if(elapsed >= INTERVAL){
+      elapsed = 0;
+      idx = (idx + 1) % views.length;
+      show(idx);
+      if(barEl) barEl.style.width = '0%';
+    }
+  }, TICK);
+})();
 </script>
 
 <!-- 全画面スクリプト -->
