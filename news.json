@@ -1,13 +1,62 @@
 {
-  "updated_at": "起動待ち",
-  "has_alert": false,
+  "updated_at": "2026-06-15 16:22",
+  "has_alert": true,
   "items": [
     {
-      "category": "info",
-      "label": "情報",
-      "text": "ニュース自動取得の準備中です。まもなく最新情報が表示されます。",
-      "source": "システム",
-      "time": ""
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日１５時４２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-15T06:45:09Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "沖縄本島北部に線状降水帯直前予測 避難の情報など確認を",
+      "source": "NHK",
+      "time": "Mon, 15 Jun 2026 16:10:45 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米とイラン 戦闘終結に向けて 19日スイスで覚書署名へ",
+      "source": "NHK",
+      "time": "Mon, 15 Jun 2026 14:49:24 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高市首相「事態収束へ大きな一歩として歓迎」米イラン合意",
+      "source": "NHK",
+      "time": "Mon, 15 Jun 2026 11:26:49 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領80歳誕生日 ホワイトハウスで総合格闘技 批判も",
+      "source": "NHK",
+      "time": "Mon, 15 Jun 2026 14:59:14 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "株価 終値も初の6万9000円台 アメリカとイラン 協議合意伝わり",
+      "source": "NHK",
+      "time": "Mon, 15 Jun 2026 15:54:28 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯 日本 初戦はオランダと引き分け 2度追いつく【詳しく】",
+      "source": "NHK",
+      "time": "Mon, 15 Jun 2026 12:51:22 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「DAZN」 年間プランを月額プランと受け取れる表示で謝罪",
+      "source": "NHK",
+      "time": "Mon, 15 Jun 2026 15:11:01 +0900"
     }
   ]
 }
