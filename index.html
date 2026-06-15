@@ -1129,23 +1129,30 @@
   }
 
   // ===== イベントページのHTMLを組み立てる =====
-  function buildEventHTML(ev){
+  function buildEventHTML(ev, part){
+    // part: 'all'(全部1ページ) / 'front'(前半:バナー+乗り場) / 'back'(後半:GO注意+需要)
+    part = part || 'all';
     var html = '';
     // 大型バナー（highlightで色を変える）
     var grad = ev.highlight
       ? 'linear-gradient(135deg,#0a3a8c 0%,#1453c4 60%,#c8102e 100%)'
       : 'linear-gradient(135deg,#1a5276 0%,#2980b9 100%)';
-    html += '<div style="background:'+grad+';border-radius:10px;padding:14px 16px;box-shadow:0 0 22px rgba(20,83,196,.4);">';
+    // 後半はバナーをやや小さく
+    var bannerPad = (part === 'back') ? '10px 16px' : '14px 16px';
+    var titleSize = (part === 'back') ? '17px' : '20px';
+    html += '<div style="background:'+grad+';border-radius:10px;padding:'+bannerPad+';box-shadow:0 0 22px rgba(20,83,196,.4);">';
     html += '<div style="display:flex;align-items:center;gap:12px;">';
-    html += '<span style="font-size:34px;line-height:1;">📣</span>';
+    html += '<span style="font-size:'+(part==='back'?'28px':'34px')+';line-height:1;">📣</span>';
     html += '<div style="flex:1;">';
     if(ev.subtitle) html += '<div style="font-size:11px;font-weight:700;color:#ffd966;letter-spacing:0.06em;margin-bottom:2px;">'+ev.subtitle+'</div>';
-    html += '<div style="font-size:20px;font-weight:900;color:#fff;line-height:1.2;text-shadow:0 2px 4px rgba(0,0,0,.4);">'+(ev.title||'')+'</div>';
+    html += '<div style="font-size:'+titleSize+';font-weight:900;color:#fff;line-height:1.2;text-shadow:0 2px 4px rgba(0,0,0,.4);">'+(ev.title||'')+'</div>';
     if(ev.venue) html += '<div style="font-size:13px;font-weight:700;color:#cfe0ff;margin-top:3px;">'+ev.venue+'</div>';
+    // 後半はページ表示を添える
+    if(part === 'back') html += '<div style="font-size:11px;color:#ffd966;font-weight:700;margin-top:2px;">▼ 配車の注意・営業のヒント</div>';
     html += '</div></div></div>';
 
-    // 乗り場変更の警告（taxiChangeがtrueの時）
-    if(ev.taxiChange){
+    // 乗り場変更の警告（前半 or 全部）
+    if(ev.taxiChange && part !== 'back'){
       html += '<div style="background:rgba(229,52,46,.14);border:2px solid #E5342E;border-radius:10px;padding:14px 16px;margin-top:10px;">';
       html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;"><span style="font-size:22px;">🚕</span><span style="font-size:16px;font-weight:900;color:#ff9090;letter-spacing:0.04em;">⚠ タクシー乗り場が変更になります</span></div>';
       html += '<div style="display:flex;align-items:center;gap:14px;justify-content:center;padding:6px 0;">';
@@ -1157,22 +1164,27 @@
       html += '</div>';
     }
 
-    // GOアプリ 注意事項（goWarningがある場合・黄色で強調）
-    if(ev.goWarning){
+    // GOアプリ 注意事項（後半 or 全部）
+    if(ev.goWarning && part !== 'front'){
       html += '<div style="background:rgba(240,180,41,.14);border:2px solid var(--accent);border-radius:10px;padding:12px 16px;margin-top:10px;">';
       html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;"><span style="font-size:20px;">📱</span><span style="font-size:15px;font-weight:900;color:var(--accent);letter-spacing:0.03em;">⚠ GOアプリ 配車にご注意</span></div>';
       html += '<div style="font-size:12.5px;color:#ffe6b0;line-height:1.6;">'+ev.goWarning+'</div>';
       html += '</div>';
     }
 
-    // 営業ヒント
-    if(ev.demandNote){
+    // 営業ヒント（後半 or 全部）
+    if(ev.demandNote && part !== 'front'){
       html += '<div class="info-card" style="margin-top:10px;border-left:4px solid #1453c4;">';
       html += '<div class="info-label">📈 需要のヒント</div>';
       html += '<div class="info-body" style="line-height:1.6;">'+ev.demandNote+'</div>';
       html += '</div>';
     }
     return html;
+  }
+
+  // イベントを2ページに分けるべきか判定（情報量が多い重要イベント）
+  function needsTwoPages(ev){
+    return ev.taxiChange && (ev.goWarning || ev.demandNote);
   }
 
   // ===== メイン：events.json を読み込んで初期化 =====
@@ -1192,22 +1204,28 @@
     var headEvent = null;
     if(activeEvents.length > 0 && templatePage && container){
       headEvent = activeEvents[0];
-      // 該当イベントの数だけページを生成（雛形を複製）
-      activeEvents.forEach(function(ev, i){
-        var page;
-        if(i === 0){
-          page = templatePage;      // 1件目は雛形を再利用
-        } else {
-          page = templatePage.cloneNode(false); // 属性だけ複製、中身は入れ替え
-          page.id = 'tr-event-page-' + i;
-          container.appendChild(page);
-        }
-        page.innerHTML = buildEventHTML(ev);
-        page.style.display = '';
-        page.setAttribute('data-icon', '📣');
-        page.setAttribute('data-title', 'イベント情報');
-        page.setAttribute('data-sub', (ev.title || 'イベント') + ' ／ 需要・乗り場案内');
-        page.setAttribute('data-is-event', '1');
+      var pageCounter = 0;
+      // 各イベントのページを生成（重要イベントは前半・後半の2ページ）
+      activeEvents.forEach(function(ev){
+        var parts = needsTwoPages(ev) ? ['front','back'] : ['all'];
+        parts.forEach(function(part){
+          var page;
+          if(pageCounter === 0){
+            page = templatePage;      // 最初の1枚は雛形を再利用
+          } else {
+            page = templatePage.cloneNode(false);
+            page.id = 'tr-event-page-' + pageCounter;
+            container.appendChild(page);
+          }
+          page.innerHTML = buildEventHTML(ev, part);
+          page.style.display = '';
+          page.setAttribute('data-icon', '📣');
+          page.setAttribute('data-title', 'イベント情報');
+          var subSuffix = (part === 'front') ? ' ／ 乗り場のご案内' : (part === 'back') ? ' ／ 配車注意・需要' : ' ／ 需要・乗り場案内';
+          page.setAttribute('data-sub', (ev.title || 'イベント') + subSuffix);
+          page.setAttribute('data-is-event', '1');
+          pageCounter++;
+        });
       });
     }
     applyHeaderBadge(headEvent !== null, headEvent ? headEvent.title : '', headEvent ? headEvent.specialSpot : '');
