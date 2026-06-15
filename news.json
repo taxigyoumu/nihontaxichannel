@@ -1,0 +1,13 @@
+{
+  "updated_at": "起動待ち",
+  "has_alert": false,
+  "items": [
+    {
+      "category": "info",
+      "label": "情報",
+      "text": "ニュース自動取得の準備中です。まもなく最新情報が表示されます。",
+      "source": "システム",
+      "time": ""
+    }
+  ]
+}
