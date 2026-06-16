@@ -725,6 +725,14 @@
             お使いのブラウザは動画再生に対応していません。
           </video>
         </div>
+        <div class="ev-slot" id="ev-video2" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;display:flex;align-items:center;justify-content:center;">
+          <video id="ev-video2-el"
+            muted loop playsinline autoplay preload="auto"
+            style="width:100%;height:100%;object-fit:contain;background:#000;">
+            <source src="movie2.mp4" type="video/mp4">
+            お使いのブラウザは動画再生に対応していません。
+          </video>
+        </div>
       </div>
     </section>
 
@@ -864,67 +872,55 @@
     });
 </script>
 
-<!-- 右下パネル 自動切替スクリプト（点呼スライド ⇄ 安全注意喚起 ⇄ ループ動画） -->
+<!-- 右下パネル 自動切替スクリプト（安全 ⇄ 動画 ⇄ 動画 ⇄ 手順前半 ⇄ 手順後半） -->
 <script>
 (function(){
-  var TICK = 250;            // プログレス更新間隔
-  // 各スロットの表示秒数（動画は長めに設定）
+  var TICK = 250;
   var views = [
-    { slot:'ev-safety',  icon:'⚠️', title:'安全注意喚起',        sub:'重大事故・自責事故 警戒',   dur:20000 },
-    { slot:'ev-video',   icon:'🎬', title:'業務連絡 動画',        sub:'ループ再生',                dur:30000 },
-    { slot:'ev-dennou1', icon:'📱', title:'電脳交通アプリ 更新手順', sub:'前半 ①〜③',               dur:18000 },
-    { slot:'ev-dennou2', icon:'📱', title:'電脳交通アプリ 更新手順', sub:'後半 ④〜⑤',               dur:18000 }
+    { slot:'ev-safety',  icon:'⚠️', title:'安全注意喚起',        sub:'重大事故・自責事故 警戒',   dur:20000, video:null },
+    { slot:'ev-video',   icon:'🎬', title:'業務連絡 動画',        sub:'事故防止 注意喚起',          dur:30000, video:'ev-video-el' },
+    { slot:'ev-video2',  icon:'🎬', title:'業務連絡 動画',        sub:'GO後席決済機の注意事項',     dur:28000, video:'ev-video2-el' },
+    { slot:'ev-dennou1', icon:'📱', title:'電脳交通アプリ 更新手順', sub:'前半 ①〜③',               dur:18000, video:null },
+    { slot:'ev-dennou2', icon:'📱', title:'電脳交通アプリ 更新手順', sub:'後半 ④〜⑤',               dur:18000, video:null }
   ];
   var idx = 0;
   var elapsed = 0;
+  var currentIdx = 0;
 
-  var safetyEl  = document.getElementById('ev-safety');
-  var videoEl   = document.getElementById('ev-video');
-  var dennou1El = document.getElementById('ev-dennou1');
-  var dennou2El = document.getElementById('ev-dennou2');
-  var videoTag  = document.getElementById('ev-video-el');
   var iconEl   = document.getElementById('ev-icon');
   var titleEl  = document.getElementById('ev-title');
   var subEl    = document.getElementById('ev-sub');
   var barEl    = document.getElementById('ev-progress');
 
-  var slots = [safetyEl, videoEl, dennou1El, dennou2El];  // views順と一致
+  var slots = views.map(function(v){ return document.getElementById(v.slot); });
+  // 全動画要素を集める
+  var allVideoTags = views.filter(function(v){return v.video;}).map(function(v){ return document.getElementById(v.video); });
 
-  // 動画の確実な再生を試みる（失敗してもリトライ）
-  function tryPlayVideo(){
-    if(!videoTag) return;
-    // 念のためミュート（自動再生の必須条件）
-    videoTag.muted = true;
-    videoTag.defaultMuted = true;
-    var pr = videoTag.play();
+  // 指定の動画を確実に再生（失敗してもリトライ）
+  function tryPlay(tag){
+    if(!tag) return;
+    tag.muted = true; tag.defaultMuted = true;
+    var pr = tag.play();
     if(pr && typeof pr.catch === 'function'){
       pr.catch(function(){
-        // 自動再生がブロックされた場合、少し後に再試行
         setTimeout(function(){
-          videoTag.muted = true;
-          var p2 = videoTag.play();
+          tag.muted = true;
+          var p2 = tag.play();
           if(p2 && typeof p2.catch === 'function'){ p2.catch(function(){}); }
         }, 500);
       });
     }
   }
 
-  // 動画の読み込みが完了していなければ読み込みを促す
-  if(videoTag){
-    videoTag.muted = true;
-    videoTag.setAttribute('muted','');
-    videoTag.setAttribute('playsinline','');
-    // 読み込みエラー時は再ロードを試みる
-    videoTag.addEventListener('error', function(){
-      try { videoTag.load(); } catch(e){}
-    });
-    // メタデータ読み込み後に一度再生を試みる（先頭フレーム表示のため）
-    videoTag.addEventListener('loadeddata', function(){
-      if(currentIdx === 1) tryPlayVideo();
-    });
-  }
-
-  var currentIdx = 0;
+  // 各動画にエラー再ロード・初回再生を仕込む
+  allVideoTags.forEach(function(tag){
+    if(!tag) return;
+    tag.muted = true;
+    tag.loop = true;   // 最後まで再生したら先頭に戻ってループ（保証）
+    tag.setAttribute('muted','');
+    tag.setAttribute('playsinline','');
+    tag.addEventListener('error', function(){ try { tag.load(); } catch(e){} });
+  });
 
   function show(i){
     currentIdx = i;
@@ -934,36 +930,37 @@
       el.style.opacity = on ? '1' : '0';
       el.style.pointerEvents = on ? 'auto' : 'none';
     });
-    // 動画スロットの再生制御（続きから再生：currentTimeはリセットしない）
-    if(videoTag){
-      if(i === 1){
-        tryPlayVideo();
-      } else {
-        try { videoTag.pause(); } catch(e){}
-      }
-    }
+    // 動画制御：表示中スロットの動画は「続きから」再生（currentTimeはリセットしない）、
+    // 他の動画は一時停止して位置を保持。loop属性で最後まで行けば自動的に先頭へ戻る。
+    var activeVideoId = views[i].video;
+    allVideoTags.forEach(function(tag){
+      if(!tag) return;
+      if(tag.id === activeVideoId){ tryPlay(tag); }   // 続きから再生
+      else { try { tag.pause(); } catch(e){} }        // 位置を保持して停止
+    });
     var v = views[i];
     if(iconEl)  iconEl.textContent  = v.icon;
     if(titleEl) titleEl.textContent = v.title;
     if(subEl)   subEl.textContent   = v.sub + ' ／ 自動切替';
   }
 
-  // 最初のユーザー操作（クリック・タップ・キー）で動画を一度起こす
-  // （サイネージで一度でも画面に触れれば、以降の自動再生が安定する）
-  function primeVideo(){
-    if(videoTag){
-      videoTag.muted = true;
-      var p = videoTag.play();
+  // 最初のユーザー操作で全動画を一度起こす（自動再生安定化）
+  function primeVideos(){
+    allVideoTags.forEach(function(tag){
+      if(!tag) return;
+      tag.muted = true;
+      var p = tag.play();
       if(p && typeof p.catch === 'function'){ p.catch(function(){}); }
-      if(currentIdx !== 1){ try { videoTag.pause(); } catch(e){} }
-    }
-    document.removeEventListener('click', primeVideo);
-    document.removeEventListener('touchstart', primeVideo);
-    document.removeEventListener('keydown', primeVideo);
+      // 今表示中の動画でなければ止める
+      if(tag.id !== views[currentIdx].video){ try { tag.pause(); } catch(e){} }
+    });
+    document.removeEventListener('click', primeVideos);
+    document.removeEventListener('touchstart', primeVideos);
+    document.removeEventListener('keydown', primeVideos);
   }
-  document.addEventListener('click', primeVideo);
-  document.addEventListener('touchstart', primeVideo);
-  document.addEventListener('keydown', primeVideo);
+  document.addEventListener('click', primeVideos);
+  document.addEventListener('touchstart', primeVideos);
+  document.addEventListener('keydown', primeVideos);
 
   show(0);
 
