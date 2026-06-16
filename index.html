@@ -444,6 +444,10 @@
             </div>
           </div>
           <div style="margin-top:10px;background:rgba(240,180,41,.1);border:1px solid var(--accent);border-radius:6px;padding:9px 14px;font-size:12.5px;line-height:1.5;flex-shrink:0;">💡 <b style="color:var(--accent);">最初から「開く」と表示</b>されている場合は、すでに最新です。操作は不要です。</div>
+          <div style="margin-top:8px;background:rgba(74,158,219,.12);border:1px solid #4A9EDB;border-radius:6px;padding:9px 14px;font-size:12.5px;line-height:1.55;flex-shrink:0;">
+            <b style="color:#9ecbff;">🆕 更新でこんなに便利に（Ver1.124以上）</b><br>
+            待機所・行き先選択で<b style="color:#fff;">親項目（▼〇〇市など）</b>を選んだ後、<b style="color:#fff;">「戻る」</b>をタップすれば1ページ目に戻れるようになりました。
+          </div>
         </div>
         <!-- ② 安全注意喚起ページ -->
         <div class="ev-slot" id="ev-safety" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;">
@@ -566,6 +570,7 @@
     .basic-card .ttl{font-size:10.5px;}
     .basic-card .dsc{font-size:8.5px;line-height:1.2;}
     .selfcause{display:none;}  /* 横長では速報バナーに統合 */
+    .selfcause.nagara{display:flex;margin-top:8px;}  /* ながら運転は横長でも必ず表示 */
     .selfcause .ico{width:34px;height:34px;}
     .selfcause .ttl{font-size:11.5px;margin-bottom:2px;}
     .selfcause .dsc{font-size:10.5px;line-height:1.35;}
@@ -672,6 +677,23 @@
         <div class=&quot;dsc&quot;>
           相手のいない<strong>当て逃げ・物損・後退時の接触</strong>が多発。<br>
           焦りと慣れが原因の大半です。<strong>降車時の周囲確認</strong>を忘れずに。
+        </div>
+      </div>
+    </div>
+
+    <!-- ながら運転 注意喚起 -->
+    <div class=&quot;selfcause nagara&quot; style=&quot;border-color:#E5342E;background:rgba(229,52,46,.12);&quot;>
+      <svg class=&quot;ico&quot; viewBox=&quot;0 0 56 56&quot; fill=&quot;none&quot;>
+        <rect x=&quot;16&quot; y=&quot;8&quot; width=&quot;24&quot; height=&quot;40&quot; rx=&quot;4&quot; fill=&quot;none&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3.5&quot;/>
+        <rect x=&quot;21&quot; y=&quot;14&quot; width=&quot;14&quot; height=&quot;22&quot; fill=&quot;#F0B429&quot;/>
+        <circle cx=&quot;28&quot; cy=&quot;42&quot; r=&quot;2.5&quot; fill=&quot;#E5342E&quot;/>
+        <path d=&quot;M44 12 L52 4 M47 4 L52 4 L52 9&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;/>
+      </svg>
+      <div class=&quot;txt&quot;>
+        <div class=&quot;ttl&quot; style=&quot;color:#ff6b6b;&quot;>📱 タブレット・GO操作の「ながら・脇見運転」厳禁！</div>
+        <div class=&quot;dsc&quot;>
+          パッと脇見した一瞬で、<strong style=&quot;color:#ffd966;&quot;>時速40kmなら2秒で約22m</strong>も進みます。<br>
+          配車確認・操作は<strong>必ず停車してから</strong>。走行中の画面注視は重大事故に直結します。
         </div>
       </div>
     </div>
