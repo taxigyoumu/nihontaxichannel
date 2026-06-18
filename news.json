@@ -1,7 +1,42 @@
 {
-  "updated_at": "2026-06-18 20:56",
+  "updated_at": "2026-06-19 05:43",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サッカーW杯 日本代表の主力 久保建英がチュニジア戦欠場へ",
+      "source": "NHK",
+      "time": "Fri, 19 Jun 2026 02:18:39 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "心停止し死亡した人からの提供で心臓移植 学会が導入検討",
+      "source": "NHK",
+      "time": "Fri, 19 Jun 2026 00:14:37 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "2040年度までの17分野の官民投資額 370兆円規模を想定",
+      "source": "NHK",
+      "time": "Thu, 18 Jun 2026 23:53:44 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "円相場 一時1ドル＝161円台に FRB利上げ観測で 1年11か月ぶり",
+      "source": "NHK",
+      "time": "Fri, 19 Jun 2026 05:17:51 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "天皇陛下 国王出身のオランダ最古の大学へ",
+      "source": "NHK",
+      "time": "Fri, 19 Jun 2026 05:16:09 +0900"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -12,44 +47,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本経済はどうなる？ 米・イランが覚書署名で【詳しく】",
+      "text": "日鉄 USスチール買収1年 森副会長 “成長は海外にしかない”",
       "source": "NHK",
-      "time": "Thu, 18 Jun 2026 19:42:06 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "妊娠中の女性はねられ死亡 被告に実刑判決 胎児の被害にも言及",
-      "source": "NHK",
-      "time": "Thu, 18 Jun 2026 19:28:33 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "株価 終値として初の7万円超え 最高値を更新",
-      "source": "NHK",
-      "time": "Thu, 18 Jun 2026 16:29:33 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トクリュウ 案件屋など主に5段階の役割か 情報100万円で売買も",
-      "source": "NHK",
-      "time": "Thu, 18 Jun 2026 20:11:14 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカーW杯 チュニジア戦へ日本が調整再開 久保は左ひざ負傷",
-      "source": "NHK",
-      "time": "Thu, 18 Jun 2026 19:40:54 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "円相場 1ドル＝160円台後半に値下がり 米利上げ観測広がり",
-      "source": "NHK",
-      "time": "Thu, 18 Jun 2026 18:36:53 +0900"
+      "time": "Fri, 19 Jun 2026 05:26:47 +0900"
     }
   ]
 }
