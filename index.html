@@ -397,6 +397,52 @@
           </div>
         </div>
 
+        <!-- ▼ お知らせ：東柳ヶ瀬営業所 待機不可（2026-06-21まで表示） -->
+        <div class="tr-page" id="tr-oshirase-0621"
+             data-icon="📢" data-title="【重要】乗務員へのお知らせ" data-sub="東柳ヶ瀬営業所 ／ 6月21日（日）待機不可"
+             data-until="2026-06-21"
+             style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;">
+
+          <!-- バナー -->
+          <div style="display:flex;align-items:center;gap:12px;background:linear-gradient(135deg,#7a1010 0%,#c8102e 60%,#1453c4 100%);border-radius:10px;padding:11px 16px;margin-bottom:10px;flex-shrink:0;box-shadow:0 0 18px rgba(200,16,46,.4);">
+            <span style="font-size:26px;line-height:1;">📢</span>
+            <div style="flex:1;">
+              <div style="font-size:11px;font-weight:700;color:#ffd966;letter-spacing:0.08em;margin-bottom:3px;">重要 ／ 乗務員の皆様へ　株式会社日本タクシー</div>
+              <div style="font-size:17px;font-weight:900;color:#fff;line-height:1.2;">東柳ヶ瀬営業所　待機・駐車できません</div>
+            </div>
+            <div style="background:#E5342E;color:#fff;font-size:12px;font-weight:900;padding:5px 10px;border-radius:7px;text-align:center;line-height:1.6;flex-shrink:0;animation:blink 1.4s step-start infinite;">6/21<br>のみ</div>
+          </div>
+
+          <!-- 理由 -->
+          <div style="background:rgba(240,180,41,.1);border:1px solid var(--accent);border-radius:8px;padding:9px 14px;margin-bottom:8px;font-size:12.5px;line-height:1.7;color:var(--text-primary);">
+            🛍️ 美殿町商店街「<b style="color:var(--accent);">サンデービルヂングマーケット</b>」開催に伴い、東柳ヶ瀬営業所のスペースを貸し出します。<br>
+            <span style="font-size:11px;color:var(--text-secondary);">※ 美殿町通りの通行止めはありません。岐阜市中心商店街のにぎわい創出の取り組みです。</span>
+          </div>
+
+          <!-- 詳細 -->
+          <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:7px;margin-bottom:8px;">
+            <div style="background:var(--bg-panel-hover);border-radius:8px;padding:9px 12px;border-top:3px solid #E5342E;text-align:center;">
+              <div style="font-size:10px;color:var(--text-secondary);margin-bottom:4px;">📅 日にち</div>
+              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;">6月21日<br><span style="font-size:12px;color:#ff9090;">（日曜日）</span></div>
+            </div>
+            <div style="background:var(--bg-panel-hover);border-radius:8px;padding:9px 12px;border-top:3px solid var(--accent);text-align:center;">
+              <div style="font-size:10px;color:var(--text-secondary);margin-bottom:4px;">⏰ 時 間</div>
+              <div style="font-size:13px;font-weight:900;color:#fff;line-height:1.5;">8:30 〜 17:00</div>
+            </div>
+            <div style="background:var(--bg-panel-hover);border-radius:8px;padding:9px 12px;border-top:3px solid #4A9EDB;text-align:center;">
+              <div style="font-size:10px;color:var(--text-secondary);margin-bottom:4px;">📍 場 所</div>
+              <div style="font-size:13px;font-weight:900;color:#fff;line-height:1.5;">東柳ヶ瀬<br>営業所</div>
+            </div>
+          </div>
+
+          <!-- 注意事項 -->
+          <div style="background:rgba(229,52,46,.12);border:1.5px solid #E5342E;border-radius:8px;padding:9px 14px;font-size:12.5px;line-height:1.7;color:var(--text-primary);">
+            ⚠️ <b style="color:#ff9090;">上記の時間帯は、東柳ヶ瀬営業所での待機・駐車はご遠慮ください。</b><br>
+            ご不便をおかけしますが、ご協力をお願いいたします🙇‍♂️
+          </div>
+
+        </div>
+
         <!-- ▼ イベントページ（events.json から動的生成・日付連動） -->
         <div class="tr-page" id="tr-event-page" data-icon="📣" data-title="イベント情報" data-sub="臨時タクシー乗り場 案内" data-is-event="1"
              style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;display:none;">
@@ -1324,9 +1370,14 @@
     }
     applyHeaderBadge(headEvent !== null, headEvent ? headEvent.title : '', headEvent ? headEvent.specialSpot : '');
 
-    // 表示対象ページ収集
+    // 表示対象ページ収集（data-until 期限切れは自動非表示）
     var allPages = Array.prototype.slice.call(document.querySelectorAll('#panel-transit .tr-page'));
-    var pages = allPages.filter(function(p){ return p.style.display !== 'none'; });
+    var pages = allPages.filter(function(p){
+      if (p.style.display === 'none') return false;
+      var until = p.getAttribute('data-until');
+      if (until && todayStr > until) { p.style.display = 'none'; return false; }
+      return true;
+    });
     if(pages.length === 0) return;
 
     var iconEl  = document.getElementById('tr-icon');
