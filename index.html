@@ -193,18 +193,40 @@
   <!-- 4分割グリッド -->
   <main id="grid">
 
-    <!-- 左上：雨雲レーダー -->
+    <!-- 左上：雨雲レーダー / QRコード 20秒切替 -->
     <section class="panel" id="panel-weather">
       <div class="panel-header">
-        <span class="panel-icon">🌤</span>
-        <span class="panel-title">雨雲レーダー（岐阜市周辺）</span>
-        <span class="panel-subtitle">実況・リアルタイム</span>
+        <span class="panel-icon" id="weather-panel-icon">🌤</span>
+        <span class="panel-title" id="weather-panel-title">雨雲レーダー（岐阜市周辺）</span>
+        <span class="panel-subtitle" id="weather-panel-subtitle">実況・リアルタイム</span>
       </div>
-      <div class="panel-body">
-        <iframe
-          src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km/h&zoom=10&overlay=radar&product=radar&level=surface&lat=35.4233&lon=136.7607&detailLat=35.4233&detailLon=136.7607&marker=true"
-          frameborder="0">
-        </iframe>
+      <!-- 切替プログレスバー -->
+      <div style="height:3px;background:var(--border);flex-shrink:0;">
+        <div id="weather-progress" style="height:100%;width:0%;background:#4A9EDB;transition:width .25s linear;"></div>
+      </div>
+      <div class="panel-body" style="position:relative;">
+        <!-- 雨雲レーダー -->
+        <div id="weather-radar" style="position:absolute;inset:0;opacity:1;transition:opacity .5s ease;">
+          <iframe
+            src="https://embed.windy.com/embed.html?type=map&location=coordinates&metricRain=mm&metricTemp=%C2%B0C&metricWind=km/h&zoom=10&overlay=radar&product=radar&level=surface&lat=35.4233&lon=136.7607&detailLat=35.4233&detailLon=136.7607&marker=true"
+            frameborder="0" style="width:100%;height:100%;border:none;display:block;">
+          </iframe>
+        </div>
+        <!-- QRコード -->
+        <div id="weather-qr" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--bg-panel);padding:20px;gap:14px;">
+          <img
+            src="https://chart.googleapis.com/chart?cht=qr&chl=https%3A%2F%2Ftaxigyoumu.github.io%2Fnihontaxichannel%2F&chs=240x240&choe=UTF-8&chld=M|2"
+            alt="QRコード"
+            style="width:200px;height:200px;background:#fff;padding:10px;border-radius:12px;box-shadow:0 0 20px rgba(74,158,219,0.4);">
+          <div style="text-align:center;">
+            <div style="font-size:16px;font-weight:900;color:#4A9EDB;margin-bottom:10px;letter-spacing:0.04em;">📱 スマホでご覧いただけます</div>
+            <div style="font-size:13px;color:var(--text-primary);line-height:2;background:var(--bg-panel-hover);border-radius:8px;padding:10px 18px;border:1px solid var(--border);">
+              QRコードを読み込んで下さい。<br>
+              スマホで見ることができます。<br>
+              いろいろ情報を発信していきます。
+            </div>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -1524,5 +1546,44 @@
   }
 </script>
 
+<!-- 左上パネル 雨雲レーダー / QRコード 20秒切替 -->
+<script>
+(function(){
+  var INTERVAL = 20000;
+  var TICK = 250;
+  var showRadar = true;
+  var elapsed = 0;
+
+  var radarEl    = document.getElementById('weather-radar');
+  var qrEl       = document.getElementById('weather-qr');
+  var barEl      = document.getElementById('weather-progress');
+  var iconEl     = document.getElementById('weather-panel-icon');
+  var titleEl    = document.getElementById('weather-panel-title');
+  var subtitleEl = document.getElementById('weather-panel-subtitle');
+
+  function show(isRadar) {
+    showRadar = isRadar;
+    if (radarEl) { radarEl.style.opacity = isRadar ? '1' : '0'; radarEl.style.pointerEvents = isRadar ? 'auto' : 'none'; }
+    if (qrEl)    { qrEl.style.opacity    = isRadar ? '0' : '1'; qrEl.style.pointerEvents    = isRadar ? 'none' : 'auto'; }
+    if (iconEl)     iconEl.textContent     = isRadar ? '🌤' : '📱';
+    if (titleEl)    titleEl.textContent    = isRadar ? '雨雲レーダー（岐阜市周辺）' : 'スマホでも見れます！';
+    if (subtitleEl) subtitleEl.textContent = isRadar ? '実況・リアルタイム' : '20秒ごと自動切替';
+    if (barEl) barEl.style.background = isRadar ? '#4A9EDB' : 'var(--accent)';
+  }
+
+  setInterval(function() {
+    elapsed += TICK;
+    var pct = Math.min(100, (elapsed / INTERVAL) * 100);
+    if (barEl) barEl.style.width = pct + '%';
+    if (elapsed >= INTERVAL) {
+      elapsed = 0;
+      show(!showRadar);
+      if (barEl) barEl.style.width = '0%';
+    }
+  }, TICK);
+})();
+</script>
+
 </body>
 </html>
+
