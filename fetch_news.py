@@ -15,6 +15,7 @@ GitHub Actions から定期実行される想定。
 """
 
 import json
+import re
 import sys
 import datetime
 import xml.etree.ElementTree as ET
@@ -37,6 +38,32 @@ def fetch(url):
     req = urllib.request.Request(url, headers=HEADERS)
     with urllib.request.urlopen(req, timeout=TIMEOUT) as res:
         return res.read()
+
+
+def fetch_ogp_image(url):
+    """記事ページからOGP画像URLを取得する"""
+    if not url:
+        return None
+    try:
+        req = urllib.request.Request(url, headers=HEADERS)
+        with urllib.request.urlopen(req, timeout=8) as res:
+            html = res.read().decode("utf-8", errors="ignore")
+        # property="og:image" content="..." の順
+        m = re.search(
+            r'<meta[^>]+property=["\']og:image["\'][^>]+content=["\']([^"\']+)["\']',
+            html, re.IGNORECASE
+        )
+        if not m:
+            # content="..." property="og:image" の順
+            m = re.search(
+                r'<meta[^>]+content=["\']([^"\']+)["\'][^>]+property=["\']og:image["\']',
+                html, re.IGNORECASE
+            )
+        if m:
+            return m.group(1).strip()
+    except Exception as e:
+        print(f"[warn] OGP fetch error ({url}): {e}", file=sys.stderr)
+    return None
 
 
 def parse_atom_entries(xml_bytes, limit=30):
@@ -110,7 +137,7 @@ def get_jma_quake():
 
 
 def get_nhk_headlines():
-    """NHK主要ニュースの見出しのみ取得（本文は保存しない・出典明記）"""
+    """NHK主要ニュースの見出しとOGP画像を取得（本文は保存しない・出典明記）"""
     url = "https://www.nhk.or.jp/rss/news/cat0.xml"
     items = []
     try:
@@ -123,14 +150,27 @@ def get_nhk_headlines():
     for item in root.findall(".//item")[:8]:
         title = (item.findtext("title") or "").strip()
         pub = (item.findtext("pubDate") or "").strip()
-        if title:
-            items.append({
-                "category": "news",
-                "label": "ニュース",
-                "text": title,          # 見出しのみ
-                "source": "NHK",        # 出典明記
-                "time": pub,
-            })
+        link = (item.findtext("link") or "").strip()
+        if not title:
+            continue
+        # 上位5件のみ記事ページからOGP画像を取得（時間短縮のため）
+        image = None
+        if link and len(items) < 5:
+            image = fetch_ogp_image(link)
+            if image:
+                print(f"[ok] OGP image found: {title[:20]}...", file=sys.stderr)
+            else:
+                print(f"[info] OGP image not found: {title[:20]}...", file=sys.stderr)
+        entry = {
+            "category": "news",
+            "label": "ニュース",
+            "text": title,
+            "source": "NHK",
+            "time": pub,
+        }
+        if image:
+            entry["image"] = image
+        items.append(entry)
     return items
 
 
