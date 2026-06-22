@@ -1,62 +1,60 @@
 {
-  "updated_at": "2026-06-22 07:00",
-  "has_alert": true,
+  "updated_at": "2026-06-22 15:13",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日０５時０５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-21T20:08:22Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカとイランの協議 仲介国が共同声明で成果強調",
+      "source": "NHK",
+      "time": "Mon, 22 Jun 2026 11:50:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260622/K10015156131_2606221135_0622115059_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米とイラン 覚書後初の協議 イランがトランプ大統領に反発",
+      "text": "高市首相 中傷動画報道 近日中に秘書の陳述書を提出の意向",
       "source": "NHK",
-      "time": "Mon, 22 Jun 2026 06:47:54 +0900"
+      "time": "Mon, 22 Jun 2026 15:01:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260622/K10015156071_2606221101_0622120742_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 日本がチュニジアに勝利 鎌田 上田 伊東ゴール【詳しく】",
+      "text": "人形に隠し金塊を密輸しようとしたか 中国籍社長ら6人逮捕",
       "source": "NHK",
-      "time": "Sun, 21 Jun 2026 20:42:09 +0900"
+      "time": "Mon, 22 Jun 2026 12:34:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260622/K10015156161_2606221217_0622123457_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国会会期末まで1か月切る 与野党 法案めぐる調整が本格化へ",
+      "text": "鹿児島 霧島 温泉施設で5歳男児が行方不明 川に流されたか",
       "source": "NHK",
-      "time": "Mon, 22 Jun 2026 05:15:36 +0900"
+      "time": "Mon, 22 Jun 2026 10:58:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260622/K10015156081_2606221052_0622105825_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 旭川 高校生殺害事件の裁判 23歳被告にきょう判決",
+      "text": "コロンビア大統領選 親米右派候補が勝利宣言 米の影響力拡大か",
       "source": "NHK",
-      "time": "Mon, 22 Jun 2026 05:36:33 +0900"
+      "time": "Mon, 22 Jun 2026 14:13:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260622/K10015156201_2606221347_0622141343_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄戦81年 当時の県知事 島田叡の資料50点以上 親族が保管",
+      "text": "“国際犯罪組織”幹部か うその転入届提出疑いで逮捕 警視庁",
       "source": "NHK",
-      "time": "Mon, 22 Jun 2026 05:23:37 +0900"
+      "time": "Mon, 22 Jun 2026 11:28:28 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“書店の減少に歯止めを” 15社が収益改善に向け共同声明",
+      "text": "株価 初の7万2000円台 “米イラン協議に進展”の見方から",
       "source": "NHK",
-      "time": "Mon, 22 Jun 2026 05:40:52 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ゼレンスキー大統領「2000キロ以上離れた製油所攻撃」",
-      "source": "NHK",
-      "time": "Mon, 22 Jun 2026 06:17:04 +0900"
+      "time": "Mon, 22 Jun 2026 12:03:01 +0900"
     }
   ]
 }
