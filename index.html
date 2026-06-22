@@ -250,6 +250,7 @@
               <span id="news-main-label" style="font-size:13px;font-weight:900;padding:4px 12px;border-radius:6px;background:var(--accent);color:#000;letter-spacing:0.05em;">ニュース</span>
               <span id="news-main-source" style="font-size:12px;color:var(--text-secondary);"></span>
             </div>
+            <img id="news-main-img" style="display:none;width:100%;max-height:150px;object-fit:cover;border-radius:8px;margin-bottom:10px;" alt="">
             <div id="news-main-text" style="font-size:24px;font-weight:700;line-height:1.5;color:var(--text-primary);"></div>
           </div>
         </div>
@@ -1472,6 +1473,7 @@
   var elMain       = document.getElementById('news-main');
   var elMainLabel  = document.getElementById('news-main-label');
   var elMainSource = document.getElementById('news-main-source');
+  var elMainImg    = document.getElementById('news-main-img');
   var elMainText   = document.getElementById('news-main-text');
   var elTicker     = document.getElementById('news-ticker');
   var elProgress   = document.getElementById('news-progress');
@@ -1512,6 +1514,15 @@
       elMainLabel.style.background = st.color;
       elMainLabel.style.color = (it.category==='news'||it.category==='info') ? '#fff' : '#000';
       elMainSource.textContent = it.source ? ('出典: ' + it.source) : '';
+      if(it.image){
+        elMainImg.src = it.image;
+        elMainImg.style.display = 'block';
+        elMainText.style.fontSize = '17px';
+      } else {
+        elMainImg.style.display = 'none';
+        elMainImg.src = '';
+        elMainText.style.fontSize = '24px';
+      }
       elMainText.textContent = it.text;
       elMainText.style.color = (it.category==='news'||it.category==='info') ? 'var(--text-primary)' : st.text;
       elIcon.textContent = st.icon;
