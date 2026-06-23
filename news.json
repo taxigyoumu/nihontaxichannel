@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-06-23 07:28",
-  "has_alert": true,
+  "updated_at": "2026-06-23 19:48",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２３日０７時２０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-22T22:24:15Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "西日本 25日にかけ大雨 長崎県と熊本県で線状降水帯発生おそれ",
+      "source": "NHK",
+      "time": "Tue, 23 Jun 2026 19:18:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015156921_2606231851_0623191900_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 イラン 覚書めぐる協議 実務レベルでの協議の行方が焦点に",
+      "text": "旧統一教会に解散命じた司法判断が確定 特別抗告退ける 最高裁",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 07:18:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015156631_2606230426_0623053752_01_02.jpg"
+      "time": "Tue, 23 Jun 2026 19:29:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157291_2606231706_0623171009_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄戦から81年の慰霊の日 平和への願いを新たにする1日に",
+      "text": "東京23区中古マンション 平均1億2800万円余 賃貸の家賃も上昇",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 07:12:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015156581_2606230618_0623062542_01_02.jpg"
+      "time": "Tue, 23 Jun 2026 18:29:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015156891_2606231405_0623143731_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神戸 冷凍庫から発見の遺体 部屋の元住人で2011年ごろに死亡か",
+      "text": "トランプ政権「イランがＩＡＥＡ査察に合意」イランは否定",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 00:34:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015156711_2606230029_0623003401_01_02.jpg"
+      "time": "Tue, 23 Jun 2026 19:11:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015156631_2606231859_0623191149_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "英首相が辞意表明 “次の首相 バーナム下院議員の可能性高い”",
+      "text": "1422万件のアドレスなど流出か KDDIシステムに不正アクセス",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 05:01:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015156691_2606230242_0623050113_01_02.jpg"
+      "time": "Tue, 23 Jun 2026 18:46:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157301_2606231716_0623171730_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場 約39年半ぶりの円安水準に迫る 市場介入の警戒も",
+      "text": "天皇皇后両陛下 ベルギーで歓迎式典に",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 03:04:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015156751_2606230252_0623060047_01_02.jpg"
+      "time": "Tue, 23 Jun 2026 19:12:29 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "片山財務相 米ベッセント財務長官と会談 為替動向を意見交換か",
+      "text": "沖縄戦81年「慰霊の日」 戦没者追悼式【詳細】",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 01:14:29 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "株式で従業員に報酬 上場企業の6割が導入 人材定着がねらいか",
-      "source": "NHK",
-      "time": "Tue, 23 Jun 2026 05:47:49 +0900"
+      "time": "Tue, 23 Jun 2026 18:28:39 +0900"
     }
   ]
 }
