@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-06-24 02:31",
-  "has_alert": false,
+  "updated_at": "2026-06-24 07:46",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "西日本 25日にかけ大雨 長崎・熊本・佐賀で線状降水帯のおそれ",
-      "source": "NHK",
-      "time": "Wed, 24 Jun 2026 00:39:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015156921_2606240129_0624012919_01_02.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日０５時１７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-23T20:20:01Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神戸 冷凍庫から男性遺体 元妻を遺体遺棄の疑いで逮捕",
+      "text": "線状降水帯 九州北部で発生おそれ 長崎県南部には「直前予測」",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 21:57:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157631_2606232152_0623215336_01_02.jpg"
+      "time": "Wed, 24 Jun 2026 07:11:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157571_2606240707_0624071200_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "島根 出雲 商店街で火事 10棟以上に延焼 けが人の情報なし",
+      "text": "佐賀 鹿島 一部地域に避難指示",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 00:19:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157651_2606232130_0624002943_01_02.jpg"
+      "time": "Wed, 24 Jun 2026 04:40:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157711_2606240438_0624044028_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "皇族数確保「立法府の総意」とりまとめの協議 議事録を公開",
+      "text": "線状降水帯直前予測 長崎県南部で発生おそれ",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 21:43:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157641_2606232131_0623214346_01_02.jpg"
+      "time": "Wed, 24 Jun 2026 05:26:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157721_2606240521_0624052634_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯出場のイラン代表チーム ロッカールームに謝意伝えるメモ",
+      "text": "JR山手線 内回りで運転見合わせ 人身事故の影響",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 20:38:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260623/K10015157511_2606232009_0623203834_01_02.jpg"
+      "time": "Wed, 24 Jun 2026 06:55:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157751_2606240638_0624064429_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "天皇皇后両陛下 ベルギーで歓迎式典に",
+      "text": "長崎市 市内全域に避難指示",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 23:13:03 +0900"
+      "time": "Wed, 24 Jun 2026 06:47:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157761_2606240646_0624064751_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄戦81年「慰霊の日」 戦没者追悼式【詳細】",
+      "text": "島根 出雲 商店街火災“ほぼ消し止め” けが人の情報なし",
       "source": "NHK",
-      "time": "Tue, 23 Jun 2026 18:28:39 +0900"
+      "time": "Wed, 24 Jun 2026 06:49:10 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "天皇皇后両陛下 ベルギーで歓迎の晩さん会に",
+      "source": "NHK",
+      "time": "Wed, 24 Jun 2026 06:09:01 +0900"
     }
   ]
 }
