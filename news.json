@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-06-24 07:46",
-  "has_alert": true,
+  "updated_at": "2026-06-24 19:34",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日０５時１７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-23T20:20:01Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "北海道 高校生殺害事件で懲役27年判決 被告 控訴しない意向",
+      "source": "NHK",
+      "time": "Wed, 24 Jun 2026 19:14:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158641_2606241918_0624191940_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "線状降水帯 九州北部で発生おそれ 長崎県南部には「直前予測」",
+      "text": "九州北部 あす未明から昼前にかけ線状降水帯のおそれ 厳重警戒",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 07:11:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157571_2606240707_0624071200_01_03.jpg"
+      "time": "Wed, 24 Jun 2026 19:17:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157571_2606241808_0624181235_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "佐賀 鹿島 一部地域に避難指示",
+      "text": "台風7号 沖縄の南の海上を進む あすから非常に強い風の見込み",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 04:40:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157711_2606240438_0624044028_01_02.jpg"
+      "time": "Wed, 24 Jun 2026 19:22:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157901_2606241913_0624192205_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "線状降水帯直前予測 長崎県南部で発生おそれ",
+      "text": "17戦略分野への投資額 2040年度までに「370兆円超」",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 05:26:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157721_2606240521_0624052634_01_02.jpg"
+      "time": "Wed, 24 Jun 2026 19:13:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157951_2606241633_0624191347_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR山手線 内回りで運転見合わせ 人身事故の影響",
+      "text": "【大雨影響】熊本 増水した川で女性が流される 約50分後に救助",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 06:55:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157751_2606240638_0624064429_01_02.jpg"
+      "time": "Wed, 24 Jun 2026 18:40:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157861_2606241420_0624142235_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長崎市 市内全域に避難指示",
+      "text": "東京 北区 小学校火事 教員“準備室で洗濯物乾かしていた”",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 06:47:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157761_2606240646_0624064751_01_02.jpg"
+      "time": "Wed, 24 Jun 2026 16:07:39 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "島根 出雲 商店街火災“ほぼ消し止め” けが人の情報なし",
+      "text": "株主総会が今週ピーク 経営の抜本的見直し求める提案も",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 06:49:10 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "天皇皇后両陛下 ベルギーで歓迎の晩さん会に",
-      "source": "NHK",
-      "time": "Wed, 24 Jun 2026 06:09:01 +0900"
+      "time": "Wed, 24 Jun 2026 18:38:26 +0900"
     }
   ]
 }
