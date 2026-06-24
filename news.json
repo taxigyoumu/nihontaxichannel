@@ -1,60 +1,116 @@
 {
-  "updated_at": "2026-06-25 03:12",
-  "has_alert": false,
+  "updated_at": "2026-06-25 07:50",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風7号 沖縄の南の海上を進む あすから非常に強い風の見込み",
-      "source": "NHK",
-      "time": "Wed, 24 Jun 2026 19:22:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157901_2606242317_0624231948_01_03.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-06-24T22:17:14Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-06-24T22:17:14Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-06-24T22:17:10Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２５日０７時３０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-24T22:45:40Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【長周期地震動に関する観測情報】２５日０７時３０分ころの地震により、長周期地震動階級２を観測した地域があります。",
+      "source": "気象庁",
+      "time": "2026-06-24T22:40:28Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【津波予報】津波予報（若干の海面変動）を発表しました。",
+      "source": "気象庁",
+      "time": "2026-06-24T22:39:17Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２５日０７時３０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-24T22:35:08Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】２５日０７時３０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-06-24T22:34:37Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州北部 線状降水帯のおそれ 台風7号は沖縄に近づく見込み",
+      "text": "【地震速報】青森県で震度6強 津波被害の心配なし",
       "source": "NHK",
-      "time": "Thu, 25 Jun 2026 00:36:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157571_2606241808_0624181235_01_02.jpg"
+      "time": "Thu, 25 Jun 2026 07:44:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260625/K10015158201_2606250735_0625073810_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 高校生殺害事件で懲役27年判決 被告 控訴しない意向",
+      "text": "東北新幹線 仙台～新青森 上下線で運転見合わせ",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 19:14:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158641_2606241918_0624191940_01_03.jpg"
+      "time": "Thu, 25 Jun 2026 07:45:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260625/K10015159011_2606250742_0625074555_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小児がん薬 薬価引き下げなどで11医薬品で採算割れ 供給不安も",
+      "text": "九州北部で非常に激しい雨 昼前にかけ線状降水帯発生おそれ",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 22:17:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158601_2606242039_0624204039_01_02.jpg"
+      "time": "Thu, 25 Jun 2026 06:38:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260625/K10015158771_2606250635_0625063806_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 北区 小学校火事 教員“準備室で洗濯物乾かしていた”",
+      "text": "教育基本法改正20年 かつての与党協議の議事録を入手",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 20:51:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158351_2606241546_0624160740_01_02.jpg"
+      "time": "Thu, 25 Jun 2026 06:11:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260625/K10015158881_2606250052_0625061107_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "17戦略分野への投資額 2040年度までに「370兆円超」",
+      "text": "アメリカとイランの実務協議 30日にも再開か",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 21:41:31 +0900"
+      "time": "Thu, 25 Jun 2026 06:26:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260625/K10015158781_2606250616_0625062606_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "不正アクセスで情報漏えいのKDDIに報告徴収 総務省",
+      "text": "神戸 冷凍庫遺体遺棄事件 元妻「電気代去年ごろまで払う」供述",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 20:33:44 +0900"
+      "time": "Thu, 25 Jun 2026 05:39:32 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ペルー大統領選挙 フジモリ元大統領の長女ケイコ氏が優勢",
+      "source": "NHK",
+      "time": "Thu, 25 Jun 2026 05:23:03 +0900"
     }
   ]
 }
