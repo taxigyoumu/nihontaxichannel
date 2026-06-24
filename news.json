@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-06-24 19:34",
+  "updated_at": "2026-06-25 03:12",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風7号 沖縄の南の海上を進む あすから非常に強い風の見込み",
+      "source": "NHK",
+      "time": "Wed, 24 Jun 2026 19:22:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157901_2606242317_0624231948_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "九州北部 線状降水帯のおそれ 台風7号は沖縄に近づく見込み",
+      "source": "NHK",
+      "time": "Thu, 25 Jun 2026 00:36:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157571_2606241808_0624181235_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州北部 あす未明から昼前にかけ線状降水帯のおそれ 厳重警戒",
+      "text": "小児がん薬 薬価引き下げなどで11医薬品で採算割れ 供給不安も",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 19:17:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157571_2606241808_0624181235_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風7号 沖縄の南の海上を進む あすから非常に強い風の見込み",
-      "source": "NHK",
-      "time": "Wed, 24 Jun 2026 19:22:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157901_2606241913_0624192205_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "17戦略分野への投資額 2040年度までに「370兆円超」",
-      "source": "NHK",
-      "time": "Wed, 24 Jun 2026 19:13:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157951_2606241633_0624191347_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【大雨影響】熊本 増水した川で女性が流される 約50分後に救助",
-      "source": "NHK",
-      "time": "Wed, 24 Jun 2026 18:40:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015157861_2606241420_0624142235_01_02.jpg"
+      "time": "Wed, 24 Jun 2026 22:17:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158601_2606242039_0624204039_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "東京 北区 小学校火事 教員“準備室で洗濯物乾かしていた”",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 16:07:39 +0900"
+      "time": "Wed, 24 Jun 2026 20:51:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260624/K10015158351_2606241546_0624160740_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株主総会が今週ピーク 経営の抜本的見直し求める提案も",
+      "text": "17戦略分野への投資額 2040年度までに「370兆円超」",
       "source": "NHK",
-      "time": "Wed, 24 Jun 2026 18:38:26 +0900"
+      "time": "Wed, 24 Jun 2026 21:41:31 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "不正アクセスで情報漏えいのKDDIに報告徴収 総務省",
+      "source": "NHK",
+      "time": "Wed, 24 Jun 2026 20:33:44 +0900"
     }
   ]
 }
