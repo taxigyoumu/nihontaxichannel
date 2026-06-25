@@ -1,34 +1,38 @@
 {
-  "updated_at": "2026-06-26 03:28",
-  "has_alert": true,
+  "updated_at": "2026-06-26 08:03",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や低い土地の浸水、竜巻などの激しい突風、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-06-25T18:13:08Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風7号と8号接近 各地レベル4危険警報 厳重警戒",
+      "source": "NHK",
+      "time": "Fri, 26 Jun 2026 07:53:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160621_2606260516_0626052202_01_02.jpg"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や低い土地の浸水、竜巻などの激しい突風、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-06-25T18:13:08Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【速報中】W杯 日本×スウェーデン 日本代表 先発3人入れ替え",
+      "source": "NHK",
+      "time": "Fri, 26 Jun 2026 08:02:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160411_2606252159_0626080137_01_02.jpg"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県土砂災害警報・注意報】岐阜県では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-06-25T18:12:53Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "ベネズエラ M7超地震 首都周辺被害深刻も全容不明",
+      "source": "NHK",
+      "time": "Fri, 26 Jun 2026 06:17:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160641_2606260600_0626060836_01_02.jpg"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】岐阜県では、低い土地の浸水や河川の増水に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-06-25T18:12:53Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "南海電鉄高野線 なんば～堺東など運転見合わせ 大雨で線路冠水",
+      "source": "NHK",
+      "time": "Fri, 26 Jun 2026 06:51:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160671_2606260625_0626062924_01_02.jpg"
     },
     {
       "category": "news",
@@ -41,48 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 大分に線状降水帯直前予測 各地レベル4危険警報 厳重警戒",
-      "source": "NHK",
-      "time": "Fri, 26 Jun 2026 01:23:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260625/K10015158771_2606260122_0626012316_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "NYダウ 一時800ドル超上昇 取引時間中の最高値更新 AI期待で",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 01:35:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160551_2606260104_0626013559_01_02.jpg"
+      "time": "Fri, 26 Jun 2026 06:51:52 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】青森県 岩手県で震度3 津波の心配なし",
+      "text": "ラグビー 新たな国際大会開幕前に優勝トロフィーお披露目",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 01:33:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160571_2606260117_0626011930_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北海道 江別 強盗致死事件 3人の被告に判決 札幌地裁",
-      "source": "NHK",
-      "time": "Thu, 25 Jun 2026 21:07:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260625/K10015160081_2606251802_0625181927_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "W杯 日本代表 決勝トーナメント進出した場合 いつ試合？",
-      "source": "NHK",
-      "time": "Thu, 25 Jun 2026 19:22:58 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "皇位継承 皇室典範改正案の要綱 国会の付帯決議を前提に了承",
-      "source": "NHK",
-      "time": "Thu, 25 Jun 2026 22:42:37 +0900"
+      "time": "Fri, 26 Jun 2026 07:32:25 +0900"
     }
   ]
 }
