@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-06-26 19:38",
+  "updated_at": "2026-06-27 02:21",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "2つの台風が相次ぎ接近 前線停滞で各地大雨 土砂災害厳重警戒",
+      "text": "2つの台風 相次ぎ接近 総雨量多くなるおそれ 土砂災害厳重警戒",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 18:26:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160621_2606261906_0626191013_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 02:13:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160621_2606270158_0627020016_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 日本は引き分け グループ2位で決勝トーナメントへ【詳報】",
+      "text": "山口 平生町 住宅の裏山崩れ1人行方不明 3人搬送",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 19:15:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160411_2606261150_0626115853_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 01:01:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162131_2606270100_0627010114_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【大雨 台風】大阪 柏原で車水没 奈良で男性水路に転落し骨折",
+      "text": "山梨県で震度6弱「1週間程度 震度6弱程度の地震に注意」気象庁",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 19:24:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160731_2606261020_0626105122_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 01:44:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161941_2606270046_0627004922_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風接近 専門家「時系列情報など活用し 早めの安全確保を」",
+      "text": "【被害まとめ】山梨で震度6弱 各地の被害状況は",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 18:17:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161531_2606261730_0626181717_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 00:51:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161971_2606262355_0626235755_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【交通情報】あすの見通し 東海道新幹線 運転見合わせ可能性も",
+      "text": "【映像】山梨で震度6弱 地震発生時 各地の揺れの様子",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 18:23:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161421_2606261552_0626172551_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 00:05:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015162011_2606270001_0627000548_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "増水した川に流されたか 新聞配達員の男性死亡 兵庫 淡路",
+      "text": "【高速道路】 新東名は解除も東名・中央道は一部通行止め",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 18:49:30 +0900"
+      "time": "Sat, 27 Jun 2026 01:00:09 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベネズエラの地震 死者200人超 各国も支援本格化",
+      "text": "山梨で震度6弱 根拠なく富士山噴火と結びつける情報に注意",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 18:13:09 +0900"
+      "time": "Sat, 27 Jun 2026 01:57:57 +0900"
     }
   ]
 }
