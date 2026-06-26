@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-06-26 08:03",
+  "updated_at": "2026-06-26 19:38",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風7号と8号接近 各地レベル4危険警報 厳重警戒",
+      "text": "2つの台風が相次ぎ接近 前線停滞で各地大雨 土砂災害厳重警戒",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 07:53:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160621_2606260516_0626052202_01_02.jpg"
+      "time": "Fri, 26 Jun 2026 18:26:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160621_2606261906_0626191013_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】W杯 日本×スウェーデン 日本代表 先発3人入れ替え",
+      "text": "W杯 日本は引き分け グループ2位で決勝トーナメントへ【詳報】",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 08:02:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160411_2606252159_0626080137_01_02.jpg"
+      "time": "Fri, 26 Jun 2026 19:15:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160411_2606261150_0626115853_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベネズエラ M7超地震 首都周辺被害深刻も全容不明",
+      "text": "【大雨 台風】大阪 柏原で車水没 奈良で男性水路に転落し骨折",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 06:17:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160641_2606260600_0626060836_01_02.jpg"
+      "time": "Fri, 26 Jun 2026 19:24:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160731_2606261020_0626105122_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "南海電鉄高野線 なんば～堺東など運転見合わせ 大雨で線路冠水",
+      "text": "台風接近 専門家「時系列情報など活用し 早めの安全確保を」",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 06:51:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160671_2606260625_0626062924_01_02.jpg"
+      "time": "Fri, 26 Jun 2026 18:17:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161531_2606261730_0626181717_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スクールバスが反対車線へ 6台絡む事故で5人けが 運転手を逮捕",
+      "text": "【交通情報】あすの見通し 東海道新幹線 運転見合わせ可能性も",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 01:47:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260625/K10015160481_2606252332_0625233913_01_02.jpg"
+      "time": "Fri, 26 Jun 2026 18:23:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161421_2606261552_0626172551_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "NYダウ 一時800ドル超上昇 取引時間中の最高値更新 AI期待で",
+      "text": "増水した川に流されたか 新聞配達員の男性死亡 兵庫 淡路",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 06:51:52 +0900"
+      "time": "Fri, 26 Jun 2026 18:49:30 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ラグビー 新たな国際大会開幕前に優勝トロフィーお披露目",
+      "text": "ベネズエラの地震 死者200人超 各国も支援本格化",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 07:32:25 +0900"
+      "time": "Fri, 26 Jun 2026 18:13:09 +0900"
     }
   ]
 }
