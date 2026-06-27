@@ -1,22 +1,29 @@
 {
-  "updated_at": "2026-06-27 21:55",
-  "has_alert": false,
+  "updated_at": "2026-06-28 01:47",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風7号 関東の東海上へ 地盤緩んだ地域は土砂災害など注意を",
-      "source": "NHK",
-      "time": "Sat, 27 Jun 2026 21:09:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162281_2606272108_0627210914_01_03.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２７日２３時０２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-27T14:05:54Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山口 平生町 住宅に土砂流入 住人の高齢男性が死亡 3人けが",
+      "text": "台風7号 温帯低気圧に 引き続き土砂災害など十分注意を",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 17:54:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162131_2606270643_0627064608_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 23:15:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162731_2606272314_0627231521_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "和歌山 橋本 斜面崩れ複数のソーラーパネル落下 大雨の影響か",
+      "source": "NHK",
+      "time": "Sat, 27 Jun 2026 22:36:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162721_2606272136_0627223629_01_02.jpg"
     },
     {
       "category": "news",
@@ -37,10 +44,17 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "山口 平生町 住宅に土砂流入 住人の高齢男性が死亡 3人けが",
+      "source": "NHK",
+      "time": "Sat, 27 Jun 2026 17:54:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162131_2606270643_0627064608_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "中国とロシアの空軍 日本海などで合同パトロール 連携を誇示",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 21:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162711_2606272107_0627213701_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 21:37:00 +0900"
     },
     {
       "category": "news",
@@ -48,13 +62,6 @@
       "text": "広島 福山 ため池が決壊し 住宅16棟浸水",
       "source": "NHK",
       "time": "Sat, 27 Jun 2026 18:35:05 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "茨城 岩手 千葉 山梨…相次ぐ地震 専門家“関連ないが備えを”",
-      "source": "NHK",
-      "time": "Sat, 27 Jun 2026 18:38:20 +0900"
     }
   ]
 }
