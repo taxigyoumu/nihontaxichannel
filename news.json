@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-06-27 06:51",
-  "has_alert": false,
+  "updated_at": "2026-06-27 17:11",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風8号 関東に最接近 関東 静岡で雨強まる 土砂災害厳重警戒",
-      "source": "NHK",
-      "time": "Sat, 27 Jun 2026 06:34:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162281_2606270559_0627063431_01_02.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２７日１６時５７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-27T08:00:57Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【被害まとめ】山梨で震度6弱 各地の被害状況は",
+      "text": "台風7号が接近 東海や関東などで再び非常に激しい雨のおそれ",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 06:02:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015161971_2606262355_0626235755_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 16:06:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162281_2606271553_0627160629_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米軍“イラン軍事施設を攻撃” 前日の貨物船への攻撃受け",
+      "text": "福岡 田川 住宅地で深さ6mの陥没 現場は炭鉱の跡地 雨が影響か",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 06:27:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162291_2606270625_0627062713_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 11:58:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162491_2606271205_0627124039_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "山口 平生町 住宅の裏山崩れ1人行方不明 3人けが",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 06:49:09 +0900",
+      "time": "Sat, 27 Jun 2026 12:28:18 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162131_2606270643_0627064608_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【交通影響】在来線の運休区間 高速道路 空の便は",
+      "text": "広島 福山 ため池が決壊し 住宅10棟ほど浸水",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 06:19:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162221_2606270542_0627061333_01_02.jpg"
+      "time": "Sat, 27 Jun 2026 16:15:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162651_2606271548_0627155040_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "定数削減法案 与党職権で審議入り 野党応じない方針で対立",
+      "text": "山梨 震度6弱 “今後1週間程度注意 土砂災害にも注意” 気象庁",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 05:13:40 +0900"
+      "time": "Sat, 27 Jun 2026 13:38:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162441_2606271132_0627114446_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 フランスがノルウェーに快勝 グループ1位で決勝Tへ",
+      "text": "【交通影響】鉄道の運休区間 高速道路 空の便は",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 06:45:28 +0900"
+      "time": "Sat, 27 Jun 2026 14:50:40 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯 日本 次戦はブラジル グループ2位で決勝トーナメントへ",
+      "source": "NHK",
+      "time": "Fri, 26 Jun 2026 20:48:04 +0900"
     }
   ]
 }
