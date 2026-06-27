@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-06-27 17:11",
-  "has_alert": true,
+  "updated_at": "2026-06-27 21:55",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２７日１６時５７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-27T08:00:57Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風7号 関東の東海上へ 地盤緩んだ地域は土砂災害など注意を",
+      "source": "NHK",
+      "time": "Sat, 27 Jun 2026 21:09:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162281_2606272108_0627210914_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風7号が接近 東海や関東などで再び非常に激しい雨のおそれ",
+      "text": "山口 平生町 住宅に土砂流入 住人の高齢男性が死亡 3人けが",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 16:06:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162281_2606271553_0627160629_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡 田川 住宅地で深さ6mの陥没 現場は炭鉱の跡地 雨が影響か",
-      "source": "NHK",
-      "time": "Sat, 27 Jun 2026 11:58:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162491_2606271205_0627124039_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "山口 平生町 住宅の裏山崩れ1人行方不明 3人けが",
-      "source": "NHK",
-      "time": "Sat, 27 Jun 2026 12:28:18 +0900",
+      "time": "Sat, 27 Jun 2026 17:54:03 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162131_2606270643_0627064608_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広島 福山 ため池が決壊し 住宅10棟ほど浸水",
+      "text": "愛媛 西条 川でSUP中に流され2人死亡 台風で増水か",
       "source": "NHK",
-      "time": "Sat, 27 Jun 2026 16:15:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162651_2606271548_0627155040_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "山梨 震度6弱 “今後1週間程度注意 土砂災害にも注意” 気象庁",
-      "source": "NHK",
-      "time": "Sat, 27 Jun 2026 13:38:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162441_2606271132_0627114446_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【交通影響】鉄道の運休区間 高速道路 空の便は",
-      "source": "NHK",
-      "time": "Sat, 27 Jun 2026 14:50:40 +0900"
+      "time": "Sat, 27 Jun 2026 20:57:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162671_2606271722_0627190238_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "W杯 日本 次戦はブラジル グループ2位で決勝トーナメントへ",
       "source": "NHK",
-      "time": "Fri, 26 Jun 2026 20:48:04 +0900"
+      "time": "Fri, 26 Jun 2026 20:48:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260626/K10015160411_2606261150_0626115853_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中国とロシアの空軍 日本海などで合同パトロール 連携を誇示",
+      "source": "NHK",
+      "time": "Sat, 27 Jun 2026 21:37:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260627/K10015162711_2606272107_0627213701_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "広島 福山 ため池が決壊し 住宅16棟浸水",
+      "source": "NHK",
+      "time": "Sat, 27 Jun 2026 18:35:05 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "茨城 岩手 千葉 山梨…相次ぐ地震 専門家“関連ないが備えを”",
+      "source": "NHK",
+      "time": "Sat, 27 Jun 2026 18:38:20 +0900"
     }
   ]
 }
