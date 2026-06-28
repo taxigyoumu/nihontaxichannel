@@ -1,29 +1,43 @@
 {
-  "updated_at": "2026-06-29 03:55",
+  "updated_at": "2026-06-29 07:42",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２９日０２時０６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-28T17:09:22Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-06-28T22:40:20Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-06-28T22:40:20Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-06-28T22:40:11Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米イラン双方が攻撃 互いに停戦合意違反を非難し情勢不安定",
+      "text": "“アメリカ・イランが攻撃停止で合意 30日に協議”米報道",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 19:06:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162921_2606281926_0628194009_01_03.jpg"
+      "time": "Mon, 29 Jun 2026 06:26:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163371_2606290635_0629063559_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "歌手で俳優の美輪明宏さん死去「ヨイトマケの唄」など知られる",
+      "text": "近鉄京都線 京都駅の構内で脱線 乗員や乗客にけが人なし",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 21:09:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162931_2606281011_0628103205_01_02.jpg"
+      "time": "Mon, 29 Jun 2026 07:30:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163381_2606290616_0629061834_01_02.jpg"
     },
     {
       "category": "news",
@@ -36,32 +50,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "甲子園で“ビデオ検証”練習会 夏の高校野球での導入に向け",
+      "text": "ベネズエラ地震から4日 各国救助チームの活動本格化",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 21:15:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163251_2606282019_0628211526_01_02.jpg"
+      "time": "Mon, 29 Jun 2026 05:49:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163301_2606290448_0629054941_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベネズエラ地震 死者1430人 救助は時間との闘いに",
+      "text": "サッカーW杯 日本代表がブラジル戦に向け最終調整",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 11:45:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162791_2606281215_0628121621_01_03.jpg"
+      "time": "Mon, 29 Jun 2026 06:24:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163361_2606290609_0629062429_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー W杯 人気の日本代表ユニフォーム 偽造品も",
+      "text": "大分 別府ひき逃げ事件から4年 新映像公開し情報提供呼びかけ",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 19:23:53 +0900"
+      "time": "Mon, 29 Jun 2026 06:52:32 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ建国250年 トランプ大統領主導の公共工事が物議",
+      "text": "7月発表の短観予測 イラン情勢影響で悪化予測多く",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 19:32:02 +0900"
+      "time": "Mon, 29 Jun 2026 06:53:21 +0900"
     }
   ]
 }
