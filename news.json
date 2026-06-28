@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-06-28 17:33",
+  "updated_at": "2026-06-28 23:59",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-06-28T07:57:49Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２８日２３時４９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-28T14:53:15Z"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-06-28T07:57:49Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカーＷ杯 ベスト32出そろう アジア勢が苦戦 躍進と波乱も",
-      "source": "NHK",
-      "time": "Sun, 28 Jun 2026 17:07:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163171_2606281626_0628170705_01_02.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２８日２３時３４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-28T14:36:53Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカーW杯 ユニフォームランキング 日本代表アウェー用2位に",
+      "text": "米イラン双方が攻撃 互いに停戦合意違反を非難し情勢不安定",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 15:34:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163161_2606281531_0628153448_01_02.jpg"
+      "time": "Sun, 28 Jun 2026 19:06:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162921_2606281926_0628194009_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "歌手で俳優の美輪明宏さん死去「ヨイトマケの唄」など知られる",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 15:22:32 +0900",
+      "time": "Sun, 28 Jun 2026 21:09:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162931_2606281011_0628103205_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 山本由伸 6回2失点で今季8勝目 大谷翔平は2安打",
+      "text": "甲子園で“ビデオ検証”練習会 夏の高校野球での導入に向け",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 17:02:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163081_2606281327_0628135437_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米軍再びイラン攻撃 イランも湾岸の米軍基地攻撃 停戦不安定",
-      "source": "NHK",
-      "time": "Sun, 28 Jun 2026 16:57:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162921_2606281006_0628101005_01_03.jpg"
+      "time": "Sun, 28 Jun 2026 21:15:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163251_2606282019_0628211526_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 12:43:24 +0900"
+      "time": "Sun, 28 Jun 2026 12:43:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162811_2606281003_0628100424_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北辰一刀流 千葉周作の生誕地“気仙沼”史料発見 論争終止符か",
+      "text": "ベネズエラ地震 死者1430人 救助は時間との闘いに",
       "source": "NHK",
-      "time": "Sun, 28 Jun 2026 16:30:07 +0900"
+      "time": "Sun, 28 Jun 2026 11:45:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162791_2606281215_0628121621_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サッカー W杯 人気の日本代表ユニフォーム 偽造品も",
+      "source": "NHK",
+      "time": "Sun, 28 Jun 2026 19:23:53 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ建国250年 トランプ大統領主導の公共工事が物議",
+      "source": "NHK",
+      "time": "Sun, 28 Jun 2026 19:32:02 +0900"
     }
   ]
 }
