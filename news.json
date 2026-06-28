@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-06-28 23:59",
+  "updated_at": "2026-06-29 03:55",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２８日２３時４９分ころ、地震がありました。",
+      "text": "【震源・震度情報】２９日０２時０６分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-06-28T14:53:15Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２８日２３時３４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-28T14:36:53Z"
+      "time": "2026-06-28T17:09:22Z"
     },
     {
       "category": "news",
@@ -35,18 +28,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "甲子園で“ビデオ検証”練習会 夏の高校野球での導入に向け",
-      "source": "NHK",
-      "time": "Sun, 28 Jun 2026 21:15:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163251_2606282019_0628211526_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "【地震情報】青森県 岩手県で震度5弱 今後1週間程度 注意を",
       "source": "NHK",
       "time": "Sun, 28 Jun 2026 12:43:24 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015162811_2606281003_0628100424_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "甲子園で“ビデオ検証”練習会 夏の高校野球での導入に向け",
+      "source": "NHK",
+      "time": "Sun, 28 Jun 2026 21:15:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260628/K10015163251_2606282019_0628211526_01_02.jpg"
     },
     {
       "category": "news",
