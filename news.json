@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-06-29 23:37",
-  "has_alert": false,
+  "updated_at": "2026-06-30 06:10",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "外国為替市場で39年半ぶり円安水準 1ドル＝161円90銭台後半",
-      "source": "NHK",
-      "time": "Mon, 29 Jun 2026 23:08:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015164231_2606292220_0629230811_01_02.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３０日０５時２４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-29T20:26:46Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "このあとW杯 ブラジル戦 森保監督「勝って歴史変えたい」",
+      "text": "W杯 日本がブラジルに逆転負け 決勝T 1回戦で敗退【詳しく】",
       "source": "NHK",
-      "time": "Mon, 29 Jun 2026 18:10:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163361_2606290840_0629085730_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 05:54:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163871_2606300532_0630055433_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 日本×ブラジル【速報予定 2:00】決勝T初勝利を目指し",
+      "text": "広島 三原 強盗殺人事件 請け負った工事の現場選んで事件か",
       "source": "NHK",
-      "time": "Mon, 29 Jun 2026 21:34:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163871_2606291711_0629213410_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 05:23:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164131_2606300033_0630052316_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 日本代表はブラジルとどう戦う？“経験者”中澤さんに聞く",
+      "text": "近鉄京都線 脱線事故の復旧作業で始発から運転見合わせ",
       "source": "NHK",
-      "time": "Mon, 29 Jun 2026 20:13:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163561_2606291536_0629201306_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 05:17:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164141_2606300431_0630051708_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広島 三原の遺体発見事件 強盗殺人の疑いで29歳容疑者逮捕",
+      "text": "部活動の高校生ら死傷のバス事故受け安全対策まとめる 政府",
       "source": "NHK",
-      "time": "Mon, 29 Jun 2026 19:32:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163521_2606291217_0629124248_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 05:19:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164081_2606300042_0630051931_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "近鉄京都線 京都駅で脱線 けが人なし 運転再開のめど立たず",
+      "text": "「副首都」関連法案きょう審議入りの方針 与野党の対立続く",
       "source": "NHK",
-      "time": "Mon, 29 Jun 2026 20:31:18 +0900"
+      "time": "Tue, 30 Jun 2026 05:01:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164071_2606300044_0630050138_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "衆院議員定数削減法案 野党欠席の中 政治改革特別委で審議入り",
+      "text": "円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に",
       "source": "NHK",
-      "time": "Mon, 29 Jun 2026 19:15:34 +0900"
+      "time": "Tue, 30 Jun 2026 05:29:52 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
+      "source": "NHK",
+      "time": "Tue, 30 Jun 2026 05:31:55 +0900"
     }
   ]
 }
