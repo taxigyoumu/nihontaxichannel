@@ -561,7 +561,7 @@
           <div class="footer-note" style="margin-top:8px;">タクシー部　/ 2026年6月21日 運用開始</div>
         </div>
 
-        <!-- ③ 安全注意喚起ページ -->
+                <!-- ③ 安全注意喚起ページ (PSAシネマティック版) -->
         <div class="ev-slot" id="ev-safety" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;">
           <iframe
             srcdoc="<!DOCTYPE html>
@@ -569,257 +569,109 @@
 <head>
 <meta charset=&quot;UTF-8&quot;>
 <meta name=&quot;viewport&quot; content=&quot;width=device-width, initial-scale=1.0&quot;>
-<title>安全注意喚起</title>
+<title>事故防止PSA</title>
 <link rel=&quot;preconnect&quot; href=&quot;https://fonts.googleapis.com&quot;>
 <link rel=&quot;preconnect&quot; href=&quot;https://fonts.gstatic.com&quot; crossorigin>
-<link href=&quot;https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@400;500;700;900&amp;display=swap&quot; rel=&quot;stylesheet&quot;>
+<link href=&quot;https://fonts.googleapis.com/css2?family=Noto+Sans+JP:wght@700;900&amp;display=swap&quot; rel=&quot;stylesheet&quot;>
 <style>
-  *,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
-  :root{
-    --bg:#0D1117; --panel:#161B27; --panel2:#1C2333;
-    --red:#E5342E; --red-dark:#8B1A16; --red-glow:rgba(229,52,46,.5);
-    --amber:#F0B429; --txt:#E2E8F0; --txt-sub:#94A3B8; --border:#2D3748;
-  }
-  html,body{width:100%;height:100%;background:var(--bg);font-family:'Noto Sans JP',sans-serif;color:var(--txt);overflow:hidden;}
-
-  .wrap{display:flex;flex-direction:column;height:100vh;padding:12px;gap:12px;}
-
-  /* 警告ヘッダー（点滅ストライプ） */
-  .alert-head{
-    flex-shrink:0;position:relative;overflow:hidden;
-    background:linear-gradient(135deg,var(--red-dark) 0%,var(--red) 100%);
-    border-radius:10px;padding:12px 16px;
-    display:flex;align-items:center;gap:14px;
-    box-shadow:0 0 20px var(--red-glow);
-    animation:alertPulse 2s ease-in-out infinite;
-  }
-  @keyframes alertPulse{0%,100%{box-shadow:0 0 14px var(--red-glow);}50%{box-shadow:0 0 28px var(--red-glow);}}
-  /* 上下の警告ストライプ */
-  .alert-head::before,.alert-head::after{
-    content:'';position:absolute;left:0;width:100%;height:6px;
-    background:repeating-linear-gradient(45deg,#000 0 12px,var(--amber) 12px 24px);
-    opacity:.85;
-  }
-  .alert-head::before{top:0;}
-  .alert-head::after{bottom:0;}
-  .alert-icon{flex-shrink:0;width:54px;height:54px;animation:shake 3s ease-in-out infinite;}
-  @keyframes shake{0%,90%,100%{transform:rotate(0);}92%{transform:rotate(-8deg);}96%{transform:rotate(8deg);}}
-  .alert-title{flex:1;}
-  .alert-title .big{font-size:26px;font-weight:900;letter-spacing:.04em;line-height:1.1;color:#fff;text-shadow:0 2px 4px rgba(0,0,0,.4);}
-  .alert-title .sub{font-size:13px;font-weight:700;color:#FFE0DE;margin-top:3px;letter-spacing:.06em;}
-
-  /* 重大事故 速報バナー */
-  .breaking{
-    flex-shrink:0;background:#000;border:2px solid var(--red);border-radius:8px;
-    padding:10px 14px;display:flex;align-items:center;gap:12px;
-  }
-  .breaking-label{
-    flex-shrink:0;background:var(--red);color:#fff;font-size:12px;font-weight:900;
-    padding:4px 10px;border-radius:4px;letter-spacing:.08em;
-    animation:blink 1.2s step-start infinite;
-  }
-  @keyframes blink{50%{opacity:.35;}}
-  .breaking-txt{flex:1;font-size:16px;font-weight:700;line-height:1.5;color:#fff;}
-  .breaking-txt em{color:var(--amber);font-style:normal;}
-
-  /* 自責事故 注意ブロック */
-  .selfcause{
-    flex-shrink:0;background:var(--panel);border:1px solid var(--border);
-    border-radius:8px;padding:12px 14px;display:flex;gap:12px;align-items:center;
-  }
-  .selfcause .ico{flex-shrink:0;width:46px;height:46px;}
-  .selfcause .txt{flex:1;}
-  .selfcause .ttl{font-size:14px;font-weight:900;color:var(--amber);margin-bottom:4px;}
-  .selfcause .dsc{font-size:12.5px;color:var(--txt);line-height:1.5;}
-  .selfcause .dsc strong{color:#ff7a74;}
-
-  /* 本文：基本動作カード */
-  .body{flex:1;display:flex;flex-direction:column;gap:12px;min-height:0;overflow-y:auto;justify-content:space-evenly;}
-  .sec-title{
-    font-size:14px;font-weight:900;color:var(--amber);letter-spacing:.05em;
-    display:flex;align-items:center;gap:8px;margin-top:2px;
-  }
-  .sec-title::before{content:'';width:4px;height:18px;background:var(--amber);border-radius:2px;}
-
-  .basics{display:grid;grid-template-columns:1fr 1fr;gap:8px;}
-  .basic-card{
-    background:var(--panel2);border-radius:8px;padding:13px 14px;
-    border-left:4px solid var(--red);display:flex;align-items:center;gap:10px;
-  }
-  .basic-card .ico{flex-shrink:0;width:38px;height:38px;}
-  .basic-card .txt{flex:1;}
-  .basic-card .ttl{font-size:14px;font-weight:900;color:#fff;line-height:1.2;}
-  .basic-card .dsc{font-size:11px;color:var(--txt-sub);margin-top:3px;line-height:1.4;}
-
-  /* スローガン帯 */
-  .slogan{
-    flex-shrink:0;background:linear-gradient(90deg,var(--red-dark),var(--red));
-    border-radius:8px;padding:12px 16px;text-align:center;
-    position:relative;overflow:hidden;
-  }
-  .slogan .label{font-size:11px;color:#FFD0CE;font-weight:700;letter-spacing:.1em;margin-bottom:3px;}
-  .slogan .main{font-size:20px;font-weight:900;color:#fff;letter-spacing:.04em;text-shadow:0 2px 4px rgba(0,0,0,.4);line-height:1.3;}
-
-  .footer{flex-shrink:0;font-size:10px;color:var(--txt-sub);text-align:right;font-style:italic;}
-
-  /* 横長パネル（ダッシュボード右下）向け最適化 */
-  @media (max-aspect-ratio: 5/2) and (max-height: 480px), (min-aspect-ratio: 2/1){
-    .wrap{padding:8px;gap:6px;}
-    .alert-head{padding:7px 12px;}
-    .alert-head::before,.alert-head::after{height:4px;}
-    .alert-icon{width:38px;height:38px;}
-    .alert-title .big{font-size:19px;}
-    .alert-title .sub{font-size:11px;margin-top:1px;}
-    .breaking{padding:6px 10px;gap:8px;}
-    .breaking-label{font-size:10px;padding:3px 7px;}
-    .breaking-txt{font-size:12px;line-height:1.3;}
-    .body{gap:8px;justify-content:center;}
-    .sec-title{font-size:11px;}
-    .sec-title::before{height:13px;}
-    .basics{grid-template-columns:repeat(4,1fr);gap:5px;}
-    .basic-card{padding:6px 7px;flex-direction:column;text-align:center;gap:3px;}
-    .basic-card .ico{width:26px;height:26px;}
-    .basic-card .ttl{font-size:10.5px;}
-    .basic-card .dsc{font-size:8.5px;line-height:1.2;}
-    .selfcause{display:none;}  /* 横長では速報バナーに統合 */
-    .selfcause.nagara{display:flex;margin-top:8px;}  /* ながら運転は横長でも必ず表示 */
-    .selfcause .ico{width:34px;height:34px;}
-    .selfcause .ttl{font-size:11.5px;margin-bottom:2px;}
-    .selfcause .dsc{font-size:10.5px;line-height:1.35;}
-    .slogan{padding:7px 12px;}
-    .slogan .label{font-size:9px;margin-bottom:1px;}
-    .slogan .main{font-size:14px;line-height:1.2;}
-    .footer{font-size:9px;}
-  }
-
+*,*::before,*::after{box-sizing:border-box;margin:0;padding:0;}
+html,body{width:100%;height:100%;overflow:hidden;background:#000;font-family:'Noto Sans JP',sans-serif;}
+.scene{position:relative;width:100%;height:100vh;background:linear-gradient(180deg,#030608 0%,#07101a 60%,#0a1520 100%);overflow:hidden;}
+.rain{position:absolute;inset:0;pointer-events:none;z-index:1;}
+.rain span{position:absolute;top:-80px;width:1px;background:linear-gradient(180deg,transparent,rgba(160,210,255,.5));animation:fall linear infinite;}
+@keyframes fall{to{transform:translateY(130vh) translateX(25px);}}
+.city{position:absolute;bottom:0;left:0;right:0;height:42%;z-index:2;}
+.road{position:absolute;bottom:0;left:0;right:0;height:30%;z-index:3;background:linear-gradient(180deg,transparent,#0a1520 80%);}
+.road::before{content:'';position:absolute;inset:0;background:radial-gradient(ellipse 100px 18px at 22% 65%,rgba(255,30,80,.35),transparent),radial-gradient(ellipse 70px 14px at 58% 72%,rgba(0,200,255,.28),transparent),radial-gradient(ellipse 50px 10px at 82% 58%,rgba(255,190,0,.22),transparent);animation:shine 3s ease-in-out infinite alternate;}
+@keyframes shine{from{opacity:.7}to{opacity:1}}
+.beam{position:absolute;bottom:22%;left:50%;transform:translateX(-50%);z-index:4;width:0;height:0;border-left:180px solid transparent;border-right:180px solid transparent;border-bottom:240px solid rgba(255,255,220,.05);filter:blur(8px);}
+.ped{position:absolute;z-index:10;bottom:26%;left:53%;transform:translateX(-50%);animation:step 5s ease-out infinite;filter:drop-shadow(0 0 14px rgba(255,60,60,.9));}
+@keyframes step{0%{transform:translateX(80px) translateY(10px);opacity:0;}12%{transform:translateX(0) translateY(0);opacity:1;}80%{transform:translateX(0);opacity:1;}100%{transform:translateX(0);opacity:1;}}
+.flash{position:absolute;inset:0;z-index:20;pointer-events:none;animation:brake 5s ease-out infinite;}
+@keyframes brake{0%,11%{background:rgba(255,0,0,0);}13%{background:rgba(255,20,20,.6);}16%{background:rgba(255,0,0,.1);}18%{background:rgba(255,60,0,.4);}21%{background:rgba(255,0,0,.05);}100%{background:rgba(255,0,0,0);}}
+.hud{position:absolute;top:0;left:0;right:0;z-index:30;display:flex;justify-content:space-between;align-items:flex-start;padding:8px 12px;}
+.rec{display:flex;align-items:center;gap:5px;font-size:11px;font-weight:700;color:#fff;letter-spacing:.1em;}
+.dot{width:8px;height:8px;border-radius:50%;background:#f00;animation:blink .9s step-start infinite;}
+@keyframes blink{50%{opacity:0;}}
+.info{font-size:9px;color:rgba(255,255,255,.65);text-align:right;line-height:1.6;font-family:monospace;}
+.psa{position:absolute;bottom:0;left:0;right:0;z-index:40;padding:10px 16px 14px;background:linear-gradient(0deg,rgba(0,0,0,.93) 0%,rgba(0,0,0,.65) 75%,transparent 100%);}
+.badge-row{display:flex;align-items:center;gap:9px;margin-bottom:5px;}
+.badge{background:#e52020;color:#fff;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;animation:pulse 1.4s ease-in-out infinite;}
+@keyframes pulse{0%,100%{opacity:1;}50%{opacity:.55;}}
+.ttl{font-size:17px;font-weight:900;color:#fff;line-height:1.2;text-shadow:0 2px 8px rgba(0,0,0,.9);}
+.ttl em{color:#ff4545;font-style:normal;}
+.body{font-size:12px;color:rgba(255,255,255,.82);line-height:1.55;margin-top:5px;}
+.body strong{color:#ffd966;}
+.slogan{margin-top:8px;padding:7px 12px;background:rgba(229,32,32,.18);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:13px;font-weight:900;color:#fff;letter-spacing:.02em;}
+@media (min-aspect-ratio:2/1),(max-height:300px){
+  .psa{padding:6px 12px 10px;}
+  .ttl{font-size:13px;}
+  .body{font-size:10px;line-height:1.4;}
+  .slogan{font-size:10.5px;margin-top:5px;padding:5px 10px;}
+}
 </style>
 </head>
 <body>
-<div class=&quot;wrap&quot;>
-
-  <!-- 警告ヘッダー -->
-  <div class=&quot;alert-head&quot;>
-    <svg class=&quot;alert-icon&quot; viewBox=&quot;0 0 64 64&quot; fill=&quot;none&quot; xmlns=&quot;http://www.w3.org/2000/svg&quot;>
-      <path d=&quot;M32 6 L60 56 H4 Z&quot; fill=&quot;#FFD400&quot; stroke=&quot;#000&quot; stroke-width=&quot;3&quot; stroke-linejoin=&quot;round&quot;/>
-      <rect x=&quot;28.5&quot; y=&quot;24&quot; width=&quot;7&quot; height=&quot;18&quot; rx=&quot;3.5&quot; fill=&quot;#000&quot;/>
-      <circle cx=&quot;32&quot; cy=&quot;49&quot; r=&quot;4&quot; fill=&quot;#000&quot;/>
+<div class=&quot;scene&quot;>
+  <div class=&quot;rain&quot; id=&quot;rain&quot;></div>
+  <svg class=&quot;city&quot; viewBox=&quot;0 0 900 220&quot; preserveAspectRatio=&quot;none&quot;>
+    <rect x=&quot;0&quot; y=&quot;90&quot; width=&quot;65&quot; height=&quot;130&quot; fill=&quot;#040b12&quot;/>
+    <rect x=&quot;15&quot; y=&quot;45&quot; width=&quot;32&quot; height=&quot;175&quot; fill=&quot;#050d16&quot;/>
+    <rect x=&quot;75&quot; y=&quot;105&quot; width=&quot;55&quot; height=&quot;115&quot; fill=&quot;#040b12&quot;/>
+    <rect x=&quot;140&quot; y=&quot;65&quot; width=&quot;44&quot; height=&quot;155&quot; fill=&quot;#050d16&quot;/>
+    <rect x=&quot;192&quot; y=&quot;95&quot; width=&quot;38&quot; height=&quot;125&quot; fill=&quot;#040b12&quot;/>
+    <rect x=&quot;238&quot; y=&quot;28&quot; width=&quot;60&quot; height=&quot;192&quot; fill=&quot;#050d16&quot;/>
+    <rect x=&quot;308&quot; y=&quot;75&quot; width=&quot;48&quot; height=&quot;145&quot; fill=&quot;#040b12&quot;/>
+    <rect x=&quot;364&quot; y=&quot;112&quot; width=&quot;32&quot; height=&quot;108&quot; fill=&quot;#050d16&quot;/>
+    <rect x=&quot;404&quot; y=&quot;52&quot; width=&quot;65&quot; height=&quot;168&quot; fill=&quot;#040b12&quot;/>
+    <rect x=&quot;478&quot; y=&quot;82&quot; width=&quot;44&quot; height=&quot;138&quot; fill=&quot;#050d16&quot;/>
+    <rect x=&quot;530&quot; y=&quot;22&quot; width=&quot;54&quot; height=&quot;198&quot; fill=&quot;#040b12&quot;/>
+    <rect x=&quot;592&quot; y=&quot;92&quot; width=&quot;38&quot; height=&quot;128&quot; fill=&quot;#050d16&quot;/>
+    <rect x=&quot;638&quot; y=&quot;62&quot; width=&quot;58&quot; height=&quot;158&quot; fill=&quot;#040b12&quot;/>
+    <rect x=&quot;704&quot; y=&quot;32&quot; width=&quot;44&quot; height=&quot;188&quot; fill=&quot;#050d16&quot;/>
+    <rect x=&quot;756&quot; y=&quot;78&quot; width=&quot;90&quot; height=&quot;142&quot; fill=&quot;#040b12&quot;/>
+    <rect x=&quot;845&quot; y=&quot;55&quot; width=&quot;55&quot; height=&quot;165&quot; fill=&quot;#050d16&quot;/>
+    <rect x=&quot;241&quot; y=&quot;33&quot; width=&quot;54&quot; height=&quot;7&quot; rx=&quot;2&quot; fill=&quot;rgba(255,25,70,.75)&quot;/>
+    <rect x=&quot;533&quot; y=&quot;27&quot; width=&quot;48&quot; height=&quot;6&quot; rx=&quot;2&quot; fill=&quot;rgba(0,180,255,.65)&quot;/>
+    <rect x=&quot;143&quot; y=&quot;70&quot; width=&quot;38&quot; height=&quot;6&quot; rx=&quot;2&quot; fill=&quot;rgba(255,195,0,.55)&quot;/>
+    <rect x=&quot;407&quot; y=&quot;57&quot; width=&quot;58&quot; height=&quot;7&quot; rx=&quot;2&quot; fill=&quot;rgba(255,25,70,.55)&quot;/>
+    <rect x=&quot;706&quot; y=&quot;37&quot; width=&quot;40&quot; height=&quot;5&quot; rx=&quot;2&quot; fill=&quot;rgba(140,80,255,.6)&quot;/>
+  </svg>
+  <div class=&quot;road&quot;></div>
+  <div class=&quot;beam&quot;></div>
+  <div class=&quot;ped&quot;>
+    <svg width=&quot;30&quot; height=&quot;62&quot; viewBox=&quot;0 0 30 62&quot; fill=&quot;none&quot;>
+      <circle cx=&quot;15&quot; cy=&quot;7&quot; r=&quot;6&quot; fill=&quot;#111&quot; stroke=&quot;rgba(255,90,90,.6)&quot; stroke-width=&quot;1.5&quot;/>
+      <rect x=&quot;9&quot; y=&quot;14&quot; width=&quot;12&quot; height=&quot;21&quot; rx=&quot;3&quot; fill=&quot;#0e0e1a&quot; stroke=&quot;rgba(255,70,70,.25)&quot; stroke-width=&quot;1&quot;/>
+      <line x1=&quot;9&quot; y1=&quot;19&quot; x2=&quot;2&quot; y2=&quot;31&quot; stroke=&quot;#0e0e1a&quot; stroke-width=&quot;5&quot; stroke-linecap=&quot;round&quot;/>
+      <line x1=&quot;21&quot; y1=&quot;19&quot; x2=&quot;28&quot; y2=&quot;29&quot; stroke=&quot;#0e0e1a&quot; stroke-width=&quot;5&quot; stroke-linecap=&quot;round&quot;/>
+      <line x1=&quot;13&quot; y1=&quot;35&quot; x2=&quot;9&quot; y2=&quot;54&quot; stroke=&quot;#0e0e1a&quot; stroke-width=&quot;5&quot; stroke-linecap=&quot;round&quot;/>
+      <line x1=&quot;17&quot; y1=&quot;35&quot; x2=&quot;21&quot; y2=&quot;54&quot; stroke=&quot;#0e0e1a&quot; stroke-width=&quot;5&quot; stroke-linecap=&quot;round&quot;/>
     </svg>
-    <div class=&quot;alert-title&quot;>
-      <div class=&quot;big&quot;>⚠ 安全運転 緊急喚起</div>
-      <div class=&quot;sub&quot;>事故ゼロは「基本の徹底」から</div>
-    </div>
   </div>
-
-  <!-- 重大事故 速報 -->
-  <div class=&quot;breaking&quot;>
-    <span class=&quot;breaking-label&quot;>重大事故 発生</span>
-    <div class=&quot;breaking-txt&quot;>
-      社内・業界で<em>重大事故</em>が続発、<em>自責事故</em>（当て逃げ・物損・後退時接触）も増加中。<br>
-      「自分は大丈夫」が一番危険。<em>今日の一運行</em>に集中を。
-    </div>
+  <div class=&quot;flash&quot;></div>
+  <div class=&quot;hud&quot;>
+    <div class=&quot;rec&quot;><span class=&quot;dot&quot;></span>REC</div>
+    <div class=&quot;info&quot;>CAM-FRONT 1080P<br>2026-06-30  NIGHT</div>
   </div>
-
-  <!-- 基本動作 -->
-  <div class=&quot;body&quot;>
-    <div class=&quot;sec-title&quot;>徹底すべき「安全確認」4つの基本</div>
-    <div class=&quot;basics&quot;>
-
-      <div class=&quot;basic-card&quot;>
-        <svg class=&quot;ico&quot; viewBox=&quot;0 0 48 48&quot; fill=&quot;none&quot;>
-          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;22&quot; fill=&quot;#E5342E&quot;/>
-          <path d=&quot;M14 24l7 7 13-14&quot; stroke=&quot;#fff&quot; stroke-width=&quot;4.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;/>
-        </svg>
-        <div class=&quot;txt&quot;>
-          <div class=&quot;ttl&quot;>指差呼称</div>
-          <div class=&quot;dsc&quot;>右よし・左よし。声と指で確認を習慣化</div>
-        </div>
-      </div>
-
-      <div class=&quot;basic-card&quot;>
-        <svg class=&quot;ico&quot; viewBox=&quot;0 0 48 48&quot; fill=&quot;none&quot;>
-          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;22&quot; fill=&quot;#E5342E&quot;/>
-          <ellipse cx=&quot;24&quot; cy=&quot;24&quot; rx=&quot;13&quot; ry=&quot;9&quot; fill=&quot;none&quot; stroke=&quot;#fff&quot; stroke-width=&quot;3.5&quot;/>
-          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;4.5&quot; fill=&quot;#fff&quot;/>
-        </svg>
-        <div class=&quot;txt&quot;>
-          <div class=&quot;ttl&quot;>目視・死角確認</div>
-          <div class=&quot;dsc&quot;>巻き込み・後退時は必ず直接目視</div>
-        </div>
-      </div>
-
-      <div class=&quot;basic-card&quot;>
-        <svg class=&quot;ico&quot; viewBox=&quot;0 0 48 48&quot; fill=&quot;none&quot;>
-          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;22&quot; fill=&quot;#E5342E&quot;/>
-          <path d=&quot;M24 12v13l9 5&quot; stroke=&quot;#fff&quot; stroke-width=&quot;4&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;/>
-          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;15&quot; fill=&quot;none&quot; stroke=&quot;#fff&quot; stroke-width=&quot;2.5&quot;/>
-        </svg>
-        <div class=&quot;txt&quot;>
-          <div class=&quot;ttl&quot;>十分な車間</div>
-          <div class=&quot;dsc&quot;>「だろう」より「かもしれない」運転</div>
-        </div>
-      </div>
-
-      <div class=&quot;basic-card&quot;>
-        <svg class=&quot;ico&quot; viewBox=&quot;0 0 48 48&quot; fill=&quot;none&quot;>
-          <circle cx=&quot;24&quot; cy=&quot;24&quot; r=&quot;22&quot; fill=&quot;#E5342E&quot;/>
-          <rect x=&quot;15&quot; y=&quot;14&quot; width=&quot;18&quot; height=&quot;20&quot; rx=&quot;3&quot; fill=&quot;none&quot; stroke=&quot;#fff&quot; stroke-width=&quot;3&quot;/>
-          <path d=&quot;M20 22h8M20 27h8&quot; stroke=&quot;#fff&quot; stroke-width=&quot;3&quot; stroke-linecap=&quot;round&quot;/>
-        </svg>
-        <div class=&quot;txt&quot;>
-          <div class=&quot;ttl&quot;>一時停止の励行</div>
-          <div class=&quot;dsc&quot;>交差点・一旦停止は完全停止で</div>
-        </div>
-      </div>
-
+  <div class=&quot;psa&quot;>
+    <div class=&quot;badge-row&quot;>
+      <span class=&quot;badge&quot;>DANGER</span>
+      <div class=&quot;ttl&quot;>暗闇の歩行者は<em>見えない</em> ─ 毎日、どこかで起きている</div>
     </div>
-
-    <!-- 自責事故 注意 -->
-    <div class=&quot;selfcause&quot;>
-      <svg class=&quot;ico&quot; viewBox=&quot;0 0 56 56&quot; fill=&quot;none&quot;>
-        <rect x=&quot;6&quot; y=&quot;22&quot; width=&quot;44&quot; height=&quot;20&quot; rx=&quot;4&quot; fill=&quot;#F0B429&quot;/>
-        <rect x=&quot;12&quot; y=&quot;14&quot; width=&quot;32&quot; height=&quot;12&quot; rx=&quot;3&quot; fill=&quot;#F0B429&quot;/>
-        <circle cx=&quot;16&quot; cy=&quot;42&quot; r=&quot;5&quot; fill=&quot;#1C2333&quot; stroke=&quot;#fff&quot; stroke-width=&quot;2&quot;/>
-        <circle cx=&quot;40&quot; cy=&quot;42&quot; r=&quot;5&quot; fill=&quot;#1C2333&quot; stroke=&quot;#fff&quot; stroke-width=&quot;2&quot;/>
-        <path d=&quot;M44 18 L52 8&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3.5&quot; stroke-linecap=&quot;round&quot;/>
-        <path d=&quot;M48 8 L52 8 L52 12&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;/>
-        <path d=&quot;M42 30 l5 5 m0 -5 l-5 5&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3&quot; stroke-linecap=&quot;round&quot;/>
-      </svg>
-      <div class=&quot;txt&quot;>
-        <div class=&quot;ttl&quot;>⚑ 「自責事故」が増えています</div>
-        <div class=&quot;dsc&quot;>
-          相手のいない<strong>当て逃げ・物損・後退時の接触</strong>が多発。<br>
-          焦りと慣れが原因の大半です。<strong>降車時の周囲確認</strong>を忘れずに。
-        </div>
-      </div>
-    </div>
-
-    <!-- ながら運転 注意喚起 -->
-    <div class=&quot;selfcause nagara&quot; style=&quot;border-color:#E5342E;background:rgba(229,52,46,.12);&quot;>
-      <svg class=&quot;ico&quot; viewBox=&quot;0 0 56 56&quot; fill=&quot;none&quot;>
-        <rect x=&quot;16&quot; y=&quot;8&quot; width=&quot;24&quot; height=&quot;40&quot; rx=&quot;4&quot; fill=&quot;none&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3.5&quot;/>
-        <rect x=&quot;21&quot; y=&quot;14&quot; width=&quot;14&quot; height=&quot;22&quot; fill=&quot;#F0B429&quot;/>
-        <circle cx=&quot;28&quot; cy=&quot;42&quot; r=&quot;2.5&quot; fill=&quot;#E5342E&quot;/>
-        <path d=&quot;M44 12 L52 4 M47 4 L52 4 L52 9&quot; stroke=&quot;#E5342E&quot; stroke-width=&quot;3.5&quot; stroke-linecap=&quot;round&quot; stroke-linejoin=&quot;round&quot;/>
-      </svg>
-      <div class=&quot;txt&quot;>
-        <div class=&quot;ttl&quot; style=&quot;color:#ff6b6b;&quot;>📱 タブレット・GO操作の「ながら・脇見運転」厳禁！</div>
-        <div class=&quot;dsc&quot;>
-          パッと脇見した一瞬で、<strong style=&quot;color:#ffd966;&quot;>時速40kmなら2秒で約22m</strong>も進みます。<br>
-          配車確認・操作は<strong>必ず停車してから</strong>。走行中の画面注視は重大事故に直結します。
-        </div>
-      </div>
-    </div>
+    <div class=&quot;body&quot;>夜間・雨天時、<strong>暗色の服の歩行者</strong>は発見が極端に遅れます。車列の陰・路地・横断歩道外への「飛び出し」は予測できません。</div>
+    <div class=&quot;slogan&quot;>「かもしれない運転」で速度を落とし、歩行者を守れるのはあなただけ</div>
   </div>
-
-  <!-- スローガン -->
-  <div class=&quot;slogan&quot;>
-    <div class=&quot;label&quot;>━━ 今日のスローガン ━━</div>
-    <div class=&quot;main&quot;>「あせらず・無理せず・安全第一」<br>あなたの帰りを待つ人がいます</div>
-  </div>
-
-  <div class=&quot;footer&quot;>日本タクシー 安全管理室</div>
-
 </div>
+<script>
+var r=document.getElementById('rain');
+for(var i=0;i<65;i++){
+  var s=document.createElement('span');
+  var l=Math.random()*100,d=0.45+Math.random()*.75,dy=-Math.random()*2.5,h=55+Math.random()*90;
+  s.style.cssText='left:'+l+'%;height:'+h+'px;animation-duration:'+d+'s;animation-delay:'+dy+'s;opacity:'+(0.25+Math.random()*.5);
+  r.appendChild(s);
+}
+</script>
 </body>
 </html>
 "
