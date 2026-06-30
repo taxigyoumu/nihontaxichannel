@@ -1,95 +1,67 @@
 {
-  "updated_at": "2026-07-01 01:38",
+  "updated_at": "2026-07-01 07:03",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　１日０１時３１分ころ、地震がありました。",
+      "text": "【震源・震度情報】　１日０５時５５分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-06-30T16:34:31Z"
+      "time": "2026-06-30T20:58:31Z"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　１日００時３３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-30T15:35:46Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "皇室典範改正案 養子の男の子に皇位継承資格 審議で論点に",
+      "source": "NHK",
+      "time": "Wed, 01 Jul 2026 05:12:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165151_2606302043_0701051246_01_03.jpg"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　１日００時０２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-30T15:05:31Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３０日２３時０２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-30T14:06:21Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう３０日２３時０２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-30T14:05:13Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
+      "source": "NHK",
+      "time": "Wed, 01 Jul 2026 06:15:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165311_2607010355_0701061600_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
       "source": "NHK",
-      "time": "Wed, 01 Jul 2026 00:22:56 +0900",
+      "time": "Wed, 01 Jul 2026 04:39:32 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165281_2606302243_0701002256_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大規模山林火災受け 消火薬剤のガイドライン策定 総務省消防庁",
+      "text": "能登半島地震から2年半 孤立防ぐ見守りなど継続支援が課題",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 22:29:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015165271_2606302209_0630222919_01_02.jpg"
+      "time": "Wed, 01 Jul 2026 06:29:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165131_2606302028_0701062927_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "記録的水準の円安 今後は？暮らしはどうなる？【詳しく】",
+      "text": "国会 与野党対立 衆院議長と各党が協議し打開策模索か",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 19:30:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164771_2606301812_0630185941_01_02.jpg"
+      "time": "Wed, 01 Jul 2026 05:21:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165141_2606302044_0701052106_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 日本がブラジルに逆転負け 16強進出ならず 【詳しく】",
+      "text": "企業に義務づけの障害者雇用率 民間企業2.7％に引き上げ",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 17:55:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163871_2606300714_0630071558_01_02.jpg"
+      "time": "Wed, 01 Jul 2026 05:16:59 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "解説 本田圭佑さんが語る“日本が強くなるために必要なこと”",
+      "text": "ダッカテロ事件から10年 犠牲の日本人遺族 “警備強化を”",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 11:37:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164361_2606300900_0630105515_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "栃木強盗殺人事件 高校生ら4人の事件を横浜家裁支部へ移す決定",
-      "source": "NHK",
-      "time": "Tue, 30 Jun 2026 19:19:42 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「キャプテン翼」高橋陽一さん“4年後は翼くんの夢W杯優勝を”",
-      "source": "NHK",
-      "time": "Tue, 30 Jun 2026 21:16:09 +0900"
+      "time": "Wed, 01 Jul 2026 05:39:41 +0900"
     }
   ]
 }
