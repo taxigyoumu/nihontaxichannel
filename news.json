@@ -1,30 +1,73 @@
 {
-  "updated_at": "2026-06-30 17:49",
-  "has_alert": false,
+  "updated_at": "2026-07-01 01:38",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日０１時３１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-30T16:34:31Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日００時３３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-30T15:35:46Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日００時０２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-30T15:05:31Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３０日２３時０２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-30T14:06:21Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう３０日２３時０２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-06-30T14:05:13Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
+      "source": "NHK",
+      "time": "Wed, 01 Jul 2026 00:22:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165281_2606302243_0701002256_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大規模山林火災受け 消火薬剤のガイドライン策定 総務省消防庁",
+      "source": "NHK",
+      "time": "Tue, 30 Jun 2026 22:29:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015165271_2606302209_0630222919_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "記録的水準の円安 今後は？暮らしはどうなる？【詳しく】",
+      "source": "NHK",
+      "time": "Tue, 30 Jun 2026 19:30:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164771_2606301812_0630185941_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "W杯 日本がブラジルに逆転負け 16強進出ならず 【詳しく】",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 14:53:57 +0900",
+      "time": "Tue, 30 Jun 2026 17:55:11 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163871_2606300714_0630071558_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "皇族数確保に向けた皇室典範改正案 閣議決定し国会提出 政府",
-      "source": "NHK",
-      "time": "Tue, 30 Jun 2026 17:34:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164681_2606301724_0630173451_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "円相場 一時1ドル＝162円台に 約39年半ぶりの円安水準",
-      "source": "NHK",
-      "time": "Tue, 30 Jun 2026 11:34:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015164231_2606301028_0630104129_01_02.jpg"
     },
     {
       "category": "news",
@@ -37,24 +80,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アフラック生命 約438万人分 個人情報漏えい 一部は口座情報も",
+      "text": "栃木強盗殺人事件 高校生ら4人の事件を横浜家裁支部へ移す決定",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 16:14:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164791_2606301403_0630140555_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 19:19:42 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 那須塩原 男性がクマに襲われ大けが 住宅に助け求める",
+      "text": "「キャプテン翼」高橋陽一さん“4年後は翼くんの夢W杯優勝を”",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 15:06:07 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「撮り鉄」仲間の中学生暴行しカメラ奪ったか 4人逮捕 警視庁",
-      "source": "NHK",
-      "time": "Tue, 30 Jun 2026 15:08:54 +0900"
+      "time": "Tue, 30 Jun 2026 21:16:09 +0900"
     }
   ]
 }
