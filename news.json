@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-06-30 06:10",
-  "has_alert": true,
+  "updated_at": "2026-06-30 17:49",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３０日０５時２４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-29T20:26:46Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯 日本がブラジルに逆転負け 16強進出ならず 【詳しく】",
+      "source": "NHK",
+      "time": "Tue, 30 Jun 2026 14:53:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163871_2606300714_0630071558_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 日本がブラジルに逆転負け 決勝T 1回戦で敗退【詳しく】",
+      "text": "皇族数確保に向けた皇室典範改正案 閣議決定し国会提出 政府",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 05:54:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015163871_2606300532_0630055433_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 17:34:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164681_2606301724_0630173451_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広島 三原 強盗殺人事件 請け負った工事の現場選んで事件か",
+      "text": "円相場 一時1ドル＝162円台に 約39年半ぶりの円安水準",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 05:23:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164131_2606300033_0630052316_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 11:34:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260629/K10015164231_2606301028_0630104129_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "近鉄京都線 脱線事故の復旧作業で始発から運転見合わせ",
+      "text": "解説 本田圭佑さんが語る“日本が強くなるために必要なこと”",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 05:17:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164141_2606300431_0630051708_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 11:37:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164361_2606300900_0630105515_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "部活動の高校生ら死傷のバス事故受け安全対策まとめる 政府",
+      "text": "アフラック生命 約438万人分 個人情報漏えい 一部は口座情報も",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 05:19:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164081_2606300042_0630051931_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 16:14:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164791_2606301403_0630140555_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「副首都」関連法案きょう審議入りの方針 与野党の対立続く",
+      "text": "栃木 那須塩原 男性がクマに襲われ大けが 住宅に助け求める",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 05:01:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260630/K10015164071_2606300044_0630050138_01_02.jpg"
+      "time": "Tue, 30 Jun 2026 15:06:07 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場 一時1ドル＝161円90銭台後半 約39年半ぶりの円安水準に",
+      "text": "「撮り鉄」仲間の中学生暴行しカメラ奪ったか 4人逮捕 警視庁",
       "source": "NHK",
-      "time": "Tue, 30 Jun 2026 05:29:52 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米連邦最高裁判所 トランプ大統領によるFRB理事解任は無効",
-      "source": "NHK",
-      "time": "Tue, 30 Jun 2026 05:31:55 +0900"
+      "time": "Tue, 30 Jun 2026 15:08:54 +0900"
     }
   ]
 }
