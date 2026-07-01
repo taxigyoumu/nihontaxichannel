@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-07-01 07:03",
-  "has_alert": true,
+  "updated_at": "2026-07-01 19:57",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　１日０５時５５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-06-30T20:58:31Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "長野 東御で母娘2人死亡 長男切りつけた疑い 46歳の父親を逮捕",
+      "source": "NHK",
+      "time": "Wed, 01 Jul 2026 19:06:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165681_2607011156_0701190635_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "皇室典範改正案 養子の男の子に皇位継承資格 審議で論点に",
+      "text": "横浜市議会議員が女性議員にキス 不同意わいせつ疑い書類送検",
       "source": "NHK",
-      "time": "Wed, 01 Jul 2026 05:12:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165151_2606302043_0701051246_01_03.jpg"
+      "time": "Wed, 01 Jul 2026 19:42:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015166171_2607011933_0701194215_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "1ドル＝162円台後半に値下がり 日米の金利差拡大などで",
+      "text": "NBAのスーパースター レブロン・ジェームズがレイカーズを退団",
       "source": "NHK",
-      "time": "Wed, 01 Jul 2026 06:15:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165311_2607010355_0701061600_01_02.jpg"
+      "time": "Wed, 01 Jul 2026 14:37:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015166001_2607011411_0701143736_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米「出生地主義」見直しの大統領令 連邦最高裁が認めない判断",
+      "text": "高校生の就職活動が事実上スタート “初任給30万円”企業も",
       "source": "NHK",
-      "time": "Wed, 01 Jul 2026 04:39:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165281_2606302243_0701002256_01_02.jpg"
+      "time": "Wed, 01 Jul 2026 14:20:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165811_2607011328_0701142022_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "能登半島地震から2年半 孤立防ぐ見守りなど継続支援が課題",
+      "text": "九州など非常に激しい雨のおそれ 近畿 東海 関東などでも注意",
       "source": "NHK",
-      "time": "Wed, 01 Jul 2026 06:29:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165131_2606302028_0701062927_01_03.jpg"
+      "time": "Wed, 01 Jul 2026 19:33:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165491_2607011858_0701193324_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国会 与野党対立 衆院議長と各党が協議し打開策模索か",
+      "text": "NPB SNSでの審判員に対する「ひぼう中傷監視システム」導入",
       "source": "NHK",
-      "time": "Wed, 01 Jul 2026 05:21:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260701/K10015165141_2606302044_0701052106_01_03.jpg"
+      "time": "Wed, 01 Jul 2026 18:56:07 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "企業に義務づけの障害者雇用率 民間企業2.7％に引き上げ",
+      "text": "名古屋 郵便局で “誤ってスプレー” 病院に5人搬送",
       "source": "NHK",
-      "time": "Wed, 01 Jul 2026 05:16:59 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ダッカテロ事件から10年 犠牲の日本人遺族 “警備強化を”",
-      "source": "NHK",
-      "time": "Wed, 01 Jul 2026 05:39:41 +0900"
+      "time": "Wed, 01 Jul 2026 15:35:18 +0900"
     }
   ]
 }
