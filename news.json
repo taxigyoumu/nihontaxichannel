@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-07-03 02:02",
-  "has_alert": false,
+  "updated_at": "2026-07-03 05:46",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　３日０５時３０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-02T20:33:24Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　３日０５時２４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-02T20:27:42Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "WHO クルーズ船でのハンタウイルス集団感染の収束を宣言",
+      "source": "NHK",
+      "time": "Fri, 03 Jul 2026 05:08:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167711_2607030434_0703050853_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中国当局に拘束された香港の書店の元店長 台湾で死去",
+      "source": "NHK",
+      "time": "Fri, 03 Jul 2026 05:06:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167701_2607030151_0703050648_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,14 +39,6 @@
       "source": "NHK",
       "time": "Thu, 02 Jul 2026 21:12:16 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167441_2607022040_0702211217_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "静岡 伊東 田久保前市長めぐる住民監査請求 退けられる",
-      "source": "NHK",
-      "time": "Thu, 02 Jul 2026 23:58:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167511_2607022257_0702235847_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,25 +51,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "生食用の鶏肉 衛生基準などのガイドライン初めて策定へ 厚労省",
+      "text": "ウクライナ政府 ロシア軍の攻撃 被害の深刻さを各国大使に訴え",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 19:04:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167151_2607021646_0702190413_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 05:11:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167671_2607030455_0703051131_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "各地で土砂崩れや氾濫も 週末は九州で再び大雨のおそれ",
+      "text": "静岡 伊東 田久保前市長めぐる住民監査請求 退けられる",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 19:12:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166571_2607021852_0702191226_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日本ハム 先頭バッターから4者連続本塁打 プロ野球史上初",
-      "source": "NHK",
-      "time": "Thu, 02 Jul 2026 20:25:17 +0900"
+      "time": "Thu, 02 Jul 2026 23:58:46 +0900"
     },
     {
       "category": "news",
