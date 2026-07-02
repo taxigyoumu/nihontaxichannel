@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-02 19:15",
+  "updated_at": "2026-07-03 02:02",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ライブ配信】サッカーW杯 森保監督が帰国後記者会見",
+      "text": "東京 小学校火事 電気ストーブは音楽教諭の私物 私服など干す",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 19:05:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166871_2607021837_0702183916_01_02.jpg"
+      "time": "Thu, 02 Jul 2026 21:12:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167441_2607022040_0702211217_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】サッカーW杯 日本代表が帰国 ファンが出迎え",
+      "text": "静岡 伊東 田久保前市長めぐる住民監査請求 退けられる",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 17:32:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166851_2607021543_0702154831_01_02.jpg"
+      "time": "Thu, 02 Jul 2026 23:58:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167511_2607022257_0702235847_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風9号が発生 今後の情報に注意",
+      "text": "ウクライナ侵攻でロシア軍死傷者140万人 米シンクタンク分析",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 11:03:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166891_2607021045_0702110307_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 00:00:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167551_2607022255_0703000012_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡 久留米 農業用ハウス10棟超被害  風速およそ40m突風か",
+      "text": "生食用の鶏肉 衛生基準などのガイドライン初めて策定へ 厚労省",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 18:56:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167061_2607021319_0702140212_01_03.jpg"
+      "time": "Thu, 02 Jul 2026 19:04:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167151_2607021646_0702190413_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場 日中は1ドル＝162円台前半 夕方以降は荒い値動き",
+      "text": "各地で土砂崩れや氾濫も 週末は九州で再び大雨のおそれ",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 18:57:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167341_2607021808_0702182038_01_02.jpg"
+      "time": "Thu, 02 Jul 2026 19:12:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166571_2607021852_0702191226_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日印首脳会談 戦略的協力関係深めることで合意 2兆円投資も",
+      "text": "日本ハム 先頭バッターから4者連続本塁打 プロ野球史上初",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 19:06:25 +0900"
+      "time": "Thu, 02 Jul 2026 20:25:17 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大手企業 夏のボーナス 初の100万円超 経団連調査",
+      "text": "サッカー日本代表 今後は監督の人選が焦点に",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 17:31:05 +0900"
+      "time": "Fri, 03 Jul 2026 00:05:23 +0900"
     }
   ]
 }
