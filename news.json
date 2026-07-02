@@ -1,74 +1,60 @@
 {
-  "updated_at": "2026-07-02 07:50",
-  "has_alert": true,
+  "updated_at": "2026-07-02 19:15",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　２日０６時１０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-01T21:13:24Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　２日０５時５５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-01T20:58:11Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【ライブ配信】サッカーW杯 森保監督が帰国後記者会見",
+      "source": "NHK",
+      "time": "Thu, 02 Jul 2026 19:05:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166871_2607021837_0702183916_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "京都 長岡京 金ケ原谷田と高台西の一部 16世帯29人に避難指示",
+      "text": "【動画】サッカーW杯 日本代表が帰国 ファンが出迎え",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 07:17:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166731_2607020714_0702071727_01_02.jpg"
+      "time": "Thu, 02 Jul 2026 17:32:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166851_2607021543_0702154831_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州北部で線状降水帯発生 土砂災害・浸水などに厳重警戒",
+      "text": "台風9号が発生 今後の情報に注意",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 06:53:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166571_2607020259_0702030010_01_02.jpg"
+      "time": "Thu, 02 Jul 2026 11:03:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166891_2607021045_0702110307_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "きょう日印首脳会談 経済安保など協力進展図る 成果文書も調整",
+      "text": "福岡 久留米 農業用ハウス10棟超被害  風速およそ40m突風か",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 05:33:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166401_2607012304_0702053311_01_02.jpg"
+      "time": "Thu, 02 Jul 2026 18:56:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167061_2607021319_0702140212_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "皇室典範改正案 与野党が協議へ 与党は定数削減法案成立も図る",
+      "text": "円相場 日中は1ドル＝162円台前半 夕方以降は荒い値動き",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 05:26:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166521_2607020017_0702052621_01_02.jpg"
+      "time": "Thu, 02 Jul 2026 18:57:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167341_2607021808_0702182038_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベネズエラ地震発生1週間 救助活動続くも食料など支援が課題に",
+      "text": "日印首脳会談 戦略的協力関係深めることで合意 2兆円投資も",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 07:34:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015166531_2607020053_0702073429_01_02.jpg"
+      "time": "Thu, 02 Jul 2026 19:06:25 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長野 東御の住宅で親子3人死傷 逮捕の父親は自殺図ったか",
+      "text": "大手企業 夏のボーナス 初の100万円超 経団連調査",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 07:12:08 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「スロースリップ」活発な領域 東北沖で拡大か 地震への備えを",
-      "source": "NHK",
-      "time": "Thu, 02 Jul 2026 05:16:03 +0900"
+      "time": "Thu, 02 Jul 2026 17:31:05 +0900"
     }
   ]
 }
