@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-07-03 17:38",
+  "updated_at": "2026-07-04 00:59",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　３日１７時２４分ころ、地震がありました。",
+      "text": "【震源・震度情報】　３日２３時３７分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-03T08:31:18Z"
+      "time": "2026-07-03T14:40:53Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 一時1000円以上値下がりも午後には上昇",
+      "text": "前線活動活発に 九州北部は4日未明から非常に激しい雨おそれ",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 16:32:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167961_2607031537_0703163236_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 19:37:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168351_2607032047_0703204800_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長崎 壱岐 市内全域1万1281世帯 高齢者等避難の情報",
+      "text": "長期金利 約29年ぶり一時2.81％に上昇 インフレ加速観測などで",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 17:14:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168191_2607031711_0703171446_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 21:12:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167801_2607030934_0703094705_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 佐々木朗希3回6失点 大谷翔平1安打 チーム逆転勝ち",
+      "text": "成田空港への鉄道輸送力 2倍近くに増加へ 国検討会 方針固める",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 15:42:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168081_2607031516_0703154212_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 19:49:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168111_2607031734_0703181341_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "佳子さま 横浜市の盲学校で生徒たちと交流",
+      "text": "秋田 仙北 20代男性がクマに襲われ顔などにけが",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 16:29:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168101_2607031549_0703162941_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 21:38:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168501_2607032131_0703213805_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 インドから帰国の途に 首脳会談など一連の日程終え",
+      "text": "ベネズエラ地震 発生8日目に“奇跡”の救助 死者は2500人超に",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 16:14:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168071_2607031458_0703161411_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 18:22:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167841_2607031054_0703122614_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "石原環境相「国立公園内のクマの人身被害 対策強化を」",
+      "text": "ヨーロッパ飛来の無人機“ロシアの可能性高い”英シンクタンク",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 15:03:51 +0900"
+      "time": "Fri, 03 Jul 2026 23:46:24 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ブルボン 菓子2万袋余を自主回収 アレルギー物質「えび」混入",
+      "text": "長野 東御 親子3人死傷事件 入院していた父親を改めて逮捕",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 14:31:49 +0900"
+      "time": "Fri, 03 Jul 2026 20:44:33 +0900"
     }
   ]
 }
