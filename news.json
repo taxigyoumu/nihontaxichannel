@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-04 00:59",
-  "has_alert": true,
+  "updated_at": "2026-07-04 05:34",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　３日２３時３７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-03T14:40:53Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -20,34 +13,34 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長期金利 約29年ぶり一時2.81％に上昇 インフレ加速観測などで",
+      "text": "熊本豪雨から6年 安心して住み続けられる環境づくり課題",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 21:12:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167801_2607030934_0703094705_01_02.jpg"
+      "time": "Sat, 04 Jul 2026 04:51:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168161_2607032039_0704045102_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "成田空港への鉄道輸送力 2倍近くに増加へ 国検討会 方針固める",
+      "text": "南米ペルー大統領選 フジモリ元大統領長女ケイコ氏勝利宣言",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 19:49:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168111_2607031734_0703181341_01_02.jpg"
+      "time": "Sat, 04 Jul 2026 04:27:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168561_2607040105_0704034419_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "秋田 仙北 20代男性がクマに襲われ顔などにけが",
+      "text": "国会 与党に会期延長論も 高市首相の意向踏まえ対応検討へ",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 21:38:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168501_2607032131_0703213805_01_02.jpg"
+      "time": "Sat, 04 Jul 2026 05:09:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168411_2607040359_0704050958_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベネズエラ地震 発生8日目に“奇跡”の救助 死者は2500人超に",
+      "text": "猛暑のフランス エアコン設置めぐり政策論争にも発展",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 18:22:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167841_2607031054_0703122614_01_03.jpg"
+      "time": "Sat, 04 Jul 2026 04:56:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168511_2607032158_0704045626_01_02.jpg"
     },
     {
       "category": "news",
@@ -59,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長野 東御 親子3人死傷事件 入院していた父親を改めて逮捕",
+      "text": "成田空港への鉄道輸送力 2倍近くに増加へ 国検討会 方針固める",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 20:44:33 +0900"
+      "time": "Fri, 03 Jul 2026 19:49:34 +0900"
     }
   ]
 }
