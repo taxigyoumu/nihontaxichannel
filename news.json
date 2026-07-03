@@ -1,74 +1,67 @@
 {
-  "updated_at": "2026-07-03 05:46",
+  "updated_at": "2026-07-03 17:38",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　３日０５時３０分ころ、地震がありました。",
+      "text": "【震源・震度情報】　３日１７時２４分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-02T20:33:24Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　３日０５時２４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-02T20:27:42Z"
+      "time": "2026-07-03T08:31:18Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "WHO クルーズ船でのハンタウイルス集団感染の収束を宣言",
+      "text": "株価 一時1000円以上値下がりも午後には上昇",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 05:08:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167711_2607030434_0703050853_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 16:32:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167961_2607031537_0703163236_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国当局に拘束された香港の書店の元店長 台湾で死去",
+      "text": "長崎 壱岐 市内全域1万1281世帯 高齢者等避難の情報",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 05:06:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167701_2607030151_0703050648_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 17:14:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168191_2607031711_0703171446_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 小学校火事 電気ストーブは音楽教諭の私物 私服など干す",
+      "text": "ドジャース 佐々木朗希3回6失点 大谷翔平1安打 チーム逆転勝ち",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 21:12:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260702/K10015167441_2607022040_0702211217_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 15:42:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168081_2607031516_0703154212_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ侵攻でロシア軍死傷者140万人 米シンクタンク分析",
+      "text": "佳子さま 横浜市の盲学校で生徒たちと交流",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 00:00:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167551_2607022255_0703000012_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 16:29:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168101_2607031549_0703162941_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ政府 ロシア軍の攻撃 被害の深刻さを各国大使に訴え",
+      "text": "高市首相 インドから帰国の途に 首脳会談など一連の日程終え",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 05:11:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015167671_2607030455_0703051131_01_02.jpg"
+      "time": "Fri, 03 Jul 2026 16:14:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168071_2607031458_0703161411_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "静岡 伊東 田久保前市長めぐる住民監査請求 退けられる",
+      "text": "石原環境相「国立公園内のクマの人身被害 対策強化を」",
       "source": "NHK",
-      "time": "Thu, 02 Jul 2026 23:58:46 +0900"
+      "time": "Fri, 03 Jul 2026 15:03:51 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー日本代表 今後は監督の人選が焦点に",
+      "text": "ブルボン 菓子2万袋余を自主回収 アレルギー物質「えび」混入",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 00:05:23 +0900"
+      "time": "Fri, 03 Jul 2026 14:31:49 +0900"
     }
   ]
 }
