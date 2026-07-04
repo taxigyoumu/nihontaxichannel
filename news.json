@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-07-05 05:14",
+  "updated_at": "2026-07-05 08:46",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "九州北部で非常に激しい雨 昼過ぎにかけ線状降水帯のおそれ",
+      "source": "NHK",
+      "time": "Sun, 05 Jul 2026 07:51:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015168961_2607050746_0705075142_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "佐賀 唐津市 市内全域 5万1432世帯 11万3117人に避難指示",
+      "source": "NHK",
+      "time": "Sun, 05 Jul 2026 07:44:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169041_2607050737_0705074424_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福岡 筑紫野市 市内の一部 2311世帯 5261人に避難指示",
+      "source": "NHK",
+      "time": "Sun, 05 Jul 2026 08:22:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169061_2607050804_0705082256_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ建国250年 各地で祝賀イベント 政権に抗議の声も",
+      "source": "NHK",
+      "time": "Sun, 05 Jul 2026 07:58:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015168981_2607050652_0705065721_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 山県 洞泉寺で木製の仏像11体がなくなる 盗難被害か",
+      "text": "イラン ハメネイ師葬儀続く “米と1週間 協議中断合意”報道も",
       "source": "NHK",
-      "time": "Sun, 05 Jul 2026 05:02:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169021_2607042158_0705050219_01_02.jpg"
+      "time": "Sun, 05 Jul 2026 07:37:08 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 中野区 住宅など7棟焼ける火事 1人軽いけが",
+      "text": "W杯 モロッコがベスト8 一番乗り 開催国のカナダは敗退",
       "source": "NHK",
-      "time": "Sat, 04 Jul 2026 18:00:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168821_2607041558_0704160308_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカーW杯 ベスト16出そろう メッシなどエースの活躍 際立つ",
-      "source": "NHK",
-      "time": "Sat, 04 Jul 2026 20:53:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168851_2607041623_0704170900_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "カボベルデ どんな国？W杯で大躍進 日本と意外なつながりも",
-      "source": "NHK",
-      "time": "Sun, 05 Jul 2026 00:20:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015169011_2607042218_0704222604_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "建国250年 トランプ大統領 独立記念日前に演説 党派色強い内容",
-      "source": "NHK",
-      "time": "Sat, 04 Jul 2026 21:48:03 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ラグビー日本代表 イタリアに勝利 新設の国際大会初戦で",
-      "source": "NHK",
-      "time": "Sat, 04 Jul 2026 22:52:43 +0900"
+      "time": "Sun, 05 Jul 2026 07:33:59 +0900"
     }
   ]
 }
