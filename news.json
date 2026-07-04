@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-05 00:46",
+  "updated_at": "2026-07-05 05:14",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "はやぶさ2が小惑星「トリフネ」に今夜 接近 高速で通過へ",
+      "source": "NHK",
+      "time": "Sun, 05 Jul 2026 05:01:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015168951_2607042017_0705050109_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "岐阜 山県 洞泉寺で木製の仏像11体がなくなる 盗難被害か",
+      "source": "NHK",
+      "time": "Sun, 05 Jul 2026 05:02:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169021_2607042158_0705050219_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 中野区 住宅など7棟焼ける火事 1人軽いけが",
+      "source": "NHK",
+      "time": "Sat, 04 Jul 2026 18:00:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168821_2607041558_0704160308_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -23,24 +47,7 @@
       "label": "ニュース",
       "text": "建国250年 トランプ大統領 独立記念日前に演説 党派色強い内容",
       "source": "NHK",
-      "time": "Sat, 04 Jul 2026 21:48:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168671_2607041306_0704130720_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 中野区 住宅など7棟焼ける火事 1人軽いけが",
-      "source": "NHK",
-      "time": "Sat, 04 Jul 2026 18:00:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168821_2607041558_0704160308_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "梅雨前線 6日かけて停滞 九州北部は断続的に激しい雨のおそれ",
-      "source": "NHK",
-      "time": "Sat, 04 Jul 2026 21:16:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168721_2607042113_0704211620_01_03.jpg"
+      "time": "Sat, 04 Jul 2026 21:48:03 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "ラグビー日本代表 イタリアに勝利 新設の国際大会初戦で",
       "source": "NHK",
       "time": "Sat, 04 Jul 2026 22:52:43 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【プロ野球結果】ソフトバンク 連勝6で止まる 新人が初登板も",
-      "source": "NHK",
-      "time": "Sat, 04 Jul 2026 22:46:24 +0900"
     }
   ]
 }
