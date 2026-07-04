@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-04 05:34",
+  "updated_at": "2026-07-04 16:30",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "前線活動活発に 九州北部は4日未明から非常に激しい雨おそれ",
+      "text": "九州北部で非常に激しい雨 雨雲移動も6日にかけ前線停滞",
       "source": "NHK",
-      "time": "Fri, 03 Jul 2026 19:37:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260703/K10015168351_2607032047_0703204800_01_02.jpg"
+      "time": "Sat, 04 Jul 2026 11:54:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168721_2607041136_0704115454_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "建国250年 トランプ大統領 独立記念日前に演説 党派色強い内容",
+      "source": "NHK",
+      "time": "Sat, 04 Jul 2026 15:09:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168671_2607041306_0704130720_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イラン 前最高指導者ハメネイ師の葬儀始まる 大勢の市民が追悼",
+      "source": "NHK",
+      "time": "Sat, 04 Jul 2026 14:48:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168741_2607041229_0704123220_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "岩手 秋田自動車道にクマ入り込み一時通行止め",
+      "source": "NHK",
+      "time": "Sat, 04 Jul 2026 13:51:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168731_2607041205_0704135428_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本豪雨から6年 安心して住み続けられる環境づくり課題",
       "source": "NHK",
-      "time": "Sat, 04 Jul 2026 04:51:01 +0900",
+      "time": "Sat, 04 Jul 2026 14:07:23 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168161_2607032039_0704045102_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "南米ペルー大統領選 フジモリ元大統領長女ケイコ氏勝利宣言",
+      "text": "ベネズエラ地震 日本の国際緊急援助隊が現地に向け出発",
       "source": "NHK",
-      "time": "Sat, 04 Jul 2026 04:27:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168561_2607040105_0704034419_01_02.jpg"
+      "time": "Sat, 04 Jul 2026 11:51:02 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国会 与党に会期延長論も 高市首相の意向踏まえ対応検討へ",
+      "text": "ドジャース 大谷翔平 6回3失点で9勝目ならず チームは逆転勝ち",
       "source": "NHK",
-      "time": "Sat, 04 Jul 2026 05:09:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168411_2607040359_0704050958_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "猛暑のフランス エアコン設置めぐり政策論争にも発展",
-      "source": "NHK",
-      "time": "Sat, 04 Jul 2026 04:56:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260704/K10015168511_2607032158_0704045626_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ヨーロッパ飛来の無人機“ロシアの可能性高い”英シンクタンク",
-      "source": "NHK",
-      "time": "Fri, 03 Jul 2026 23:46:24 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "成田空港への鉄道輸送力 2倍近くに増加へ 国検討会 方針固める",
-      "source": "NHK",
-      "time": "Fri, 03 Jul 2026 19:49:34 +0900"
+      "time": "Sat, 04 Jul 2026 15:57:43 +0900"
     }
   ]
 }
