@@ -1,45 +1,38 @@
 {
-  "updated_at": "2026-07-05 18:47",
-  "has_alert": true,
+  "updated_at": "2026-07-06 00:01",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日１８時３０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-05T09:33:46Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "6日にかけ梅雨前線停滞 九州北部で非常に激しい雨のおそれ",
+      "source": "NHK",
+      "time": "Sun, 05 Jul 2026 23:28:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015168961_2607051843_0705184533_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "6日にかけ梅雨前線停滞 長崎県には線状降水帯直前予測 警戒を",
+      "text": "はやぶさ2が小惑星「トリフネ」に接近 無事通過 JAXA",
       "source": "NHK",
-      "time": "Sun, 05 Jul 2026 17:27:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015168961_2607050746_0705075142_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "土砂崩れ被害も 九州北部 四国で非常に激しい雨",
-      "source": "NHK",
-      "time": "Sun, 05 Jul 2026 14:38:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169241_2607051410_0705143818_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "九州北部豪雨から9年 被害大きかった福岡 朝倉で犠牲者追悼",
-      "source": "NHK",
-      "time": "Sun, 05 Jul 2026 15:04:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169261_2607051407_0705150457_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "はやぶさ2が小惑星「トリフネ」に今夜接近 高速で通過へ",
-      "source": "NHK",
-      "time": "Sun, 05 Jul 2026 18:25:22 +0900",
+      "time": "Sun, 05 Jul 2026 21:41:16 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015168951_2607051346_0705134813_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "滋賀県知事選挙 現職の三日月大造氏が4回目の当選",
+      "source": "NHK",
+      "time": "Sun, 05 Jul 2026 23:03:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015167281_2607052128_0705220722_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高市首相 ペルー大統領選 勝利宣言のケイコ・フジモリ氏に祝辞",
+      "source": "NHK",
+      "time": "Sun, 05 Jul 2026 23:32:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169551_2607052324_0705233215_01_02.jpg"
     },
     {
       "category": "news",
@@ -52,16 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領演説 アメリカ建国250年を誇る 対立勢力批判も",
+      "text": "イラン ハメネイ師葬儀続く 「抵抗の枢軸」とも連帯確認か",
       "source": "NHK",
-      "time": "Sun, 05 Jul 2026 17:25:26 +0900"
+      "time": "Sun, 05 Jul 2026 20:22:07 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イラン ハメネイ師葬儀続く “米と1週間 協議中断合意”報道も",
+      "text": "陸上女子100mハードル 中島ひとみが12秒75で優勝",
       "source": "NHK",
-      "time": "Sun, 05 Jul 2026 07:37:08 +0900"
+      "time": "Sun, 05 Jul 2026 18:59:19 +0900"
     }
   ]
 }
