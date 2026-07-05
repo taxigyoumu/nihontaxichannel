@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-07-06 00:01",
-  "has_alert": false,
+  "updated_at": "2026-07-06 05:00",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　６日０２時５５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-05T17:58:30Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　６日０２時２６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-05T17:29:17Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,30 +23,6 @@
       "source": "NHK",
       "time": "Sun, 05 Jul 2026 23:28:27 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015168961_2607051843_0705184533_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "はやぶさ2が小惑星「トリフネ」に接近 無事通過 JAXA",
-      "source": "NHK",
-      "time": "Sun, 05 Jul 2026 21:41:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015168951_2607051346_0705134813_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "滋賀県知事選挙 現職の三日月大造氏が4回目の当選",
-      "source": "NHK",
-      "time": "Sun, 05 Jul 2026 23:03:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015167281_2607052128_0705220722_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高市首相 ペルー大統領選 勝利宣言のケイコ・フジモリ氏に祝辞",
-      "source": "NHK",
-      "time": "Sun, 05 Jul 2026 23:32:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015169551_2607052324_0705233215_01_02.jpg"
     },
     {
       "category": "news",
@@ -45,6 +35,30 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "マダニ媒介の感染症 SFTS患者数 過去最多の去年上回るペース",
+      "source": "NHK",
+      "time": "Mon, 06 Jul 2026 04:52:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015168401_2607032100_0706045216_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "滋賀県知事選 現職の三日月大造氏が新人3人抑え4回目の当選",
+      "source": "NHK",
+      "time": "Mon, 06 Jul 2026 04:47:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260705/K10015167281_2607052128_0705220722_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "OPECプラスの7か国 8月に日量18万バレル余の増産発表",
+      "source": "NHK",
+      "time": "Mon, 06 Jul 2026 04:49:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169531_2607052132_0706044925_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "イラン ハメネイ師葬儀続く 「抵抗の枢軸」とも連帯確認か",
       "source": "NHK",
       "time": "Sun, 05 Jul 2026 20:22:07 +0900"
@@ -52,9 +66,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "陸上女子100mハードル 中島ひとみが12秒75で優勝",
+      "text": "防災気象情報 6割がレベルの意味分からず 専門家調査 広島",
       "source": "NHK",
-      "time": "Sun, 05 Jul 2026 18:59:19 +0900"
+      "time": "Mon, 06 Jul 2026 04:51:11 +0900"
     }
   ]
 }
