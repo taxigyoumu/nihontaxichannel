@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-06 23:17",
+  "updated_at": "2026-07-07 06:04",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "参議院 法案審議再開へ 衆議院では与野党対立続く",
+      "source": "NHK",
+      "time": "Tue, 07 Jul 2026 05:45:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170351_2607070038_0707054553_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領 FIFA会長に再検討求めるも「指示はせず」",
+      "source": "NHK",
+      "time": "Tue, 07 Jul 2026 05:35:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170451_2607070047_0707012129_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
+      "source": "NHK",
+      "time": "Tue, 07 Jul 2026 04:56:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170291_2607062123_0707045624_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 10代少女監禁事件 母親を再逮捕 ブルーシートで拘束か",
+      "source": "NHK",
+      "time": "Tue, 07 Jul 2026 05:08:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170331_2607062259_0707050826_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中国が潜水艦からミサイル発射 関係国などから懸念の声",
+      "source": "NHK",
+      "time": "Tue, 07 Jul 2026 05:36:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170341_2607070034_0707053616_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ハマス ガザ地区の行政当局解散と発表も和平計画進展は不透明",
+      "source": "NHK",
+      "time": "Tue, 07 Jul 2026 04:58:23 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "“スーパー台風”9号 最大瞬間風速80メートル 情報の確認を",
       "source": "NHK",
-      "time": "Mon, 06 Jul 2026 22:18:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015170311_2607062139_0706221848_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中国軍が太平洋の公海上へ潜水艦発射型戦略ミサイルの発射実験",
-      "source": "NHK",
-      "time": "Mon, 06 Jul 2026 22:46:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169931_2607062040_0706204721_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ハマス ガザ地区の行政当局を解散と発表 先行きは不透明",
-      "source": "NHK",
-      "time": "Mon, 06 Jul 2026 20:52:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015170241_2607062047_0706220235_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高市首相 “皇室典範改正案など国会運営に万全を” 自民役員会",
-      "source": "NHK",
-      "time": "Mon, 06 Jul 2026 21:46:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015170171_2607061856_0706214627_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "がんゲノム医療拠点 来年度から各都道府県に原則1か所指定へ",
-      "source": "NHK",
-      "time": "Mon, 06 Jul 2026 21:22:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015170251_2607062037_0706212248_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "W杯 FIFA 米代表選手の出場停止を猶予 トランプ氏が電話で要請",
-      "source": "NHK",
-      "time": "Mon, 06 Jul 2026 21:14:13 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "参議院決算委員会 高市首相の国会対応や安全保障政策など論戦",
-      "source": "NHK",
-      "time": "Mon, 06 Jul 2026 18:27:36 +0900"
+      "time": "Mon, 06 Jul 2026 22:18:47 +0900"
     }
   ]
 }
