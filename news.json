@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-06 09:16",
+  "updated_at": "2026-07-06 23:17",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州北部で非常に激しい雨が降るおそれ 土砂災害に厳重警戒を",
+      "text": "“スーパー台風”9号 最大瞬間風速80メートル 情報の確認を",
       "source": "NHK",
-      "time": "Mon, 06 Jul 2026 05:56:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169491_2607060437_0706050920_01_02.jpg"
+      "time": "Mon, 06 Jul 2026 22:18:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015170311_2607062139_0706221848_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "群馬 伊勢崎 住宅で6歳の長女と3歳の長男死亡 父親を逮捕",
+      "text": "中国軍が太平洋の公海上へ潜水艦発射型戦略ミサイルの発射実験",
       "source": "NHK",
-      "time": "Mon, 06 Jul 2026 08:05:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169611_2607060748_0706090057_01_02.jpg"
+      "time": "Mon, 06 Jul 2026 22:46:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169931_2607062040_0706204721_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウィンブルドン 大坂なおみが世界1位破り初の準々決勝進出",
+      "text": "ハマス ガザ地区の行政当局を解散と発表 先行きは不透明",
       "source": "NHK",
-      "time": "Mon, 06 Jul 2026 06:17:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169581_2607060608_0706061713_01_02.jpg"
+      "time": "Mon, 06 Jul 2026 20:52:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015170241_2607062047_0706220235_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベネズエラ地震 死者3000人超 住宅・インフラ被害6兆円近くに",
+      "text": "高市首相 “皇室典範改正案など国会運営に万全を” 自民役員会",
       "source": "NHK",
-      "time": "Mon, 06 Jul 2026 08:03:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169651_2607060759_0706080302_01_02.jpg"
+      "time": "Mon, 06 Jul 2026 21:46:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015170171_2607061856_0706214627_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカーW杯 ノルウェーがハーランド2得点でブラジル破る",
+      "text": "がんゲノム医療拠点 来年度から各都道府県に原則1か所指定へ",
       "source": "NHK",
-      "time": "Mon, 06 Jul 2026 09:14:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015169621_2607060723_0706080356_01_02.jpg"
+      "time": "Mon, 06 Jul 2026 21:22:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260706/K10015170251_2607062037_0706212248_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "野党 集中審議開催を 政府与党 高市首相の意向踏まえ協議へ",
+      "text": "W杯 FIFA 米代表選手の出場停止を猶予 トランプ氏が電話で要請",
       "source": "NHK",
-      "time": "Mon, 06 Jul 2026 05:06:05 +0900"
+      "time": "Mon, 06 Jul 2026 21:14:13 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "滋賀県知事選 現職の三日月大造氏が新人3人抑え4回目の当選",
+      "text": "参議院決算委員会 高市首相の国会対応や安全保障政策など論戦",
       "source": "NHK",
-      "time": "Mon, 06 Jul 2026 04:47:47 +0900"
+      "time": "Mon, 06 Jul 2026 18:27:36 +0900"
     }
   ]
 }
