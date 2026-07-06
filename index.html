@@ -159,6 +159,7 @@
       .panel { min-height: 450px; }
       #panel-traffic { min-height: 550px; }
       .spot-grid { grid-template-columns: 1fr; }
+      #news-main-img { object-fit: cover !important; }
     }
   </style>
   <script src="https://cdnjs.cloudflare.com/ajax/libs/qrcodejs/1.0.0/qrcode.min.js"></script>
@@ -251,7 +252,7 @@
               <span id="news-main-label" style="font-size:13px;font-weight:900;padding:4px 12px;border-radius:6px;background:var(--accent);color:#000;letter-spacing:0.05em;">ニュース</span>
               <span id="news-main-source" style="font-size:12px;color:var(--text-secondary);"></span>
             </div>
-            <img id="news-main-img" style="display:none;width:100%;max-height:150px;object-fit:cover;border-radius:8px;margin-bottom:10px;" alt="">
+            <img id="news-main-img" style="display:none;width:100%;max-height:150px;object-fit:contain;border-radius:8px;margin-bottom:10px;background:var(--bg-panel-hover);" alt="">
             <div id="news-main-text" style="font-size:24px;font-weight:700;line-height:1.5;color:var(--text-primary);"></div>
           </div>
         </div>
