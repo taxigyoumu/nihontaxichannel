@@ -1,29 +1,14 @@
 {
-  "updated_at": "2026-07-07 19:30",
-  "has_alert": true,
+  "updated_at": "2026-07-08 03:32",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【南海トラフ地震関連解説情報】　第１０７回南海トラフ沿いの地震に関する評価検討会で、南海トラフ周辺の地殻活動を評価しました。",
-      "source": "気象庁",
-      "time": "2026-07-07T08:00:08Z"
-    },
-    {
       "category": "news",
       "label": "ニュース",
-      "text": "衆議院で与野党対立続く 与党が党首会談 野党は連携確認",
+      "text": "スキーノルディック複合 2030年冬季五輪の競技から除外",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 18:58:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170661_2607071800_0707180916_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "リニア中央新幹線 静岡県知事 県内の着工容認を表明",
-      "source": "NHK",
-      "time": "Tue, 07 Jul 2026 17:54:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170621_2607071628_0707164913_01_03.jpg"
+      "time": "Tue, 07 Jul 2026 23:51:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015171341_2607072353_0707235654_01_02.jpg"
     },
     {
       "category": "news",
@@ -31,37 +16,45 @@
       "text": "台風9号 非常に強い勢力を維持し沖縄の先島諸島に接近へ",
       "source": "NHK",
       "time": "Tue, 07 Jul 2026 18:52:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170321_2607071857_0707190247_01_03.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170321_2607072147_0707214801_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "手足口病 15都県で警報レベル 手洗いの徹底を",
+      "text": "フジテレビ 週刊誌報道めぐり ドラマ出演の俳優  2人に謝罪",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 15:23:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170901_2607071425_0707152331_01_02.jpg"
+      "time": "Tue, 07 Jul 2026 22:39:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015171281_2607072219_0707223942_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "茨城 高齢者施設2人殺害事件 元職員に懲役20年 一部無罪",
+      "text": "“パラグアイ上院議員がエムバペに人種差別的な発言” 仏連盟",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 18:38:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170831_2607071502_0707151004_01_03.jpg"
+      "time": "Tue, 07 Jul 2026 23:02:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015171311_2607072245_0707230212_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 ベルギーがアメリカに勝利 FIFAの異例の判断受けた試合は",
+      "text": "在中国の日本大使館が注意喚起 軍民両用品目の輸出管理強化で",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 18:53:24 +0900"
+      "time": "Tue, 07 Jul 2026 23:36:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015171321_2607072311_0707233610_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "41歳 C・ロナウド「穏やかな気持ちで去ることができる」",
+      "text": "自維 党首会談 定数削減法案は今国会で審議再開せず継続審議",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 14:51:27 +0900"
+      "time": "Tue, 07 Jul 2026 21:21:52 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "テニス ウインブルドン選手権 大坂なおみ敗れ準決勝進出ならず",
+      "source": "NHK",
+      "time": "Wed, 08 Jul 2026 03:13:12 +0900"
     }
   ]
 }
