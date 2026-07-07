@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-07-07 06:04",
-  "has_alert": false,
+  "updated_at": "2026-07-07 19:30",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "参議院 法案審議再開へ 衆議院では与野党対立続く",
-      "source": "NHK",
-      "time": "Tue, 07 Jul 2026 05:45:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170351_2607070038_0707054553_01_02.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【南海トラフ地震関連解説情報】　第１０７回南海トラフ沿いの地震に関する評価検討会で、南海トラフ周辺の地殻活動を評価しました。",
+      "source": "気象庁",
+      "time": "2026-07-07T08:00:08Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 FIFA会長に再検討求めるも「指示はせず」",
+      "text": "衆議院で与野党対立続く 与党が党首会談 野党は連携確認",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 05:35:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170451_2607070047_0707012129_01_02.jpg"
+      "time": "Tue, 07 Jul 2026 18:58:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170661_2607071800_0707180916_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネアンデルタール人と現生人類 文化交流か トルコの洞窟で発見",
+      "text": "リニア中央新幹線 静岡県知事 県内の着工容認を表明",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 04:56:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170291_2607062123_0707045624_01_02.jpg"
+      "time": "Tue, 07 Jul 2026 17:54:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170621_2607071628_0707164913_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 10代少女監禁事件 母親を再逮捕 ブルーシートで拘束か",
+      "text": "台風9号 非常に強い勢力を維持し沖縄の先島諸島に接近へ",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 05:08:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170331_2607062259_0707050826_01_02.jpg"
+      "time": "Tue, 07 Jul 2026 18:52:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170321_2607071857_0707190247_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国が潜水艦からミサイル発射 関係国などから懸念の声",
+      "text": "手足口病 15都県で警報レベル 手洗いの徹底を",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 05:36:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170341_2607070034_0707053616_01_02.jpg"
+      "time": "Tue, 07 Jul 2026 15:23:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170901_2607071425_0707152331_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ハマス ガザ地区の行政当局解散と発表も和平計画進展は不透明",
+      "text": "茨城 高齢者施設2人殺害事件 元職員に懲役20年 一部無罪",
       "source": "NHK",
-      "time": "Tue, 07 Jul 2026 04:58:23 +0900"
+      "time": "Tue, 07 Jul 2026 18:38:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260707/K10015170831_2607071502_0707151004_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“スーパー台風”9号 最大瞬間風速80メートル 情報の確認を",
+      "text": "W杯 ベルギーがアメリカに勝利 FIFAの異例の判断受けた試合は",
       "source": "NHK",
-      "time": "Mon, 06 Jul 2026 22:18:47 +0900"
+      "time": "Tue, 07 Jul 2026 18:53:24 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "41歳 C・ロナウド「穏やかな気持ちで去ることができる」",
+      "source": "NHK",
+      "time": "Tue, 07 Jul 2026 14:51:27 +0900"
     }
   ]
 }
