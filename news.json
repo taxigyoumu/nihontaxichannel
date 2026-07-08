@@ -1,30 +1,22 @@
 {
-  "updated_at": "2026-07-09 03:53",
+  "updated_at": "2026-07-09 07:40",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
+      "text": "米中央軍 イランに対し追加攻撃 両国の協議いっそう不透明に",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 00:31:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171371_2607081757_0708180738_01_02.jpg"
+      "time": "Thu, 09 Jul 2026 06:49:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172441_2607090637_0709064937_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州北部 中国地方 近畿で梅雨明け 9日はさらに気温上昇",
+      "text": "台風9号 10～11日非常に強い勢力で沖縄・先島諸島に接近へ",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 18:53:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171561_2607081547_0708170632_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "NY株式市場 ダウ一時800ドル超値下がり",
-      "source": "NHK",
-      "time": "Thu, 09 Jul 2026 01:27:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172411_2607090049_0709012720_01_02.jpg"
+      "time": "Thu, 09 Jul 2026 06:53:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172301_2607090644_0709065358_01_02.jpg"
     },
     {
       "category": "news",
@@ -32,29 +24,37 @@
       "text": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
       "source": "NHK",
       "time": "Thu, 09 Jul 2026 02:26:22 +0900",
-      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172421_2607090522_0709065224_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ氏 迎撃ミサイル「生産権利与える」ゼレンスキー氏に",
+      "text": "衆院で法案審議再開へ 皇室典範改正案 あす審議入りで論戦へ",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 23:50:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015172341_2607082156_0708220410_01_02.jpg"
+      "time": "Thu, 09 Jul 2026 05:17:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172271_2607082135_0709051749_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー 三笘薫選手 車を運転中に自転車と衝突 女性けが",
+      "text": "NY株式市場 ダウ 570ドル余り値下がり イラン情勢への懸念で",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 19:59:20 +0900"
+      "time": "Thu, 09 Jul 2026 07:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172411_2607090647_0709070801_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "エボラ出血熱など感染症対応強化 医療機関集約や基準見直しへ",
+      "text": "臓器移植法違反事件 病院で手術を口外しないよう誓約か",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 19:32:54 +0900"
+      "time": "Thu, 09 Jul 2026 05:12:17 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "同居女性の唇縫い付け事件“トラブルで怒りだした”被害者説明",
+      "source": "NHK",
+      "time": "Thu, 09 Jul 2026 05:07:09 +0900"
     }
   ]
 }
