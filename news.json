@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-08 22:18",
+  "updated_at": "2026-07-09 03:53",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イラン情勢 トランプ大統領「おそらく今夜もまた攻撃する」",
+      "source": "NHK",
+      "time": "Thu, 09 Jul 2026 00:31:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171371_2607081757_0708180738_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,34 +21,33 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 イランとの停戦や覚書「終わったと思う」",
+      "text": "NY株式市場 ダウ一時800ドル超値下がり",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 18:57:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171371_2607081757_0708180738_01_02.jpg"
+      "time": "Thu, 09 Jul 2026 01:27:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172411_2607090049_0709012720_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小中学校の情報分野の新たな学び 再来年以降前倒し実施へ",
+      "text": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 21:02:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015172101_2607081816_0708210210_01_02.jpg"
+      "time": "Thu, 09 Jul 2026 02:26:22 +0900",
+      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ氏 迎撃ミサイル「生産権利与える」ゼレンスキー氏に",
+      "source": "NHK",
+      "time": "Wed, 08 Jul 2026 23:50:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015172341_2607082156_0708220410_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "サッカー 三笘薫選手 車を運転中に自転車と衝突 女性けが",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 19:59:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015172141_2607081840_0708184125_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "立民 皇室典範改正案 反対の方針 “旧皇族養子容認できず”",
-      "source": "NHK",
-      "time": "Wed, 08 Jul 2026 21:04:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015172191_2607081948_0708210446_01_02.jpg"
+      "time": "Wed, 08 Jul 2026 19:59:20 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "エボラ出血熱など感染症対応強化 医療機関集約や基準見直しへ",
       "source": "NHK",
       "time": "Wed, 08 Jul 2026 19:32:54 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "NY原油先物価格 一時1バレル＝75ドル台 トランプ大統領発言で",
-      "source": "NHK",
-      "time": "Wed, 08 Jul 2026 20:41:56 +0900"
     }
   ]
 }
