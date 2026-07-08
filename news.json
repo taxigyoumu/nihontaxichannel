@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-07-08 07:42",
-  "has_alert": false,
+  "updated_at": "2026-07-08 16:56",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風9号 10日以降に沖縄 先島諸島接近へ 非常に強い勢力を維持",
-      "source": "NHK",
-      "time": "Wed, 08 Jul 2026 07:10:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171421_2607080710_0708071039_01_02.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日１６時３５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-08T07:40:11Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう　８日１６時３５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-08T07:38:45Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】　８日１６時３５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-07-08T07:37:28Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自維党首会談 定数削減法案見送る方針確認 野党側と協議へ",
+      "text": "【地震情報】青森 岩手で震度3 津波の心配なし",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 05:47:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171221_2607080054_0708054720_01_02.jpg"
+      "time": "Wed, 08 Jul 2026 16:53:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015170371_2607081641_0708164150_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ホルムズ海峡で船舶に攻撃相次ぐ 支配力の低下にイラン焦りか",
+      "text": "一連のオウム事件で捜査指揮 井上幸彦 元警視総監が死去 88歳",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 07:07:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171371_2607080549_0708063201_01_02.jpg"
+      "time": "Wed, 08 Jul 2026 16:45:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171901_2607081626_0708164536_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "リニア中央新幹線 JR東海が静岡で着工へ 開業へなお課題も",
+      "text": "個人情報保護法改正案 参議院特別委員会で可決",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 05:54:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171231_2607080023_0708055424_01_02.jpg"
+      "time": "Wed, 08 Jul 2026 16:36:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171871_2607081558_0708163629_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "臓器移植法違反事件 “医師への謝礼”名目の金で借金返済か",
+      "text": "参院本会議 有人国境離島保全で改正法成立 6島を追加",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 05:12:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171251_2607072147_0708051241_01_02.jpg"
+      "time": "Wed, 08 Jul 2026 16:49:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171891_2607081556_0708164926_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "NATO首脳会議が開幕 米トランプ大統領「がっかり」とけん制",
+      "text": "株価 大きく値下がり AIや半導体関連の過熱感が意識され",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 05:25:17 +0900"
+      "time": "Wed, 08 Jul 2026 16:20:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260708/K10015171681_2607081538_0708162056_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "バイオディーゼル燃料 トラックで活用の動き進む",
+      "text": "コメめぐり「需要に応じた生産」明記の改正食糧法が成立",
       "source": "NHK",
-      "time": "Wed, 08 Jul 2026 06:51:42 +0900"
+      "time": "Wed, 08 Jul 2026 16:03:59 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【詳しく】ドジャース 大谷翔平20号HR 大リーグ通算300号到達",
+      "source": "NHK",
+      "time": "Wed, 08 Jul 2026 15:14:24 +0900"
     }
   ]
 }
