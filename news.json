@@ -1,60 +1,74 @@
 {
-  "updated_at": "2026-07-09 07:40",
-  "has_alert": false,
+  "updated_at": "2026-07-09 19:44",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米中央軍 イランに対し追加攻撃 両国の協議いっそう不透明に",
-      "source": "NHK",
-      "time": "Thu, 09 Jul 2026 06:49:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172441_2607090637_0709064937_01_02.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　９日１９時２６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-09T10:32:20Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　９日１７時３７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-09T08:41:01Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風9号 10～11日非常に強い勢力で沖縄・先島諸島に接近へ",
+      "text": "れいわ 山本代表 党代表を辞任する意向表明",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 06:53:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172301_2607090644_0709065358_01_02.jpg"
+      "time": "Thu, 09 Jul 2026 18:59:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172981_2607091857_0709185910_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "元東京地検特捜部の男性検事 捜査対象の女性と不適切関係か",
+      "text": "「全東信」破産手続き 飲食店や地方銀行などに影響広がる",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 02:26:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172421_2607090522_0709065224_01_02.jpg"
+      "time": "Thu, 09 Jul 2026 19:38:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172661_2607091910_0709191251_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "衆院で法案審議再開へ 皇室典範改正案 あす審議入りで論戦へ",
+      "text": "滋賀 男子高校生2人川に流される 男性2人川の中で見つかり搬送",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 05:17:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172271_2607082135_0709051749_01_02.jpg"
+      "time": "Thu, 09 Jul 2026 19:34:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172861_2607091732_0709175717_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "NY株式市場 ダウ 570ドル余り値下がり イラン情勢への懸念で",
+      "text": "「快活CLUB」運営会社にサイバー攻撃の疑い 元男子生徒を逮捕",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 07:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172411_2607090647_0709070801_01_02.jpg"
+      "time": "Thu, 09 Jul 2026 19:28:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172281_2607091023_0709192829_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "臓器移植法違反事件 病院で手術を口外しないよう誓約か",
+      "text": "NTTドコモが銀行業に参入 店舗とデジタルサービス強化【QAも】",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 05:12:17 +0900"
+      "time": "Thu, 09 Jul 2026 18:46:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172841_2607091838_0709184626_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "同居女性の唇縫い付け事件“トラブルで怒りだした”被害者説明",
+      "text": "アメリカとイラン 再び攻撃の応酬 予断を許さない情勢続く",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 05:07:09 +0900"
+      "time": "Thu, 09 Jul 2026 19:08:07 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ベネズエラ大地震発生2週間 暫定大統領 復興進める姿勢強調",
+      "source": "NHK",
+      "time": "Thu, 09 Jul 2026 17:34:31 +0900"
     }
   ]
 }
