@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-10 03:12",
+  "updated_at": "2026-07-10 07:56",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風9号 10～11日非常に強い勢力で沖縄 先島諸島接近 厳重警戒",
+      "text": "台風9号 沖縄 先島諸島へ 暴風高波など厳重警戒 空の便欠航も",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 22:07:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172301_2607092153_0709220715_01_03.jpg"
+      "time": "Fri, 10 Jul 2026 06:53:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173061_2607100625_0710063740_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベネズエラ地震受け オリックス マチャド投手ら支援を呼びかけ",
+      "text": "皇室典範改正案 10日衆議院通過へ 中道は質疑を見極め判断",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 22:22:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015173171_2607092213_0709222230_01_02.jpg"
+      "time": "Fri, 10 Jul 2026 05:10:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173031_2607100051_0710051100_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "皇室典範改正案 10日採決で与野党合意 衆議院通過の見通し",
+      "text": "米イラン攻撃応酬 ハメネイ師葬儀後の協議再開予断許さず",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 18:50:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015172611_2607091519_0709155119_01_03.jpg"
+      "time": "Fri, 10 Jul 2026 06:38:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015167661_2607100522_0710063900_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「ヒーロー」原曲 ボニー・タイラーさん死去 75歳",
+      "text": "W杯 フランスがモロッコ破り準決勝進出 エムバペは8得点目",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 23:44:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015173191_2607092244_0709234413_01_02.jpg"
+      "time": "Fri, 10 Jul 2026 07:22:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173311_2607100711_0710072237_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国南部で大雨 ダム決壊など被害相次ぐ 70人超が死亡",
+      "text": "大阪地検特捜部の特別公務員暴行陵虐事件 10日初公判",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 20:41:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260709/K10015173001_2607092031_0709204114_01_02.jpg"
+      "time": "Fri, 10 Jul 2026 06:31:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173071_2607100038_0710063147_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー日本代表 森保監督の続投検討 短期間の契約を軸に調整",
+      "text": "突然攻撃され相手を嫌いに 脳の働きマウス実験で解明 東大",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 21:49:02 +0900"
+      "time": "Fri, 10 Jul 2026 05:08:56 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【プロ野球結果】ヤクルト勝利 継投でノーヒットノーラン達成",
+      "text": "大阪 寝屋川 流通促す「空き家税」導入へ 市内全域では全国初",
       "source": "NHK",
-      "time": "Thu, 09 Jul 2026 22:30:53 +0900"
+      "time": "Thu, 09 Jul 2026 22:03:34 +0900"
     }
   ]
 }
