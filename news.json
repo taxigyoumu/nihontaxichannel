@@ -1,14 +1,21 @@
 {
-  "updated_at": "2026-07-11 02:29",
-  "has_alert": false,
+  "updated_at": "2026-07-11 06:34",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１１日０５時４０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-10T20:43:19Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風9号 沖縄 先島諸島・本島地方が暴風域に 厳重警戒を",
+      "text": "【台風9号最新情報】沖縄 先島諸島にかなり接近 厳重警戒を",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 00:52:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173061_2607110045_0711005300_01_02.jpg"
+      "time": "Sat, 11 Jul 2026 06:01:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174261_2607110556_0711060109_01_02.jpg"
     },
     {
       "category": "news",
@@ -21,40 +28,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ソフトバンクやPayPayなど セブン＆アイHDに出資を検討",
+      "text": "西・東日本できょうも気温上昇 九州は危険な暑さのおそれ",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 00:14:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174161_2607110004_0711001430_01_02.jpg"
+      "time": "Sat, 11 Jul 2026 06:10:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174241_2607110554_0711061006_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【詳報】皇室典範改正案 衆院本会議で可決 今国会で成立の公算",
+      "text": "【速報中】W杯 スペインがベスト4へ ベルギーとの接戦制す",
       "source": "NHK",
-      "time": "Fri, 10 Jul 2026 19:16:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173031_2607101342_0710134644_01_02.jpg"
+      "time": "Sat, 11 Jul 2026 06:24:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174131_2607102233_0711040403_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪地検特捜部 特別公務員暴行陵虐事件の裁判 検事が無罪主張",
+      "text": "皇室典範改正案 今国会で成立の見通し 参議院審議の日程調整へ",
       "source": "NHK",
-      "time": "Fri, 10 Jul 2026 19:07:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173071_2607101620_0710170304_01_03.jpg"
+      "time": "Sat, 11 Jul 2026 05:04:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174171_2607110018_0711050441_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "愛媛 約160キロで一般道走行の巡査 道交法違反疑いで書類送検",
+      "text": "大谷翔平 左ひざ違和感でオールスター辞退 11日の先発登板回避",
       "source": "NHK",
-      "time": "Fri, 10 Jul 2026 22:29:30 +0900"
+      "time": "Sat, 11 Jul 2026 06:17:16 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【詳しく】皇室典範改正案 皇室の現状は 旧皇族の受け止めは",
+      "text": "アメリカは状況次第で攻撃する考え イランは対抗する姿勢",
       "source": "NHK",
-      "time": "Fri, 10 Jul 2026 18:40:24 +0900"
+      "time": "Sat, 11 Jul 2026 05:28:59 +0900"
     }
   ]
 }
