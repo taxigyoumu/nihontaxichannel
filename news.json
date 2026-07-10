@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-07-10 19:36",
+  "updated_at": "2026-07-11 02:29",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風9号 沖縄 先島諸島が暴風域に 厳重警戒を",
+      "text": "台風9号 沖縄 先島諸島・本島地方が暴風域に 厳重警戒を",
       "source": "NHK",
-      "time": "Fri, 10 Jul 2026 19:13:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173061_2607101901_0710191359_01_03.jpg"
+      "time": "Sat, 11 Jul 2026 00:52:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173061_2607110045_0711005300_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
+      "source": "NHK",
+      "time": "Fri, 10 Jul 2026 23:51:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015174141_2607102349_0710235143_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ソフトバンクやPayPayなど セブン＆アイHDに出資を検討",
+      "source": "NHK",
+      "time": "Sat, 11 Jul 2026 00:14:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174161_2607110004_0711001430_01_02.jpg"
     },
     {
       "category": "news",
@@ -21,14 +37,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州から東北で猛烈な暑さに あすも九州は危険な暑さのおそれ",
-      "source": "NHK",
-      "time": "Fri, 10 Jul 2026 19:00:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173401_2607101610_0710190045_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "大阪地検特捜部 特別公務員暴行陵虐事件の裁判 検事が無罪主張",
       "source": "NHK",
       "time": "Fri, 10 Jul 2026 19:07:08 +0900",
@@ -37,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "愛媛 約160キロで一般道走行の巡査 道交法違反疑いで書類送検",
+      "source": "NHK",
+      "time": "Fri, 10 Jul 2026 22:29:30 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "【詳しく】皇室典範改正案 皇室の現状は 旧皇族の受け止めは",
       "source": "NHK",
-      "time": "Fri, 10 Jul 2026 18:40:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015173431_2607101824_0710184025_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "iPS細胞で角膜の病気の治療 大阪大で治験1例目",
-      "source": "NHK",
-      "time": "Fri, 10 Jul 2026 15:56:03 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "羅臼岳 登山者につきまとうヒグマ 登山道閉鎖し駆除も検討",
-      "source": "NHK",
-      "time": "Fri, 10 Jul 2026 19:09:40 +0900"
+      "time": "Fri, 10 Jul 2026 18:40:24 +0900"
     }
   ]
 }
