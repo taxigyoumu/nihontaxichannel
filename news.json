@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-11 23:37",
+  "updated_at": "2026-07-12 03:07",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風9号 宮古島 石垣島などから遠ざかるも高波警戒 強風に注意",
+      "text": "台風9号 中国東部 浙江省に上陸",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 22:31:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174261_2607112228_0711223119_01_03.jpg"
+      "time": "Sun, 12 Jul 2026 01:57:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015174711_2607120044_0712015719_01_02.jpg"
     },
     {
       "category": "news",
@@ -31,7 +31,7 @@
       "label": "ニュース",
       "text": "上地結衣 日本女子初の生涯ゴールデンスラム 車いすテニス",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 22:18:29 +0900",
+      "time": "Sat, 11 Jul 2026 23:37:07 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174621_2607112005_0711201201_01_02.jpg"
     },
     {
