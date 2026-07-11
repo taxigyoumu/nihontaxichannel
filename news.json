@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-11 19:43",
+  "updated_at": "2026-07-11 23:37",
   "has_alert": false,
   "items": [
     {
@@ -7,16 +7,32 @@
       "label": "ニュース",
       "text": "台風9号 宮古島 石垣島などから遠ざかるも高波警戒 強風に注意",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 19:29:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174261_2607111845_0711190333_01_03.jpg"
+      "time": "Sat, 11 Jul 2026 22:31:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174261_2607112228_0711223119_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "福岡 太宰府で39.3度 西日本と東日本は来週も猛烈な暑さに",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 18:59:23 +0900",
+      "time": "Sat, 11 Jul 2026 22:21:15 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174241_2607111709_0711171331_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イラン外相 ホルムズ海峡めぐりオマーン訪問 米との協議再開は",
+      "source": "NHK",
+      "time": "Sat, 11 Jul 2026 22:33:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174571_2607111807_0711185526_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "上地結衣 日本女子初の生涯ゴールデンスラム 車いすテニス",
+      "source": "NHK",
+      "time": "Sat, 11 Jul 2026 22:18:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174621_2607112005_0711201201_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,22 +45,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 スペインが4大会ぶりベスト4へ ベルギーとの接戦制す",
-      "source": "NHK",
-      "time": "Sat, 11 Jul 2026 15:21:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174131_2607110658_0711070454_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イラン外相 ホルムズ海峡めぐりオマーン訪問 米との協議再開は",
-      "source": "NHK",
-      "time": "Sat, 11 Jul 2026 18:55:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174571_2607111807_0711185526_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "ベネズエラ大地震 死者4000人超に 日本の緊急援助隊が活動",
       "source": "NHK",
       "time": "Sat, 11 Jul 2026 17:50:08 +0900"
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ホワイトソックス村上宗隆 メジャー復帰 タイムリーツーベース",
+      "text": "高市首相“安倍元首相にならい新たな挑戦続けていく”姿勢示す",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 15:12:47 +0900"
+      "time": "Sat, 11 Jul 2026 17:38:35 +0900"
     }
   ]
 }
