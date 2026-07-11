@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-07-11 15:26",
+  "updated_at": "2026-07-11 19:43",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風9号 沖縄 先島諸島など今夜にかけ暴風のおそれ続く 警戒を",
+      "text": "台風9号 宮古島 石垣島などから遠ざかるも高波警戒 強風に注意",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 15:18:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174261_2607111454_0711151806_01_03.jpg"
+      "time": "Sat, 11 Jul 2026 19:29:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174261_2607111845_0711190333_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州で危険な暑さ 熱中症対策の徹底を 北海道では大雨",
+      "text": "福岡 太宰府で39.3度 西日本と東日本は来週も猛烈な暑さに",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 14:53:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174241_2607111504_0711150541_01_03.jpg"
+      "time": "Sat, 11 Jul 2026 18:59:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174241_2607111709_0711171331_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "JAXA 再使用型ロケット実験機の試験 正常に飛行し着陸",
+      "source": "NHK",
+      "time": "Sat, 11 Jul 2026 18:57:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174461_2607111537_0711155727_01_03.jpg"
     },
     {
       "category": "news",
@@ -29,32 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "イラン外相 ホルムズ海峡めぐりオマーン訪問 米との協議再開は",
+      "source": "NHK",
+      "time": "Sat, 11 Jul 2026 18:55:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174571_2607111807_0711185526_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "ベネズエラ大地震 死者4000人超に 日本の緊急援助隊が活動",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 13:38:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174371_2607111150_0711120558_01_02.jpg"
+      "time": "Sat, 11 Jul 2026 17:50:08 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アップルがオープンAIを提訴 “企業秘密盗まれた”",
+      "text": "ホワイトソックス村上宗隆 メジャー復帰 タイムリーツーベース",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 12:53:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174381_2607111222_0711125324_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ブルージェイズ 岡本和真 22号 大谷の日本選手1年目記録に並ぶ",
-      "source": "NHK",
-      "time": "Sat, 11 Jul 2026 13:10:25 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "“国内最高齢のピアニスト” 室井摩耶子さん死去 105歳",
-      "source": "NHK",
-      "time": "Sat, 11 Jul 2026 13:15:02 +0900"
+      "time": "Sat, 11 Jul 2026 15:12:47 +0900"
     }
   ]
 }
