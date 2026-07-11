@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-07-11 06:34",
-  "has_alert": true,
+  "updated_at": "2026-07-11 15:26",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１１日０５時４０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-10T20:43:19Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風9号 沖縄 先島諸島など今夜にかけ暴風のおそれ続く 警戒を",
+      "source": "NHK",
+      "time": "Sat, 11 Jul 2026 15:18:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174261_2607111454_0711151806_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【台風9号最新情報】沖縄 先島諸島にかなり接近 厳重警戒を",
+      "text": "九州で危険な暑さ 熱中症対策の徹底を 北海道では大雨",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 06:01:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174261_2607110556_0711060109_01_02.jpg"
+      "time": "Sat, 11 Jul 2026 14:53:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174241_2607111504_0711150541_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "宮古島・八重山地方 11日明け方～夕方 線状降水帯発生のおそれ",
+      "text": "W杯 スペインが4大会ぶりベスト4へ ベルギーとの接戦制す",
       "source": "NHK",
-      "time": "Fri, 10 Jul 2026 23:51:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260710/K10015174141_2607102349_0710235143_01_02.jpg"
+      "time": "Sat, 11 Jul 2026 15:21:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174131_2607110658_0711070454_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西・東日本できょうも気温上昇 九州は危険な暑さのおそれ",
+      "text": "ベネズエラ大地震 死者4000人超に 日本の緊急援助隊が活動",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 06:10:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174241_2607110554_0711061006_01_02.jpg"
+      "time": "Sat, 11 Jul 2026 13:38:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174371_2607111150_0711120558_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】W杯 スペインがベスト4へ ベルギーとの接戦制す",
+      "text": "アップルがオープンAIを提訴 “企業秘密盗まれた”",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 06:24:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174131_2607102233_0711040403_01_02.jpg"
+      "time": "Sat, 11 Jul 2026 12:53:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174381_2607111222_0711125324_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "皇室典範改正案 今国会で成立の見通し 参議院審議の日程調整へ",
+      "text": "ブルージェイズ 岡本和真 22号 大谷の日本選手1年目記録に並ぶ",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 05:04:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260711/K10015174171_2607110018_0711050441_01_02.jpg"
+      "time": "Sat, 11 Jul 2026 13:10:25 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大谷翔平 左ひざ違和感でオールスター辞退 11日の先発登板回避",
+      "text": "“国内最高齢のピアニスト” 室井摩耶子さん死去 105歳",
       "source": "NHK",
-      "time": "Sat, 11 Jul 2026 06:17:16 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アメリカは状況次第で攻撃する考え イランは対抗する姿勢",
-      "source": "NHK",
-      "time": "Sat, 11 Jul 2026 05:28:59 +0900"
+      "time": "Sat, 11 Jul 2026 13:15:02 +0900"
     }
   ]
 }
