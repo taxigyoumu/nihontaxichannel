@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-07-12 20:43",
-  "has_alert": false,
+  "updated_at": "2026-07-13 00:38",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "四国梅雨明け 九州や中国は38度超の危険な暑さ 13日も注意を",
-      "source": "NHK",
-      "time": "Sun, 12 Jul 2026 20:29:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015174761_2607121907_0712190808_01_03.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１２日２３時１３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-12T14:15:46Z"
     },
     {
       "category": "news",
@@ -21,40 +20,48 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベネズエラ大地震 “パンケーキクラッシュ”相次ぐ 専門家",
+      "text": "四国梅雨明け 九州や中国は38度超の危険な暑さ 13日も注意を",
       "source": "NHK",
-      "time": "Sun, 12 Jul 2026 18:14:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015175031_2607121924_0712192504_01_03.jpg"
+      "time": "Sun, 12 Jul 2026 20:29:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015174761_2607121907_0712190808_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米軍「140か所の標的への攻撃完了」不安定な情勢続く",
+      "text": "W杯 ベスト4出そろう 世界ランキング上位4チームの争いに",
       "source": "NHK",
-      "time": "Sun, 12 Jul 2026 19:06:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015174811_2607121217_0712122421_01_03.jpg"
+      "time": "Sun, 12 Jul 2026 14:02:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015174941_2607121340_0712134947_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神奈川 平塚 海水浴場で高校生と見られる男性行方不明",
+      "text": "小田凱人がウィンブルドン選手権で2連覇 車いすテニス",
       "source": "NHK",
-      "time": "Sun, 12 Jul 2026 18:17:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015175041_2607121802_0712181734_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日本ではホルムズ海峡を通らない代替ルートでの原油調達が進む",
-      "source": "NHK",
-      "time": "Sun, 12 Jul 2026 16:21:28 +0900"
+      "time": "Sun, 12 Jul 2026 21:50:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015175151_2607122059_0712210211_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "“かぶりたくなるデザイン” の自転車用ヘルメット開発 警視庁",
       "source": "NHK",
-      "time": "Sun, 12 Jul 2026 18:19:13 +0900"
+      "time": "Sun, 12 Jul 2026 18:19:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015175071_2607121826_0712182831_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "元特捜部検事と女性の不適切な関係 刑事手続き終わる前からか",
+      "source": "NHK",
+      "time": "Sun, 12 Jul 2026 20:52:56 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【プロ野球結果】西武 ルーキー小島大河の満塁HRなどで快勝",
+      "source": "NHK",
+      "time": "Sun, 12 Jul 2026 23:42:50 +0900"
     }
   ]
 }
