@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-07-13 00:38",
-  "has_alert": true,
+  "updated_at": "2026-07-13 04:56",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１２日２３時１３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-12T14:15:46Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "タイ バンコクの飲食店で火災 AP通信“少なくとも27人が死亡”",
+      "source": "NHK",
+      "time": "Mon, 13 Jul 2026 04:45:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175291_2607130440_0713044524_01_02.jpg"
     },
     {
       "category": "news",
@@ -28,6 +29,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "米軍「140か所の標的への攻撃完了」不安定な情勢続く",
+      "source": "NHK",
+      "time": "Sun, 12 Jul 2026 19:06:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015174811_2607121217_0712122421_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "W杯 ベスト4出そろう 世界ランキング上位4チームの争いに",
       "source": "NHK",
       "time": "Sun, 12 Jul 2026 14:02:13 +0900",
@@ -36,18 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小田凱人がウィンブルドン選手権で2連覇 車いすテニス",
-      "source": "NHK",
-      "time": "Sun, 12 Jul 2026 21:50:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015175151_2607122059_0712210211_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "“かぶりたくなるデザイン” の自転車用ヘルメット開発 警視庁",
       "source": "NHK",
-      "time": "Sun, 12 Jul 2026 18:19:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260712/K10015175071_2607121826_0712182831_01_02.jpg"
+      "time": "Sun, 12 Jul 2026 18:19:13 +0900"
     },
     {
       "category": "news",
@@ -55,13 +55,6 @@
       "text": "元特捜部検事と女性の不適切な関係 刑事手続き終わる前からか",
       "source": "NHK",
       "time": "Sun, 12 Jul 2026 20:52:56 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【プロ野球結果】西武 ルーキー小島大河の満塁HRなどで快勝",
-      "source": "NHK",
-      "time": "Sun, 12 Jul 2026 23:42:50 +0900"
     }
   ]
 }
