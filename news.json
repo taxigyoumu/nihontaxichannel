@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-13 07:32",
+  "updated_at": "2026-07-13 19:42",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西日本では連日の「危険な暑さ」予想 熱中症対策の徹底を",
+      "text": "大分 佐伯 4人刃物で刺され2人重傷 44歳男を逮捕 事件に関与か",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 06:10:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175321_2607130535_0713061014_01_02.jpg"
+      "time": "Mon, 13 Jul 2026 18:48:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175551_2607131845_0713184816_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ中央軍 “イランへの追加攻撃を開始した”",
+      "text": "西日本で気温上昇 あす以降関東甲信も猛烈な暑さ 熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 07:13:25 +0900",
+      "time": "Mon, 13 Jul 2026 19:09:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175321_2607131855_0713190913_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "急な気温上昇 体が対応できないおそれも 熱中症対策は",
+      "source": "NHK",
+      "time": "Mon, 13 Jul 2026 19:03:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175581_2607131609_0713190339_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“声にも無断使用されない権利” 報告書に明記へ 法務省検討会",
+      "source": "NHK",
+      "time": "Mon, 13 Jul 2026 19:20:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175901_2607131833_0713192057_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米・イラン攻撃の応酬 1週間で4回目 中東の米軍施設を攻撃",
+      "source": "NHK",
+      "time": "Mon, 13 Jul 2026 19:17:31 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175301_2607130539_0713064541_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 大谷翔平 22号ホームラン 日米通算350号に到達",
+      "text": "三菱UFJの株価上昇 時価総額が国内首位に 長期金利上昇の影響",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 05:34:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175311_2607130530_0713053454_01_02.jpg"
+      "time": "Mon, 13 Jul 2026 17:13:15 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ホルムズ海峡封鎖表明で週明けの金融市場 影響に注目",
+      "text": "タイ 飲食店で火災 27人死亡 約60人けが 日本人被害確認されず",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 06:48:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175161_2607122205_0713064847_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "タイ バンコクの飲食店で火災 AP通信“少なくとも27人が死亡”",
-      "source": "NHK",
-      "time": "Mon, 13 Jul 2026 07:19:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175291_2607130544_0713054510_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "金塊購入させる詐欺の手口 被害60億円で業界に協力要請",
-      "source": "NHK",
-      "time": "Mon, 13 Jul 2026 07:08:50 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "南シナ海仲裁判断10年 14か国共同声明に中国が反論",
-      "source": "NHK",
-      "time": "Mon, 13 Jul 2026 06:18:57 +0900"
+      "time": "Mon, 13 Jul 2026 14:14:15 +0900"
     }
   ]
 }
