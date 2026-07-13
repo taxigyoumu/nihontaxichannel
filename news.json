@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-07-14 03:11",
+  "updated_at": "2026-07-14 06:35",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１４日０２時３０分ころ、地震がありました。",
+      "text": "【震源・震度情報】１４日０５時４６分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-13T17:33:10Z"
+      "time": "2026-07-13T20:50:01Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ氏 ホルムズ海峡めぐり “イランへの海上封鎖 再開”",
+      "text": "トランプ大統領「海上封鎖再開 20％対価も」 イラン反発",
       "source": "NHK",
-      "time": "Tue, 14 Jul 2026 01:53:58 +0900",
+      "time": "Tue, 14 Jul 2026 05:34:27 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176161_2607140100_0714010048_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "急な気温上昇 体が対応できないおそれも 熱中症対策は",
+      "text": "西日本に続き きょう東日本でも猛暑日予想 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 20:07:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175581_2607131609_0713190339_01_02.jpg"
+      "time": "Tue, 14 Jul 2026 06:19:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176071_2607132148_0714061952_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "皇室典範改正案 参院特別委15日審議入りでおおむね合意",
+      "text": "与党 会期末控え「副首都」法案など成立調整 小幅延長の声も",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 22:28:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175641_2607131206_0713132609_01_03.jpg"
+      "time": "Tue, 14 Jul 2026 05:08:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176061_2607132152_0714050841_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大分 佐伯 4人刃物で刺され2人重傷 44歳男を逮捕 事件に関与か",
+      "text": "ベネズエラ大地震 死者4500人超に 捜索は難航",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 20:56:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175551_2607131845_0713184816_01_02.jpg"
+      "time": "Tue, 14 Jul 2026 05:44:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176181_2607140413_0714054451_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ビスケットや炭酸飲料など値上げ 包装資材や原材料価格上昇で",
+      "text": "大分 佐伯 4人刺傷事件 被害者は刺した人物と面識なしか",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 20:23:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175911_2607131928_0713202315_01_02.jpg"
+      "time": "Tue, 14 Jul 2026 05:40:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176131_2607132204_0714051125_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ首相交代へ “駐米大使に起用の可能性”一部報道",
+      "text": "歴史的な円安「経済に悪い影響」61％ NHK世論調査",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 21:17:26 +0900"
+      "time": "Tue, 14 Jul 2026 05:02:25 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "カタール ハマド前首長が死去「近代カタールの設計者」",
+      "text": "大相撲名古屋場所 3日目見どころ 豊昇龍は藤ノ川と",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 21:15:39 +0900"
+      "time": "Tue, 14 Jul 2026 05:20:33 +0900"
     }
   ]
 }
