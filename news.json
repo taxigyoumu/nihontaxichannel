@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-07-13 19:42",
-  "has_alert": false,
+  "updated_at": "2026-07-14 03:11",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大分 佐伯 4人刃物で刺され2人重傷 44歳男を逮捕 事件に関与か",
-      "source": "NHK",
-      "time": "Mon, 13 Jul 2026 18:48:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175551_2607131845_0713184816_01_02.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１４日０２時３０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-13T17:33:10Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西日本で気温上昇 あす以降関東甲信も猛烈な暑さ 熱中症対策を",
+      "text": "トランプ氏 ホルムズ海峡めぐり “イランへの海上封鎖 再開”",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 19:09:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175321_2607131855_0713190913_01_02.jpg"
+      "time": "Tue, 14 Jul 2026 01:53:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176161_2607140100_0714010048_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "急な気温上昇 体が対応できないおそれも 熱中症対策は",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 19:03:39 +0900",
+      "time": "Mon, 13 Jul 2026 20:07:28 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175581_2607131609_0713190339_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“声にも無断使用されない権利” 報告書に明記へ 法務省検討会",
+      "text": "皇室典範改正案 参院特別委15日審議入りでおおむね合意",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 19:20:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175901_2607131833_0713192057_01_02.jpg"
+      "time": "Mon, 13 Jul 2026 22:28:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175641_2607131206_0713132609_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米・イラン攻撃の応酬 1週間で4回目 中東の米軍施設を攻撃",
+      "text": "大分 佐伯 4人刃物で刺され2人重傷 44歳男を逮捕 事件に関与か",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 19:17:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175301_2607130539_0713064541_01_02.jpg"
+      "time": "Mon, 13 Jul 2026 20:56:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175551_2607131845_0713184816_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "三菱UFJの株価上昇 時価総額が国内首位に 長期金利上昇の影響",
+      "text": "ビスケットや炭酸飲料など値上げ 包装資材や原材料価格上昇で",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 17:13:15 +0900"
+      "time": "Mon, 13 Jul 2026 20:23:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260713/K10015175911_2607131928_0713202315_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "タイ 飲食店で火災 27人死亡 約60人けが 日本人被害確認されず",
+      "text": "ウクライナ首相交代へ “駐米大使に起用の可能性”一部報道",
       "source": "NHK",
-      "time": "Mon, 13 Jul 2026 14:14:15 +0900"
+      "time": "Mon, 13 Jul 2026 21:17:26 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "カタール ハマド前首長が死去「近代カタールの設計者」",
+      "source": "NHK",
+      "time": "Mon, 13 Jul 2026 21:15:39 +0900"
     }
   ]
 }
