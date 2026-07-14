@@ -1,37 +1,22 @@
 {
-  "updated_at": "2026-07-15 05:42",
-  "has_alert": true,
+  "updated_at": "2026-07-15 08:37",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日０５時２５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-14T20:28:23Z"
-    },
-    {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】W杯 準決勝 スペインが追加点 フランスをリード",
+      "text": "米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 05:25:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177181_2607150315_0715040323_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホルムズ海峡でイランへの海上封鎖を再開 米中央軍",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 05:39:07 +0900",
+      "time": "Wed, 15 Jul 2026 06:12:42 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177001_2607150459_0715053908_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山口北部や島根西部の一部にレベル4高潮危険警報 厳重警戒を",
+      "text": "W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 02:19:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177161_2607150112_0715021932_01_02.jpg"
+      "time": "Wed, 15 Jul 2026 06:53:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177181_2607150640_0715064639_01_02.jpg"
     },
     {
       "category": "news",
@@ -44,24 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪・道頓堀ビル火災 出火の約15分前にたばこポイ捨てか",
+      "text": "富山 新潟 山梨で38度の危険な暑さ予想 東北でも猛烈な暑さに",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 05:27:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177011_2607142218_0715052742_01_02.jpg"
+      "time": "Wed, 15 Jul 2026 06:11:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176981_2607150558_0715061113_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 自民党総裁選で支援受けた議員との会合に出席",
+      "text": "山口北部や島根西部の一部にレベル4高潮危険警報 厳重警戒を",
       "source": "NHK",
-      "time": "Tue, 14 Jul 2026 22:36:15 +0900"
+      "time": "Wed, 15 Jul 2026 02:19:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177161_2607150112_0715021932_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ軍 無人艇と無人車両の上陸作戦 世界初の成果と強調",
+      "text": "6月のウクライナ民間人死傷者2200人超 過去4年で最多 国連",
       "source": "NHK",
-      "time": "Tue, 14 Jul 2026 21:34:27 +0900"
+      "time": "Wed, 15 Jul 2026 08:33:32 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "政府 ナフサの供給対策検討 イラン情勢による流通影響受け",
+      "source": "NHK",
+      "time": "Wed, 15 Jul 2026 06:42:52 +0900"
     }
   ]
 }
