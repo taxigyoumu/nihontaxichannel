@@ -1,46 +1,53 @@
 {
-  "updated_at": "2026-07-14 20:49",
-  "has_alert": false,
+  "updated_at": "2026-07-15 01:42",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東海・四国で危険な暑さ 熱中症対策の徹底を",
-      "source": "NHK",
-      "time": "Tue, 14 Jul 2026 19:14:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176071_2607141548_0714155406_01_03.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日００時３８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-14T15:40:42Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米が海上封鎖再開へ 米イラン攻撃応酬続き事態悪化に懸念も",
+      "text": "熱中症搬送 全国で4500人超 前週の3倍以上に 総務省消防庁",
       "source": "NHK",
-      "time": "Tue, 14 Jul 2026 19:29:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176211_2607141858_0714190656_01_02.jpg"
+      "time": "Tue, 14 Jul 2026 21:02:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176821_2607142004_0714210250_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民・維新・みらい「副首都」法案修正合意 みらいは賛成へ",
+      "text": "ウクライナ軍 無人艇と無人車両の上陸作戦 世界初の成果と強調",
       "source": "NHK",
-      "time": "Tue, 14 Jul 2026 18:30:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176381_2607141109_0714114411_01_02.jpg"
+      "time": "Tue, 14 Jul 2026 21:34:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176861_2607142003_0714213428_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中古スマホ販売台数 過去最高更新 新品スマホの価格上昇背景に",
+      "text": "高市首相 自民党総裁選で支援受けた議員との会合に出席",
       "source": "NHK",
-      "time": "Tue, 14 Jul 2026 18:46:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176351_2607141818_0714184607_01_02.jpg"
+      "time": "Tue, 14 Jul 2026 22:36:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015177071_2607142310_0714232654_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR東日本 新たな検査専用車両「SOAR」発表 2029年度中に導入へ",
+      "text": "自民森山氏 食料品消費税減税“財源なき減税あってはならず”",
       "source": "NHK",
-      "time": "Tue, 14 Jul 2026 18:13:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176741_2607141732_0714181357_01_02.jpg"
+      "time": "Tue, 14 Jul 2026 22:58:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015177101_2607142321_0714232856_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中道 政権ビジョン 中間とりまとめ“競争力ある福祉国家を”",
+      "source": "NHK",
+      "time": "Tue, 14 Jul 2026 21:30:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260714/K10015176921_2607142053_0714213021_01_02.jpg"
     },
     {
       "category": "news",
@@ -52,9 +59,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪 道頓堀ビル火災 たばこをポイ捨てか 従業員を書類送検",
+      "text": "共同通信 日野町事件再審めぐり誤報 担当デスクら処分",
       "source": "NHK",
-      "time": "Tue, 14 Jul 2026 18:33:29 +0900"
+      "time": "Tue, 14 Jul 2026 22:56:45 +0900"
     }
   ]
 }
