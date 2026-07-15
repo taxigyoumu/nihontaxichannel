@@ -1,21 +1,14 @@
 {
-  "updated_at": "2026-07-15 21:51",
-  "has_alert": true,
+  "updated_at": "2026-07-15 23:46",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日２１時２９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-15T12:33:11Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "芥川賞に小砂川チトさん 直木賞に朝倉かすみさん",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 21:24:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176901_2607151143_0715165501_01_02.jpg"
+      "time": "Wed, 15 Jul 2026 22:51:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176901_2607152158_0715221444_01_02.jpg"
     },
     {
       "category": "news",
@@ -52,16 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「検察なめんなよ」検事の刑事裁判 取り調べの動画が法廷で",
+      "text": "「線状降水帯直前予測」気象庁長官 “情報の普及や啓発必要”",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 20:09:39 +0900"
+      "time": "Wed, 15 Jul 2026 22:02:59 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "あすは北海道～九州で猛暑予想 北日本は今夜非常に激しい雨",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 18:48:53 +0900"
+      "time": "Wed, 15 Jul 2026 22:24:04 +0900"
     }
   ]
 }
