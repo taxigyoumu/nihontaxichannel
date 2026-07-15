@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-16 02:46",
+  "updated_at": "2026-07-16 04:06",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯準決勝 イングランド×アルゼンチン【速報中】因縁の対決",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 04:03:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177261_2607151552_0716035709_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -25,14 +33,6 @@
       "source": "NHK",
       "time": "Wed, 15 Jul 2026 19:50:06 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177561_2607151656_0715195007_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "W杯イングランドとアルゼンチンが準決勝へ調整 過去の対戦は？",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 17:36:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177321_2607151720_0715173602_01_02.jpg"
     },
     {
       "category": "news",
