@@ -1,13 +1,30 @@
 {
-  "updated_at": "2026-07-15 18:31",
-  "has_alert": true,
+  "updated_at": "2026-07-15 20:26",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日１７時３９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-15T08:42:12Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【ライブ】芥川賞 小砂川チトさん 直木賞 朝倉かすみさん会見",
+      "source": "NHK",
+      "time": "Wed, 15 Jul 2026 19:52:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176901_2607151143_0715165501_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "冷凍食品大手「ニチレイ」サイバー攻撃を受けたと公表",
+      "source": "NHK",
+      "time": "Wed, 15 Jul 2026 19:27:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177751_2607151818_0715183057_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "首相 国民会議の消費税減税議論 “8月頭ぐらいなら間に合う”",
+      "source": "NHK",
+      "time": "Wed, 15 Jul 2026 19:50:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177561_2607151656_0715195007_01_02.jpg"
     },
     {
       "category": "news",
@@ -15,53 +32,29 @@
       "text": "皇室典範改正案 参議院で審議入り 委員会採決はあすに見送り",
       "source": "NHK",
       "time": "Wed, 15 Jul 2026 17:32:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176941_2607151140_0715114534_01_02.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176941_2607151921_0715192314_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ライブ】第175回芥川賞・直木賞 受賞作発表へ",
+      "text": "千葉 患者点滴に排せつ物混入し殺害か 元職員逮捕 容疑否認",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 17:02:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176901_2607151143_0715165501_01_02.jpg"
+      "time": "Wed, 15 Jul 2026 20:00:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177731_2607151809_0715182659_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東北～九州猛暑 危険な暑さも 北日本は非常に激しい雨の見込み",
+      "text": "あすは北海道～九州で猛暑予想 北日本は今夜非常に激しい雨",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 16:58:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176981_2607151159_0715115955_01_03.jpg"
+      "time": "Wed, 15 Jul 2026 18:48:53 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "上半期の訪日客は5年ぶり減少 専門家「今後は“成熟期”へ」",
+      "text": "横断歩道渡っていた小学生がワゴン車にはねられ死亡 西東京",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 18:13:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177481_2607151705_0715181359_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "インフルエンサー「宮崎麗果」 脱税の罪で有罪判決 東京地裁",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 14:30:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177381_2607151237_0715143016_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 高田馬場 動画配信中の女性殺害事件 被告に懲役16年 判決",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 18:07:30 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "65歳以上の高齢者の単身世帯930万超 過去最多",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 17:09:04 +0900"
+      "time": "Wed, 15 Jul 2026 19:34:00 +0900"
     }
   ]
 }
