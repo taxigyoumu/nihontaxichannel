@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-15 23:46",
+  "updated_at": "2026-07-16 01:18",
   "has_alert": false,
   "items": [
     {
@@ -29,32 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "皇室典範改正案 参議院で審議入り 委員会採決はあすに見送り",
+      "text": "W杯イングランドとアルゼンチンが準決勝へ調整 過去の対戦は？",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 17:32:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176941_2607151921_0715192314_01_03.jpg"
+      "time": "Wed, 15 Jul 2026 17:36:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177321_2607151720_0715173602_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "不祥事相次いだ東京大学附属病院を「東京大学病院」に変更へ",
+      "text": "エヌビディアCEOが来日 日本の大手ゲーム会社と交流",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 21:00:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177821_2607151953_0715200648_01_02.jpg"
+      "time": "Wed, 15 Jul 2026 23:55:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015178011_2607152303_0715235508_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「線状降水帯直前予測」気象庁長官 “情報の普及や啓発必要”",
+      "text": "浜岡原発データ不正問題 市議会で審査での防止対策を求める声",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 22:02:59 +0900"
+      "time": "Wed, 15 Jul 2026 23:36:52 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "あすは北海道～九州で猛暑予想 北日本は今夜非常に激しい雨",
+      "text": "天皇ご一家 那須御用邸に静養のため滞在",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 22:24:04 +0900"
+      "time": "Wed, 15 Jul 2026 23:51:26 +0900"
     }
   ]
 }
