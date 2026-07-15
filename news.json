@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-15 08:37",
+  "updated_at": "2026-07-15 16:30",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米がホルムズ海峡を再び封鎖 トランプ大統領 対価要求は撤回",
+      "text": "東北～九州猛暑 危険な暑さも 北日本は非常に激しい雨の見込み",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 06:12:42 +0900",
+      "time": "Wed, 15 Jul 2026 16:01:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176981_2607151159_0715115955_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "皇室典範改正案 参議院で審議入り 委員会採決はあすに見送り",
+      "source": "NHK",
+      "time": "Wed, 15 Jul 2026 16:17:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176941_2607151140_0715114534_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "きょう 第175回芥川賞・直木賞の選考会 候補作の詳細も",
+      "source": "NHK",
+      "time": "Wed, 15 Jul 2026 06:18:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176901_2607142101_0715061824_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米軍 イランへの海上封鎖再開 トランプ大統領「発電所も標的」",
+      "source": "NHK",
+      "time": "Wed, 15 Jul 2026 14:11:30 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177001_2607150459_0715053908_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 スペイン 4大会ぶり決勝進出 フランス3大会連続決勝ならず",
+      "text": "暗号資産を「金融商品」に位置づける改正金融商品取引法が成立",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 06:53:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177181_2607150640_0715064639_01_02.jpg"
+      "time": "Wed, 15 Jul 2026 16:06:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177471_2607151348_0715160623_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "皇室典範改正案 きょう参院で審議入り 与党内で会期延長案も",
+      "text": "サンダル取ろうとして運転誤り4人死傷 被告に禁錮4年 高知地裁",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 05:13:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176941_2607150057_0715051350_01_02.jpg"
+      "time": "Wed, 15 Jul 2026 16:05:06 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "富山 新潟 山梨で38度の危険な暑さ予想 東北でも猛烈な暑さに",
+      "text": "インフルエンサー「宮崎麗果」 脱税の罪で有罪判決 東京地裁",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 06:11:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176981_2607150558_0715061113_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "山口北部や島根西部の一部にレベル4高潮危険警報 厳重警戒を",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 02:19:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177161_2607150112_0715021932_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "6月のウクライナ民間人死傷者2200人超 過去4年で最多 国連",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 08:33:32 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "政府 ナフサの供給対策検討 イラン情勢による流通影響受け",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 06:42:52 +0900"
+      "time": "Wed, 15 Jul 2026 14:30:15 +0900"
     }
   ]
 }
