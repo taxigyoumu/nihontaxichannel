@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-07-16 05:31",
+  "updated_at": "2026-07-16 06:57",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 イングランド×アルゼンチン【速報中】イングランド先制",
+      "text": "利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 05:21:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177261_2607151552_0716035709_01_02.jpg"
+      "time": "Thu, 16 Jul 2026 06:41:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178081_2607160625_0716064129_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯 アルゼンチン 2大会連続決勝へ メッシ2アシスト【速報中】",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 06:47:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177261_2607160537_0716061239_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "きょうも各地で気温上昇 猛烈な暑さに 熱中症対策の徹底を",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 06:44:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177931_2607160642_0716064417_01_02.jpg"
     },
     {
       "category": "news",
@@ -21,40 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ軍 イランに追加攻撃を開始したと発表",
+      "text": "消費税減税「国民会議」中間とりまとめで方向性出せるか不透明",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 05:18:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178061_2607160514_0716051855_01_02.jpg"
+      "time": "Thu, 16 Jul 2026 06:14:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177901_2607160122_0716061500_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "芥川賞に小砂川チトさん 直木賞に朝倉かすみさん",
+      "text": "ニチレイ サイバー攻撃 影響の広がりや原因究明など焦点",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 22:51:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176901_2607152158_0715221444_01_02.jpg"
+      "time": "Thu, 16 Jul 2026 05:32:07 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
+      "text": "母親が働く世帯は81％超に 過去最高",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 20:58:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177751_2607151818_0715183057_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "エヌビディアCEOが来日 日本の大手ゲーム会社と交流",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 23:55:08 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "天皇ご一家 那須御用邸に静養のため滞在",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 23:51:26 +0900"
+      "time": "Thu, 16 Jul 2026 06:00:05 +0900"
     }
   ]
 }
