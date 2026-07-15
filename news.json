@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-07-16 04:06",
+  "updated_at": "2026-07-16 05:31",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯準決勝 イングランド×アルゼンチン【速報中】因縁の対決",
+      "text": "W杯 イングランド×アルゼンチン【速報中】イングランド先制",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 04:03:30 +0900",
+      "time": "Thu, 16 Jul 2026 05:21:39 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177261_2607151552_0716035709_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "皇室典範改正案 与党 会期末の成立図る 会期延長も検討",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 05:24:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177891_2607160112_0716052447_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ軍 イランに追加攻撃を開始したと発表",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 05:18:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178061_2607160514_0716051855_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,25 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "首相 国民会議の消費税減税議論 “8月頭ぐらいなら間に合う”",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 19:50:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177561_2607151656_0715195007_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "エヌビディアCEOが来日 日本の大手ゲーム会社と交流",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 23:55:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015178011_2607152303_0715235508_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "浜岡原発データ不正問題 市議会で審査での防止対策を求める声",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 23:36:52 +0900"
+      "time": "Wed, 15 Jul 2026 23:55:08 +0900"
     },
     {
       "category": "news",
