@@ -1,21 +1,28 @@
 {
-  "updated_at": "2026-07-15 20:26",
-  "has_alert": false,
+  "updated_at": "2026-07-15 21:51",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日２１時２９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-15T12:33:11Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ライブ】芥川賞 小砂川チトさん 直木賞 朝倉かすみさん会見",
+      "text": "芥川賞に小砂川チトさん 直木賞に朝倉かすみさん",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 19:52:08 +0900",
+      "time": "Wed, 15 Jul 2026 21:24:46 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015176901_2607151143_0715165501_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "冷凍食品大手「ニチレイ」サイバー攻撃を受けたと公表",
+      "text": "ニチレイ サイバー攻撃を公表 外食企業や食品メーカーに影響",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 19:27:33 +0900",
+      "time": "Wed, 15 Jul 2026 20:58:18 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177751_2607151818_0715183057_01_02.jpg"
     },
     {
@@ -37,10 +44,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 患者点滴に排せつ物混入し殺害か 元職員逮捕 容疑否認",
+      "text": "不祥事相次いだ東京大学附属病院を「東京大学病院」に変更へ",
       "source": "NHK",
-      "time": "Wed, 15 Jul 2026 20:00:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177731_2607151809_0715182659_01_02.jpg"
+      "time": "Wed, 15 Jul 2026 21:00:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260715/K10015177821_2607151953_0715200648_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「検察なめんなよ」検事の刑事裁判 取り調べの動画が法廷で",
+      "source": "NHK",
+      "time": "Wed, 15 Jul 2026 20:09:39 +0900"
     },
     {
       "category": "news",
@@ -48,13 +62,6 @@
       "text": "あすは北海道～九州で猛暑予想 北日本は今夜非常に激しい雨",
       "source": "NHK",
       "time": "Wed, 15 Jul 2026 18:48:53 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "横断歩道渡っていた小学生がワゴン車にはねられ死亡 西東京",
-      "source": "NHK",
-      "time": "Wed, 15 Jul 2026 19:34:00 +0900"
     }
   ]
 }
