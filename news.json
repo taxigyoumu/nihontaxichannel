@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-16 09:04",
+  "updated_at": "2026-07-16 12:46",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "ニチレイ サイバー攻撃 江崎グリコのアイスの出荷作業に影響",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 12:00:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177911_2607161142_0716120038_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "北海道～九州 猛烈な暑さの見込み 関東甲信など大雨のおそれ",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 12:02:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177931_2607161205_0716120639_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "給付付き税額控除 2029年度導入で大筋合意 実務者会議",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 11:59:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178151_2607161148_0716115917_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アルゼンチン 2大会連続決勝へ メッシ2アシスト【詳しく】",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 12:29:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177261_2607161055_0716110054_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米軍 “海上封鎖再開 警告無視の船攻撃” イランは攻撃で反発",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 12:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178061_2607161208_0716120953_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 07:28:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178081_2607160735_0716073735_01_03.jpg"
+      "time": "Thu, 16 Jul 2026 11:47:35 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 アルゼンチン 2大会連続決勝へ メッシ2アシスト【速報中】",
+      "text": "衆院憲法審査会 今国会の審議振り返る総括的な討議",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 07:35:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177261_2607160714_0716073006_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "きょうも各地で気温上昇 猛烈な暑さに 熱中症対策の徹底を",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 08:49:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177931_2607160654_0716070204_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "皇室典範改正案 与党 会期末の成立図る 会期延長も検討",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 05:24:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177891_2607160112_0716052447_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税「国民会議」中間とりまとめで方向性出せるか不透明",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 06:14:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177901_2607160122_0716061500_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ニチレイ サイバー攻撃 影響の広がりや原因究明など焦点",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 05:32:07 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米軍 イランに5日連続の攻撃 イラン「国益を最後まで守る」",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 08:50:13 +0900"
+      "time": "Thu, 16 Jul 2026 12:20:22 +0900"
     }
   ]
 }
