@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-07-16 12:46",
-  "has_alert": false,
+  "updated_at": "2026-07-16 15:14",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１６日１５時０４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-16T06:09:35Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サッカーW杯 北中米大会 スペインの選手たちが決勝の地に到着",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 14:46:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178311_2607161437_0716144655_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 “点滴混入”殺人事件 事件後に点滴のチューブ隠したか",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 14:26:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177951_2607152147_0716060343_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "石油化学製品6月生産量 公表対象品目の半分で前年同月上回る",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 15:06:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178361_2607161456_0716150650_01_03.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞",
+      "source": "NHK",
+      "time": "Thu, 16 Jul 2026 15:03:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178081_2607160735_0716073735_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "北海道～九州 猛烈な暑さの見込み 関東甲信など大雨のおそれ",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 12:02:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177931_2607161205_0716120639_01_02.jpg"
+      "time": "Thu, 16 Jul 2026 12:02:41 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "給付付き税額控除 2029年度導入で大筋合意 実務者会議",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 11:59:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178151_2607161148_0716115917_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アルゼンチン 2大会連続決勝へ メッシ2アシスト【詳しく】",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 12:29:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177261_2607161055_0716110054_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米軍 “海上封鎖再開 警告無視の船攻撃” イランは攻撃で反発",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 12:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178061_2607161208_0716120953_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "利根川進さん死去 86歳 日本人初のノーベル生理学・医学賞受賞",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 11:47:35 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "衆院憲法審査会 今国会の審議振り返る総括的な討議",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 12:20:22 +0900"
+      "time": "Thu, 16 Jul 2026 11:59:16 +0900"
     }
   ]
 }
