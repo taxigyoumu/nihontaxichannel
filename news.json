@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-17 02:45",
+  "updated_at": "2026-07-17 04:05",
   "has_alert": false,
   "items": [
     {
@@ -9,6 +9,14 @@
       "source": "NHK",
       "time": "Thu, 16 Jul 2026 23:05:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177931_2607161732_0716190445_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米 ブラジルに25％追加関税 ブラジル「正当化の根拠ない」",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 03:57:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178861_2607170347_0717035735_01_02.jpg"
     },
     {
       "category": "news",
@@ -33,14 +41,6 @@
       "source": "NHK",
       "time": "Thu, 16 Jul 2026 23:47:08 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178411_2607161759_0716181025_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米 6月の小売業売上高 前月比0.2％増 消費堅調続くか焦点",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 23:57:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178831_2607162354_0716235713_01_02.jpg"
     },
     {
       "category": "news",
