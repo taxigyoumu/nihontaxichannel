@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-16 23:32",
-  "has_alert": false,
+  "updated_at": "2026-07-17 01:15",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１７日０１時１０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-16T16:13:16Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -21,18 +28,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 JR富良野線で列車と車衝突 5人病院搬送 意識あり",
+      "text": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 20:51:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178581_2607162023_0716202635_01_02.jpg"
+      "time": "Thu, 16 Jul 2026 23:47:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178411_2607161759_0716181025_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "相模原 女子高校生殺害 ストーカーなど疑いで元交際相手再逮捕",
+      "text": "米 6月の小売業売上高 前月比0.2％増 消費堅調続くか焦点",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 20:34:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178511_2607161812_0716182315_01_02.jpg"
+      "time": "Thu, 16 Jul 2026 23:57:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178831_2607162354_0716235713_01_02.jpg"
     },
     {
       "category": "news",
