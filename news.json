@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-07-16 21:20",
+  "updated_at": "2026-07-16 23:32",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "全国で気温上昇 3日連続で危険な暑さ観測も",
+      "text": "全国で気温上昇 3日連続で危険な暑さ 熱帯夜の予想も",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 19:04:43 +0900",
+      "time": "Thu, 16 Jul 2026 23:05:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177931_2607161732_0716190445_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国とロシアの艦艇が沖縄本島 宮古島間を同時航行 海自が確認",
+      "text": "“福岡県議会 藏内議長に500万円手渡した” 元副議長が新証言",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 21:16:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178711_2607162111_0716211624_01_02.jpg"
+      "time": "Thu, 16 Jul 2026 19:44:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178551_2607161929_0716194447_01_02.jpg"
     },
     {
       "category": "news",
@@ -37,24 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岩手 雫石町 クマ1頭を捕獲 住宅に繰り返し入った個体か",
+      "text": "国会 最終盤の攻防 中道 小川代表にNW9広内キャスターが聞く",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 20:12:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178631_2607162004_0716201210_01_02.jpg"
+      "time": "Thu, 16 Jul 2026 21:45:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178721_2607162139_0716214549_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "埼玉 深谷にレベル4大雨危険警報 浸水や氾濫に厳重な警戒",
+      "text": "台湾 TSMC 4-6月期決算 売り上げ 最終利益 ともに過去最高更新",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 20:49:51 +0900"
+      "time": "Thu, 16 Jul 2026 21:15:21 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "埼玉 深谷にレベル4土砂災害危険警報を発表 厳重な警戒を",
+      "text": "サッカーW杯 決勝で対戦する両エース 19年前の写真が話題に",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 20:47:18 +0900"
+      "time": "Thu, 16 Jul 2026 21:24:04 +0900"
     }
   ]
 }
