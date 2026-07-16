@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-17 01:15",
-  "has_alert": true,
+  "updated_at": "2026-07-17 02:45",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１７日０１時１０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-16T16:13:16Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -16,6 +9,14 @@
       "source": "NHK",
       "time": "Thu, 16 Jul 2026 23:05:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177931_2607161732_0716190445_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "野球日本代表 井口資仁氏が監督の有力候補として浮上",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 01:33:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178851_2607170125_0717013305_01_02.jpg"
     },
     {
       "category": "news",
@@ -46,15 +47,7 @@
       "label": "ニュース",
       "text": "国会 最終盤の攻防 中道 小川代表にNW9広内キャスターが聞く",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 21:45:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178721_2607162139_0716214549_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台湾 TSMC 4-6月期決算 売り上げ 最終利益 ともに過去最高更新",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 21:15:21 +0900"
+      "time": "Thu, 16 Jul 2026 21:45:48 +0900"
     },
     {
       "category": "news",
