@@ -588,7 +588,7 @@ for(var i=0;i<65;i++){
         <!-- ③ ループ動画 -->
         <div class="ev-slot" id="ev-video" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;display:flex;align-items:center;justify-content:center;">
           <video id="ev-video-el"
-            muted loop playsinline autoplay preload="auto"
+            muted playsinline autoplay preload="auto"
             style="width:100%;height:100%;object-fit:contain;background:#000;">
             <source src="movie.mp4" type="video/mp4">
             お使いのブラウザは動画再生に対応していません。
@@ -596,7 +596,7 @@ for(var i=0;i<65;i++){
         </div>
         <div class="ev-slot" id="ev-video2" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;display:flex;align-items:center;justify-content:center;">
           <video id="ev-video2-el"
-            muted loop playsinline autoplay preload="auto"
+            muted playsinline autoplay preload="auto"
             style="width:100%;height:100%;object-fit:contain;background:#000;">
             <source src="movie2.mp4" type="video/mp4">
             お使いのブラウザは動画再生に対応していません。
@@ -604,9 +604,24 @@ for(var i=0;i<65;i++){
         </div>
         <div class="ev-slot" id="ev-video3" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;display:flex;align-items:center;justify-content:center;">
           <video id="ev-video3-el"
-            muted loop playsinline autoplay preload="auto"
+            muted playsinline autoplay preload="auto"
             style="width:100%;height:100%;object-fit:contain;background:#000;">
             <source src="movie3.mp4" type="video/mp4">
+            お使いのブラウザは動画再生に対応していません。
+          </video>
+        </div>
+        <!-- ⑤ 重大事故について（movie6→movie7 連続再生） -->
+        <div class="ev-slot" id="ev-video4" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;">
+          <video id="ev-video4-el"
+            muted playsinline preload="auto"
+            style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:1;transition:opacity .3s ease;">
+            <source src="movie6.mp4" type="video/mp4">
+            お使いのブラウザは動画再生に対応していません。
+          </video>
+          <video id="ev-video7-el"
+            muted playsinline preload="auto"
+            style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
+            <source src="movie7.mp4" type="video/mp4">
             お使いのブラウザは動画再生に対応していません。
           </video>
         </div>
@@ -781,6 +796,7 @@ for(var i=0;i<65;i++){
     { slot:'ev-video',   icon:'🎬', title:'業務連絡 動画',        sub:'事故防止 注意喚起',          dur:30000, video:'ev-video-el' },
     { slot:'ev-video2',  icon:'🎬', title:'業務連絡 動画',        sub:'GO後席決済機の注意事項',     dur:28000, video:'ev-video2-el' },
     { slot:'ev-video3',  icon:'🎬', title:'業務連絡 動画',        sub:'スライドドアの確認',         dur:30000, video:'ev-video3-el' },
+    { slot:'ev-video4',  icon:'🚨', title:'業務連絡 動画',        sub:'重大事故について',           dur:60000, sequence:['ev-video4-el','ev-video7-el'] },
     { slot:'ev-accident', icon:'🚨', title:'業務連絡 動画',       sub:'事故映像 ─ 周囲確認の徹底',  dur:120000, sequence:['ev-accident-v1-el','ev-accident-v2-el'] }
   ];
   var idx = 0;
@@ -822,8 +838,8 @@ for(var i=0;i<65;i++){
     tag.setAttribute('playsinline','');
     tag.addEventListener('error', function(){ try { tag.load(); } catch(e){} });
   });
-  // 単発ループ動画は最後まで再生したら先頭に戻ってループ（保証）
-  loopVideoTags.forEach(function(tag){ if(tag) tag.loop = true; });
+  // 単発動画は最後まで再生し終えたら次のスロットへ自動切替（ループしない）
+  loopVideoTags.forEach(function(tag){ if(tag) tag.addEventListener('ended', forceAdvance); });
 
   function forceAdvance(){
     elapsed = 0;
@@ -863,12 +879,12 @@ for(var i=0;i<65;i++){
       if(v1){ v1.style.opacity = '1'; try { v1.currentTime = 0; } catch(e){} tryPlay(v1); }
       if(v2){ v2.style.opacity = '0'; try { v2.pause(); v2.currentTime = 0; } catch(e){} }
     } else {
-      // 動画制御：表示中スロットの動画は「続きから」再生（currentTimeはリセットしない）、
-      // 他の動画は一時停止して位置を保持。loop属性で最後まで行けば自動的に先頭へ戻る。
+      // 動画制御：表示中スロットの動画は先頭から再生し、最後まで見せてから次へ切替（ended イベント）。
+      // 他の動画は一時停止。
       var activeVideoId = v.video;
       allVideoTags.forEach(function(tag){
         if(!tag) return;
-        if(tag.id === activeVideoId){ tryPlay(tag); }   // 続きから再生
+        if(tag.id === activeVideoId){ try { tag.currentTime = 0; } catch(e){} tryPlay(tag); }
         else { try { tag.pause(); } catch(e){} }        // 位置を保持して停止
       });
     }
@@ -900,10 +916,23 @@ for(var i=0;i<65;i++){
 
   setInterval(function(){
     elapsed += TICK;
-    var dur = views[idx].dur;
-    var pct = Math.min(100, (elapsed / dur) * 100);
+    var v = views[idx];
+    var activeTag = null;
+    if(v.video){ activeTag = document.getElementById(v.video); }
+    else if(v.sequence){
+      var v1 = document.getElementById(v.sequence[0]);
+      activeTag = (v1 && v1.style.opacity === '1') ? v1 : document.getElementById(v.sequence[1]);
+    }
+    var pct;
+    if(activeTag && activeTag.duration && !isNaN(activeTag.duration) && activeTag.duration > 0){
+      // 動画再生中は実際の再生位置から進捗を計算（動画を最後まで見せる仕様）
+      pct = Math.min(100, (activeTag.currentTime / activeTag.duration) * 100);
+    } else {
+      pct = Math.min(100, (elapsed / v.dur) * 100);
+    }
     if(barEl) barEl.style.width = pct + '%';
-    if(elapsed >= dur){
+    // 動画スロットは ended イベントで切替。dur は動画が再生されない場合のみのフォールバック。
+    if(!activeTag && elapsed >= v.dur){
       forceAdvance();
     }
   }, TICK);
