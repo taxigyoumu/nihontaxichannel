@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-07-17 04:05",
+  "updated_at": "2026-07-17 05:25",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "全国で気温上昇 3日連続で危険な暑さ 熱帯夜の予想も",
+      "text": "皇室典範改正案成立へ 与党 会期延長し「副首都」法案成立図る",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 23:05:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015177931_2607161732_0716190445_01_02.jpg"
+      "time": "Fri, 17 Jul 2026 05:08:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178691_2607162054_0717050802_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "消費税減税 隔たり埋まる見通し立たず 与党に首相判断必要の声",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 05:09:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178701_2607162056_0717050927_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イギリス労働党 新党首にバーナム氏選出へ 新首相就任の見込み",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 04:47:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178741_2607162210_0717044702_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米軍 イランに攻撃開始と発表 6日連続の攻撃",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 04:40:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178751_2607170435_0717044055_01_02.jpg"
     },
     {
       "category": "news",
@@ -21,40 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "野球日本代表 井口資仁氏が監督の有力候補として浮上",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 01:33:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178851_2607170125_0717013305_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "“福岡県議会 藏内議長に500万円手渡した” 元副議長が新証言",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 19:44:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178551_2607161929_0716194447_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "国産AI開発「ノエトラ」 エヌビディアから新システム導入へ",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 23:47:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260716/K10015178411_2607161759_0716181025_01_02.jpg"
+      "time": "Thu, 16 Jul 2026 23:47:08 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国会 最終盤の攻防 中道 小川代表にNW9広内キャスターが聞く",
+      "text": "野球日本代表 井口資仁氏が監督の有力候補として浮上",
       "source": "NHK",
-      "time": "Thu, 16 Jul 2026 21:45:48 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカーW杯 決勝で対戦する両エース 19年前の写真が話題に",
-      "source": "NHK",
-      "time": "Thu, 16 Jul 2026 21:24:04 +0900"
+      "time": "Fri, 17 Jul 2026 01:33:04 +0900"
     }
   ]
 }
