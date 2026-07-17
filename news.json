@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-07-18 07:13",
+  "updated_at": "2026-07-18 08:22",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日０６時３１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-17T21:33:47Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-17T22:26:40Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-17T22:26:40Z"
     },
     {
       "category": "news",
@@ -36,14 +43,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山陽新幹線 小倉～博多の上下線 運転再開",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 06:38:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180031_2607180634_0718063829_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "国会の会期延長 「副首都」構想法案の行方が焦点に",
       "source": "NHK",
       "time": "Sat, 18 Jul 2026 05:00:03 +0900",
@@ -52,16 +51,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「人気キャラのおもちゃ譲ります」 不審なSNS投稿に注意",
+      "text": "アメリカとイラン 覚書署名から1か月 合意形がい化で被害拡大",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 05:43:33 +0900"
+      "time": "Sat, 18 Jul 2026 07:15:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179971_2607180432_0718071519_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ゼレンスキー大統領 安全保障政策担う重要ポストを内相に打診",
+      "text": "ベネズエラ大地震 “5069人の死亡確認”と発表",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 06:41:52 +0900"
+      "time": "Sat, 18 Jul 2026 07:29:50 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フランスの核戦力演習にドイツが初めて通常戦力で参加へ",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 07:27:11 +0900"
     }
   ]
 }
