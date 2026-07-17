@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-18 04:02",
+  "updated_at": "2026-07-18 05:26",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 群馬で記録的な大雨 旗川では氾濫が発生 厳重な警戒を",
+      "text": "栃木 群馬で記録的大雨 きょうも北～西日本で雷雨か 十分注意",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 01:47:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179941_2607180136_0718014755_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "栃木 足利市 旗川で氾濫おそれ 1万7812人に「緊急安全確保」",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 01:22:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179931_2607180105_0718012207_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "栃木 佐野市 旗川周辺の2249世帯6520人に「緊急安全確保」",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 00:49:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179901_2607180045_0718004901_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "栃木 足利市と佐野市 レベル4大雨危険警報 解除",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 03:33:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180001_2607180332_0718033344_01_02.jpg"
+      "time": "Sat, 18 Jul 2026 04:42:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179941_2607180437_0718044248_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【大雨 被害情報】群馬 浸水の通報相次ぐ 栃木 足利で土砂崩れ",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 01:30:30 +0900",
+      "time": "Sat, 18 Jul 2026 04:52:12 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179921_2607180106_0718011459_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東広島 殺人放火事件 元社員が代金回収指示された日に事件か",
+      "text": "改正皇室典範成立で養子迎える手続きなど実務的課題検討 政府",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 23:51:14 +0900"
+      "time": "Sat, 18 Jul 2026 05:08:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179731_2607172253_0718050825_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "奈良 川岸に女性2人の遺体 37歳会社員を遺体遺棄の疑いで逮捕",
+      "text": "国会の会期延長 「副首都」構想法案の行方が焦点に",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 00:23:45 +0900"
+      "time": "Sat, 18 Jul 2026 05:00:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179721_2607172252_0718050004_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ニチレイ 来週正常化目指す方針 流通業界の課題指摘する声も",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 05:05:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179771_2607172251_0718050512_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "奈良 遺体遺棄疑いで逮捕の会社員 女性のトラブルを通報か",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 05:06:39 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "京アニ放火殺人事件から7年 死刑囚めぐり 遺族「早く結論を」",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 05:04:00 +0900"
     }
   ]
 }
