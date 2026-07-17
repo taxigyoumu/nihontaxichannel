@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-17 14:39",
+  "updated_at": "2026-07-17 17:04",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東で局地的な大雨 浸水や土砂災害に警戒 西日本中心に猛暑日",
+      "text": "株価 一時4100円超下落 取引時間中の下落幅 過去3番目の大きさ",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 14:02:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178661_2607171248_0717124852_01_03.jpg"
+      "time": "Fri, 17 Jul 2026 16:31:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178951_2607171345_0717134543_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会“金銭授受”問題 議会が説明責任を 林総務相",
+      "text": "関東で局地的な大雨 浸水などに厳重警戒 北海道などで猛暑日",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 14:25:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179121_2607171138_0717142519_01_02.jpg"
+      "time": "Fri, 17 Jul 2026 16:27:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178661_2607171616_0717162744_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本で開発された種苗 海外流出を防止へ 改正種苗法が成立",
+      "text": "鹿児島 川から服着ていない遺体発見 不明の5歳男児の可能性も",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 14:26:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179291_2607171407_0717142636_01_02.jpg"
+      "time": "Fri, 17 Jul 2026 16:16:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178991_2607171039_0717144221_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 13:25:43 +0900",
+      "time": "Fri, 17 Jul 2026 15:35:46 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179021_2607171052_0717114540_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "再審制度見直し 改正刑事訴訟法が参議院本会議で可決・成立",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 13:20:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179011_2607171053_0717114146_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "株価 午後も一段と売り注文膨らむ 一時4000円以上値下がり",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 13:44:37 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "国旗損壊処罰法 参議院本会議で可決・成立",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 14:27:03 +0900"
+      "time": "Fri, 17 Jul 2026 16:57:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179001_2607171050_0717105240_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イランの橋など攻撃で死者も 米中央軍 6日連続攻撃を完了",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 16:55:31 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ氏 “中国が米有権者情報2億件超を不正取得”と主張",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 16:13:31 +0900"
     }
   ]
 }
