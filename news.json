@@ -1,29 +1,29 @@
 {
-  "updated_at": "2026-07-17 17:04",
+  "updated_at": "2026-07-17 19:17",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 一時4100円超下落 取引時間中の下落幅 過去3番目の大きさ",
+      "text": "衆院本会議 今国会の会期 25日まで8日間延長を議決",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 16:31:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178951_2607171345_0717134543_01_02.jpg"
+      "time": "Fri, 17 Jul 2026 19:14:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179431_2607171856_0717191031_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東で局地的な大雨 浸水などに厳重警戒 北海道などで猛暑日",
+      "text": "関東で猛烈な雨相次ぐ 土砂災害・浸水・氾濫に厳重警戒を",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 16:27:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178661_2607171616_0717162744_01_03.jpg"
+      "time": "Fri, 17 Jul 2026 19:06:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178661_2607171851_0717190434_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鹿児島 川から服着ていない遺体発見 不明の5歳男児の可能性も",
+      "text": "鹿児島 霧島 川で男性の遺体見つかる 不明の5歳男児の可能性",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 16:16:34 +0900",
+      "time": "Fri, 17 Jul 2026 18:50:29 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178991_2607171039_0717144221_01_02.jpg"
     },
     {
@@ -31,30 +31,30 @@
       "label": "ニュース",
       "text": "皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 15:35:46 +0900",
+      "time": "Fri, 17 Jul 2026 17:49:17 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179021_2607171052_0717114540_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "再審制度見直し 改正刑事訴訟法が参議院本会議で可決・成立",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 18:11:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179011_2607171053_0717114146_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "国旗損壊処罰法 参議院本会議で可決・成立",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 16:57:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179001_2607171050_0717105240_01_02.jpg"
+      "time": "Fri, 17 Jul 2026 16:57:27 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イランの橋など攻撃で死者も 米中央軍 6日連続攻撃を完了",
+      "text": "浜岡原発データ不正「原子力事業への信頼失墜」電事連会長",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 16:55:31 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ氏 “中国が米有権者情報2億件超を不正取得”と主張",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 16:13:31 +0900"
+      "time": "Fri, 17 Jul 2026 18:36:26 +0900"
     }
   ]
 }
