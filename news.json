@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-17 11:37",
+  "updated_at": "2026-07-17 14:39",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "関東で局地的な大雨 浸水や土砂災害に警戒 西日本中心に猛暑日",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 14:02:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178661_2607171248_0717124852_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福岡県議会“金銭授受”問題 議会が説明責任を 林総務相",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 14:25:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179121_2607171138_0717142519_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日本で開発された種苗 海外流出を防止へ 改正種苗法が成立",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 14:26:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179291_2607171407_0717142636_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 13:25:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179021_2607171052_0717114540_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "再審制度見直し 改正刑事訴訟法が参議院本会議で可決・成立",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 13:20:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179011_2607171053_0717114146_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "株価 午後も一段と売り注文膨らむ 一時4000円以上値下がり",
+      "source": "NHK",
+      "time": "Fri, 17 Jul 2026 13:44:37 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "国旗損壊処罰法 参議院本会議で可決・成立",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 11:16:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179001_2607171050_0717105240_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北日本～西日本で猛暑日予想 関東甲信など大気の状態不安定",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 07:04:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178661_2607170549_0717060239_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "システム障害のニチレイ 一部の倉庫・工場の業務再開",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 09:56:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178981_2607171025_0717102552_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "株価 一時2500円以上値下がり グーグルAI開発遅れの報道などで",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 09:51:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178951_2607170939_0717095101_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米が6日連続攻撃 イランはバーブルマンデブ海峡封鎖を要請か",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 11:07:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178751_2607170802_0717081322_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アメリカ 学生ビザに新規則 滞在期間に4年の上限",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 10:35:55 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米軍兵士に男性ホルモン検査を毎年義務づけの方針 米国防総省",
-      "source": "NHK",
-      "time": "Fri, 17 Jul 2026 10:41:03 +0900"
+      "time": "Fri, 17 Jul 2026 14:27:03 +0900"
     }
   ]
 }
