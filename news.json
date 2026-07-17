@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-07-17 22:21",
+  "updated_at": "2026-07-17 23:56",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木県南部と群馬県南部に「線状降水帯直前予測」発表 気象庁",
+      "text": "栃木 群馬で記録的な大雨 線状降水帯発生の可能性 厳重警戒を",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 21:55:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179751_2607172151_0717215534_01_02.jpg"
+      "time": "Fri, 17 Jul 2026 23:39:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178661_2607172248_0717224855_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東で猛烈な雨相次ぐ 北海道など連休中は大雨になるおそれ",
+      "text": "東広島 殺人放火事件 元社員が代金回収指示された日に事件か",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 21:17:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015178661_2607172126_0717212639_01_03.jpg"
+      "time": "Fri, 17 Jul 2026 23:51:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260717/K10015179851_2607172313_0717235115_01_02.jpg"
     },
     {
       "category": "news",
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "皇族数確保に向けた改正皇室典範 参議院本会議で可決・成立",
+      "text": "インド 初の“水素列車” 運行開始",
       "source": "NHK",
-      "time": "Fri, 17 Jul 2026 19:27:31 +0900"
+      "time": "Fri, 17 Jul 2026 23:31:37 +0900"
     }
   ]
 }
