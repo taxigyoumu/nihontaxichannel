@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-18 15:02",
+  "updated_at": "2026-07-18 17:17",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【大雨被害】栃木 土砂流れ込み住宅倒壊 夫婦と連絡取れず",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 15:22:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179921_2607181026_0718103849_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,10 +21,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 群馬で記録的大雨 きょうも北～西日本で雷雨か 十分注意",
+      "text": "京アニ放火殺人事件から7年 スタジオ跡地で追悼式 京都",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 12:53:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179941_2607181207_0718121252_01_02.jpg"
+      "time": "Sat, 18 Jul 2026 15:45:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179541_2607181137_0718114600_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,32 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "栃木 群馬で記録的大雨 きょうも北～西日本で雷雨か 十分注意",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 12:53:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179941_2607181207_0718121252_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "サッカーW杯 3位決定戦 勝敗とともに得点王争いにも注目",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 14:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180191_2607181337_0718140201_01_02.jpg"
+      "time": "Sat, 18 Jul 2026 14:02:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "レッドソックス吉田正尚 レイズ戦でホームラン チームは11連勝",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 14:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180201_2607181331_0718141201_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "京アニ放火殺人事件から7年 スタジオ跡地で追悼式 京都",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 13:49:13 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【大雨被害】栃木 土砂流れ込み住宅倒壊 夫婦と連絡取れず",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 13:42:28 +0900"
+      "time": "Sat, 18 Jul 2026 14:12:00 +0900"
     }
   ]
 }
