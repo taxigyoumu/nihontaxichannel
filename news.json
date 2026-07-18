@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19 06:13",
+  "updated_at": "2026-07-19 07:13",
   "has_alert": false,
   "items": [
     {
@@ -13,18 +13,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】W杯 イングランドが先制 フランスはエムバペ先発",
+      "text": "【速報中】イングランドがリードで後半へ エムバペ得点なるか",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 06:08:42 +0900",
+      "time": "Sun, 19 Jul 2026 07:10:48 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180461_2607182347_0719060556_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "モジタバ師「覚書繰り返し違反 米大統領署名が無効の証し」",
+      "text": "イラン“覚書の履行停止” 米はイラン攻撃対応で2人死亡と発表",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 03:01:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180431_2607190238_0719030112_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 06:57:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180431_2607190615_0719065727_01_02.jpg"
     },
     {
       "category": "news",
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー日本代表 中村敬斗が子どもと交流 シュートも披露",
+      "text": "多くの戦死者の遺骨が残る硫黄島 学生たちが慰霊",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 20:59:08 +0900"
+      "time": "Sun, 19 Jul 2026 07:06:32 +0900"
     }
   ]
 }
