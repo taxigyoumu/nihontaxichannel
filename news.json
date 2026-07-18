@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-07-18 18:54",
+  "updated_at": "2026-07-18 20:00",
   "has_alert": false,
   "items": [
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【大雨被害】栃木 住宅に土砂流入し倒壊 夫婦の安否確認続く",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 18:50:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179921_2607181026_0718103849_01_02.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -21,40 +13,48 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "リニア中央新幹線 静岡県内着工へ 静岡県とJR東海協定締結",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 19:44:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180281_2607181741_0718194409_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "栃木 足利 住宅に土砂流入し倒壊 現場から女性1人見つかる",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 19:52:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180441_2607181949_0718195244_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "3歳女の子が乗用車にはねられ重体 運転手を逮捕 新潟 燕市",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 19:00:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180391_2607181854_0718190010_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "奈良 遺体遺棄事件 1人は三重県の44歳の女性と確認",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 19:05:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180371_2607181851_0718190519_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 点滴殺人 患者は過去に担当変更希望か",
+      "source": "NHK",
+      "time": "Sat, 18 Jul 2026 19:25:03 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "京アニ放火殺人事件から7年 スタジオ跡地で追悼式 京都",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 15:45:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179541_2607181137_0718114600_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカーW杯 スペインが決勝に向け会見「強敵を圧倒したい」",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 17:17:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180271_2607181711_0718171720_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中国と北朝鮮の貿易総額 ことし上半期はコロナ拡大前の水準超",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 18:16:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180311_2607181657_0718181605_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "共産 田村委員長“政府は早急に追加の物価高対策を”",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 18:27:05 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "みらい 結党後初の党大会開催“AI時代の民主主義を”",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 18:14:12 +0900"
+      "time": "Sat, 18 Jul 2026 15:45:07 +0900"
     }
   ]
 }
