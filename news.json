@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-18 23:49",
+  "updated_at": "2026-07-19 00:53",
   "has_alert": false,
   "items": [
     {
@@ -13,18 +13,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカとイラン 覚書署名から1か月 合意形がい化で被害拡大",
+      "text": "【きょう6:00～】サッカーW杯 3位決定戦 得点王争いにも注目",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 22:36:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179971_2607180432_0718071519_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 00:00:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180191_2607181337_0718140201_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカーW杯 3位決定戦 勝敗とともに得点王争いにも注目",
+      "text": "アメリカとイラン 覚書署名から1か月 合意形がい化で被害拡大",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 14:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180191_2607181337_0718140201_01_02.jpg"
+      "time": "Sat, 18 Jul 2026 22:36:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179971_2607180432_0718071519_01_02.jpg"
     },
     {
       "category": "news",
