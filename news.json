@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-07-19 05:06",
+  "updated_at": "2026-07-19 06:13",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 足利 住宅に土砂流入し倒壊 行方不明者の捜索続く",
+      "text": "北海道 青森で大雨 レベル4危険警報も 土砂災害など厳重警戒",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 04:49:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180561_2607190444_0719044933_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 05:56:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180531_2607190526_0719054127_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 フランス×イングランド【速報予定】得点王争いも注目",
+      "text": "【速報中】W杯 イングランドが先制 フランスはエムバペ先発",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 04:52:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180461_2607182347_0719045224_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 06:08:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180461_2607182347_0719060556_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,18 +29,25 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道と東北 20日にかけ大雨のおそれ 土砂災害などに十分注意",
+      "text": "きょうから世界遺産委員会「飛鳥・藤原の宮都」登録の見通し",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 22:22:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015179941_2607182221_0718222254_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 05:04:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180351_2607181901_0719050450_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 点滴殺人 患者は過去に担当変更希望か",
+      "text": "栃木 足利 住宅に土砂流入し倒壊 行方不明者の捜索続く",
       "source": "NHK",
-      "time": "Sat, 18 Jul 2026 19:25:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260718/K10015180381_2607181845_0718192504_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 05:21:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180561_2607190444_0719044933_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯 アルゼンチンが決勝へ調整 スペインは雷影響で屋外中止に",
+      "source": "NHK",
+      "time": "Sun, 19 Jul 2026 05:39:27 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "サッカー日本代表 中村敬斗が子どもと交流 シュートも披露",
       "source": "NHK",
       "time": "Sat, 18 Jul 2026 20:59:08 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "“サル専用プール” ことしも設置 大分 高崎山自然動物園",
-      "source": "NHK",
-      "time": "Sat, 18 Jul 2026 20:39:42 +0900"
     }
   ]
 }
