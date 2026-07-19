@@ -1,53 +1,46 @@
 {
-  "updated_at": "2026-07-19 09:59",
+  "updated_at": "2026-07-19 13:27",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 青森で大雨 青森ではレベル4危険警報も 厳重警戒",
+      "text": "遊漁船火災 全員避難 けが人なし 神奈川 三浦",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 07:57:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180531_2607190644_0719072504_01_03.jpg"
+      "time": "Sun, 19 Jul 2026 12:58:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180681_2607191225_0719123000_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "マンションで男性転落 巻き込まれた女性死亡 名古屋 栄",
+      "source": "NHK",
+      "time": "Sun, 19 Jul 2026 11:28:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180661_2607191109_0719112857_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "W杯 イングランドが3位に 仏エムバペは2点追加し通算10得点に",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 09:54:20 +0900",
+      "time": "Sun, 19 Jul 2026 12:21:37 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180461_2607190920_0719092850_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 足利 住宅に土砂流入し倒壊 行方不明者の捜索続く",
+      "text": "西日本・北陸は各地で猛暑日に 北海道は大雨に警戒",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 05:21:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180561_2607190444_0719044933_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 11:52:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180531_2607191027_0719103615_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ中央軍が8日連続でイラン攻撃「革命防衛隊を罰する」",
+      "text": "女性2人遺体遺棄事件 容疑者が親子行方不明前日3人で会う 奈良",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 09:38:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180431_2607190615_0719065727_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ウクライナ軍総司令官の解任検討か イギリス有力紙",
-      "source": "NHK",
-      "time": "Sun, 19 Jul 2026 09:47:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180541_2607190334_0719094759_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "きょうから世界遺産委員会「飛鳥・藤原の宮都」登録の見通し",
-      "source": "NHK",
-      "time": "Sun, 19 Jul 2026 05:04:49 +0900"
+      "time": "Sun, 19 Jul 2026 12:21:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180671_2607191151_0719122107_01_02.jpg"
     },
     {
       "category": "news",
@@ -55,6 +48,13 @@
       "text": "W杯 アルゼンチンが決勝へ調整 スペインは雷影響で屋外中止に",
       "source": "NHK",
       "time": "Sun, 19 Jul 2026 05:39:27 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大雨で倒壊の住宅で女性死亡 捜索続く 栃木 足利",
+      "source": "NHK",
+      "time": "Sun, 19 Jul 2026 12:37:16 +0900"
     }
   ]
 }
