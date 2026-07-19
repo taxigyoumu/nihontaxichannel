@@ -1,21 +1,14 @@
 {
-  "updated_at": "2026-07-20 04:05",
-  "has_alert": true,
+  "updated_at": "2026-07-20 05:22",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２０日０３時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-19T18:07:54Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 決勝 スペイン×アルゼンチン【速報予定】スタメン発表",
+      "text": "【速報中】W杯 決勝 スペイン×アルゼンチン 前半は両者無得点",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 03:51:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607191310_0720030549_01_02.jpg"
+      "time": "Mon, 20 Jul 2026 05:19:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607191309_0720040721_01_02.jpg"
     },
     {
       "category": "news",
@@ -24,6 +17,22 @@
       "source": "NHK",
       "time": "Sun, 19 Jul 2026 22:01:03 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180531_2607191849_0719185642_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "奈良 西名阪道で逆走か 軽乗用車どうしが正面衝突し3人重体",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 04:49:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181011_2607200441_0720044938_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロシアがウクライナに弾道ミサイルで攻撃 過去最大規模か",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 04:56:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181001_2607200257_0720045614_01_02.jpg"
     },
     {
       "category": "news",
@@ -38,30 +47,14 @@
       "label": "ニュース",
       "text": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 17:26:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180701_2607191559_0719160252_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 17:26:56 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "静岡 御殿場 グラウンド周辺で複数倒木 子ども含む7人搬送",
+      "text": "富山 黒部 沖合に流された小学4年生が死亡",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 18:47:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180731_2607191522_0719152303_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "長崎 海水浴場で43歳男性死亡 男の子救助で溺れたか",
-      "source": "NHK",
-      "time": "Sun, 19 Jul 2026 21:17:46 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "競輪の伏見俊昭選手が落車事故で死去 アテネ五輪で銀メダル",
-      "source": "NHK",
-      "time": "Sun, 19 Jul 2026 21:35:23 +0900"
+      "time": "Mon, 20 Jul 2026 04:57:22 +0900"
     }
   ]
 }
