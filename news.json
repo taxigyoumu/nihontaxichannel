@@ -1,43 +1,22 @@
 {
-  "updated_at": "2026-07-20 06:23",
-  "has_alert": true,
+  "updated_at": "2026-07-20 07:25",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-19T21:09:01Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-19T21:09:01Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-19T21:08:53Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 07:19:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200709_0720071350_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】決勝 スペイン×アルゼンチン 無得点で後半も終盤",
+      "text": "東北から九州で猛烈な暑さ 埼玉で危険な暑さ予想 熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 06:10:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607191309_0720040721_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡 太宰府で38度 20日も埼玉で危険な暑さ予想 熱中症対策を",
-      "source": "NHK",
-      "time": "Sun, 19 Jul 2026 22:01:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180531_2607191849_0719185642_01_02.jpg"
+      "time": "Mon, 20 Jul 2026 06:16:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181031_2607200547_0720061654_01_02.jpg"
     },
     {
       "category": "news",
@@ -46,14 +25,6 @@
       "source": "NHK",
       "time": "Mon, 20 Jul 2026 05:38:13 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181011_2607200441_0720044938_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロシアがウクライナに弾道ミサイルで攻撃 過去最大規模か",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 04:56:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181001_2607200257_0720045614_01_02.jpg"
     },
     {
       "category": "news",
@@ -68,7 +39,15 @@
       "label": "ニュース",
       "text": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 17:26:56 +0900"
+      "time": "Sun, 19 Jul 2026 17:26:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180701_2607191559_0719160252_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロシアがウクライナに弾道ミサイルで攻撃 過去最大規模か",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 04:56:13 +0900"
     },
     {
       "category": "news",
