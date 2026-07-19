@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-19 22:10",
+  "updated_at": "2026-07-19 23:37",
   "has_alert": false,
   "items": [
     {
@@ -29,6 +29,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "競輪の伏見俊昭選手が落車事故で死去 アテネ五輪で銀メダル",
+      "source": "NHK",
+      "time": "Sun, 19 Jul 2026 21:35:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180921_2607192124_0719213524_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "マンションから男性転落 23歳女性が巻き込まれ死亡 名古屋 栄",
       "source": "NHK",
       "time": "Sun, 19 Jul 2026 17:32:28 +0900",
@@ -39,8 +47,7 @@
       "label": "ニュース",
       "text": "大阪 マンションで家族3人切りつけ 死亡の10代の少年関与か",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 18:21:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180801_2607191739_0719182109_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 18:21:08 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "国会周辺で市民らが集会 憲法9条堅持など訴え",
       "source": "NHK",
       "time": "Sun, 19 Jul 2026 20:39:04 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "JR横浜線 東神奈川～八王子 運転再開",
-      "source": "NHK",
-      "time": "Sun, 19 Jul 2026 20:44:27 +0900"
     }
   ]
 }
