@@ -1,19 +1,19 @@
 {
-  "updated_at": "2026-07-20 00:54",
+  "updated_at": "2026-07-20 01:55",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "静岡 御殿場 グラウンド周辺で複数倒木 子ども含む7人搬送",
+      "text": "W杯 決勝の見どころ スペイン4大会ぶりか アルゼンチン連覇か",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 18:47:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180731_2607191522_0719152303_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 15:09:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180651_2607191118_0719134025_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡 太宰府で38度 あすも埼玉で危険な暑さ予想 熱中症対策を",
+      "text": "福岡 太宰府で38度 20日も埼玉で危険な暑さ予想 熱中症対策を",
       "source": "NHK",
       "time": "Sun, 19 Jul 2026 22:01:03 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180531_2607191849_0719185642_01_02.jpg"
@@ -21,18 +21,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
+      "text": "静岡 御殿場 グラウンド周辺で複数倒木 子ども含む7人搬送",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 17:26:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180701_2607191559_0719160252_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "競輪の伏見俊昭選手が落車事故で死去 アテネ五輪で銀メダル",
-      "source": "NHK",
-      "time": "Sun, 19 Jul 2026 21:35:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180921_2607192124_0719213524_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 18:47:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180731_2607191522_0719152303_01_02.jpg"
     },
     {
       "category": "news",
@@ -45,6 +37,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
+      "source": "NHK",
+      "time": "Sun, 19 Jul 2026 17:26:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180701_2607191559_0719160252_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "大阪 マンションで家族3人切りつけ 死亡の10代の少年関与か",
       "source": "NHK",
       "time": "Sun, 19 Jul 2026 18:21:08 +0900"
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国会周辺で市民らが集会 憲法9条堅持など訴え",
+      "text": "競輪の伏見俊昭選手が落車事故で死去 アテネ五輪で銀メダル",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 20:39:04 +0900"
+      "time": "Sun, 19 Jul 2026 21:35:23 +0900"
     }
   ]
 }
