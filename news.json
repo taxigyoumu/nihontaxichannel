@@ -1,30 +1,38 @@
 {
-  "updated_at": "2026-07-19 16:05",
+  "updated_at": "2026-07-19 18:25",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "木が倒れ子ども含む複数人搬送 静岡 御殿場",
+      "text": "静岡 御殿場 グラウンド周辺で複数倒木 子ども含む7人搬送",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 15:16:28 +0900",
+      "time": "Sun, 19 Jul 2026 18:01:13 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180731_2607191522_0719152303_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "遊漁船火災 全員避難 けが人なし 神奈川 三浦",
+      "text": "西日本・北陸は各地で猛暑日に 北海道は大雨に十分注意",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 12:58:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180681_2607191225_0719123000_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 17:12:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180531_2607191505_0719150743_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "マンションで男性転落 巻き込まれた女性死亡 名古屋 栄",
+      "text": "マンションから男性転落 23歳女性が巻き込まれ死亡 名古屋 栄",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 11:28:56 +0900",
+      "time": "Sun, 19 Jul 2026 17:32:28 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180661_2607191109_0719112857_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
+      "source": "NHK",
+      "time": "Sun, 19 Jul 2026 17:26:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180701_2607191559_0719160252_01_02.jpg"
     },
     {
       "category": "news",
@@ -37,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
+      "text": "大阪 マンションで家族3人切りつけ 死亡の10代の少年関与か",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 16:02:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180701_2607191559_0719160252_01_02.jpg"
+      "time": "Sun, 19 Jul 2026 18:21:08 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西日本・北陸は各地で猛暑日に 北海道は大雨に十分注意",
+      "text": "千葉 点滴殺人 混入に使われたとみられる注射器見つからず",
       "source": "NHK",
-      "time": "Sun, 19 Jul 2026 15:06:06 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "スタンフォード大 佐々木麟太郎 大リーグ・マーリンズ入り表明",
-      "source": "NHK",
-      "time": "Sun, 19 Jul 2026 15:25:33 +0900"
+      "time": "Sun, 19 Jul 2026 18:23:12 +0900"
     }
   ]
 }
