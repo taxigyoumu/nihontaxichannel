@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-20 22:25",
+  "updated_at": "2026-07-21 01:57",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "あす埼玉 熊谷で40度「酷暑日」予想 熱中症に厳重警戒を",
+      "text": "東京 熱中症疑い142人搬送 21日は埼玉 熊谷40度「酷暑日」予想",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 19:10:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181031_2607201813_0720191057_01_02.jpg"
+      "time": "Mon, 20 Jul 2026 22:42:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181031_2607202244_0720225626_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
+      "text": "小泉防衛相「中国とロシアが日本のEEZで実戦演習」明らかに",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 22:12:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181251_2607202053_0720205600_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 00:43:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210039_0721004355_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "小泉防衛相 日英伊の次期戦闘機開発は安保協力の新モデルに",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 00:38:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181421_2607210012_0721003847_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "韓国海洋警察 7月22日に竹島で音楽会開催と発表",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 22:37:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181331_2607202051_0720223701_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "引退表明のロッテ角中が会見“独立Lに感謝 最後まで必死に”",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 23:17:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181401_2607202311_0720231726_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "W杯 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 18:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg"
+      "time": "Mon, 20 Jul 2026 18:37:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
+      "text": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 19:21:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180931_2607192235_0720061929_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "水上バイクと女子大学生が衝突 意識ない状態で搬送 兵庫 赤穂",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 19:18:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181261_2607201759_0720181606_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "新名神高速6人死亡事故4か月 遺族「父親を返してほしい」",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 18:36:20 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "マンション転落 巻き込まれ死亡の女性は食事後帰宅途中 名古屋",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 12:25:26 +0900"
+      "time": "Mon, 20 Jul 2026 22:12:16 +0900"
     }
   ]
 }
