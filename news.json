@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-20 10:06",
+  "updated_at": "2026-07-20 14:03",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "陸自 朝霞駐屯地で火事 ごみ置き場から出火か けが人なし",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 12:55:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181191_2607201206_0720120838_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "マンション転落 巻き込まれ死亡の女性は食事後帰宅途中 名古屋",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 12:25:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181181_2607201203_0720122527_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 10:02:37 +0900",
+      "time": "Mon, 20 Jul 2026 11:37:17 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "W杯 得点王はエムバペ（フランス）史上初の2大会連続で",
+      "text": "ドジャース山本由伸 初完投で2年連続2桁10勝目 大谷翔平2打点",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 09:54:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181081_2607200943_0720095448_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース山本由伸 完投で2年連続2桁10勝目 大谷翔平2打点",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 09:56:21 +0900",
+      "time": "Mon, 20 Jul 2026 13:06:39 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181041_2607200648_0720070716_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東北から九州で猛烈な暑さ 埼玉で危険な暑さ予想 熱中症対策を",
+      "text": "奈良 西名阪道 2人死亡1人重体の事故 料金所逆走する車目撃",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 06:16:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181031_2607200547_0720061654_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "奈良 西名阪道で逆走か 軽乗用車どうしが正面衝突 2人死亡",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 05:38:13 +0900",
+      "time": "Mon, 20 Jul 2026 12:54:02 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181011_2607200441_0720044938_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "富山 黒部 沖合に流された小学4年生が死亡",
+      "text": "関東甲信と東海が梅雨明け 午前中から猛暑日 熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 04:57:22 +0900"
+      "time": "Mon, 20 Jul 2026 12:03:03 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ軍 イランに対する攻撃開始と発表 9日連続",
+      "text": "米“イランに9日連続の攻撃” 中東に戦闘機追加配備と報道も",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 08:42:33 +0900"
+      "time": "Mon, 20 Jul 2026 13:14:22 +0900"
     }
   ]
 }
