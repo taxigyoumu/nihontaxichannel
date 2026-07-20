@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-07-20 17:23",
+  "updated_at": "2026-07-20 20:21",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 18:37:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "あす埼玉 熊谷で40度「酷暑日」予想 熱中症に厳重警戒を",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 19:10:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181031_2607201813_0720191057_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 去年全国制覇の沖縄尚学など3校が甲子園出場決定",
+      "text": "水上バイクと女子大学生が衝突 意識ない状態で搬送 兵庫 赤穂",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 17:02:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181201_2607201303_0720133417_01_02.jpg"
+      "time": "Mon, 20 Jul 2026 19:18:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181261_2607201759_0720181606_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "陸自 朝霞駐屯地で火事 ごみ置き場など焼ける けが人なし",
+      "text": "新名神高速6人死亡事故4か月 遺族「父親を返してほしい」",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 15:29:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181191_2607201206_0720120838_01_03.jpg"
+      "time": "Mon, 20 Jul 2026 18:36:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181271_2607201805_0720183621_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
+      "text": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 14:51:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg"
+      "time": "Mon, 20 Jul 2026 19:21:24 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 足利 記録的大雨 倒壊住宅で死亡の2人は60代夫婦と確認",
+      "text": "奈良 西名阪道 軽自動車が正面衝突し2人死亡1人大けが 逆走か",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 16:39:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181231_2607201607_0720163927_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "関東甲信 東海 梅雨明け 東日本中心に危険な暑さ 熱中症対策を",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 14:48:45 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米“イランに9日連続の攻撃” 中東に戦闘機追加配備と報道も",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 16:11:02 +0900"
+      "time": "Mon, 20 Jul 2026 18:49:26 +0900"
     }
   ]
 }
