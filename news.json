@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 06:41",
+  "updated_at": "2026-07-21 07:57",
   "has_alert": true,
   "items": [
     {
@@ -42,18 +42,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米大統領 イランへの攻撃強化の構え 双方による応酬収まらず",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 06:24:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181461_2607210444_0721062403_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
       "source": "NHK",
       "time": "Tue, 21 Jul 2026 04:44:47 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "生産地 備蓄米の早期買い戻し求める声強まる 政府は慎重に検討",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 06:59:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181311_2607202045_0721065945_01_02.jpg"
     },
     {
       "category": "news",
@@ -73,9 +73,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国海警局とフィリピン海軍が海上で接触か 非難の応酬",
+      "text": "トヨタ 近健太社長 “開発や生産の効率化進め 稼ぐ力強化を”",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 05:40:59 +0900"
+      "time": "Tue, 21 Jul 2026 06:45:42 +0900"
     }
   ]
 }
