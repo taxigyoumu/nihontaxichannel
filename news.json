@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-07-20 20:21",
+  "updated_at": "2026-07-20 22:25",
   "has_alert": false,
   "items": [
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "W杯 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 18:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -21,10 +13,26 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "マンション転落 巻き込まれ死亡の女性は食事後帰宅途中 名古屋",
+      "text": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 12:25:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181181_2607201203_0720122527_01_02.jpg"
+      "time": "Mon, 20 Jul 2026 22:12:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181251_2607202053_0720205600_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 18:37:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 19:21:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180931_2607192235_0720061929_01_02.jpg"
     },
     {
       "category": "news",
@@ -39,22 +47,14 @@
       "label": "ニュース",
       "text": "新名神高速6人死亡事故4か月 遺族「父親を返してほしい」",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 18:36:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181271_2607201805_0720183621_01_03.jpg"
+      "time": "Mon, 20 Jul 2026 18:36:20 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
+      "text": "マンション転落 巻き込まれ死亡の女性は食事後帰宅途中 名古屋",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 19:21:24 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "奈良 西名阪道 軽自動車が正面衝突し2人死亡1人大けが 逆走か",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 18:49:26 +0900"
+      "time": "Mon, 20 Jul 2026 12:25:26 +0900"
     }
   ]
 }
