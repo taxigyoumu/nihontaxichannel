@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-07-21 05:18",
-  "has_alert": false,
+  "updated_at": "2026-07-21 06:41",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-20T21:11:53Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-20T21:11:53Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-20T21:11:46Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 熱中症疑い142人搬送 21日は埼玉 熊谷40度「酷暑日」予想",
+      "text": "広い範囲で気温上昇 埼玉県では酷暑日予想 熱中症に厳重警戒",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 22:42:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181031_2607202244_0720225626_01_03.jpg"
+      "time": "Tue, 21 Jul 2026 06:04:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181481_2607210554_0721060439_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "危険運転致死傷罪を適用する数値基準盛り込んだ改正法が施行",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 06:19:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181341_2607202124_0721061920_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米大統領 イランへの攻撃強化の構え 双方による応酬収まらず",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 06:24:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181461_2607210444_0721062403_01_02.jpg"
     },
     {
       "category": "news",
@@ -21,40 +58,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
+      "text": "与党 「副首都」法案成立目指す 野党 衆院超える審議時間を",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 04:28:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180931_2607192235_0720061929_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 06:14:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181391_2607202240_0721061500_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
+      "text": "W杯優勝 スペイン代表が凱旋",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 04:23:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181251_2607202053_0720205600_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 05:59:11 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小泉防衛相 日英伊の次期戦闘機開発は安保協力の新モデルに",
+      "text": "中国海警局とフィリピン海軍が海上で接触か 非難の応酬",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 00:38:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181421_2607210012_0721003847_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "W杯 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 18:37:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "韓国海洋警察 7月22日に竹島で音楽会開催と発表",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 22:37:00 +0900"
+      "time": "Tue, 21 Jul 2026 05:40:59 +0900"
     }
   ]
 }
