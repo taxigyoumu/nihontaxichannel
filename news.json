@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-07-20 14:03",
+  "updated_at": "2026-07-20 17:23",
   "has_alert": false,
   "items": [
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "陸自 朝霞駐屯地で火事 ごみ置き場から出火か けが人なし",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 12:55:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181191_2607201206_0720120838_01_03.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -21,40 +13,48 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "高校野球 去年全国制覇の沖縄尚学など3校が甲子園出場決定",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 17:02:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181201_2607201303_0720133417_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "陸自 朝霞駐屯地で火事 ごみ置き場など焼ける けが人なし",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 15:29:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181191_2607201206_0720120838_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 11:37:17 +0900",
+      "time": "Mon, 20 Jul 2026 14:51:46 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース山本由伸 初完投で2年連続2桁10勝目 大谷翔平2打点",
+      "text": "栃木 足利 記録的大雨 倒壊住宅で死亡の2人は60代夫婦と確認",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 13:06:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181041_2607200648_0720070716_01_02.jpg"
+      "time": "Mon, 20 Jul 2026 16:39:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181231_2607201607_0720163927_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "奈良 西名阪道 2人死亡1人重体の事故 料金所逆走する車目撃",
+      "text": "関東甲信 東海 梅雨明け 東日本中心に危険な暑さ 熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 12:54:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181011_2607200441_0720044938_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "関東甲信と東海が梅雨明け 午前中から猛暑日 熱中症対策を",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 12:03:03 +0900"
+      "time": "Mon, 20 Jul 2026 14:48:45 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "米“イランに9日連続の攻撃” 中東に戦闘機追加配備と報道も",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 13:14:22 +0900"
+      "time": "Mon, 20 Jul 2026 16:11:02 +0900"
     }
   ]
 }
