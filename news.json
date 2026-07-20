@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-20 08:28",
+  "updated_at": "2026-07-20 10:06",
   "has_alert": false,
   "items": [
     {
@@ -7,8 +7,24 @@
       "label": "ニュース",
       "text": "スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 07:56:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200709_0720071350_01_02.jpg"
+      "time": "Mon, 20 Jul 2026 10:02:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180471_2607200924_0720094058_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "W杯 得点王はエムバペ（フランス）史上初の2大会連続で",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 09:54:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181081_2607200943_0720095448_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース山本由伸 完投で2年連続2桁10勝目 大谷翔平2打点",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 09:56:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181041_2607200648_0720070716_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,32 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "メッシと赤ちゃん時代のヤマル 撮影の舞台裏は ユニセフ",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 03:40:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180991_2607200310_0720034058_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "W杯 チケット価格高騰 試合直前 決勝は最低価格でも超高額",
-      "source": "NHK",
-      "time": "Sun, 19 Jul 2026 17:26:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260719/K10015180701_2607191559_0719160252_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロシアがウクライナに弾道ミサイルで攻撃 過去最大規模か",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 04:56:13 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "富山 黒部 沖合に流された小学4年生が死亡",
       "source": "NHK",
       "time": "Mon, 20 Jul 2026 04:57:22 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ軍 イランに対する攻撃開始と発表 9日連続",
+      "source": "NHK",
+      "time": "Mon, 20 Jul 2026 08:42:33 +0900"
     }
   ]
 }
