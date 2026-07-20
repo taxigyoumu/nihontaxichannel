@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-21 03:53",
-  "has_alert": true,
+  "updated_at": "2026-07-21 05:18",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２１日０２時２３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-20T17:26:41Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -20,10 +13,26 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小泉防衛相「中国とロシアが日本のEEZで実戦演習」明らかに",
+      "text": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 00:43:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210039_0721004355_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 04:44:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米 9日連続イラン攻撃 イラン外相「世界はイランの強さ認識」",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 04:28:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015180931_2607192235_0720061929_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 04:23:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181251_2607202053_0720205600_01_02.jpg"
     },
     {
       "category": "news",
@@ -36,22 +45,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "韓国海洋警察 7月22日に竹島で音楽会開催と発表",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 22:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181331_2607202051_0720223701_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "引退表明のロッテ角中が会見“独立Lに感謝 最後まで必死に”",
-      "source": "NHK",
-      "time": "Mon, 20 Jul 2026 23:17:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181401_2607202311_0720231726_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "W杯 スペインが優勝 4大会ぶり2回目 アルゼンチンとの延長制す",
       "source": "NHK",
       "time": "Mon, 20 Jul 2026 18:37:00 +0900"
@@ -59,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "英労働党のバーナム党首 イギリスの新首相に就任 国王が任命",
+      "text": "韓国海洋警察 7月22日に竹島で音楽会開催と発表",
       "source": "NHK",
-      "time": "Mon, 20 Jul 2026 22:12:16 +0900"
+      "time": "Mon, 20 Jul 2026 22:37:00 +0900"
     }
   ]
 }
