@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-07-22 01:21",
-  "has_alert": true,
+  "updated_at": "2026-07-22 02:53",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日００時４７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-21T15:50:58Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日００時４２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-21T15:45:09Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２１日２３時５５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-21T14:58:09Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -42,9 +21,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶり水準",
+      "text": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶりの円安水準",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 00:02:04 +0900",
+      "time": "Wed, 22 Jul 2026 02:35:42 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182211_2607220002_0722000447_01_02.jpg"
     },
     {
