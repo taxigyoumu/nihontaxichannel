@@ -1,22 +1,38 @@
 {
-  "updated_at": "2026-07-22 04:16",
+  "updated_at": "2026-07-22 05:43",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 愛知で40度超 22日も関東甲信や東海で「酷暑日」予想",
+      "text": "ニチレイ ハッカー集団が犯行声明 「ランサムウエア」攻撃か",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 21:03:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181481_2607211709_0721171325_01_03.jpg"
+      "time": "Wed, 22 Jul 2026 05:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182261_2607220435_0722050100_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカーW杯 前田大然のゴールが最優秀ゴール候補に",
+      "text": "食料品消費税減税 実務者会議で議論再開もとりまとめ難航予想",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 23:40:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015182201_2607212336_0721234022_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 05:03:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182071_2607220025_0722050311_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ケンタッキー きょうから全店舗で通常営業を再開",
+      "source": "NHK",
+      "time": "Wed, 22 Jul 2026 05:03:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182251_2607220420_0722050333_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日英伊の次期戦闘機開発計画 カナダのオブザーバー参加決定",
+      "source": "NHK",
+      "time": "Wed, 22 Jul 2026 05:20:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182091_2607220347_0722052050_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,32 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "羽田空港 強盗未遂事件 1時間近く前から被害車両を尾行か",
+      "text": "「副首都」構想関連法案 きょう参議院で審議入り 論戦本格化",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 19:27:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181951_2607211749_0721192726_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 05:36:33 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+      "text": "岐阜 愛知で40度超 22日も関東甲信や東海で「酷暑日」予想",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 20:15:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ハマスが新たに最高幹部を選出 親イラン・強硬姿勢維持か",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 21:22:16 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "気象庁3か月予報 8月は「高温傾向」猛暑日多くなる可能性も",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 19:06:38 +0900"
+      "time": "Tue, 21 Jul 2026 21:03:04 +0900"
     }
   ]
 }
