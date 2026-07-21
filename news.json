@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-07-21 11:55",
-  "has_alert": true,
+  "updated_at": "2026-07-21 14:49",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２１日１１時２５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-21T02:28:20Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "岐阜 郡上市八幡で40.0度 初の「酷暑日」 熱中症に厳重警戒を",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 14:08:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181481_2607211322_0721140727_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広い範囲で気温上昇 埼玉県では酷暑日予想 熱中症に厳重警戒",
+      "text": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 10:05:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181481_2607210921_0721092532_01_03.jpg"
+      "time": "Tue, 21 Jul 2026 13:00:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181561_2607211215_0721130013_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "改正皇室典範の公布を閣議決定 24日にも公布見込み",
+      "text": "政府 新たな成長戦略決定 “17分野の投資規模 総額370兆円超”",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 11:20:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181601_2607211149_0721115006_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 14:29:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181811_2607211405_0721142908_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "金子国交相 今週24日にJR東海社長と面会へ リニア中央新幹線",
+      "text": "「副首都」法案 参院 自民と立民 あす審議入りで合意",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 11:39:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181611_2607211115_0721113947_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 14:22:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181631_2607211134_0721120010_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 一時1500円以上値上がり ほぼ全面高の展開",
+      "text": "エアコン国内出荷額21％増 “エアコン2027年問題”背景に",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 10:56:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181591_2607211044_0721105612_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 14:13:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181821_2607211342_0721141315_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "羽田空港 1億9500万円強盗未遂事件で4人逮捕 警視庁",
+      "text": "「手足口病」 前週から1.3倍 35都府県で警報レベル",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 10:35:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181551_2607211011_0721103524_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 13:33:27 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ政権 カナダの乳製品などに追加関税50％の方針",
+      "text": "イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 10:52:36 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アメリカ軍 10日連続でイランを攻撃",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 11:07:21 +0900"
+      "time": "Tue, 21 Jul 2026 12:07:32 +0900"
     }
   ]
 }
