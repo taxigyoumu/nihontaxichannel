@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-21 14:49",
+  "updated_at": "2026-07-21 17:22",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 郡上市八幡で40.0度 初の「酷暑日」 熱中症に厳重警戒を",
+      "text": "岐阜 愛知で40度超 初の「酷暑日」に 熱中症に厳重警戒",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 14:08:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181481_2607211322_0721140727_01_03.jpg"
+      "time": "Tue, 21 Jul 2026 17:13:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181481_2607211709_0721171325_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
+      "text": "石川 小松 80代男性が自宅で倒れ死亡 熱中症か",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 13:00:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181561_2607211215_0721130013_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 16:14:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181871_2607211641_0721164131_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府 新たな成長戦略決定 “17分野の投資規模 総額370兆円超”",
+      "text": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 14:29:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181811_2607211405_0721142908_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「副首都」法案 参院 自民と立民 あす審議入りで合意",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 14:22:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181631_2607211134_0721120010_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "エアコン国内出荷額21％増 “エアコン2027年問題”背景に",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 14:13:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181821_2607211342_0721141315_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「手足口病」 前週から1.3倍 35都府県で警報レベル",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 13:33:27 +0900"
+      "time": "Tue, 21 Jul 2026 14:56:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 12:07:32 +0900"
+      "time": "Tue, 21 Jul 2026 17:16:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181491_2607211104_0721110722_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 16:34:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181561_2607211215_0721130013_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "株価 2000円以上値上がり 半導体関連銘柄中心に買い注文広がる",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 16:16:24 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "首都圏新築マンション平均価格 上半期初めて1億円超に",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 16:36:49 +0900"
     }
   ]
 }
