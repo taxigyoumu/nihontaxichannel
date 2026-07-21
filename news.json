@@ -1,11 +1,32 @@
 {
-  "updated_at": "2026-07-21 23:33",
-  "has_alert": false,
+  "updated_at": "2026-07-22 01:21",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日００時４７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-21T15:50:58Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日００時４２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-21T15:45:09Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２１日２３時５５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-21T14:58:09Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 愛知で40度超 あすも関東甲信や東海で「酷暑日」予想",
+      "text": "岐阜 愛知で40度超 22日も関東甲信や東海で「酷暑日」予想",
       "source": "NHK",
       "time": "Tue, 21 Jul 2026 21:03:04 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181481_2607211709_0721171325_01_03.jpg"
@@ -13,18 +34,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+      "text": "サッカーW杯 前田大然のゴールが最優秀ゴール候補に",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 20:15:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 23:40:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015182201_2607212336_0721234022_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
+      "text": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶり水準",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 19:33:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181561_2607211215_0721130013_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 00:02:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182211_2607220002_0722000447_01_02.jpg"
     },
     {
       "category": "news",
@@ -37,17 +58,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ハマスが新たに最高幹部を選出 親イラン・強硬姿勢維持か",
+      "text": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 21:22:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015182051_2607212104_0721212217_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 20:15:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米10日連続攻撃 イランはバーレーンの米関連施設を攻撃",
+      "text": "ハマスが新たに最高幹部を選出 親イラン・強硬姿勢維持か",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 19:19:32 +0900"
+      "time": "Tue, 21 Jul 2026 21:22:16 +0900"
     },
     {
       "category": "news",
