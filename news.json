@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-07-22 05:43",
-  "has_alert": false,
+  "updated_at": "2026-07-22 07:01",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-21T21:23:30Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-21T21:23:30Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-21T21:23:27Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日０５時４９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-21T20:54:20Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日０５時４５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-21T20:49:50Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "関東と東海「酷暑日」予想 熱中症に厳重警戒 東北では激しい雨",
+      "source": "NHK",
+      "time": "Wed, 22 Jul 2026 06:14:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182151_2607220554_0722061438_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,10 +56,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "食料品消費税減税 実務者会議で議論再開もとりまとめ難航予想",
+      "text": "ウクライナ 国防相に続き軍総司令官も交代 異例の事態",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 05:03:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182071_2607220025_0722050311_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 06:46:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182271_2607220514_0722054654_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「津波注意報で広域避難指示」は信頼性損なうおそれ 国通知",
+      "source": "NHK",
+      "time": "Wed, 22 Jul 2026 06:00:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182141_2607220555_0722060057_01_03.jpg"
     },
     {
       "category": "news",
@@ -31,30 +82,14 @@
       "label": "ニュース",
       "text": "日英伊の次期戦闘機開発計画 カナダのオブザーバー参加決定",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 05:20:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182091_2607220347_0722052050_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 05:20:50 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場 一時1ドル＝163円台に値下がり 約39年半ぶりの円安水準",
+      "text": "食料品消費税減税 実務者会議で議論再開もとりまとめ難航予想",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 02:35:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182211_2607220002_0722000447_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「副首都」構想関連法案 きょう参議院で審議入り 論戦本格化",
-      "source": "NHK",
-      "time": "Wed, 22 Jul 2026 05:36:33 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "岐阜 愛知で40度超 22日も関東甲信や東海で「酷暑日」予想",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 21:03:04 +0900"
+      "time": "Wed, 22 Jul 2026 05:03:10 +0900"
     }
   ]
 }
