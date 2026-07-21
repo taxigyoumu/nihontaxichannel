@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-21 19:37",
+  "updated_at": "2026-07-21 21:22",
   "has_alert": false,
   "items": [
     {
@@ -7,16 +7,16 @@
       "label": "ニュース",
       "text": "岐阜 愛知で40度超 あすも関東甲信や東海で「酷暑日」予想",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 19:09:07 +0900",
+      "time": "Tue, 21 Jul 2026 21:03:04 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181481_2607211709_0721171325_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "羽田空港 強盗未遂事件 1時間近く前から被害車両を尾行か",
+      "text": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 19:27:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181951_2607211749_0721192726_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 20:15:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,6 +29,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "羽田空港 強盗未遂事件 1時間近く前から被害車両を尾行か",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 19:27:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181951_2607211749_0721192726_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "米10日連続攻撃 イランはバーレーンの米関連施設を攻撃",
       "source": "NHK",
       "time": "Tue, 21 Jul 2026 19:19:32 +0900",
@@ -37,10 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国艦艇が日本のEEZ内で機関銃射撃訓練実施 防衛省が確認",
+      "text": "「産業動物獣医師」増やすには 農相と大学生らが対策話し合う",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 14:56:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260720/K10015181411_2607210422_0721044448_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 19:32:02 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "気象庁3か月予報 8月は「高温傾向」猛暑日多くなる可能性も",
       "source": "NHK",
       "time": "Tue, 21 Jul 2026 19:06:38 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「副首都」法案 22日審議入りで与野党が合意 参院特別委",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 18:33:46 +0900"
     }
   ]
 }
