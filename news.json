@@ -1,22 +1,38 @@
 {
-  "updated_at": "2026-07-21 17:22",
+  "updated_at": "2026-07-21 19:37",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 愛知で40度超 初の「酷暑日」に 熱中症に厳重警戒",
+      "text": "岐阜 愛知で40度超 あすも関東甲信や東海で「酷暑日」予想",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 17:13:24 +0900",
+      "time": "Tue, 21 Jul 2026 19:09:07 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181481_2607211709_0721171325_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "石川 小松 80代男性が自宅で倒れ死亡 熱中症か",
+      "text": "羽田空港 強盗未遂事件 1時間近く前から被害車両を尾行か",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 16:14:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181871_2607211641_0721164131_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 19:27:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181951_2607211749_0721192726_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 19:33:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181561_2607211215_0721130013_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米10日連続攻撃 イランはバーレーンの米関連施設を攻撃",
+      "source": "NHK",
+      "time": "Tue, 21 Jul 2026 19:19:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181491_2607211733_0721191933_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,32 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イランへの攻撃「大統領が判断を下すまで続ける」米政府当局者",
+      "text": "気象庁3か月予報 8月は「高温傾向」猛暑日多くなる可能性も",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 17:16:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181491_2607211104_0721110722_01_02.jpg"
+      "time": "Tue, 21 Jul 2026 19:06:38 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「強い経済」へ経済財政運営を抜本転換 高市政権 初の骨太方針",
+      "text": "「副首都」法案 22日審議入りで与野党が合意 参院特別委",
       "source": "NHK",
-      "time": "Tue, 21 Jul 2026 16:34:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260721/K10015181561_2607211215_0721130013_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "株価 2000円以上値上がり 半導体関連銘柄中心に買い注文広がる",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 16:16:24 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "首都圏新築マンション平均価格 上半期初めて1億円超に",
-      "source": "NHK",
-      "time": "Tue, 21 Jul 2026 16:36:49 +0900"
+      "time": "Tue, 21 Jul 2026 18:33:46 +0900"
     }
   ]
 }
