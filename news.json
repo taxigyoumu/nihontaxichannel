@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-22 22:44",
-  "has_alert": true,
+  "updated_at": "2026-07-23 00:38",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日２０時１１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-22T11:14:39Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -59,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "市街地でのクマ出没対策 環境省アーバンベア対策チーム初会合",
+      "text": "土用の丑の日 ことしのうなぎ 価格はどうなる?",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 21:27:53 +0900"
+      "time": "Wed, 22 Jul 2026 18:49:45 +0900"
     }
   ]
 }
