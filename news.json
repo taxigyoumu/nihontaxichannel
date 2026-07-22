@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-07-22 16:08",
-  "has_alert": false,
+  "updated_at": "2026-07-22 18:57",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-22T09:01:26Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-22T09:01:26Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-22T09:01:05Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 15:00:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182151_2607221451_0722150026_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 18:52:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182151_2607221323_0722185015_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "評論家 山田五郎さん死去 67歳 西洋美術などユーモア交え解説",
+      "text": "全国の熱中症搬送急増 1週間でことし初1万人超  前週の2倍以上",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 16:02:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182541_2607221240_0722150607_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 18:28:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182831_2607221745_0722182824_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "iPS細胞使った「リハート」保険適用へ 重い心臓病の治療に",
+      "text": "プロ野球2軍公式戦がノーゲームに 複数選手が熱中症の症状訴え",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 15:22:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182651_2607221505_0722152241_01_03.jpg"
+      "time": "Wed, 22 Jul 2026 17:36:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182781_2607221705_0722173606_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米オープンAI 高性能モデルが意図せず他社に攻撃と発表",
+      "text": "「副首都」構想法案 参議院特別委員会で質疑 論戦本格化",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 15:19:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182641_2607221437_0722152000_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 18:40:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182061_2607220014_0722053634_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "オスよりおいしい? 土用の丑の日前にメスのウナギ出荷が最盛期",
+      "text": "改正皇室典範成立受け適切対応を 高市首相が宮内庁長官と会談",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 14:20:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182351_2607221417_0722142020_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 17:01:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182741_2607221650_0722170128_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 十勝岳で2004年以来の噴火 噴火警戒レベル2が継続",
+      "text": "米軍11日連続でイラン攻撃 ホルムズ海峡めぐりこう着状態に",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 13:35:58 +0900"
+      "time": "Wed, 22 Jul 2026 18:23:14 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "衆院議運委 与党側は24日事実上閉会を提案 継続協議へ",
+      "text": "安青錦が10勝目 来場所で大関復帰へ 大相撲名古屋場所",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 15:11:59 +0900"
+      "time": "Wed, 22 Jul 2026 18:33:37 +0900"
     }
   ]
 }
