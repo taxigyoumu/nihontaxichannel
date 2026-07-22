@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 08:27",
+  "updated_at": "2026-07-22 09:56",
   "has_alert": true,
   "items": [
     {
@@ -19,18 +19,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 八街で住宅火災 4人が遺体で見つかる 警察",
+      "text": "千葉 八街で住宅全焼 焼け跡から4人が遺体で見つかる",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 07:44:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182281_2607220704_0722074409_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 09:06:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182281_2607220900_0722090632_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東と東海「酷暑日」予想 熱中症に厳重警戒 東北では激しい雨",
+      "text": "フランス 15歳未満のSNS利用 9月から禁止へ ヨーロッパでは初",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 06:14:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182151_2607220554_0722061438_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 09:11:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182291_2607220706_0722091134_01_02.jpg"
     },
     {
       "category": "news",
@@ -43,32 +43,32 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "ケンタッキー きょうから全店舗で通常営業を再開",
+      "source": "NHK",
+      "time": "Wed, 22 Jul 2026 05:03:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182251_2607220420_0722050333_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "ウクライナ 国防相に続き軍総司令官も交代 異例の事態",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 06:46:52 +0900",
+      "time": "Wed, 22 Jul 2026 09:08:15 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182271_2607220514_0722054654_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「津波注意報で広域避難指示」は信頼性損なうおそれ 国通知",
+      "text": "イギリス 電気料金の付加価値税をゼロに 財源に懸念も",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 06:00:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182141_2607220555_0722060057_01_03.jpg"
+      "time": "Wed, 22 Jul 2026 08:31:08 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ケンタッキー きょうから全店舗で通常営業を再開",
+      "text": "関東と東海「酷暑日」予想 熱中症に厳重警戒 東北では激しい雨",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 05:03:32 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日英伊の次期戦闘機開発計画 カナダのオブザーバー参加決定",
-      "source": "NHK",
-      "time": "Wed, 22 Jul 2026 05:20:50 +0900"
+      "time": "Wed, 22 Jul 2026 06:14:38 +0900"
     }
   ]
 }
