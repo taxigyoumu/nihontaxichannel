@@ -1,81 +1,67 @@
 {
-  "updated_at": "2026-07-22 18:57",
+  "updated_at": "2026-07-22 20:48",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-22T09:01:26Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-22T09:01:26Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-22T09:01:05Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日２０時１１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-22T11:14:39Z"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 18:52:10 +0900",
+      "time": "Wed, 22 Jul 2026 19:29:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182151_2607221323_0722185015_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "全国の熱中症搬送急増 1週間でことし初1万人超  前週の2倍以上",
+      "text": "高木美帆さんに国民栄誉賞授与へ 五輪で10個のメダル獲得",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 18:28:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182831_2607221745_0722182824_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "プロ野球2軍公式戦がノーゲームに 複数選手が熱中症の症状訴え",
-      "source": "NHK",
-      "time": "Wed, 22 Jul 2026 17:36:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182781_2607221705_0722173606_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 19:44:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182921_2607221920_0722192234_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "「副首都」構想法案 参議院特別委員会で質疑 論戦本格化",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 18:40:43 +0900",
+      "time": "Wed, 22 Jul 2026 19:31:32 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182061_2607220014_0722053634_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "改正皇室典範成立受け適切対応を 高市首相が宮内庁長官と会談",
+      "text": "高市首相 中傷動画報道で秘書による陳述書を国会に提出",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 17:01:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182741_2607221650_0722170128_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 20:01:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182911_2607221957_0722200143_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米軍11日連続でイラン攻撃 ホルムズ海峡めぐりこう着状態に",
+      "text": "“離岸流に注意” 海水浴場でサーファーらが呼びかけ 鳥取",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 18:23:14 +0900"
+      "time": "Wed, 22 Jul 2026 19:50:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182931_2607221935_0722195056_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "安青錦が10勝目 来場所で大関復帰へ 大相撲名古屋場所",
+      "text": "全国の熱中症搬送急増 1週間でことし初1万人超  前週の2倍以上",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 18:33:37 +0900"
+      "time": "Wed, 22 Jul 2026 19:46:20 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "土用の丑の日 ことしのうなぎ 価格はどうなる?",
+      "source": "NHK",
+      "time": "Wed, 22 Jul 2026 18:49:45 +0900"
     }
   ]
 }
