@@ -1,74 +1,60 @@
 {
-  "updated_at": "2026-07-22 13:16",
-  "has_alert": true,
+  "updated_at": "2026-07-22 16:08",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-22T01:57:53Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-22T01:57:53Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
+      "source": "NHK",
+      "time": "Wed, 22 Jul 2026 15:00:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182151_2607221451_0722150026_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東と東海 40度以上の「酷暑日」予想 熱中症に厳重警戒を",
+      "text": "評論家 山田五郎さん死去 67歳 西洋美術などユーモア交え解説",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 11:57:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182151_2607221057_0722115710_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 16:02:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182541_2607221240_0722150607_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場 1ドル＝163円台での取り引き ドル買う動き進む",
+      "text": "iPS細胞使った「リハート」保険適用へ 重い心臓病の治療に",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 12:42:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182331_2607220954_0722100918_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 15:22:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182651_2607221505_0722152241_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 八街で住宅全焼 4人死亡 警察が確認進める",
+      "text": "米オープンAI 高性能モデルが意図せず他社に攻撃と発表",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 12:54:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182281_2607220900_0722090632_01_03.jpg"
+      "time": "Wed, 22 Jul 2026 15:19:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182641_2607221437_0722152000_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "食料品の消費税減税 税率1％案で各党折り合わず 実務者会議",
+      "text": "オスよりおいしい? 土用の丑の日前にメスのウナギ出荷が最盛期",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 12:10:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182431_2607221201_0722121032_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 14:20:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182351_2607221417_0722142020_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 ジェネリック医薬品に2028年から100％の関税",
+      "text": "北海道 十勝岳で2004年以来の噴火 噴火警戒レベル2が継続",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 12:37:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182411_2607221152_0722123757_01_02.jpg"
+      "time": "Wed, 22 Jul 2026 13:35:58 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ニチレイ 個人情報漏えいした可能性のある対象者に通知行う",
+      "text": "衆院議運委 与党側は24日事実上閉会を提案 継続協議へ",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 12:15:23 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米軍11日連続でイラン攻撃 ホルムズ海峡めぐりこう着状態に",
-      "source": "NHK",
-      "time": "Wed, 22 Jul 2026 11:56:35 +0900"
+      "time": "Wed, 22 Jul 2026 15:11:59 +0900"
     }
   ]
 }
