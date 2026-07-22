@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-23 05:14",
+  "updated_at": "2026-07-23 06:36",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
+      "text": "名古屋 岐阜 京都 甲府で「酷暑日」予想 熱中症に厳重警戒",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 22:37:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182151_2607221323_0722185015_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 06:33:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183051_2607230614_0723063340_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高木美帆さんに国民栄誉賞授与へ 五輪で10個のメダル獲得",
+      "text": "「副首都」法案 採決めぐり大詰めの調整へ 会期末を前に",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 19:44:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182921_2607221920_0722192234_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 05:34:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183041_2607230446_0723053407_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「副首都」構想法案 参議院特別委員会で質疑 論戦本格化",
+      "text": "食料品消費税減税 方向性打ち出し困難の見方 各党主張記載も",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 19:31:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182061_2607220014_0722053634_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 05:31:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183031_2607230500_0723053119_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "関税措置めぐる日米合意から1年 なお不透明な状況続く",
+      "source": "NHK",
+      "time": "Thu, 23 Jul 2026 05:50:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183011_2607222117_0723055058_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "小泉防衛相 核めぐり“タブーなく議論を”",
+      "source": "NHK",
+      "time": "Thu, 23 Jul 2026 06:02:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183221_2607230411_0723060229_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高市首相 中傷動画報道で秘書による陳述書を国会に提出",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 20:01:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182911_2607221957_0722200143_01_03.jpg"
+      "time": "Wed, 22 Jul 2026 20:01:43 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "愛知 大治町 住宅全焼 焼け跡から2人の遺体 夫婦と連絡取れず",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 04:52:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183241_2607230404_0723045220_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "全仏オープン優勝の元プロテニス選手 詐欺の疑いで逮捕",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 04:41:31 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本 合志 公務執行妨害疑いの容疑者に警察官が発砲",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 04:44:36 +0900"
+      "time": "Thu, 23 Jul 2026 04:52:19 +0900"
     }
   ]
 }
