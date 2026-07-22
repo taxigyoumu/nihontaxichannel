@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-22 20:48",
+  "updated_at": "2026-07-22 22:44",
   "has_alert": true,
   "items": [
     {
@@ -14,7 +14,7 @@
       "label": "ニュース",
       "text": "三重 静岡 岐阜で40度以上の「酷暑日」に 熱中症に厳重警戒を",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 19:29:22 +0900",
+      "time": "Wed, 22 Jul 2026 22:37:18 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182151_2607221323_0722185015_01_02.jpg"
     },
     {
@@ -44,24 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“離岸流に注意” 海水浴場でサーファーらが呼びかけ 鳥取",
-      "source": "NHK",
-      "time": "Wed, 22 Jul 2026 19:50:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182931_2607221935_0722195056_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "全国の熱中症搬送急増 1週間でことし初1万人超  前週の2倍以上",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 19:46:20 +0900"
+      "time": "Wed, 22 Jul 2026 19:46:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260722/K10015182831_2607221745_0722182824_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "土用の丑の日 ことしのうなぎ 価格はどうなる?",
+      "text": "旧統一教会 解散時の資産は834億円余 清算人が公表",
       "source": "NHK",
-      "time": "Wed, 22 Jul 2026 18:49:45 +0900"
+      "time": "Wed, 22 Jul 2026 21:08:25 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "市街地でのクマ出没対策 環境省アーバンベア対策チーム初会合",
+      "source": "NHK",
+      "time": "Wed, 22 Jul 2026 21:27:53 +0900"
     }
   ]
 }
