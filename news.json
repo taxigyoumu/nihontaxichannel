@@ -1,34 +1,29 @@
 {
-  "updated_at": "2026-07-23 21:57",
-  "has_alert": true,
+  "updated_at": "2026-07-24 00:11",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-23T11:17:24Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛媛県「いよぎんHD」と「愛媛銀行」経営統合に向け最終調整",
+      "source": "NHK",
+      "time": "Thu, 23 Jul 2026 23:58:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184581_2607240000_0724000109_01_02.jpg"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-23T11:17:24Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県乾燥注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-23T11:17:16Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "円相場 1ドル＝163円台後半まで値下がり 39年半ぶりの円安水準",
+      "source": "NHK",
+      "time": "Thu, 23 Jul 2026 22:46:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184591_2607232250_0723225326_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "静岡 浜松で41.1度 各地で記録的暑さ あすも熱中症に厳重警戒",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 20:17:33 +0900",
+      "time": "Thu, 23 Jul 2026 22:24:43 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183051_2607231732_0723174157_01_03.jpg"
     },
     {
@@ -50,32 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「副首都」法案の参議院採決めぐり 自民と立民 引き続き協議",
+      "text": "ベネチア国際映画祭コンペに是枝裕和監督 塚本晋也監督の作品",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 20:18:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184261_2607231917_0723192700_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 22:09:11 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“国民皆歯科健診”具体化へ 自治体に財政支援 厚労省が新計画",
+      "text": "参議院の英語表記「Senate」に 10月以降順次使用へ",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 21:05:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184381_2607232044_0723210502_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "“南シナ海で中国海警局の船から放水妨害”フィリピン当局発表",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 21:36:34 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "京都 大音量で住民に健康被害か 傷害の疑いで61歳住人を逮捕",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 18:42:49 +0900"
+      "time": "Thu, 23 Jul 2026 22:02:33 +0900"
     }
   ]
 }
