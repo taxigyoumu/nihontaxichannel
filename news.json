@@ -1,30 +1,38 @@
 {
-  "updated_at": "2026-07-23 12:52",
+  "updated_at": "2026-07-23 15:28",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "三重 桑名で「酷暑日」 各地で気温上昇 熱中症に厳重警戒",
+      "text": "静岡 浜松で41.1度 東海4県で「酷暑日」 熱中症に厳重警戒",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 12:48:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183051_2607231227_0723122909_01_03.jpg"
+      "time": "Thu, 23 Jul 2026 15:09:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183051_2607231455_0723150923_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高知 鏡川で「男子中学生が溺れている」通報 容体は不明",
+      "text": "茂木外相と中国 王毅外相が接触 去年11月の関係悪化以降初めて",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 12:21:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183831_2607231216_0723122121_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 15:24:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184051_2607231512_0723152449_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "和歌山市のため池に男性2人転落 草刈り中か 搬送時意識なし",
+      "text": "和歌山 草刈り中の男性2人がため池に転落 病院搬送も死亡",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 12:01:59 +0900",
+      "time": "Thu, 23 Jul 2026 14:41:20 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183481_2607231056_0723110313_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース 大谷翔平 ノーヒットもチームは打線つながり2連勝",
+      "source": "NHK",
+      "time": "Thu, 23 Jul 2026 13:48:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183841_2607231236_0723134849_01_02.jpg"
     },
     {
       "category": "news",
@@ -39,15 +47,7 @@
       "label": "ニュース",
       "text": "小泉防衛相 核めぐり“タブーなく議論を”",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 12:05:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183221_2607230411_0723060229_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フーシ派「サウジアラビアのタンカー攻撃」戦闘拡大へ懸念",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 12:14:25 +0900"
+      "time": "Thu, 23 Jul 2026 13:00:08 +0900"
     },
     {
       "category": "news",
