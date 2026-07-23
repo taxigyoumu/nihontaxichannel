@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-23 07:59",
-  "has_alert": true,
+  "updated_at": "2026-07-23 09:07",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２３日０７時４６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-22T22:49:17Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -36,18 +29,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関税措置めぐる日米合意から1年 なお不透明な状況続く",
+      "text": "トランプ氏「船舶攻撃ならインフラ破壊」 イランは報復の構え",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 05:50:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183011_2607222117_0723055058_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 08:51:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183211_2607230513_0723064158_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ氏「船舶攻撃ならインフラ破壊」イランは報復の構え",
+      "text": "関税措置めぐる日米合意から1年 なお不透明な状況続く",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 06:41:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183211_2607230513_0723064158_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 05:50:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183011_2607222117_0723055058_01_02.jpg"
     },
     {
       "category": "news",
