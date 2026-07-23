@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-07-23 18:08",
-  "has_alert": false,
+  "updated_at": "2026-07-23 20:23",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカー日本代表 監督に大岩剛氏 森保監督が約半年間続投の後",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 18:01:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183921_2607231746_0723174712_01_02.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-23T11:17:24Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-23T11:17:24Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県乾燥注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-23T11:17:16Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "静岡 浜松で41.1度 東海4県で「酷暑日」 熱中症に厳重警戒",
+      "text": "静岡 浜松で41.1度 各地で記録的暑さ あすも熱中症に厳重警戒",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 17:41:56 +0900",
+      "time": "Thu, 23 Jul 2026 20:17:33 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183051_2607231732_0723174157_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関税措置めぐる日米合意から1年 輸出企業は対応迫られる",
+      "text": "サッカー日本代表 監督に大岩剛氏 森保監督が約半年間続投の後",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 17:39:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183911_2607231628_0723173941_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 19:48:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183921_2607231746_0723174712_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「副首都」法案 整備費用や財源などめぐって参議院で論戦",
+      "text": "セブン-イレブン キャラ商品を販売日前買い占めなど不適切事例",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 18:01:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184091_2607231651_0723180152_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 17:58:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183321_2607230954_0723120615_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ルビオ国務長官単独インタビュー「イランは合意したいと懇願」",
+      "text": "「副首都」法案の参議院採決めぐり 自民と立民 引き続き協議",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 17:46:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183951_2607231655_0723175837_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 20:18:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184261_2607231917_0723192700_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー三笘薫選手を過失運転傷害の疑いで書類送検 警視庁",
+      "text": "大相撲名古屋場所12日目 霧島が大の里破る 安青錦は2敗目",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 16:23:55 +0900"
+      "time": "Thu, 23 Jul 2026 20:14:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183941_2607231841_0723195202_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日中外相が接触 関係悪化以降初めて 意思疎通の重要性を伝達か",
+      "text": "京都 大音量で住民に健康被害か 傷害の疑いで61歳住人を逮捕",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 16:20:09 +0900"
+      "time": "Thu, 23 Jul 2026 18:42:49 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "タイ南部で検問所襲撃 5人死亡 子ども含む市民6人けが",
+      "source": "NHK",
+      "time": "Thu, 23 Jul 2026 19:40:32 +0900"
     }
   ]
 }
