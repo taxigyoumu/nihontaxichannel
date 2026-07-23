@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-23 15:28",
+  "updated_at": "2026-07-23 18:08",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "サッカー日本代表 監督に大岩剛氏 森保監督が約半年間続投の後",
+      "source": "NHK",
+      "time": "Thu, 23 Jul 2026 18:01:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183921_2607231746_0723174712_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "静岡 浜松で41.1度 東海4県で「酷暑日」 熱中症に厳重警戒",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 15:09:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183051_2607231455_0723150923_01_03.jpg"
+      "time": "Thu, 23 Jul 2026 17:41:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183051_2607231732_0723174157_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "茂木外相と中国 王毅外相が接触 去年11月の関係悪化以降初めて",
+      "text": "関税措置めぐる日米合意から1年 輸出企業は対応迫られる",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 15:24:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184051_2607231512_0723152449_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 17:39:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183911_2607231628_0723173941_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "和歌山 草刈り中の男性2人がため池に転落 病院搬送も死亡",
+      "text": "「副首都」法案 整備費用や財源などめぐって参議院で論戦",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 14:41:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183481_2607231056_0723110313_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 18:01:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184091_2607231651_0723180152_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 大谷翔平 ノーヒットもチームは打線つながり2連勝",
+      "text": "ルビオ国務長官単独インタビュー「イランは合意したいと懇願」",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 13:48:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183841_2607231236_0723134849_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 17:46:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183951_2607231655_0723175837_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "セブン-イレブン キャラ商品を販売日前買い占めなど不適切事例",
+      "text": "サッカー三笘薫選手を過失運転傷害の疑いで書類送検 警視庁",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 12:06:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183321_2607230954_0723120615_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 16:23:55 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小泉防衛相 核めぐり“タブーなく議論を”",
+      "text": "日中外相が接触 関係悪化以降初めて 意思疎通の重要性を伝達か",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 13:00:08 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自民 小林政調会長 高市首相に「寝てください」と伝える",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 12:17:03 +0900"
+      "time": "Thu, 23 Jul 2026 16:20:09 +0900"
     }
   ]
 }
