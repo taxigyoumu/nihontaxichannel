@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24 05:59",
+  "updated_at": "2026-07-24 07:10",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ政権 新追加関税を発動へ 日本は既存税率あわせ12.5％",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 06:40:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184731_2607240642_0724064657_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,10 +21,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米トランプ政権の10％関税措置 24日に失効 新関税の判断焦点",
+      "text": "きょうも危険な暑さ予想 40度に迫るところも 厳重な警戒を",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 05:32:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184451_2607232345_0724053228_01_02.jpg"
+      "time": "Fri, 24 Jul 2026 06:50:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184721_2607240615_0724063117_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日中外相が接触 中国側の出方を慎重に見極めへ 日本政府",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 05:52:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184421_2607232107_0724055245_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,22 +45,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "来年度予算案の概算要求基準 新投資枠は予算要求に上限設けず",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 04:35:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184671_2607240158_0724043508_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米ルビオ国務長官“日本を標的にしているよう”日中関係に懸念",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 01:58:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184661_2607240143_0724015855_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "トランプ大統領 “フーシ派が再攻撃ならイラン含め攻撃”",
       "source": "NHK",
       "time": "Fri, 24 Jul 2026 05:16:51 +0900"
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベネチア国際映画祭コンペに是枝裕和監督 塚本晋也監督の作品",
+      "text": "台風12号が発生 フィリピンの東の海上 船舶に注意呼びかけ",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 00:28:05 +0900"
+      "time": "Fri, 24 Jul 2026 06:08:00 +0900"
     }
   ]
 }
