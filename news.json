@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24 01:56",
+  "updated_at": "2026-07-24 03:12",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「日本赤軍」岡本公三容疑者 死亡と発表 亡命先のレバノンで",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 02:54:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184681_2607240228_0724025439_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -21,6 +29,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "EUがグーグルに制裁金 検索サイトで公正な競争妨害として",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 01:47:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184651_2607240124_0724014739_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "最低賃金 労働者側75円引き上げ求める 企業側「丁寧な議論を」",
       "source": "NHK",
       "time": "Fri, 24 Jul 2026 00:16:54 +0900",
@@ -29,18 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー日本代表 監督に大岩剛氏 森保監督が約半年間続投の後",
+      "text": "米ルビオ国務長官“日本を標的にしているよう”日中関係に懸念",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 19:48:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183921_2607231746_0723174712_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋田 八峰町 車を運転中の女性が耳にけが 猟銃の弾あたったか",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 20:31:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184331_2607232010_0723203149_01_02.jpg"
+      "time": "Fri, 24 Jul 2026 01:58:54 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "ベネチア国際映画祭コンペに是枝裕和監督 塚本晋也監督の作品",
       "source": "NHK",
       "time": "Fri, 24 Jul 2026 00:28:05 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "参議院の英語表記「Senate」に 10月以降順次使用へ",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 22:02:33 +0900"
     }
   ]
 }
