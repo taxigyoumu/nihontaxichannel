@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-23 20:23",
+  "updated_at": "2026-07-23 21:57",
   "has_alert": true,
   "items": [
     {
@@ -42,10 +42,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "セブン-イレブン キャラ商品を販売日前買い占めなど不適切事例",
+      "text": "秋田 八峰町 車を運転中の女性が耳にけが 猟銃の弾あたったか",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 17:58:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183321_2607230954_0723120615_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 20:31:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184331_2607232010_0723203149_01_02.jpg"
     },
     {
       "category": "news",
@@ -58,10 +58,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大相撲名古屋場所12日目 霧島が大の里破る 安青錦は2敗目",
+      "text": "“国民皆歯科健診”具体化へ 自治体に財政支援 厚労省が新計画",
       "source": "NHK",
-      "time": "Thu, 23 Jul 2026 20:14:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015183941_2607231841_0723195202_01_02.jpg"
+      "time": "Thu, 23 Jul 2026 21:05:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260723/K10015184381_2607232044_0723210502_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“南シナ海で中国海警局の船から放水妨害”フィリピン当局発表",
+      "source": "NHK",
+      "time": "Thu, 23 Jul 2026 21:36:34 +0900"
     },
     {
       "category": "news",
@@ -69,13 +76,6 @@
       "text": "京都 大音量で住民に健康被害か 傷害の疑いで61歳住人を逮捕",
       "source": "NHK",
       "time": "Thu, 23 Jul 2026 18:42:49 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "タイ南部で検問所襲撃 5人死亡 子ども含む市民6人けが",
-      "source": "NHK",
-      "time": "Thu, 23 Jul 2026 19:40:32 +0900"
     }
   ]
 }
