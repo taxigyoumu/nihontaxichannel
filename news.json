@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-24 08:27",
+  "updated_at": "2026-07-24 09:55",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "改正皇室典範が官報に掲載され公布 3か月後に施行へ",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 09:33:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184811_2607240943_0724094621_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,6 +17,22 @@
       "source": "NHK",
       "time": "Fri, 24 Jul 2026 07:11:26 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184731_2607240642_0724064657_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ財務省 “円相場の過度な変動 望ましくない”",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 09:35:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184801_2607240921_0724093539_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "新潟 佐渡市に土砂災害危険警報発表 土砂災害に厳重な警戒を",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 09:37:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184821_2607240936_0724093737_01_02.jpg"
     },
     {
       "category": "news",
@@ -23,38 +47,14 @@
       "label": "ニュース",
       "text": "きょうも危険な暑さ予想 40度に迫るところも 厳重な警戒を",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 06:50:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184721_2607240615_0724063117_01_02.jpg"
+      "time": "Fri, 24 Jul 2026 06:50:02 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日中外相が接触 中国側の出方を慎重に見極めへ 日本政府",
+      "text": "6月の消費者物価 生鮮食品除く指数 前年比+1.6％",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 05:52:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184421_2607232107_0724055245_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "国会 あす会期末 「副首都」法案の採決めぐりギリギリの調整",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 05:33:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184641_2607240114_0724053346_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ大統領 “フーシ派が再攻撃ならイラン含め攻撃”",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 05:16:51 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風12号が発生 フィリピンの東の海上 船舶に注意呼びかけ",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 06:08:00 +0900"
+      "time": "Fri, 24 Jul 2026 08:42:56 +0900"
     }
   ]
 }
