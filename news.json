@@ -1,30 +1,38 @@
 {
-  "updated_at": "2026-07-25 03:56",
+  "updated_at": "2026-07-25 05:19",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「副首都」構想関連法が成立 自民・維新・みらいなど賛成",
+      "text": "国会が事実上閉会 合意形成どう図るかが次の国会でも課題に",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 01:07:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185521_2607242143_0724220326_01_03.jpg"
+      "time": "Sat, 25 Jul 2026 05:02:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185731_2607250443_0725050232_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "第221特別国会が事実上閉会 政府提出の64法案すべて成立",
+      "text": "「全東信」経営破綻 経産省と金融庁が調査を開始",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 00:39:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185801_2607250020_0725003903_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 05:08:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185721_2607242219_0725050840_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟県で記録的大雨 関東甲信越と東北 25日も激しい雨のおそれ",
+      "text": "福岡県議会 正副議長ポストめぐる問題 調査の透明性確保が焦点",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 23:34:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185411_2607241703_0724171152_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 05:04:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185681_2607250004_0725050449_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "コメの民間在庫量 243万トン 6月末時点で過去最大に",
+      "source": "NHK",
+      "time": "Sat, 25 Jul 2026 05:06:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185671_2607242132_0725050627_01_02.jpg"
     },
     {
       "category": "news",
@@ -37,10 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "情報セキュリティー会社 企業から相談相次ぐ ニチレイ障害受け",
+      "text": "彬子さま 大英博物館展の開会式に 東京 上野",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 00:10:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185661_2607242135_0725001024_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 05:11:19 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "スペイン山火事拡大で首都周辺に非常事態宣言 欧州各地で被害",
       "source": "NHK",
       "time": "Fri, 24 Jul 2026 20:53:13 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【プロ野球結果】巨人 阪神に競り勝ち同率で首位にならぶ",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 00:43:01 +0900"
     }
   ]
 }
