@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-24 09:55",
+  "updated_at": "2026-07-24 13:12",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "改正皇室典範が官報に掲載され公布 3か月後に施行へ",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 09:33:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184811_2607240943_0724094621_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "トランプ政権 新追加関税を発動へ 日本は既存税率あわせ12.5％",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 07:11:26 +0900",
+      "time": "Fri, 24 Jul 2026 13:09:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184731_2607240642_0724064657_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ財務省 “円相場の過度な変動 望ましくない”",
+      "text": "【ライブ】福岡県議会 議員辞職した中尾副議長が会見",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 09:35:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184801_2607240921_0724093539_01_02.jpg"
+      "time": "Fri, 24 Jul 2026 12:58:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185011_2607241205_0724120638_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟 佐渡市に土砂災害危険警報発表 土砂災害に厳重な警戒を",
+      "text": "危険な暑さ予想 厳重警戒 関東甲信越や東北で今夜大雨のおそれ",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 09:37:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184821_2607240936_0724093737_01_02.jpg"
+      "time": "Fri, 24 Jul 2026 12:48:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184721_2607241247_0724124854_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「副首都」構想の関連法案めぐり 与野党の攻防続く",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 13:07:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184951_2607241142_0724121414_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "「日本赤軍」 岡本公三容疑者死亡 空港乱射事件で国際手配",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 05:54:23 +0900",
+      "time": "Fri, 24 Jul 2026 11:36:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184681_2607240228_0724025439_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "きょうも危険な暑さ予想 40度に迫るところも 厳重な警戒を",
+      "text": "米大統領「船舶など損害イラン資産で補償」13日連続イラン攻撃",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 06:50:02 +0900"
+      "time": "Fri, 24 Jul 2026 12:47:34 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "6月の消費者物価 生鮮食品除く指数 前年比+1.6％",
+      "text": "島根 出雲 住宅火災で2人死亡 夫婦と連絡取れず",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 08:42:56 +0900"
+      "time": "Fri, 24 Jul 2026 13:01:11 +0900"
     }
   ]
 }
