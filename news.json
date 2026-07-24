@@ -1,53 +1,46 @@
 {
-  "updated_at": "2026-07-24 22:37",
-  "has_alert": true,
+  "updated_at": "2026-07-25 00:23",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日２０時５３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-24T11:56:08Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「副首都」構想関連法 参院本会議で可決・成立",
+      "text": "「副首都」構想関連法が成立 自民・維新・みらいなど賛成",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 21:43:01 +0900",
+      "time": "Sat, 25 Jul 2026 00:20:26 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185521_2607242143_0724220326_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟県で記録的な大雨 関東で非常に激しい雨 厳重警戒を",
+      "text": "衆院予算委 24日の集中審議取りやめ 27日に開催で与野党合意",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 21:20:01 +0900",
+      "time": "Fri, 24 Jul 2026 23:38:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185781_2607242303_0724233826_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "新潟県で記録的大雨 関東甲信越と東北 25日も激しい雨のおそれ",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 23:34:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185411_2607241703_0724171152_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "医療的ケア児 18歳以上も医療・介護サービス継続へ 改正法成立",
+      "text": "愛知県が「副首都」目指すと表明 県知事と名古屋市長が会見",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 21:00:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185631_2607242056_0724210002_01_02.jpg"
+      "time": "Fri, 24 Jul 2026 23:53:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185791_2607242352_0724235329_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "物価高続き「恐怖の夏休み」の声も 6月の消費者物価指数は",
+      "text": "情報セキュリティー会社 企業から相談相次ぐ ニチレイ障害受け",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 18:22:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184761_2607241745_0724182230_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "茨城 同居女性の唇縫わせたか 強要の疑いで再逮捕 容疑否認",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 20:24:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185451_2607241738_0724191441_01_03.jpg"
+      "time": "Sat, 25 Jul 2026 00:10:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185661_2607242135_0725001024_01_02.jpg"
     },
     {
       "category": "news",
@@ -59,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "愛媛 いよぎんHDと愛媛銀行が経営統合に向けて基本合意",
+      "text": "【プロ野球結果】パ首位攻防戦 ソフトバンクが西武に打ち勝つ",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 20:45:18 +0900"
+      "time": "Fri, 24 Jul 2026 22:05:08 +0900"
     }
   ]
 }
