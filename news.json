@@ -1,38 +1,37 @@
 {
-  "updated_at": "2026-07-24 20:39",
-  "has_alert": false,
+  "updated_at": "2026-07-24 22:37",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「副首都」法案 参院特別委で可決 本会議で採決行われる見通し",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 20:38:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185521_2607241941_0724195629_01_03.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日２０時５３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-24T11:56:08Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟 新発田市付近と聖籠町付近で記録的な大雨 災害の危険迫る",
+      "text": "「副首都」構想関連法 参院本会議で可決・成立",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 20:28:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185571_2607241950_0724195903_01_02.jpg"
+      "time": "Fri, 24 Jul 2026 21:43:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185521_2607242143_0724220326_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東で局地的に非常に激しい雨 浸水や川の氾濫など厳重警戒",
+      "text": "新潟県で記録的な大雨 関東で非常に激しい雨 厳重警戒を",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 19:11:46 +0900",
+      "time": "Fri, 24 Jul 2026 21:20:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185411_2607241703_0724171152_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "2025年の平均寿命 男女とも前年上回る 女性は世界1位",
+      "text": "医療的ケア児 18歳以上も医療・介護サービス継続へ 改正法成立",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 18:02:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185391_2607241655_0724180226_01_03.jpg"
+      "time": "Fri, 24 Jul 2026 21:00:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185631_2607242056_0724210002_01_02.jpg"
     },
     {
       "category": "news",
@@ -47,14 +46,22 @@
       "label": "ニュース",
       "text": "茨城 同居女性の唇縫わせたか 強要の疑いで再逮捕 容疑否認",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 20:24:21 +0900"
+      "time": "Fri, 24 Jul 2026 20:24:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185451_2607241738_0724191441_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 中尾副議長が議員辞職 金銭授受否定し謝罪",
+      "text": "スペイン山火事拡大で首都周辺に非常事態宣言 欧州各地で被害",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 18:35:04 +0900"
+      "time": "Fri, 24 Jul 2026 20:53:13 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛媛 いよぎんHDと愛媛銀行が経営統合に向けて基本合意",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 20:45:18 +0900"
     }
   ]
 }
