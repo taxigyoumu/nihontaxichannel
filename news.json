@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-25 00:23",
+  "updated_at": "2026-07-25 02:03",
   "has_alert": false,
   "items": [
     {
@@ -7,16 +7,16 @@
       "label": "ニュース",
       "text": "「副首都」構想関連法が成立 自民・維新・みらいなど賛成",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 00:20:26 +0900",
+      "time": "Sat, 25 Jul 2026 01:07:36 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185521_2607242143_0724220326_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "衆院予算委 24日の集中審議取りやめ 27日に開催で与野党合意",
+      "text": "第221特別国会が事実上閉会 政府提出の64法案すべて成立",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 23:38:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185781_2607242303_0724233826_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 00:39:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185801_2607250020_0725003903_01_02.jpg"
     },
     {
       "category": "news",
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【プロ野球結果】パ首位攻防戦 ソフトバンクが西武に打ち勝つ",
+      "text": "【プロ野球結果】巨人 阪神に競り勝ち同率で首位にならぶ",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 22:05:08 +0900"
+      "time": "Sat, 25 Jul 2026 00:43:01 +0900"
     }
   ]
 }
