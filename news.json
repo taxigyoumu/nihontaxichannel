@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-07-24 16:05",
+  "updated_at": "2026-07-24 18:43",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 三重で40度超 酷暑日国内で4日連続 関東など大雨のおそれ",
+      "text": "関東で局地的に非常に激しい雨 浸水や川の氾濫に厳重警戒",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 15:05:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184721_2607241508_0724150910_01_03.jpg"
+      "time": "Fri, 24 Jul 2026 17:47:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185411_2607241703_0724171152_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "南鳥島沖 海底レアアースの分析結果発表 内閣府プロジェクト",
+      "text": "2025年の平均寿命 男女とも前年上回る 女性は世界1位",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 14:30:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185071_2607241210_0724143021_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "SNS上の不適切投稿めぐり総務省が事業者5社に勧告",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 15:03:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185231_2607241404_0724150316_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "小泉防衛相 核議論めぐる発言 あらゆる選択肢排除せずの趣旨",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 15:00:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185211_2607241321_0724150015_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「副首都」構想の関連法案めぐり 与野党の攻防続く",
-      "source": "NHK",
-      "time": "Fri, 24 Jul 2026 14:40:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184951_2607241142_0724121414_01_02.jpg"
+      "time": "Fri, 24 Jul 2026 18:02:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185391_2607241655_0724180226_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "トランプ政権 新追加関税を発動 日本は既存税率あわせ12.5％",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 13:22:58 +0900"
+      "time": "Fri, 24 Jul 2026 18:34:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015184731_2607241813_0724183434_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「日本赤軍」 岡本公三容疑者死亡 空港乱射事件で国際手配",
+      "text": "プルデンシャル生命など 新たに7億9000万円の不適切受領判明",
       "source": "NHK",
-      "time": "Fri, 24 Jul 2026 13:32:47 +0900"
+      "time": "Fri, 24 Jul 2026 18:10:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185381_2607241655_0724181026_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "世界遺産登録の審議始まる 「飛鳥・藤原の宮都」は26日か",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 18:18:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260724/K10015185361_2607241646_0724181836_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福岡県議会 中尾副議長が議員辞職 金銭授受否定し謝罪",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 18:35:04 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "物価高続き「恐怖の夏休み」の声も 6月の消費者物価指数は",
+      "source": "NHK",
+      "time": "Fri, 24 Jul 2026 18:22:29 +0900"
     }
   ]
 }
