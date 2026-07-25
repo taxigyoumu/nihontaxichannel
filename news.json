@@ -1,14 +1,21 @@
 {
-  "updated_at": "2026-07-25 12:47",
-  "has_alert": false,
+  "updated_at": "2026-07-25 15:14",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２５日１４時０４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-25T05:06:40Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東～西日本で猛暑日に 熱中症対策を 東北・新潟は大雨に警戒",
+      "text": "三重 桑名で40.2度 5日連続の「酷暑日」に 熱中症対策を",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 11:58:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185701_2607251156_0725115823_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 13:07:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185701_2607251252_0725130729_01_03.jpg"
     },
     {
       "category": "news",
@@ -29,10 +36,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国会が事実上閉会 合意形成どう図るかが次の国会でも課題に",
+      "text": "米トランプ政権の追加関税 米企業2社が措置取り消し求め提訴",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 05:02:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185731_2607250443_0725050232_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 14:06:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185921_2607251144_0725140603_01_03.jpg"
     },
     {
       "category": "news",
@@ -45,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "女子ゴルフ 米ツアー 第2R 原英莉花が日本勢トップの4位",
+      "text": "高校野球 各地で甲子園出場校決まる",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 11:00:23 +0900"
+      "time": "Sat, 25 Jul 2026 14:59:48 +0900"
     },
     {
       "category": "news",
