@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-26 01:01",
-  "has_alert": true,
+  "updated_at": "2026-07-26 02:28",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２５日２３時５３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-25T14:57:37Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -24,6 +17,14 @@
       "source": "NHK",
       "time": "Sat, 25 Jul 2026 22:36:20 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185701_2607251909_0725200406_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イラン情勢 米大統領「話聞く用意はある」 24日は攻撃発表なし",
+      "source": "NHK",
+      "time": "Sun, 26 Jul 2026 00:06:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185821_2607251205_0725124026_01_03.jpg"
     },
     {
       "category": "news",
@@ -46,15 +47,7 @@
       "label": "ニュース",
       "text": "フィギュアスケート 島田麻央がシニアデビュー戦で優勝",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 23:58:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186261_2607252353_0725235849_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イラン情勢 米大統領「話聞く用意はある」 24日は攻撃発表なし",
-      "source": "NHK",
-      "time": "Sun, 26 Jul 2026 00:06:59 +0900"
+      "time": "Sat, 25 Jul 2026 23:58:48 +0900"
     },
     {
       "category": "news",
