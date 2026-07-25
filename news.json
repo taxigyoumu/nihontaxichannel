@@ -1,34 +1,21 @@
 {
-  "updated_at": "2026-07-26 06:52",
-  "has_alert": true,
+  "updated_at": "2026-07-26 07:52",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-25T21:34:32Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-25T21:34:32Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-07-25T21:34:19Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドイツ “性的少数者のイベントに車 死傷者も” 海外メディア",
+      "source": "NHK",
+      "time": "Sun, 26 Jul 2026 07:31:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186341_2607260659_0726074604_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "西日本など危険な暑さに 北陸や新潟で非常に激しい雨のおそれ",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 06:20:08 +0900",
+      "time": "Sun, 26 Jul 2026 07:27:32 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186311_2607260610_0726062009_01_02.jpg"
     },
     {
@@ -36,7 +23,7 @@
       "label": "ニュース",
       "text": "トランプ大統領がイラン攻撃しないよう指示か 米報道",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 06:11:07 +0900",
+      "time": "Sun, 26 Jul 2026 07:29:29 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186111_2607260530_0726061107_01_02.jpg"
     },
     {
@@ -50,32 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "インドで教育相辞任 “ゴキブリ人民党” デモ収束に向かうか",
+      "source": "NHK",
+      "time": "Sun, 26 Jul 2026 07:43:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/r/html/20260726/K10015186321_2607260433_0726071405_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "「飛鳥・藤原の宮都」きょう世界文化遺産に登録決定の見通し",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 05:51:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186101_2607260036_0726055128_01_02.jpg"
+      "time": "Sun, 26 Jul 2026 05:51:27 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 06:26:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186081_2607260131_0726055741_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フーシ派“サウジアラムコの石油施設攻撃”影響の懸念広がる",
-      "source": "NHK",
-      "time": "Sun, 26 Jul 2026 05:47:57 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロシア ウクライナ双方の攻撃で犠牲者増加 子どもも死亡",
-      "source": "NHK",
-      "time": "Sun, 26 Jul 2026 05:41:26 +0900"
+      "time": "Sun, 26 Jul 2026 06:26:14 +0900"
     }
   ]
 }
