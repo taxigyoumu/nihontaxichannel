@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-26 02:28",
+  "updated_at": "2026-07-26 03:28",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "新潟 村上市にレベル4土砂災害危険警報 厳重な警戒を",
+      "source": "NHK",
+      "time": "Sun, 26 Jul 2026 02:43:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186291_2607260239_0726024345_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -39,8 +47,7 @@
       "label": "ニュース",
       "text": "59歳 三浦知良 天皇杯代表決定戦でゴール 移籍後公式戦初得点",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 00:02:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186271_2607252356_0726000258_01_02.jpg"
+      "time": "Sun, 26 Jul 2026 00:02:57 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "フィギュアスケート 島田麻央がシニアデビュー戦で優勝",
       "source": "NHK",
       "time": "Sat, 25 Jul 2026 23:58:48 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 隅田川花火大会 2万発余が夏の夜空彩る",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 20:57:14 +0900"
     }
   ]
 }
