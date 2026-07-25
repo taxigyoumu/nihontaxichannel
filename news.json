@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-07-25 09:09",
+  "updated_at": "2026-07-25 12:47",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東～西日本で猛暑日に 熱中症対策を 東北・新潟は大雨に警戒",
+      "source": "NHK",
+      "time": "Sat, 25 Jul 2026 11:58:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185701_2607251156_0725115823_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米大統領「イラン側と話し合っている」出方見極めたい考え示す",
+      "source": "NHK",
+      "time": "Sat, 25 Jul 2026 12:40:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185821_2607251205_0725124026_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "横綱 豊昇龍が名古屋場所を休場 13日目までに6敗",
+      "source": "NHK",
+      "time": "Sat, 25 Jul 2026 10:24:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185871_2607251004_0725100710_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東北や新潟県 非常に激しい雨のおそれ 各地で危険な暑さも",
+      "text": "ブルージェイズ 岡本和真 23号HR 大リーグ1年目の日本選手最多",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 07:14:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185701_2607250612_0725062621_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 11:32:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185911_2607251128_0725113227_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 正副議長ポストめぐる問題 調査の透明性確保が焦点",
+      "text": "女子ゴルフ 米ツアー 第2R 原英莉花が日本勢トップの4位",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 05:04:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185681_2607250004_0725050449_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 11:00:23 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「全東信」経営破綻 経産省と金融庁が調査を開始",
+      "text": "フランスとスペインで山火事が拡大 合わせて16万人が避難",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 05:08:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185721_2607242219_0725050840_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米大統領“大規模攻撃の準備万端もイラン側と話し合っている”",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 07:34:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185821_2607250733_0725073419_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "インド 若者抗議デモ 約7週間続く 混乱収束の見通し立たず",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 05:13:48 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フィギュアスケート女子シングル 島田麻央がシニアデビュー",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 05:17:25 +0900"
+      "time": "Sat, 25 Jul 2026 10:58:12 +0900"
     }
   ]
 }
