@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-07-25 17:29",
+  "updated_at": "2026-07-25 19:10",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ライブ配信】野球日本代表 監督に井口資仁氏が就任",
+      "text": "山梨 笛吹市付近で記録的な大雨 災害の危険迫る",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 16:49:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186021_2607251711_0725171236_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 18:13:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186061_2607251808_0725181323_01_02.jpg"
     },
     {
       "category": "news",
@@ -21,40 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米大統領「イラン側と話し合っている」出方見極めたい考え示す",
+      "text": "フランスとスペインで山火事が拡大 合わせて16万人が避難",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 12:40:25 +0900",
+      "time": "Sat, 25 Jul 2026 10:58:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185881_2607251041_0725105813_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イラン情勢 米大統領「話聞く用意はある」 24日は攻撃発表なし",
+      "source": "NHK",
+      "time": "Sat, 25 Jul 2026 18:49:29 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185821_2607251205_0725124026_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "野球日本代表新監督に井口資仁氏 「世界の頂点を」と意気込み",
+      "source": "NHK",
+      "time": "Sat, 25 Jul 2026 19:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186021_2607251711_0725171236_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "横綱 豊昇龍が名古屋場所を休場 13日目までに6敗",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 16:27:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185871_2607251004_0725100710_01_02.jpg"
+      "time": "Sat, 25 Jul 2026 16:27:55 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大相撲 元幕内 大翔丸が現役引退",
+      "text": "高校野球 松商学園など13校が甲子園 出場決定",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 17:07:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186001_2607251629_0725170718_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース 佐々木朗希 7回1失点で4勝目 大谷も2安打1打点",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 15:15:22 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フランスとスペインで山火事が拡大 合わせて16万人が避難",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 10:58:12 +0900"
+      "time": "Sat, 25 Jul 2026 18:54:14 +0900"
     }
   ]
 }
