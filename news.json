@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-07-25 19:10",
-  "has_alert": false,
+  "updated_at": "2026-07-25 20:42",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-25T11:33:04Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-25T11:33:04Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-25T11:33:00Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,17 +34,33 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "5日連続「酷暑日」 2010年以降で最長 より一層の熱中症対策を",
+      "text": "5日連続「酷暑日」で最長に 26日も各地猛暑予想 熱中症対策を",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 15:25:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185701_2607251451_0725152519_01_03.jpg"
+      "time": "Sat, 25 Jul 2026 20:04:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185701_2607251909_0725200406_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フランスとスペインで山火事が拡大 合わせて16万人が避難",
+      "text": "「クビアカツヤカミキリ」被害拡大 昨年度全国で3万7000本超",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 10:58:12 +0900",
+      "time": "Sat, 25 Jul 2026 20:30:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186041_2607251838_0725203058_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "相模原 障害者施設殺傷事件から10年を前に追悼式",
+      "source": "NHK",
+      "time": "Sat, 25 Jul 2026 20:25:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186011_2607251803_0725202500_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フランスとスペインで山火事拡大 合わせて20万人以上が避難",
+      "source": "NHK",
+      "time": "Sat, 25 Jul 2026 20:25:50 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185881_2607251041_0725105813_01_02.jpg"
     },
     {
@@ -31,30 +68,14 @@
       "label": "ニュース",
       "text": "イラン情勢 米大統領「話聞く用意はある」 24日は攻撃発表なし",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 18:49:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185821_2607251205_0725124026_01_03.jpg"
+      "time": "Sat, 25 Jul 2026 18:49:29 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "野球日本代表新監督に井口資仁氏 「世界の頂点を」と意気込み",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 19:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186021_2607251711_0725171236_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "横綱 豊昇龍が名古屋場所を休場 13日目までに6敗",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 16:27:55 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高校野球 松商学園など13校が甲子園 出場決定",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 18:54:14 +0900"
+      "time": "Sat, 25 Jul 2026 20:33:52 +0900"
     }
   ]
 }
