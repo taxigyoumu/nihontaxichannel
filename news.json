@@ -1,7 +1,44 @@
 {
-  "updated_at": "2026-07-26 05:47",
-  "has_alert": false,
+  "updated_at": "2026-07-26 06:52",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-25T21:34:32Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-25T21:34:32Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-07-25T21:34:19Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "西日本など危険な暑さに 北陸や新潟で非常に激しい雨のおそれ",
+      "source": "NHK",
+      "time": "Sun, 26 Jul 2026 06:20:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186311_2607260610_0726062009_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領がイラン攻撃しないよう指示か 米報道",
+      "source": "NHK",
+      "time": "Sun, 26 Jul 2026 06:11:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186111_2607260530_0726061107_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +50,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟 村上市にレベル4土砂災害危険警報 厳重な警戒を",
+      "text": "「飛鳥・藤原の宮都」きょう世界文化遺産に登録決定の見通し",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 02:43:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186291_2607260239_0726024345_01_02.jpg"
+      "time": "Sun, 26 Jul 2026 05:51:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186101_2607260036_0726055128_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山梨で猛烈な雨 新潟や東北でも大雨のおそれ",
+      "text": "「超新星背景ニュートリノ」の存在示す“兆候”初めて捉えたか",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 21:58:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015186061_2607251808_0725181323_01_02.jpg"
+      "time": "Sun, 26 Jul 2026 06:26:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186081_2607260131_0726055741_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "5日連続「酷暑日」で最長に 26日も各地猛暑予想 熱中症対策を",
+      "text": "フーシ派“サウジアラムコの石油施設攻撃”影響の懸念広がる",
       "source": "NHK",
-      "time": "Sat, 25 Jul 2026 22:36:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260725/K10015185701_2607251909_0725200406_01_03.jpg"
+      "time": "Sun, 26 Jul 2026 05:47:57 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ロシア ウクライナ双方の攻撃で犠牲者増加 子どもも死亡",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 05:41:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186331_2607260511_0726054127_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イラン情勢 米大統領「話聞く用意はある」 24日は攻撃発表なし",
-      "source": "NHK",
-      "time": "Sun, 26 Jul 2026 00:06:59 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "前田大然がイプスウィッチ移籍 W杯経て英プレミアリーグへ",
-      "source": "NHK",
-      "time": "Sat, 25 Jul 2026 23:31:58 +0900"
+      "time": "Sun, 26 Jul 2026 05:41:26 +0900"
     }
   ]
 }
