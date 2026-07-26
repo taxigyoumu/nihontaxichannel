@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-07-27 07:31",
+  "updated_at": "2026-07-27 08:57",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "佐賀 伊万里の住宅で火事 子ども2人含む4人が意識不明",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 08:42:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186991_2607270732_0727073447_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,30 +17,6 @@
       "source": "NHK",
       "time": "Mon, 27 Jul 2026 07:06:59 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186811_2607262145_0727070700_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "食料品の消費税減税 高市首相が判断するとの見方強まる",
-      "source": "NHK",
-      "time": "Mon, 27 Jul 2026 05:01:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186841_2607262329_0727050130_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北陸など土砂災害に厳重警戒 西日本中心に危険な暑さ続く",
-      "source": "NHK",
-      "time": "Mon, 27 Jul 2026 06:09:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186851_2607270628_0727062900_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "音声データは中尾前副議長の可能性高い 吉松議員が依頼の鑑定",
-      "source": "NHK",
-      "time": "Mon, 27 Jul 2026 05:16:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186871_2607270709_0727070946_01_03.jpg"
     },
     {
       "category": "news",
@@ -45,16 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄県知事選告示まで1か月 各党が準備加速へ",
+      "text": "ぬいぐるみで話題 子ザル「パンチ」1歳 ファンが祝福 千葉",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 06:19:07 +0900"
+      "time": "Mon, 27 Jul 2026 07:59:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186521_2607261511_0727075934_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ“ロシア・イラン間の輸送船を攻撃” イランは反発",
+      "text": "食料品の消費税減税 高市首相が判断するとの見方強まる",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 05:30:26 +0900"
+      "time": "Mon, 27 Jul 2026 05:01:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186841_2607262329_0727050130_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東北から九州にかけ大気不安定 西日本中心に熱中症対策徹底を",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 08:41:35 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "音声データは中尾前副議長の可能性高い 吉松議員が依頼の鑑定",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 05:16:11 +0900"
     }
   ]
 }
