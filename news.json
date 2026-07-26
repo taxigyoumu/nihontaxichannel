@@ -1,29 +1,22 @@
 {
-  "updated_at": "2026-07-26 15:20",
-  "has_alert": true,
+  "updated_at": "2026-07-26 17:55",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日１３時５９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-26T05:02:15Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "大相撲名古屋場所 3人のともえ戦",
+      "source": "NHK",
+      "time": "Sun, 26 Jul 2026 17:52:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186751_2607261748_0726175300_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
+      "text": "新潟や東北中心に大雨 関東も激しい雷雨に 西日本では39度超も",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 13:48:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186101_2607261205_0726121228_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "西日本など危険な暑さ予想 熱中症対策を 新潟 北陸 東北は大雨",
-      "source": "NHK",
-      "time": "Sun, 26 Jul 2026 15:05:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186311_2607261509_0726151123_01_03.jpg"
+      "time": "Sun, 26 Jul 2026 15:46:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186311_2607261543_0726154602_01_03.jpg"
     },
     {
       "category": "news",
@@ -36,18 +29,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“米は迎撃ミサイル枯渇懸念しイラン攻撃強化を保留か”報道",
+      "text": "京王井の頭線 電車2本が駅の間に停車 落雷影響か 乗客が降車",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 12:23:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186111_2607260530_0726061107_01_02.jpg"
+      "time": "Sun, 26 Jul 2026 17:43:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186661_2607261714_0726174328_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 山本由伸 日米通算100勝に到達",
+      "text": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 14:28:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186441_2607261123_0726112444_01_02.jpg"
+      "time": "Sun, 26 Jul 2026 13:48:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186101_2607261205_0726121228_01_03.jpg"
     },
     {
       "category": "news",
@@ -59,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大相撲名古屋場所 三賞 安青錦が技能賞 熱海富士が敢闘賞",
+      "text": "国民 玉木代表 消費税減税はデメリット大 住民税減税や給付を",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 14:40:18 +0900"
+      "time": "Sun, 26 Jul 2026 17:52:07 +0900"
     }
   ]
 }
