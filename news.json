@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27 00:37",
+  "updated_at": "2026-07-27 01:55",
   "has_alert": true,
   "items": [
     {
@@ -14,16 +14,8 @@
       "label": "ニュース",
       "text": "新潟 東北 北陸で大雨 関東で大気不安定 西日本は危険な暑さに",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 00:23:58 +0900",
+      "time": "Mon, 27 Jul 2026 01:11:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186311_2607261910_0726191501_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "落雷で電柱から火花 東京 世田谷",
-      "source": "NHK",
-      "time": "Sun, 26 Jul 2026 14:56:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186551_2607261443_0726145620_01_03.jpg"
     },
     {
       "category": "news",
@@ -36,6 +28,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "安青錦が技能賞 熱海富士が敢闘賞 大相撲名古屋場所",
+      "source": "NHK",
+      "time": "Sun, 26 Jul 2026 19:09:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186531_2607261422_0726144019_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "ゼレンスキー大統領“ロシアが北朝鮮兵士3万人 受け入れ準備”",
       "source": "NHK",
       "time": "Sun, 26 Jul 2026 20:26:36 +0900",
@@ -44,10 +44,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「飛鳥・藤原の宮都」世界文化遺産に登録決定 国内で27件に",
+      "text": "ヨーロッパ山火事拡大 フランスとスペインで30万人以上が避難",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 19:03:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186101_2607261205_0726121228_01_03.jpg"
+      "time": "Sun, 26 Jul 2026 19:05:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186461_2607261323_0726132357_01_03.jpg"
     },
     {
       "category": "news",
@@ -59,9 +59,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "茨城 鹿嶋 海水浴中の親子ら3人流される 56歳の父親死亡",
+      "text": "フェンシング世界選手権 男子エペ 山田優が銅メダル",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 19:23:18 +0900"
+      "time": "Sun, 26 Jul 2026 21:28:36 +0900"
     }
   ]
 }
