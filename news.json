@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-27 02:59",
+  "updated_at": "2026-07-27 04:23",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２７日０３時０３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-26T18:05:42Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -26,6 +33,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "新潟と富山で再び局地的に雨が強まる 土砂災害など厳重警戒",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 04:10:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186311_2607261910_0726191501_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "【地震速報】鹿児島 阿久根で震度3 津波の心配なし",
       "source": "NHK",
       "time": "Mon, 27 Jul 2026 02:21:43 +0900",
@@ -34,10 +49,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟と富山で再び局地的に雨が強まる 土砂災害など厳重警戒",
+      "text": "富山 入善町付近で「記録的短時間大雨」",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 02:13:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186311_2607261910_0726191501_01_03.jpg"
+      "time": "Mon, 27 Jul 2026 02:58:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186941_2607270336_0727033719_01_02.jpg"
     },
     {
       "category": "news",
@@ -60,8 +75,7 @@
       "label": "ニュース",
       "text": "ヨーロッパ山火事拡大 フランスとスペインで30万人以上が避難",
       "source": "NHK",
-      "time": "Sun, 26 Jul 2026 19:05:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260726/K10015186461_2607261323_0726132357_01_03.jpg"
+      "time": "Sun, 26 Jul 2026 19:05:12 +0900"
     },
     {
       "category": "news",
@@ -69,13 +83,6 @@
       "text": "相模原 障害者施設殺傷事件から10年 多くの人が献花し追悼",
       "source": "NHK",
       "time": "Sun, 26 Jul 2026 18:12:31 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フェンシング世界選手権 男子エペ 山田優が銅メダル",
-      "source": "NHK",
-      "time": "Sun, 26 Jul 2026 21:28:36 +0900"
     }
   ]
 }
