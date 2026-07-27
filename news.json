@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-27 22:37",
+  "updated_at": "2026-07-28 01:14",
   "has_alert": false,
   "items": [
     {
@@ -9,6 +9,14 @@
       "source": "NHK",
       "time": "Mon, 27 Jul 2026 22:30:15 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187251_2607271528_0727161653_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“消費税減税 速やかに法案提出”高市首相会見 公約実現を強調",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 19:20:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187261_2607271803_0727180353_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,14 +37,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西日本・東海で気温上昇 九州で統計開始以降 初めて40度以上に",
-      "source": "NHK",
-      "time": "Mon, 27 Jul 2026 21:50:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186851_2607271156_0727120136_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "台風13号発生 今後勢力を強める予想",
       "source": "NHK",
       "time": "Mon, 27 Jul 2026 19:57:38 +0900",
@@ -45,9 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "球宴前に 阪神 森下翔太「一番喜んでもらえるホームランを」",
+      "text": "欧州山火事 仏ボルドー市街地から約15キロの所まで火が迫る",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 21:37:56 +0900"
+      "time": "Mon, 27 Jul 2026 20:04:01 +0900"
     },
     {
       "category": "news",
