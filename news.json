@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-27 12:27",
-  "has_alert": true,
+  "updated_at": "2026-07-27 15:49",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２７日１２時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-27T03:07:22Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -20,48 +13,48 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ライブ】福岡県議会問題 “中尾氏の声と同一の可能性高い”",
+      "text": "福岡県議会問題 “中尾前副議長の声と同一の可能性高い”",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 12:11:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187091_2607271104_0727121132_01_02.jpg"
+      "time": "Mon, 27 Jul 2026 15:45:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187091_2607271248_0727130437_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大相撲名古屋場所 優勝の安青錦 “怖さと不安 やりきった”",
+      "text": "大分自動車道 観光バスなど5台が絡む事故 十数人搬送",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 12:09:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187141_2607271133_0727120913_01_02.jpg"
+      "time": "Mon, 27 Jul 2026 15:06:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187241_2607271442_0727150651_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "松橋事件 国と県の責任いずれも認め 賠償命じる判決 福岡高裁",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 14:39:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187231_2607271437_0727143910_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "衆院予算委で集中審議 物価高対策などめぐり論戦",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 11:54:40 +0900",
+      "time": "Mon, 27 Jul 2026 15:17:10 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187101_2607271118_0727115440_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 午前は値上がり 幅広い銘柄で買い注文",
+      "text": "東京23区 単身向けマンションの平均家賃11.4万円余 上昇続く",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 12:06:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187171_2607271155_0727120630_01_02.jpg"
+      "time": "Mon, 27 Jul 2026 13:11:04 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米国産生鮮ジャガイモ 輸入解禁手続き進む一方で懸念の声も",
+      "text": "IT企業「はてな」資金流出で報告書公表 特殊詐欺による被害",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 07:06:59 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "佐賀 伊万里の住宅で火事 4人死亡 小学生2人を含む家族4人か",
-      "source": "NHK",
-      "time": "Mon, 27 Jul 2026 12:14:29 +0900"
+      "time": "Mon, 27 Jul 2026 13:08:25 +0900"
     }
   ]
 }
