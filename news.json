@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-07-27 08:57",
-  "has_alert": false,
+  "updated_at": "2026-07-27 12:27",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２７日１２時０４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-27T03:07:22Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "佐賀 伊万里の住宅で火事 子ども2人含む4人が意識不明",
+      "text": "西日本や東海で猛暑 九州は危険な暑さ 広く雨雲発達おそれも",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 08:42:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186991_2607270732_0727073447_01_02.jpg"
+      "time": "Mon, 27 Jul 2026 12:01:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186851_2607271156_0727120136_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【ライブ】福岡県議会問題 “中尾氏の声と同一の可能性高い”",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 12:11:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187091_2607271104_0727121132_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大相撲名古屋場所 優勝の安青錦 “怖さと不安 やりきった”",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 12:09:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187141_2607271133_0727120913_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "衆院予算委で集中審議 物価高対策などめぐり論戦",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 11:54:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187101_2607271118_0727115440_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "株価 午前は値上がり 幅広い銘柄で買い注文",
+      "source": "NHK",
+      "time": "Mon, 27 Jul 2026 12:06:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187171_2607271155_0727120630_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "米国産生鮮ジャガイモ 輸入解禁手続き進む一方で懸念の声も",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 07:06:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186811_2607262145_0727070700_01_02.jpg"
+      "time": "Mon, 27 Jul 2026 07:06:59 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "秀吉が恭順の毛利側を盛大にもてなしたこと示す文書発見",
+      "text": "佐賀 伊万里の住宅で火事 4人死亡 小学生2人を含む家族4人か",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 05:12:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186821_2607262120_0727051251_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ぬいぐるみで話題 子ザル「パンチ」1歳 ファンが祝福 千葉",
-      "source": "NHK",
-      "time": "Mon, 27 Jul 2026 07:59:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186521_2607261511_0727075934_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "食料品の消費税減税 高市首相が判断するとの見方強まる",
-      "source": "NHK",
-      "time": "Mon, 27 Jul 2026 05:01:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015186841_2607262329_0727050130_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東北から九州にかけ大気不安定 西日本中心に熱中症対策徹底を",
-      "source": "NHK",
-      "time": "Mon, 27 Jul 2026 08:41:35 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "音声データは中尾前副議長の可能性高い 吉松議員が依頼の鑑定",
-      "source": "NHK",
-      "time": "Mon, 27 Jul 2026 05:16:11 +0900"
+      "time": "Mon, 27 Jul 2026 12:14:29 +0900"
     }
   ]
 }
