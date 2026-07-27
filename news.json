@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-28 06:37",
+  "updated_at": "2026-07-28 07:58",
   "has_alert": true,
   "items": [
     {
@@ -12,18 +12,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "作家 東野圭吾さん死去 読者や関係者から悼む声",
+      "text": "東北～九州 局地的に非常に激しい雨 西日本中心に危険な暑さ",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 05:23:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187551_2607272139_0728052310_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フランスやスペインの山火事 延焼防ぐための対策急ぐ",
-      "source": "NHK",
-      "time": "Tue, 28 Jul 2026 06:01:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187611_2607272354_0728060113_01_02.jpg"
+      "time": "Tue, 28 Jul 2026 06:47:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187561_2607280611_0728064737_01_02.jpg"
     },
     {
       "category": "news",
@@ -36,32 +28,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "辺野古沖転覆事故 遺族が校長や船長所属団体共同代表など告訴",
+      "text": "スマホ法に基づきグーグルとアップルが公取委提出の報告書公表",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 05:14:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187641_2607272345_0728051419_01_02.jpg"
+      "time": "Tue, 28 Jul 2026 06:54:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187531_2607272249_0728065415_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東北～九州 28日も大気不安定 土砂災害など十分注意",
+      "text": "米大統領「合意の可能性ある」 イランは妥協しない姿勢",
       "source": "NHK",
-      "time": "Mon, 27 Jul 2026 22:30:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260727/K10015187251_2607271528_0727161653_01_02.jpg"
+      "time": "Tue, 28 Jul 2026 07:36:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187571_2607280533_0728073655_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 “金利引き下げられるべき” FRB会合前に圧力",
+      "text": "エディオン会長 ヤマダHDとの統合「対等の精神は譲れない」",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 06:32:27 +0900"
+      "time": "Tue, 28 Jul 2026 06:59:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187521_2607272107_0728065931_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "最低賃金引き上げ議論 大詰めも結論至らず 厚労省審議会",
+      "text": "作家 東野圭吾さん死去 読者や関係者から悼む声",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 05:49:47 +0900"
+      "time": "Tue, 28 Jul 2026 05:23:10 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "英首相「ウクライナと100％共にある」支援継続を強調",
+      "source": "NHK",
+      "time": "Tue, 28 Jul 2026 07:10:53 +0900"
     }
   ]
 }
