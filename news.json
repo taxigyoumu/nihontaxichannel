@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-07-28 07:58",
-  "has_alert": true,
+  "updated_at": "2026-07-28 09:05",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２８日０６時００分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-27T21:03:04Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -28,10 +21,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スマホ法に基づきグーグルとアップルが公取委提出の報告書公表",
+      "text": "ディズニーのチケット1万2000円超に 入園料値上げの動き相次ぐ",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 06:54:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187531_2607272249_0728065415_01_02.jpg"
+      "time": "Tue, 28 Jul 2026 08:45:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187511_2607272119_0728084506_01_02.jpg"
     },
     {
       "category": "news",
@@ -52,16 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "作家 東野圭吾さん死去 読者や関係者から悼む声",
+      "text": "英首相「ウクライナと100％共にある」支援継続を強調",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 05:23:10 +0900"
+      "time": "Tue, 28 Jul 2026 07:10:53 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "英首相「ウクライナと100％共にある」支援継続を強調",
+      "text": "作家 東野圭吾さん死去 読者や関係者から悼む声",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 07:10:53 +0900"
+      "time": "Tue, 28 Jul 2026 05:23:10 +0900"
     }
   ]
 }
