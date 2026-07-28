@@ -1,95 +1,95 @@
 {
-  "updated_at": "2026-07-28 18:16",
+  "updated_at": "2026-07-28 20:34",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２８日１８時１０分ころ、地震がありました。",
+      "text": "【震源・震度情報】２８日２０時３０分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-28T09:13:59Z"
+      "time": "2026-07-28T11:33:07Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２８日１８時０８分ころ、地震がありました。",
+      "text": "【顕著な地震の震源要素更新のお知らせ】令和　８年　７月２８日２０時３０分をもって、地震の発生場所と規模を更新します。",
       "source": "気象庁",
-      "time": "2026-07-28T09:13:23Z"
+      "time": "2026-07-28T11:30:23Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【津波予報】津波注意報を解除しました。",
+      "text": "【震源・震度情報】２８日２０時２７分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-28T09:10:10Z"
+      "time": "2026-07-28T11:30:19Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２８日１８時０６分ころ、地震がありました。",
+      "text": "【震源・震度情報】２８日２０時２４分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-28T09:09:45Z"
+      "time": "2026-07-28T11:27:24Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２８日１７時５７分ころ、地震がありました。",
+      "text": "【震源・震度情報】２８日２０時２２分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-28T09:01:32Z"
+      "time": "2026-07-28T11:25:38Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【速報】イオンモール熊本で爆発 「従業員と連絡取れず」",
+      "source": "NHK",
+      "time": "Tue, 28 Jul 2026 20:26:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188721_2607281913_0728191402_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本で震度7 けが人多数 交通網遮断 被害全容つかめず",
+      "source": "NHK",
+      "time": "Tue, 28 Jul 2026 20:21:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188221_2607281633_0728163641_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本市の病院に搬送 少なくとも1人意識なし 50人以上のけが人",
+      "source": "NHK",
+      "time": "Tue, 28 Jul 2026 20:19:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188851_2607282011_0728201250_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東北から近畿 29日にかけ大雨のおそれ 熊本 雨の降り方に注意",
+      "source": "NHK",
+      "time": "Tue, 28 Jul 2026 19:47:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015187561_2607282001_0728200249_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本 氷川町 地震影響で少なくとも50人以上けがなどで搬送か",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 18:08:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188641_2607281807_0728180831_01_02.jpg"
+      "time": "Tue, 28 Jul 2026 20:07:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188641_2607281942_0728194352_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震】熊本 八代 道路の高架で被害か 上空からの映像",
+      "text": "熊本 八代 道路の高架で被害か 上空からの映像",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 18:01:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188611_2607281752_0728175302_01_02.jpg"
+      "time": "Tue, 28 Jul 2026 18:01:54 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本で震度7 気象庁が記者会見",
+      "text": "【ライブ】熊本で震度7 気象庁が午後8時半から再び会見",
       "source": "NHK",
-      "time": "Tue, 28 Jul 2026 18:04:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188481_2607281712_0728172115_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【津波情報】有明・八代海に津波注意報",
-      "source": "NHK",
-      "time": "Tue, 28 Jul 2026 17:39:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188241_2607281631_0728163316_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本 氷川町 特別養護老人ホーム「10人ほどけが」",
-      "source": "NHK",
-      "time": "Tue, 28 Jul 2026 18:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260728/K10015188361_2607281747_0728175017_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【被害情報】熊本城の石垣の一部が崩れたという複数の報告",
-      "source": "NHK",
-      "time": "Tue, 28 Jul 2026 17:55:03 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "震度7～震度6弱 熊本県内の消防に通報 “家具の下敷きに”",
-      "source": "NHK",
-      "time": "Tue, 28 Jul 2026 17:46:29 +0900"
+      "time": "Tue, 28 Jul 2026 20:30:47 +0900"
     }
   ]
 }
