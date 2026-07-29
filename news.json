@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-07-29 21:27",
+  "updated_at": "2026-07-29 23:51",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２９日２１時０５分ころ、地震がありました。",
+      "text": "【震源・震度情報】２９日２３時３１分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-29T12:07:50Z"
+      "time": "2026-07-29T14:33:56Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】熊本県で震度5弱 津波の心配なし（22:19）",
+      "source": "NHK",
+      "time": "Wed, 29 Jul 2026 23:04:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015190171_2607292226_0729222835_01_02.jpg"
     },
     {
       "category": "news",
@@ -20,30 +28,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州新幹線 レール破断など200か所以上の被害を確認 JR九州",
-      "source": "NHK",
-      "time": "Wed, 29 Jul 2026 19:10:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015190051_2607291904_0729191012_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
-      "source": "NHK",
-      "time": "Wed, 29 Jul 2026 21:00:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189221_2607291932_0729193451_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【29日】熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
-      "source": "NHK",
-      "time": "Wed, 29 Jul 2026 20:46:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189251_2607290408_0729040929_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
       "source": "NHK",
       "time": "Wed, 29 Jul 2026 21:21:19 +0900",
@@ -52,16 +36,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本県熊本地方で震度４ 津波の心配なし",
+      "text": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
       "source": "NHK",
-      "time": "Wed, 29 Jul 2026 20:54:11 +0900"
+      "time": "Wed, 29 Jul 2026 22:51:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189221_2607291932_0729193451_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "取り調べた女性と不適切関係 元東京地検特捜部検事を懲戒免職",
+      "text": "【29日】熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
       "source": "NHK",
-      "time": "Wed, 29 Jul 2026 20:44:44 +0900"
+      "time": "Wed, 29 Jul 2026 23:24:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189251_2607290408_0729040929_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "九州新幹線 レール破断など200か所以上の被害を確認 JR九州",
+      "source": "NHK",
+      "time": "Wed, 29 Jul 2026 19:10:11 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "プロ野球オールスターゲーム 第2戦 全セが打ち合い制す",
+      "source": "NHK",
+      "time": "Wed, 29 Jul 2026 23:48:00 +0900"
     }
   ]
 }
