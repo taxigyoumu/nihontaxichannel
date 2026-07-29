@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-07-30 01:18",
-  "has_alert": true,
+  "updated_at": "2026-07-30 02:46",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２９日２３時５３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-29T14:56:59Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２９日２３時３１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-29T14:33:56Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
