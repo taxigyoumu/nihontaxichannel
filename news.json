@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-07-29 23:51",
+  "updated_at": "2026-07-30 01:18",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２９日２３時５３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-29T14:56:59Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -12,10 +19,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本県で震度5弱 津波の心配なし（22:19）",
+      "text": "熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
       "source": "NHK",
-      "time": "Wed, 29 Jul 2026 23:04:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015190171_2607292226_0729222835_01_02.jpg"
+      "time": "Wed, 29 Jul 2026 23:24:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189251_2607290408_0729040929_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "政府の地震調査委員会 “日奈久断層帯 約30キロずれ動いたか”",
+      "source": "NHK",
+      "time": "Thu, 30 Jul 2026 00:39:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190241_2607300018_0730003928_01_02.jpg"
     },
     {
       "category": "news",
@@ -28,40 +43,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本製紙 八代工場で5人死亡 2人けが 4人が安否不明",
-      "source": "NHK",
-      "time": "Wed, 29 Jul 2026 21:21:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189721_2607291701_0729170215_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "【熊本被害情報】12人死亡 6人心肺停止 少なくとも4人安否不明",
       "source": "NHK",
-      "time": "Wed, 29 Jul 2026 22:51:07 +0900",
+      "time": "Thu, 30 Jul 2026 00:18:47 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189221_2607291932_0729193451_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【29日】熊本で震度7 同程度地震に1週間ほど注意 熱中症対策を",
+      "text": "【地震情報】熊本県で震度5弱 津波の心配なし（22:19）",
       "source": "NHK",
-      "time": "Wed, 29 Jul 2026 23:24:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015189251_2607290408_0729040929_01_02.jpg"
+      "time": "Wed, 29 Jul 2026 23:04:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260729/K10015190171_2607292226_0729222835_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州新幹線 レール破断など200か所以上の被害を確認 JR九州",
+      "text": "政府 ナミビアでのレアアース鉱山開発会社に最大50億円出資へ",
       "source": "NHK",
-      "time": "Wed, 29 Jul 2026 19:10:11 +0900"
+      "time": "Thu, 30 Jul 2026 00:00:20 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "プロ野球オールスターゲーム 第2戦 全セが打ち合い制す",
       "source": "NHK",
-      "time": "Wed, 29 Jul 2026 23:48:00 +0900"
+      "time": "Thu, 30 Jul 2026 00:55:24 +0900"
     }
   ]
 }
