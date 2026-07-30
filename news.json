@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-07-31 01:24",
-  "has_alert": true,
+  "updated_at": "2026-07-31 02:56",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日０１時１１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-30T16:14:01Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日００時２１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-30T15:24:04Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３０日２３時２７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-30T14:30:32Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -58,10 +37,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県",
+      "text": "イオンモール熊本 従業員が証言「外に出た約2分後に爆発した」",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 22:33:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190461_2607301014_0730101708_01_02.jpg"
+      "time": "Fri, 31 Jul 2026 01:26:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191481_2607310054_0731012605_01_02.jpg"
     },
     {
       "category": "news",
