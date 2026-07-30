@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-07-31 05:41",
+  "updated_at": "2026-07-31 07:03",
   "has_alert": true,
   "items": [
     {
@@ -19,6 +19,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "熊本で震度7 同程度の地震に注意 きょうは猛烈な暑さに",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 05:42:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191461_2607310054_0731054247_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "【被害状況】熊本地震 関連調査中含め34人死亡 熊本県発表",
       "source": "NHK",
       "time": "Fri, 31 Jul 2026 05:38:42 +0900",
@@ -27,10 +35,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 猛暑の中 電気・水道などのインフラ復旧急ぐ 政府",
+      "text": "NY市場 1ドル＝157円台後半まで値上がり 市場介入の観測も",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 05:19:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191441_2607310042_0731051931_01_02.jpg"
+      "time": "Fri, 31 Jul 2026 00:54:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191381_2607302324_0730232957_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東～西日本中心に危険な暑さ 熊本県内も猛烈な暑さ予想",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 06:09:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191291_2607310531_0731060916_01_02.jpg"
     },
     {
       "category": "news",
@@ -45,30 +61,14 @@
       "label": "ニュース",
       "text": "消費税減税 自民 高市首相指示受け意見集約急ぐ 党内異論も",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 05:05:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191271_2607302138_0731050548_01_02.jpg"
+      "time": "Fri, 31 Jul 2026 05:05:47 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "アメリカとイラン再び攻撃の応酬 エスカレートの懸念",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 05:21:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191311_2607310514_0731052104_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "宗教法人の不正利用防止に向けて初のガイドライン案 文化庁",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 05:04:30 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イオンモール熊本 従業員が証言「外に出た約2分後に爆発した」",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 01:26:04 +0900"
+      "time": "Fri, 31 Jul 2026 05:21:04 +0900"
     }
   ]
 }
