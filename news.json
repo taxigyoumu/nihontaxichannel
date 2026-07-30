@@ -1,21 +1,13 @@
 {
-  "updated_at": "2026-07-30 14:37",
+  "updated_at": "2026-07-30 17:20",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 災害関連調査中を含め死者30人に 高市首相",
+      "text": "熊本地震 関連調査中含め34人死亡 県災害対策本部が発表",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 14:10:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190721_2607301356_0730135822_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震で18人死亡 6人心肺停止 1人安否不明 県発表",
-      "source": "NHK",
-      "time": "Thu, 30 Jul 2026 14:13:34 +0900",
+      "time": "Thu, 30 Jul 2026 16:25:51 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190421_2607301023_0730102401_01_02.jpg"
     },
     {
@@ -23,38 +15,46 @@
       "label": "ニュース",
       "text": "食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 14:11:31 +0900",
+      "time": "Thu, 30 Jul 2026 16:04:35 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190631_2607301153_0730115628_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県",
+      "source": "NHK",
+      "time": "Thu, 30 Jul 2026 16:32:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190461_2607301014_0730101708_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "日本製紙 八代工場 8人死亡 2人けが 1人安否不明 熊本県",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 12:02:05 +0900",
+      "time": "Thu, 30 Jul 2026 14:50:06 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190441_2607301432_0730143247_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イオンモール熊本 6人死亡 1人心肺停止 5人がけが 熊本県",
+      "text": "熊本県で震度7 同程度の地震に注意 猛暑で熱中症対策を",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 13:26:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190461_2607301014_0730101708_01_02.jpg"
+      "time": "Thu, 30 Jul 2026 17:12:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190291_2607300757_0730075919_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "横浜市長が重大なパワハラ行為 外部の調査委員が認定",
+      "text": "横浜市長が重大なパワハラ行為 外部調査委員が認定",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 13:24:48 +0900"
+      "time": "Thu, 30 Jul 2026 16:39:43 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "環境省 被災地のクーリングシェルター開放周知 災害時は初",
+      "text": "【動画】日本製紙 熊本 八代工場 捜索映像を公開 総務省消防庁",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 13:10:09 +0900"
+      "time": "Thu, 30 Jul 2026 14:39:31 +0900"
     }
   ]
 }
