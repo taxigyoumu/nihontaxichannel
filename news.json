@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-07-31 07:03",
-  "has_alert": true,
+  "updated_at": "2026-07-31 08:32",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日０５時１５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-30T20:17:41Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日０４時５９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-30T20:01:52Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -27,9 +13,17 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "イオンモール熊本 取り残された人いないか 警察の捜索続く",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 07:10:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191471_2607310704_0731071013_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "【被害状況】熊本地震 関連調査中含め34人死亡 熊本県発表",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 05:38:42 +0900",
+      "time": "Fri, 31 Jul 2026 07:06:08 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191421_2607310103_0731050648_01_02.jpg"
     },
     {
@@ -51,14 +45,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 DMAT調整医師 断水と暑さ懸念で長期支援訴え",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 05:10:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191371_2607302313_0731051029_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "消費税減税 自民 高市首相指示受け意見集約急ぐ 党内異論も",
       "source": "NHK",
       "time": "Fri, 31 Jul 2026 05:05:47 +0900"
@@ -66,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカとイラン再び攻撃の応酬 エスカレートの懸念",
+      "text": "次の国連事務総長は 1回目投票はグリンスパン氏が最多",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 05:21:04 +0900"
+      "time": "Fri, 31 Jul 2026 07:05:44 +0900"
     }
   ]
 }
