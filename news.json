@@ -1,43 +1,52 @@
 {
-  "updated_at": "2026-07-30 08:57",
+  "updated_at": "2026-07-30 11:38",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】３０日０８時４７分ころ、地震がありました。",
+      "text": "【震源・震度情報】３０日１１時１８分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-29T23:52:15Z"
+      "time": "2026-07-30T02:21:13Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】３０日０８時３０分ころ、地震がありました。",
+      "text": "【震源・震度情報】３０日１１時１３分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-29T23:33:18Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３０日０８時０６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-29T23:08:40Z"
+      "time": "2026-07-30T02:15:45Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本県で震度7 同程度の地震に注意 きょうも熱中症対策を",
+      "text": "熊本地震 関連調査中含め死者28人に【現地からの映像も】",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 06:05:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190291_2607300757_0730075919_01_02.jpg"
+      "time": "Thu, 30 Jul 2026 11:36:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190421_2607301023_0730102401_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "きょうも危険な暑さ 熊本では猛暑日予想 熱中症対策の徹底を",
+      "text": "アメリカ中央軍 イランへの攻撃を完了したと発表",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 08:49:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190281_2607300601_0730065332_01_02.jpg"
+      "time": "Thu, 30 Jul 2026 11:31:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190431_2607301002_0730100249_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日本製紙 八代工場 8人死亡 2人けが 1人安否不明 熊本県",
+      "source": "NHK",
+      "time": "Thu, 30 Jul 2026 09:57:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190441_2607301036_0730103818_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イオンモール熊本 5人死亡 1人心肺停止 5人がけが 熊本県",
+      "source": "NHK",
+      "time": "Thu, 30 Jul 2026 10:02:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190461_2607301014_0730101708_01_02.jpg"
     },
     {
       "category": "news",
@@ -50,32 +59,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 地震被害の「り災証明書」 申請受け付け開始の自治体も",
+      "text": "【動画】イオンモール熊本 捜索活動の映像 現場の医師が撮影",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 08:09:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190311_2607300647_0730080959_01_02.jpg"
+      "time": "Thu, 30 Jul 2026 11:27:02 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高市首相 食料品の消費税率 1％に引き下げる方針表明の見通し",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 05:12:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190331_2607300407_0730051205_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "FRB政策金利 5会合連続で据え置き 委員3人利上げ主張",
-      "source": "NHK",
-      "time": "Thu, 30 Jul 2026 08:27:16 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米大統領「イランを激しく攻撃する」 攻撃の応酬再燃に懸念",
-      "source": "NHK",
-      "time": "Thu, 30 Jul 2026 08:03:43 +0900"
+      "time": "Thu, 30 Jul 2026 05:12:04 +0900"
     }
   ]
 }
