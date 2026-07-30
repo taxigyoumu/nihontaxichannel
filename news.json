@@ -1,21 +1,27 @@
 {
-  "updated_at": "2026-07-30 23:41",
+  "updated_at": "2026-07-31 01:24",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３１日０１時１１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-30T16:14:01Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３１日００時２１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-30T15:24:04Z"
+    },
     {
       "category": "quake",
       "label": "地震",
       "text": "【震源・震度情報】３０日２３時２７分ころ、地震がありました。",
       "source": "気象庁",
       "time": "2026-07-30T14:30:32Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "NY市場 1ドル＝157円台後半まで値上がり",
-      "source": "NHK",
-      "time": "Thu, 30 Jul 2026 23:29:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191381_2607302324_0730232957_01_02.jpg"
     },
     {
       "category": "news",
@@ -28,18 +34,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明",
+      "text": "NY市場 1ドル＝157円台後半まで値上がり 市場介入の観測も",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 20:50:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190631_2607301153_0730115628_01_02.jpg"
+      "time": "Fri, 31 Jul 2026 00:54:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191381_2607302324_0730232957_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本県や八代市など管理の9港 液状化や亀裂などの被害 国交省",
+      "text": "食料品消費税 来年4月から2年間 1％ 高市首相が役員会で表明",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 21:25:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191251_2607302119_0730212542_01_02.jpg"
+      "time": "Thu, 30 Jul 2026 20:50:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190631_2607301153_0730115628_01_02.jpg"
     },
     {
       "category": "news",
@@ -52,9 +58,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】長崎 雲仙で震度4 津波の心配なし",
+      "text": "イオンモール熊本 7人死亡 5人けが 捜索続く 熊本県",
       "source": "NHK",
-      "time": "Thu, 30 Jul 2026 23:34:17 +0900"
+      "time": "Thu, 30 Jul 2026 22:33:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015190461_2607301014_0730101708_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日本製紙 八代工場 残る1人救助 容体不明 捜索活動が終了",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 00:07:36 +0900"
     },
     {
       "category": "news",
