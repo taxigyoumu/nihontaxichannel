@@ -1,14 +1,59 @@
 {
-  "updated_at": "2026-08-01 05:02",
-  "has_alert": false,
+  "updated_at": "2026-08-01 06:37",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日０６時２５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-31T21:28:28Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日０５時２３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-31T20:26:41Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日０５時２０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-31T20:25:18Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【被害状況】熊本地震 関連調査中含め36人死亡 熊本県発表",
+      "text": "熊本地震 関連調査中含め36人死亡 9500人余りが避難 県発表",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 23:25:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191421_2607311158_0731115953_01_02.jpg"
+      "time": "Sat, 01 Aug 2026 05:52:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193131_2608010544_0801055249_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 避難生活の長期化も見据え環境改善進める 政府",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 06:03:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193101_2608010550_0801060304_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "39度予想 熊本被災地でも猛暑日に できるかぎりの対策を",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 06:27:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193191_2608010626_0801062730_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "消費税減税 自民党内に慎重意見も根強く 週明けも議論継続へ",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 06:08:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193121_2608010504_0801060812_01_02.jpg"
     },
     {
       "category": "news",
@@ -21,40 +66,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "きょうも熊本など猛烈な暑さ予想 できるかぎりの熱中症対策を",
+      "text": "大手銀行 8月の住宅ローン固定金利引き上げ 長期金利上昇で",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 00:11:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191291_2607311847_0731192626_01_02.jpg"
+      "time": "Sat, 01 Aug 2026 06:22:31 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日銀 政策金利を1％程度に据え置き決定",
+      "text": "高額療養費制度 自己負担の上限額引き上げも 年間上限額を新設",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 18:56:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191761_2607311101_0731121614_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本 八代 倒壊住宅から女性救出 ベトナム人ら地元住民が協力",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 20:21:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015192771_2607312008_0731202152_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日米など11か国 北朝鮮IT労働者への注意求める文書公表",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 22:57:42 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自転車の交通違反 「青切符」導入3か月で全国7000件交付",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 21:05:44 +0900"
+      "time": "Sat, 01 Aug 2026 05:45:25 +0900"
     }
   ]
 }
