@@ -1,41 +1,51 @@
 {
-  "updated_at": "2026-07-31 18:23",
+  "updated_at": "2026-07-31 20:38",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】３１日１８時１３分ころ、地震がありました。",
+      "text": "【震源・震度情報】３１日２０時３０分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-31T09:16:23Z"
+      "time": "2026-07-31T11:32:48Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】３１日１８時１２分ころ、地震がありました。",
+      "text": "【震源・震度情報】３１日１９時５９分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-07-31T09:15:04Z"
+      "time": "2026-07-31T11:02:22Z"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日１８時１０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-31T09:13:06Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 19:07:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191421_2607311158_0731115953_01_02.jpg"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日１８時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-07-31T09:06:46Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "九州新幹線 熊本～新水俣間「8月中の運転再開は困難」JR九州",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 19:44:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015192431_2607311915_0731191708_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日銀 政策金利を1％程度に据え置き決定",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 18:56:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191761_2607311101_0731121614_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本で震度7 同程度の地震注意 猛烈な暑さ予想 熱中症対策を",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 18:20:20 +0900",
+      "time": "Fri, 31 Jul 2026 18:50:14 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191461_2607311146_0731115104_01_02.jpg"
     },
     {
@@ -43,46 +53,22 @@
       "label": "ニュース",
       "text": "短時間で急激な円高進む 政府・日銀が再び市場介入か",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 18:13:32 +0900",
+      "time": "Fri, 31 Jul 2026 19:41:05 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191381_2607311806_0731181333_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表",
+      "text": "夏の甲子園 代表校の練習始まる 熊本 有明高校 大きな声で練習",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 17:28:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191421_2607311158_0731115953_01_02.jpg"
+      "time": "Fri, 31 Jul 2026 19:45:16 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "海保「航海日当」300人余の船長が不正 常習的に行われたか",
+      "text": "あすも熊本県など猛烈な暑さ予想 できるかぎりの熱中症対策を",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 18:18:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015192331_2607311743_0731181858_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ふるさと納税 寄付総額1兆3300億円余で過去最高",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 17:34:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015192151_2607311631_0731173500_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "スーパーのコメ平均価格 5キロ3311円 5週連続で値下がり",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 18:14:38 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "南太平洋の島国「ナウル」 国名を「ナオエロ」に変更",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 17:27:48 +0900"
+      "time": "Fri, 31 Jul 2026 19:26:25 +0900"
     }
   ]
 }
