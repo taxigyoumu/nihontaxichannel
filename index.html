@@ -585,6 +585,40 @@ for(var i=0;i<65;i++){
             title="安全注意喚起">
           </iframe>
         </div>
+        <!-- ③.5 台数口配車ルール -->
+        <div class="ev-slot" id="ev-daisuguchi" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:auto;padding:22px 26px;">
+          <div style="font-size:12px;color:var(--text-secondary);margin-bottom:8px;">複数台同時配車時の乗務員指導用 ／ 制定日:2026年7月31日 発行:タクシー部</div>
+          <div style="font-size:15px;font-weight:700;color:var(--text-primary);margin-bottom:12px;line-height:1.6;">
+            同一時刻・同一場所へ複数台の配車依頼（台数口配車）を受けた際は、乗務員間の連携不足による料金のばらつきやお客様置き去りを防ぐため、下記ルールを必ず守ってください。
+          </div>
+          <table style="width:100%;border-collapse:collapse;font-size:13px;margin-bottom:12px;">
+            <tbody>
+              <tr style="border-top:1px solid var(--border);">
+                <td style="padding:7px 10px;width:120px;color:var(--accent);font-weight:700;vertical-align:top;">電話受付時</td>
+                <td style="padding:7px 10px;color:var(--text-primary);">台数・行先・車種希望など基本情報を確認する。</td>
+              </tr>
+              <tr style="border-top:1px solid var(--border);">
+                <td style="padding:7px 10px;color:var(--accent);font-weight:700;vertical-align:top;">現場での打ち合わせ</td>
+                <td style="padding:7px 10px;color:var(--text-primary);">電話では伝わらない細部（ルート、乗車順、経由地等）を、乗務員同士が現場で必ず確認する。</td>
+              </tr>
+              <tr style="border-top:1px solid var(--border);">
+                <td style="padding:7px 10px;color:var(--accent);font-weight:700;vertical-align:top;">ルート確認</td>
+                <td style="padding:7px 10px;color:var(--text-primary);">有料道路の使用有無・経由地を打ち合わせ時に統一する。</td>
+              </tr>
+              <tr style="border-top:1px solid var(--border);">
+                <td style="padding:7px 10px;color:var(--accent);font-weight:700;vertical-align:top;">乗車確認</td>
+                <td style="padding:7px 10px;color:var(--text-primary);">どのお客様がどの車両に乗るか、出発前に全ドライバーが再確認する。</td>
+              </tr>
+              <tr style="border-top:1px solid var(--border);border-bottom:1px solid var(--border);">
+                <td style="padding:7px 10px;color:var(--accent);font-weight:700;vertical-align:top;">出発タイミング</td>
+                <td style="padding:7px 10px;color:var(--text-primary);">現場確認が済み次第、各車両は出発可。<strong style="color:#ff6b6b;">確認が取れないまま出発してはならない。</strong></td>
+              </tr>
+            </tbody>
+          </table>
+          <div style="font-size:12px;color:var(--text-secondary);line-height:1.7;background:var(--bg-panel-hover);border-radius:8px;padding:10px 14px;border-left:3px solid var(--accent);">
+            酒酔いのお客様など、電話でのやり取りだけでは詳細な指示を正確に把握できないケースも多いため、現場での乗務員間の確認が料金トラブルやお客様対応トラブルの防止に直結します。台数口配車を受けた際は、必ず現場で他車の乗務員と確認を行ってください。
+          </div>
+        </div>
         <!-- ③ ループ動画 -->
         <div class="ev-slot" id="ev-video" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;display:flex;align-items:center;justify-content:center;">
           <video id="ev-video-el"
@@ -793,6 +827,7 @@ for(var i=0;i<65;i++){
   var TICK = 250;
   var views = [
     { slot:'ev-safety',  icon:'⚠️', title:'安全注意喚起',        sub:'重大事故・自責事故 警戒',   dur:20000, video:null },
+    { slot:'ev-daisuguchi', icon:'🚕', title:'台数口配車ルール',  sub:'複数台同時配車時の乗務員指導', dur:25000, video:null },
     { slot:'ev-video',   icon:'🎬', title:'業務連絡 動画',        sub:'事故防止 注意喚起',          dur:30000, video:'ev-video-el' },
     { slot:'ev-video2',  icon:'🎬', title:'業務連絡 動画',        sub:'GO後席決済機の注意事項',     dur:28000, video:'ev-video2-el' },
     { slot:'ev-video3',  icon:'🎬', title:'業務連絡 動画',        sub:'スライドドアの確認',         dur:30000, video:'ev-video3-el' },
