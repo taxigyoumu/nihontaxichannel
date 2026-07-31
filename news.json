@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-07-31 20:38",
+  "updated_at": "2026-07-31 22:57",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３１日２２時３５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-31T13:37:42Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３１日２１時５９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-31T13:02:05Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３１日２１時０７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-31T12:09:39Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -19,9 +40,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表",
+      "text": "【被害状況】熊本地震 関連調査中含め36人死亡 熊本県発表",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 19:07:56 +0900",
+      "time": "Fri, 31 Jul 2026 21:38:49 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191421_2607311158_0731115953_01_02.jpg"
     },
     {
@@ -43,32 +64,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本で震度7 同程度の地震注意 猛烈な暑さ予想 熱中症対策を",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 18:50:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191461_2607311146_0731115104_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "短時間で急激な円高進む 政府・日銀が再び市場介入か",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 19:41:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191381_2607311806_0731181333_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "夏の甲子園 代表校の練習始まる 熊本 有明高校 大きな声で練習",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 19:45:16 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "あすも熊本県など猛烈な暑さ予想 できるかぎりの熱中症対策を",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 19:26:25 +0900"
+      "time": "Fri, 31 Jul 2026 22:17:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191291_2607311847_0731192626_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "被災地外のホテル・旅館の空室活用で避難生活環境改善を 首相",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 21:08:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015192811_2607312002_0731210844_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【プロ野球結果】首位に同率で並ぶ巨人 3本のホームランで快勝",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 22:32:33 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福島 須賀川 7月30日に住宅など30棟被害 気象台調査“突風か”",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 21:06:55 +0900"
     }
   ]
 }
