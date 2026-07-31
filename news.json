@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-07-31 08:32",
-  "has_alert": false,
+  "updated_at": "2026-07-31 11:31",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３１日１１時０８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-07-31T02:12:15Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【被害状況】熊本地震 関連調査中含め35人死亡 熊本県発表",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 11:14:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191421_2607310103_0731050648_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日本製紙 八代工場 閉じ込めの11人全員救助 うち9人死亡",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 10:42:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191681_2607310954_0731104251_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "円相場 一時1ドル=157円台まで値上がり 市場介入との見方",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 09:55:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191381_2607310856_0731085822_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "8月食品値上げは2300品目超 値上げラッシュ秋にピークか",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 11:22:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191751_2607311052_0731112211_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米大統領 “ハマスの武装解除で合意”とSNS投稿 BBCも報じる",
+      "source": "NHK",
+      "time": "Fri, 31 Jul 2026 11:13:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191691_2607311005_0731100749_01_03.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本で震度7 同程度の地震に注意 きょうは猛烈な暑さに",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 05:42:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191461_2607310054_0731054247_01_02.jpg"
+      "time": "Fri, 31 Jul 2026 05:42:46 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "イオンモール熊本 取り残された人いないか 警察の捜索続く",
       "source": "NHK",
-      "time": "Fri, 31 Jul 2026 07:10:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191471_2607310704_0731071013_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【被害状況】熊本地震 関連調査中含め34人死亡 熊本県発表",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 07:06:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191421_2607310103_0731050648_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "NY市場 1ドル＝157円台後半まで値上がり 市場介入の観測も",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 00:54:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260730/K10015191381_2607302324_0730232957_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東～西日本中心に危険な暑さ 熊本県内も猛烈な暑さ予想",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 06:09:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260731/K10015191291_2607310531_0731060916_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税 自民 高市首相指示受け意見集約急ぐ 党内異論も",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 05:05:47 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "次の国連事務総長は 1回目投票はグリンスパン氏が最多",
-      "source": "NHK",
-      "time": "Fri, 31 Jul 2026 07:05:44 +0900"
+      "time": "Fri, 31 Jul 2026 07:10:12 +0900"
     }
   ]
 }
