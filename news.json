@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-08-01 15:36",
+  "updated_at": "2026-08-01 18:03",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　１日１４時５８分ころ、地震がありました。",
+      "text": "【震源・震度情報】　１日１７時５１分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-01T06:00:23Z"
+      "time": "2026-08-01T08:54:47Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 関連調査中含め36人死亡 9200人余りが避難 県発表",
+      "text": "熊本地震 関連調査中含め36人死亡 9000人余避難",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 11:59:45 +0900",
+      "time": "Sat, 01 Aug 2026 16:23:20 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193131_2608010642_0801064325_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高校野球 夏の甲子園 連覇目指す沖縄尚学は横浜と【全結果】",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 18:00:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015192981_2607312228_0801180012_01_02.jpg"
     },
     {
       "category": "news",
@@ -36,32 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【台風13号】非常に強い勢力で西へ 小笠原は3日ごろから影響か",
+      "text": "台風13号 非常に強い勢力で西へ 小笠原は3日ごろから影響か",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 12:05:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193351_2608011301_0801130243_01_02.jpg"
+      "time": "Sat, 01 Aug 2026 17:26:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193351_2608011634_0801164111_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ジャワ原人 赤ちゃんを未発達なまま出産し協力して子育てか",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 15:14:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015192831_2608011033_0801151421_01_03.jpg"
+      "time": "Sat, 01 Aug 2026 15:14:20 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "FIFAが子会社設立計画を撤回 UEFAなどの反発受け",
+      "text": "左ひざ痛のドジャース大谷 復帰戦で24号HR含む長打2本",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 14:48:27 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース大谷 1番DHで先発復帰 逆転の24号ツーラン",
-      "source": "NHK",
-      "time": "Sat, 01 Aug 2026 13:02:13 +0900"
+      "time": "Sat, 01 Aug 2026 17:07:34 +0900"
     }
   ]
 }
