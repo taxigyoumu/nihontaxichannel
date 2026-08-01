@@ -1,18 +1,18 @@
 {
-  "updated_at": "2026-08-01 23:05",
+  "updated_at": "2026-08-02 00:35",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　１日２２時５９分ころ、地震がありました。",
+      "text": "【震源・震度情報】　２日００時２２分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-01T14:02:01Z"
+      "time": "2026-08-01T15:25:44Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本 宇城市で震度5弱 津波の心配なし",
+      "text": "【地震情報】熊本 宇城市で震度5弱 津波の心配なし",
       "source": "NHK",
       "time": "Sat, 01 Aug 2026 22:25:45 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193851_2608012152_0801215312_01_02.jpg"
@@ -28,10 +28,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "愛知 豊田 矢作川で川遊びの中学2年の男子生徒が流され死亡",
+      "text": "バレーボール国際大会 日本男子は準決勝で米に敗れ3位決定戦へ",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 21:34:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193641_2608011728_0801175038_01_02.jpg"
+      "time": "Sun, 02 Aug 2026 00:21:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193891_2608020024_0802002633_01_02.jpg"
     },
     {
       "category": "news",
