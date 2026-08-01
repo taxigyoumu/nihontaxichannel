@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-08-01 18:03",
+  "updated_at": "2026-08-01 19:56",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日１８時４１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-01T09:44:53Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう　１日１８時４１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-01T09:44:05Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】　１日１８時４１分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-01T09:42:55Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日１８時２２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-01T09:24:46Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -12,56 +40,56 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 関連調査中含め36人死亡 9000人余避難",
+      "text": "熊本地震 関連調査中含め36人死亡 住宅被害3400超 県発表",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 16:23:20 +0900",
+      "time": "Sat, 01 Aug 2026 19:25:47 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193131_2608010642_0801064325_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 19:31:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193651_2608011804_0801181156_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高校野球 夏の甲子園 連覇目指す沖縄尚学は横浜と【全結果】",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 18:00:11 +0900",
+      "time": "Sat, 01 Aug 2026 19:48:42 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015192981_2607312228_0801180012_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 市川 マンション爆発2人けが 周辺の建物にも被害",
+      "text": "円相場 再び円高方向に 円安是正で日米が異例の協調対応か",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 11:54:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193241_2608010856_0801085815_01_02.jpg"
+      "time": "Sat, 01 Aug 2026 19:43:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193711_2608011932_0801194356_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米財務省が31日に円買い介入と報道 協調介入であれば異例",
+      "text": "千葉 市川 マンション爆発2人けが ガス漏れか",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 11:46:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193361_2608011139_0801114609_01_02.jpg"
+      "time": "Sat, 01 Aug 2026 18:09:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193241_2608010856_0801085815_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風13号 非常に強い勢力で西へ 小笠原は3日ごろから影響か",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 17:26:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193351_2608011634_0801164111_01_02.jpg"
+      "time": "Sat, 01 Aug 2026 19:14:05 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ジャワ原人 赤ちゃんを未発達なまま出産し協力して子育てか",
+      "text": "愛子さま 伊勢神宮「式年遷宮」に使われる御用材加工を視察",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 15:14:20 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "左ひざ痛のドジャース大谷 復帰戦で24号HR含む長打2本",
-      "source": "NHK",
-      "time": "Sat, 01 Aug 2026 17:07:34 +0900"
+      "time": "Sat, 01 Aug 2026 19:02:08 +0900"
     }
   ]
 }
