@@ -1,21 +1,44 @@
 {
-  "updated_at": "2026-08-02 00:35",
+  "updated_at": "2026-08-02 01:56",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　２日００時２２分ころ、地震がありました。",
+      "text": "【震源・震度情報】　２日０１時３９分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-01T15:25:44Z"
+      "time": "2026-08-01T16:41:43Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　２日０１時１９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-01T16:24:47Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本 宇城市で震度5弱 津波の心配なし",
+      "text": "【地震情報】熊本 水俣市 上天草市などで震度4 津波の心配なし",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 22:25:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193851_2608012152_0801215312_01_02.jpg"
+      "time": "Sun, 02 Aug 2026 01:34:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193911_2608020113_0802011401_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "秋田 横手市に避難指示 686世帯の計1479人",
+      "source": "NHK",
+      "time": "Sun, 02 Aug 2026 01:29:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193921_2608020121_0802012951_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "40度に迫る暑さ 2日は大分で酷暑日予想 熱中症対策の徹底を",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 22:47:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193191_2608011815_0801184247_01_02.jpg"
     },
     {
       "category": "news",
@@ -38,16 +61,7 @@
       "label": "ニュース",
       "text": "熊本地震 関連調査中含め36人死亡 住宅被害3400超 県発表",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 21:36:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193131_2608010642_0801064325_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
-      "source": "NHK",
-      "time": "Sat, 01 Aug 2026 22:07:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193651_2608011804_0801181156_01_02.jpg"
+      "time": "Sat, 01 Aug 2026 21:36:07 +0900"
     },
     {
       "category": "news",
@@ -55,13 +69,6 @@
       "text": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が",
       "source": "NHK",
       "time": "Sat, 01 Aug 2026 20:23:03 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "40度に迫る暑さ 2日は大分で酷暑日予想 熱中症対策の徹底を",
-      "source": "NHK",
-      "time": "Sat, 01 Aug 2026 22:47:05 +0900"
     }
   ]
 }
