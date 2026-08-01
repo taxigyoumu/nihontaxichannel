@@ -1,42 +1,7 @@
 {
-  "updated_at": "2026-08-01 19:56",
-  "has_alert": true,
+  "updated_at": "2026-08-01 21:01",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　１日１８時４１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-01T09:44:53Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう　１日１８時４１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-01T09:44:05Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　１日１８時４１分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-01T09:42:55Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　１日１８時２２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-01T09:24:46Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　１日１７時５１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-01T08:54:47Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -48,48 +13,48 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "愛知 豊田 川遊びの中学2年の男子生徒が流され意識不明の重体",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 20:55:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193641_2608011728_0801175038_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 19:31:54 +0900",
+      "time": "Sat, 01 Aug 2026 20:56:58 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193651_2608011804_0801181156_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 夏の甲子園 連覇目指す沖縄尚学は横浜と【全結果】",
+      "text": "【証言】爆発のイオンモール熊本 地震発生から爆発まで何が",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 19:48:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015192981_2607312228_0801180012_01_02.jpg"
+      "time": "Sat, 01 Aug 2026 20:23:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193311_2608011439_0801202303_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "宮城 大崎 鬼首 中山東 中山西の537世帯1031人に避難指示",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 20:52:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193801_2608012045_0801205233_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "40度に迫る暑さ 2日は大分で酷暑日予想 熱中症対策の徹底を",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 19:31:18 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "円相場 再び円高方向に 円安是正で日米が異例の協調対応か",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 19:43:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193711_2608011932_0801194356_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 市川 マンション爆発2人けが ガス漏れか",
-      "source": "NHK",
-      "time": "Sat, 01 Aug 2026 18:09:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193241_2608010856_0801085815_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風13号 非常に強い勢力で西へ 小笠原は3日ごろから影響か",
-      "source": "NHK",
-      "time": "Sat, 01 Aug 2026 19:14:05 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "愛子さま 伊勢神宮「式年遷宮」に使われる御用材加工を視察",
-      "source": "NHK",
-      "time": "Sat, 01 Aug 2026 19:02:08 +0900"
+      "time": "Sat, 01 Aug 2026 20:15:01 +0900"
     }
   ]
 }
