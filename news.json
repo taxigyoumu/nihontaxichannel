@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-08-02 01:56",
-  "has_alert": true,
+  "updated_at": "2026-08-02 02:59",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　２日０１時３９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-01T16:41:43Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　２日０１時１９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-01T16:24:47Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -23,14 +9,6 @@
       "source": "NHK",
       "time": "Sun, 02 Aug 2026 01:34:31 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193911_2608020113_0802011401_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋田 横手市に避難指示 686世帯の計1479人",
-      "source": "NHK",
-      "time": "Sun, 02 Aug 2026 01:29:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193921_2608020121_0802012951_01_02.jpg"
     },
     {
       "category": "news",
@@ -47,6 +25,14 @@
       "source": "NHK",
       "time": "Sat, 01 Aug 2026 22:05:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193811_2608012123_0801220545_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "秋田 横手市に避難指示 686世帯の計1479人",
+      "source": "NHK",
+      "time": "Sun, 02 Aug 2026 01:29:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193921_2608020121_0802012951_01_02.jpg"
     },
     {
       "category": "news",
