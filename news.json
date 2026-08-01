@@ -1,22 +1,58 @@
 {
-  "updated_at": "2026-08-02 05:25",
-  "has_alert": false,
+  "updated_at": "2026-08-02 06:24",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【地震情報】大分 宮崎で震度3 津波の心配なし",
-      "source": "NHK",
-      "time": "Sun, 02 Aug 2026 05:00:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015192971_2608020416_0802041819_01_02.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-01T21:08:14Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-01T21:08:14Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-01T21:08:13Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　２日０６時１８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-01T21:20:57Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "40度に迫る暑さ 2日は大分で酷暑日予想 熱中症対策の徹底を",
+      "text": "熊本地震 関連調査中含め36人死亡 避難所の熱中症対策を強化へ",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 22:47:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193191_2608011815_0801184247_01_02.jpg"
+      "time": "Sun, 02 Aug 2026 05:26:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193881_2608020133_0802052651_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 断水の早期解消へ復旧の取り組み進める 政府",
+      "source": "NHK",
+      "time": "Sun, 02 Aug 2026 05:39:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193871_2608012316_0802054000_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
+      "source": "NHK",
+      "time": "Sat, 01 Aug 2026 22:07:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193651_2608011804_0801181156_01_02.jpg"
     },
     {
       "category": "news",
@@ -37,24 +73,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 関連調査中含め36人死亡 住宅被害3400超 県発表",
+      "text": "モスクワで爆発 3人死亡 15人けが 原因や背景を捜査",
       "source": "NHK",
-      "time": "Sat, 01 Aug 2026 21:36:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193131_2608010642_0801064325_01_02.jpg"
+      "time": "Sun, 02 Aug 2026 05:31:37 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "バレーボール国際大会 日本男子は準決勝で米に敗れ3位決定戦へ",
+      "text": "愛子さま 三重県の鳥羽水族館でジュゴンやラッコをご覧に",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 00:21:04 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "香川 観音寺 海水浴に訪れたベトナム国籍の20代男性が死亡",
-      "source": "NHK",
-      "time": "Sun, 02 Aug 2026 02:58:22 +0900"
+      "time": "Sun, 02 Aug 2026 05:28:27 +0900"
     }
   ]
 }
