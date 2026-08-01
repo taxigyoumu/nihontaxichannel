@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-08-02 06:24",
+  "updated_at": "2026-08-02 07:26",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-01T21:08:14Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-01T21:08:14Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-01T21:08:13Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　２日０６時３６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-01T21:39:21Z"
     },
     {
       "category": "quake",
@@ -29,6 +15,14 @@
       "text": "【震源・震度情報】　２日０６時１８分ころ、地震がありました。",
       "source": "気象庁",
       "time": "2026-08-01T21:20:57Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本 地震活動が活発 震度7程度に注意 危険な暑さ熱中症対策を",
+      "source": "NHK",
+      "time": "Sun, 02 Aug 2026 07:13:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193991_2608020706_0802071332_01_02.jpg"
     },
     {
       "category": "news",
@@ -41,25 +35,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 断水の早期解消へ復旧の取り組み進める 政府",
+      "text": "大分 日田で40度の酷暑日予想 東北は土砂災害に厳重警戒を",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 05:39:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193871_2608012316_0802054000_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イオンモール熊本での捜索活動が終了 7人が死亡 5人がけが",
-      "source": "NHK",
-      "time": "Sat, 01 Aug 2026 22:07:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260801/K10015193651_2608011804_0801181156_01_02.jpg"
+      "time": "Sun, 02 Aug 2026 06:31:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193981_2608020613_0802063116_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "岡山 矢掛町で2歳男児が行方不明 きょうも警察と消防が捜索",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 05:09:13 +0900",
+      "time": "Sun, 02 Aug 2026 06:57:24 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193901_2608020230_0802050914_01_03.jpg"
     },
     {
