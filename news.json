@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-08-02 23:26",
+  "updated_at": "2026-08-03 00:37",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　２日２２時５８分ころ、地震がありました。",
+      "text": "【震源・震度情報】　３日００時２６分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-02T14:01:15Z"
+      "time": "2026-08-02T15:29:26Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　３日００時２５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-02T15:28:23Z"
     },
     {
       "category": "news",
@@ -24,6 +31,14 @@
       "source": "NHK",
       "time": "Sun, 02 Aug 2026 19:28:34 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193981_2608021927_0802192835_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】北海道で震度3 津波の心配なし",
+      "source": "NHK",
+      "time": "Mon, 03 Aug 2026 00:06:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015194521_2608022356_0802235705_01_02.jpg"
     },
     {
       "category": "news",
@@ -46,8 +61,7 @@
       "label": "ニュース",
       "text": "台風13号 非常に強い勢力で西へ 小笠原はあすから影響か",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 19:47:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015194111_2608021306_0802130727_01_02.jpg"
+      "time": "Sun, 02 Aug 2026 19:47:15 +0900"
     },
     {
       "category": "news",
@@ -55,13 +69,6 @@
       "text": "かき氷 クーラー 入浴  生活情報支援サイト【支援の動き】",
       "source": "NHK",
       "time": "Sun, 02 Aug 2026 20:20:26 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "90代女性遺体見つかる 別事件で逮捕のベトナム人が遺棄か 埼玉",
-      "source": "NHK",
-      "time": "Sun, 02 Aug 2026 20:11:40 +0900"
     }
   ]
 }
