@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-08-02 13:52",
-  "has_alert": true,
+  "updated_at": "2026-08-02 16:30",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　２日１３時４７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-02T04:50:19Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 関連調査中含め38人死亡 初の災害関連死の疑いも",
+      "source": "NHK",
+      "time": "Sun, 02 Aug 2026 16:05:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193881_2608020133_0802052651_01_02.jpg"
     },
     {
       "category": "news",
@@ -20,14 +21,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 関連調査中含め38人死亡 初の災害関連死の疑いも",
-      "source": "NHK",
-      "time": "Sun, 02 Aug 2026 12:32:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193881_2608020133_0802052651_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "熊本 地震活動が活発 震度7程度に注意 危険な暑さ熱中症対策を",
       "source": "NHK",
       "time": "Sun, 02 Aug 2026 11:43:47 +0900",
@@ -36,9 +29,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "和歌山・高知で40度超の酷暑日 東北 関東甲信は激しい雨警戒を",
+      "text": "高知・和歌山で40度超の酷暑日 東北・関東甲信は激しい雨警戒",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 13:40:16 +0900",
+      "time": "Sun, 02 Aug 2026 14:51:03 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193981_2608021331_0802134017_01_03.jpg"
     },
     {
@@ -52,9 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 マンション爆発 約5時間前に「ガスのにおい」関連調べる",
+      "text": "トランプ大統領  イランへの攻撃を中止することに同意と投稿",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 13:01:56 +0900"
+      "time": "Sun, 02 Aug 2026 14:53:44 +0900"
     },
     {
       "category": "news",
