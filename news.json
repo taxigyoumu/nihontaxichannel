@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 05:27",
+  "updated_at": "2026-08-03 06:25",
   "has_alert": true,
   "items": [
     {
@@ -19,6 +19,13 @@
     {
       "category": "quake",
       "label": "地震",
+      "text": "【震源・震度情報】　３日０５時５３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-02T20:56:06Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
       "text": "【震源・震度情報】　３日０５時０２分ころ、地震がありました。",
       "source": "気象庁",
       "time": "2026-08-02T20:05:36Z"
@@ -34,10 +41,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 猛暑の中での災害関連死防ぐ対策を強化 政府",
+      "text": "熊本県 最高気温40度予想 ホテルなど「2次避難」受付へ",
       "source": "NHK",
-      "time": "Mon, 03 Aug 2026 05:03:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194451_2608030012_0803050330_01_02.jpg"
+      "time": "Mon, 03 Aug 2026 05:52:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194601_2608030539_0803055218_01_02.jpg"
     },
     {
       "category": "news",
@@ -50,32 +57,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 車中泊で死亡 熱中症疑い 3日 熊本 酷暑日予想で注意",
+      "text": "羽田空港 荷物預け入れ締め切りを出発30分前に 出発の遅れ増え",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 21:57:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193881_2608021938_0802193845_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "記録的な暑さ 3日は熊本市など九州で酷暑日予想 熱中症対策を",
-      "source": "NHK",
-      "time": "Sun, 02 Aug 2026 19:28:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015193981_2608021927_0802192835_01_02.jpg"
+      "time": "Mon, 03 Aug 2026 05:24:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194531_2608030014_0803052429_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ゴルフ 全英女子オープン 桑木志帆が優勝 海外メジャー初制覇",
       "source": "NHK",
-      "time": "Mon, 03 Aug 2026 04:39:29 +0900"
+      "time": "Mon, 03 Aug 2026 04:39:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194471_2608030445_0803044840_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "兵庫 豊岡の観光地「淀の洞門」で落石が頭にあたり女性死亡",
+      "text": "女子生徒などの画像を裸に加工し投稿の疑い 32歳会社員を逮捕",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 21:28:57 +0900"
+      "time": "Mon, 03 Aug 2026 05:13:29 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "インドネシアのフェリーで火災 5人死亡 41人行方不明",
+      "source": "NHK",
+      "time": "Mon, 03 Aug 2026 05:11:41 +0900"
     }
   ]
 }
