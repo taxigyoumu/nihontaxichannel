@@ -1,14 +1,51 @@
 {
-  "updated_at": "2026-08-03 04:21",
-  "has_alert": false,
+  "updated_at": "2026-08-03 05:27",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-02T19:58:05Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-02T19:58:05Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　３日０５時０２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-02T20:05:36Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ゴルフ 全英女子オープン 桑木志帆が優勝 海外メジャー初制覇",
+      "text": "震度7の氷川町 高校生が自宅で死亡 父親「まだ信じられない」",
       "source": "NHK",
-      "time": "Mon, 03 Aug 2026 03:51:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194471_2608022337_0803033842_01_02.jpg"
+      "time": "Mon, 03 Aug 2026 05:10:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194551_2608030138_0803051049_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 猛暑の中での災害関連死防ぐ対策を強化 政府",
+      "source": "NHK",
+      "time": "Mon, 03 Aug 2026 05:03:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194451_2608030012_0803050330_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日米の協調介入 ことし5月の日米財務相会談から本格調整",
+      "source": "NHK",
+      "time": "Mon, 03 Aug 2026 05:01:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194421_2608022124_0803050111_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,32 +66,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円安是正へ日米が異例の協調介入 3日に日米共同の声明発表へ",
+      "text": "ゴルフ 全英女子オープン 桑木志帆が優勝 海外メジャー初制覇",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 20:40:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015194291_2608021803_0802204046_01_02.jpg"
+      "time": "Mon, 03 Aug 2026 04:39:29 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "兵庫 豊岡の観光地「淀の洞門」で落石が頭にあたり女性死亡",
       "source": "NHK",
-      "time": "Sun, 02 Aug 2026 21:28:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260802/K10015194411_2608022100_0802212858_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風13号 非常に強い勢力で西へ 小笠原はあすから影響か",
-      "source": "NHK",
-      "time": "Sun, 02 Aug 2026 19:47:15 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "バレーボール国際大会 日本男子 3位決定戦で敗れる",
-      "source": "NHK",
-      "time": "Sun, 02 Aug 2026 20:41:30 +0900"
+      "time": "Sun, 02 Aug 2026 21:28:57 +0900"
     }
   ]
 }
