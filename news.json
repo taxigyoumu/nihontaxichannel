@@ -1,41 +1,21 @@
 {
-  "updated_at": "2026-08-03 07:27",
+  "updated_at": "2026-08-03 08:29",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　３日０６時５８分ころ、地震がありました。",
+      "text": "【震源・震度情報】　３日０８時１３分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-02T22:01:25Z"
+      "time": "2026-08-02T23:15:30Z"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう　３日０６時５８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-02T22:00:32Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　３日０６時５８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-02T21:59:49Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　３日０６時４１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-02T21:44:20Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　３日０５時５３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-02T20:56:06Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "片山財務相 談話を発表 米と協調し市場介入実施を明らかに",
+      "source": "NHK",
+      "time": "Mon, 03 Aug 2026 08:15:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194421_2608022124_0803050111_01_02.jpg"
     },
     {
       "category": "news",
@@ -51,7 +31,7 @@
       "text": "熊本 地震活動続く 酷暑日予想も 屋外での作業控えて",
       "source": "NHK",
       "time": "Mon, 03 Aug 2026 06:54:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194581_2608030615_0803065426_01_02.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194581_2608030756_0803075709_01_02.jpg"
     },
     {
       "category": "news",
@@ -60,14 +40,6 @@
       "source": "NHK",
       "time": "Mon, 03 Aug 2026 07:11:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194371_2608030703_0803070445_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日米の協調介入 ことし5月の日米財務相会談から本格調整",
-      "source": "NHK",
-      "time": "Mon, 03 Aug 2026 05:01:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194421_2608022124_0803050111_01_02.jpg"
     },
     {
       "category": "news",
