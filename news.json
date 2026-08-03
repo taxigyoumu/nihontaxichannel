@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-04 05:42",
+  "updated_at": "2026-08-04 07:05",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日０６時０４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-03T21:08:02Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう　４日０６時０４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-03T21:07:11Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】　４日０６時０４分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-03T21:05:34Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -17,65 +38,58 @@
       "time": "2026-08-03T20:34:47Z"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　４日０５時３２分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-03T20:33:42Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震1週間 38人死亡 災害関連死いかに防ぐか喫緊の課題に",
+      "source": "NHK",
+      "time": "Tue, 04 Aug 2026 05:44:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195471_2608040053_0804054402_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本 宇城で震度4 津波の心配なし",
+      "text": "台風13号 小笠原諸島に近づく 高波と暴風に厳重に警戒を",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 05:39:38 +0900",
+      "time": "Tue, 04 Aug 2026 06:37:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608040621_0804063726_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で",
+      "source": "NHK",
+      "time": "Tue, 04 Aug 2026 06:45:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195341_2608040011_0804064512_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】熊本 宇城で震度4 津波の心配なし(5:32)",
+      "source": "NHK",
+      "time": "Tue, 04 Aug 2026 06:26:31 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015194611_2608040536_0804053939_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本市などで初の酷暑日 被災地であすも危険な暑さ続く見込み",
+      "text": "食料品の消費税減税 5日にも閣議決定したい考え 政府",
       "source": "NHK",
-      "time": "Mon, 03 Aug 2026 19:31:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194581_2608031920_0803193128_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 05:49:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195321_2608040113_0804054910_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "7月31日介入は4兆円超える規模か 民間仲介会社の分析",
+      "text": "熊本地震 プッシュ型支援進める 予備費で予算確保も 政府",
       "source": "NHK",
-      "time": "Mon, 03 Aug 2026 22:42:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195391_2608032135_0803224221_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 05:51:29 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 小笠原で高波・暴風厳重警戒 その後沖縄・奄美へ",
+      "text": "ウクライナ対外情報局長官にウメロフ氏 無人機協力推進へ",
       "source": "NHK",
-      "time": "Mon, 03 Aug 2026 18:49:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194591_2608031831_0803183154_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "豊臣秀吉の妻ゆかりの京都 高台寺の敷地内で火事 ほぼ消し止め",
-      "source": "NHK",
-      "time": "Mon, 03 Aug 2026 21:41:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015195201_2608031928_0803214131_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "小学館 漫画家起用問題で第三者委“人権侵害 助長または加担”",
-      "source": "NHK",
-      "time": "Mon, 03 Aug 2026 21:29:59 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イオンモール爆発 雑貨店の指示で2人戻り犠牲に 遺族に謝罪",
-      "source": "NHK",
-      "time": "Mon, 03 Aug 2026 18:22:17 +0900"
+      "time": "Tue, 04 Aug 2026 05:55:45 +0900"
     }
   ]
 }
