@@ -1,57 +1,29 @@
 {
-  "updated_at": "2026-08-04 07:05",
+  "updated_at": "2026-08-04 08:34",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　４日０６時０４分ころ、地震がありました。",
+      "text": "【震源・震度情報】　４日０８時１１分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-03T21:08:02Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう　４日０６時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-03T21:07:11Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　４日０６時０４分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-03T21:05:34Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　４日０５時３２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-03T20:35:49Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう　４日０５時３２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-03T20:34:47Z"
+      "time": "2026-08-03T23:14:06Z"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本地震1週間 38人死亡 災害関連死いかに防ぐか喫緊の課題に",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 05:44:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195471_2608040053_0804054402_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 07:12:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195471_2608040641_0804071234_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風13号 小笠原諸島に近づく 高波と暴風に厳重に警戒を",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 06:37:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608040621_0804063726_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 07:20:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608040704_0804072059_01_02.jpg"
     },
     {
       "category": "news",
@@ -64,18 +36,25 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本 宇城で震度4 津波の心配なし(5:32)",
+      "text": "イランは協議否定 米大統領“協議進行中で最後のチャンス”",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 06:26:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015194611_2608040536_0804053939_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 07:41:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195481_2608040546_0804074123_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "西日本 7月中～下旬の気温は最高“温暖化なければ起こり得ず”",
+      "source": "NHK",
+      "time": "Tue, 04 Aug 2026 08:06:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195401_2608032142_0804080649_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "食料品の消費税減税 5日にも閣議決定したい考え 政府",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 05:49:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195321_2608040113_0804054910_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 05:49:09 +0900"
     },
     {
       "category": "news",
@@ -83,13 +62,6 @@
       "text": "熊本地震 プッシュ型支援進める 予備費で予算確保も 政府",
       "source": "NHK",
       "time": "Tue, 04 Aug 2026 05:51:29 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ウクライナ対外情報局長官にウメロフ氏 無人機協力推進へ",
-      "source": "NHK",
-      "time": "Tue, 04 Aug 2026 05:55:45 +0900"
     }
   ]
 }
