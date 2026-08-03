@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-03 08:29",
+  "updated_at": "2026-08-03 10:08",
   "has_alert": true,
   "items": [
     {
@@ -12,10 +12,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "片山財務相 談話を発表 米と協調し市場介入実施を明らかに",
+      "text": "円相場 一時1ドル155円台まで値上がり ドル売り円買う動き進む",
       "source": "NHK",
-      "time": "Mon, 03 Aug 2026 08:15:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194421_2608022124_0803050111_01_02.jpg"
+      "time": "Mon, 03 Aug 2026 10:06:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194631_2608030949_0803095925_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日米で協調介入 片山財務相「さらなる実施もちゅうちょせず」",
+      "source": "NHK",
+      "time": "Mon, 03 Aug 2026 08:58:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194421_2608030918_0803092311_01_03.jpg"
     },
     {
       "category": "news",
@@ -36,14 +44,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本 南区で震度3 津波の心配なし",
-      "source": "NHK",
-      "time": "Mon, 03 Aug 2026 07:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260803/K10015194371_2608030703_0803070445_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "羽田空港 荷物預け入れ締め切りを出発30分前に 出発の遅れ増え",
       "source": "NHK",
       "time": "Mon, 03 Aug 2026 05:24:28 +0900",
@@ -59,9 +59,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ゴルフ 全英女子オープン 桑木志帆が優勝 海外メジャー初制覇",
+      "text": "ドジャースがスクーバル獲得を正式発表 大谷の復帰に影響なし",
       "source": "NHK",
-      "time": "Mon, 03 Aug 2026 04:39:29 +0900"
+      "time": "Mon, 03 Aug 2026 09:12:44 +0900"
     }
   ]
 }
