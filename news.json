@@ -1,60 +1,95 @@
 {
-  "updated_at": "2026-08-04 11:10",
-  "has_alert": false,
+  "updated_at": "2026-08-04 14:29",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日１４時１９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T05:22:37Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日１４時１３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T05:16:02Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日１４時０６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T05:10:46Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう　４日１４時０６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T05:09:51Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】　４日１４時０６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-04T05:08:14Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震1週間 38人死亡 災害関連死いかに防ぐか喫緊の課題に",
+      "text": "北陸と東北が梅雨明け 気象庁発表 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 07:12:33 +0900",
+      "time": "Tue, 04 Aug 2026 12:19:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195591_2608041108_0804112104_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震1週間 38人死亡 災害関連死いかに防ぐかが喫緊の課題",
+      "source": "NHK",
+      "time": "Tue, 04 Aug 2026 12:40:14 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195471_2608040641_0804071234_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神奈川 伊勢原 東名高速道路で3台関係する事故 1人死亡",
+      "text": "高齢者などの2次避難 日常ケア途切れない支援を【専門家Q＆A】",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 10:32:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195541_2608041003_0804103230_01_03.jpg"
+      "time": "Tue, 04 Aug 2026 13:49:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195611_2608041347_0804134907_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 小笠原諸島に近づく 高波と暴風に厳重に警戒を",
+      "text": "熊本地震 今月末までの断水の完全解消を指示 高市首相",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 07:20:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608041014_0804101449_01_03.jpg"
+      "time": "Tue, 04 Aug 2026 14:20:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195801_2608041359_0804142007_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日米 追加協調介入も辞さず 米当局のドル調達の仕組み活用で",
+      "text": "台風13号 小笠原諸島 暴風域に 高波と暴風に厳重警戒を",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 06:45:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195341_2608040011_0804064512_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 13:49:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608041157_0804120026_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米トランプ政権の追加関税 25の州が取り消し求め提訴",
+      "text": "【地震速報】熊本県と長崎県で震度３ 津波の心配なし（14:06）",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 10:42:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195531_2608040923_0804104219_01_03.jpg"
+      "time": "Tue, 04 Aug 2026 14:14:19 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西日本 7月中～下旬の気温は最高“温暖化なければ起こり得ず”",
+      "text": "高市首相 広島 長崎での原爆の日の式典に出席へ",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 08:06:48 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "食料品の消費税減税 5日にも閣議決定したい考え 政府",
-      "source": "NHK",
-      "time": "Tue, 04 Aug 2026 05:49:09 +0900"
+      "time": "Tue, 04 Aug 2026 14:03:20 +0900"
     }
   ]
 }
