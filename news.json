@@ -1,14 +1,43 @@
 {
-  "updated_at": "2026-08-05 02:44",
-  "has_alert": false,
+  "updated_at": "2026-08-05 04:27",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　５日０３時５９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T19:02:21Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　５日０３時４３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T18:45:43Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　５日０３時２１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T18:24:39Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 23:54:48 +0900",
+      "time": "Wed, 05 Aug 2026 03:15:30 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196511_2608042331_0804234031_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "NYダウ 一時1000ドル超上昇 中東情勢 緊張緩和への期待感で",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 03:48:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196761_2608050346_0805034811_01_02.jpg"
     },
     {
       "category": "news",
@@ -29,9 +58,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪 河内長野 不審者に警察官が発砲 命中し病院搬送",
+      "text": "大阪 河内長野 警察官が容疑者に拳銃発砲し逮捕 容疑者は死亡",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 22:14:28 +0900",
+      "time": "Wed, 05 Aug 2026 03:16:06 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196461_2608042207_0804221428_01_02.jpg"
     },
     {
@@ -39,22 +68,14 @@
       "label": "ニュース",
       "text": "熊本地震 7日にも「激甚災害」指定を閣議決定へ調整 政府",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 23:02:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196471_2608042229_0804230205_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 23:02:04 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イオンモール熊本で働く男性 爆発が起きた時の状況を話す",
+      "text": "防衛白書「新しい戦い方」に対応 防衛関係の産業基盤を強化",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 20:47:20 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本 5日から船舶を活用し医療チームが診療や健康相談など開始",
-      "source": "NHK",
-      "time": "Tue, 04 Aug 2026 22:59:08 +0900"
+      "time": "Wed, 05 Aug 2026 00:19:26 +0900"
     }
   ]
 }
