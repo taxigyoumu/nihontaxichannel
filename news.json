@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-04 17:03",
+  "updated_at": "2026-08-04 20:02",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "気象庁が会見 熊本県の地震活動・暑さや雨など見通しを説明",
+      "text": "熊本地震1週間 38人死亡 断水は今月末までに応急復旧の見込み",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 16:49:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195771_2608041635_0804164909_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震1週間 38人死亡 災害関連死いかに防ぐかが喫緊の課題",
-      "source": "NHK",
-      "time": "Tue, 04 Aug 2026 16:34:34 +0900",
+      "time": "Tue, 04 Aug 2026 19:19:45 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195471_2608040641_0804071234_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 氷川町 亡くなった90代女性の親族「助けられず後悔」",
+      "text": "五輪メダル10個獲得 高木美帆さんに国民栄誉賞を授与",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 16:56:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196021_2608041638_0804165624_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 19:51:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195881_2608041850_0804185046_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "コストコ 熊本地震で5人けが “一部商品落下 重く受け止める”",
+      "text": "台風13号 小笠原諸島が暴風域 沖縄・奄美は5日から厳重警戒を",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 16:43:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195951_2608041547_0804164313_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 19:53:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608041950_0804195608_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イオンモール熊本で活動の医師「残念でなんともいえない」",
+      "text": "全日空機で衝突防止装置が作動 国の検査機が付近を飛行",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 16:44:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195991_2608041617_0804164425_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 19:06:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196031_2608041929_0804193149_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 小笠原諸島 暴風域に 高波と暴風に厳重警戒を",
+      "text": "熊本 八代 死亡した91歳男性の長女「心が凍ったような気持ち」",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 16:15:41 +0900"
+      "time": "Tue, 04 Aug 2026 18:55:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195781_2608041708_0804185523_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 直後に生まれた赤ちゃん 母親とともに無事退院",
+      "text": "熊本地震 発生1週間 取材で見えてきた「現場の課題」",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 16:26:47 +0900"
+      "time": "Tue, 04 Aug 2026 19:50:57 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トヨタ 今年度の業績見通しを上方修正 営業利益は3兆4000億円",
+      "source": "NHK",
+      "time": "Tue, 04 Aug 2026 19:48:31 +0900"
     }
   ]
 }
