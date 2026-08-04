@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-05 05:50",
+  "updated_at": "2026-08-05 07:08",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　５日０７時０４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T22:07:00Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　５日０５時５２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T20:55:11Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -12,18 +26,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 地震の影響で河川堤防に被害 増水にいつも以上に警戒を",
+      "text": "熊本 震度5強程度以上の地震注意 復旧作業の際は熱中症対策を",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 05:11:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196421_2608042152_0805051123_01_02.jpg"
+      "time": "Wed, 05 Aug 2026 05:35:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196771_2608050525_0805053516_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "先月死去の東野圭吾さん 最新作発売 歴代編集者が魅力語る",
+      "text": "台風13号 強い勢力で沖縄・奄美に接近へ 高波 暴風に厳重警戒",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 05:18:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196601_2608050251_0805051834_01_03.jpg"
+      "time": "Wed, 05 Aug 2026 06:55:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196631_2608050628_0805063021_01_03.jpg"
     },
     {
       "category": "news",
@@ -36,32 +50,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "NYダウ 一時1000ドル超上昇 中東情勢 緊張緩和への期待感で",
+      "text": "消費税減税 基本方針案 閣議決定へ 野党は国会でただす構え",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 03:48:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196761_2608050346_0805034811_01_02.jpg"
+      "time": "Wed, 05 Aug 2026 05:42:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196581_2608050204_0805054232_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震1週間 38人死亡 断水は今月末までに応急復旧の見込み",
+      "text": "公取委30年ぶり組織再編へ 中小企業の価格転嫁へ監視強化",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 21:35:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195471_2608040641_0804071234_01_02.jpg"
+      "time": "Wed, 05 Aug 2026 06:49:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196441_2608042151_0805064903_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 小笠原諸島は暴風域抜ける 沖縄 奄美は5日から警戒を",
+      "text": "三菱重工業 次世代型原子炉「SMR」国内実用化に向け本格開発へ",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 22:51:51 +0900"
+      "time": "Wed, 05 Aug 2026 06:24:01 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪 河内長野 警察官が容疑者に拳銃発砲し逮捕 容疑者は死亡",
+      "text": "夏の甲子園 きょう開幕 夕方に開会式【1日目 見どころも】",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 03:16:06 +0900"
+      "time": "Wed, 05 Aug 2026 06:53:04 +0900"
     }
   ]
 }
