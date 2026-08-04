@@ -1,27 +1,14 @@
 {
-  "updated_at": "2026-08-05 07:08",
-  "has_alert": true,
+  "updated_at": "2026-08-05 08:32",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日０７時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-04T22:07:00Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日０５時５２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-04T20:55:11Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日０４時５７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-04T20:00:47Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "広島 東広島で火事 全焼した住宅の家族4人と連絡とれず",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 07:42:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196791_2608050738_0805074212_01_03.jpg"
     },
     {
       "category": "news",
@@ -44,7 +31,7 @@
       "label": "ニュース",
       "text": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 03:15:30 +0900",
+      "time": "Wed, 05 Aug 2026 08:08:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196511_2608042331_0804234031_01_02.jpg"
     },
     {
@@ -60,8 +47,7 @@
       "label": "ニュース",
       "text": "公取委30年ぶり組織再編へ 中小企業の価格転嫁へ監視強化",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 06:49:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196441_2608042151_0805064903_01_02.jpg"
+      "time": "Wed, 05 Aug 2026 06:49:02 +0900"
     },
     {
       "category": "news",
@@ -69,13 +55,6 @@
       "text": "三菱重工業 次世代型原子炉「SMR」国内実用化に向け本格開発へ",
       "source": "NHK",
       "time": "Wed, 05 Aug 2026 06:24:01 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "夏の甲子園 きょう開幕 夕方に開会式【1日目 見どころも】",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 06:53:04 +0900"
     }
   ]
 }
