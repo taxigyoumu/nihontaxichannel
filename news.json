@@ -1,53 +1,67 @@
 {
-  "updated_at": "2026-08-04 20:02",
-  "has_alert": false,
+  "updated_at": "2026-08-04 22:14",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日２１時２５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T12:28:42Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日２０時１５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T11:18:43Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日２０時０３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-04T11:06:20Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本地震1週間 38人死亡 断水は今月末までに応急復旧の見込み",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 19:19:45 +0900",
+      "time": "Tue, 04 Aug 2026 21:35:04 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195471_2608040641_0804071234_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "五輪メダル10個獲得 高木美帆さんに国民栄誉賞を授与",
+      "text": "イオンモール熊本で働く男性 爆発が起きた時の状況を話す",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 19:51:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195881_2608041850_0804185046_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 20:47:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196321_2608041957_0804204721_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震“冷房使えず指定避難所開設できず”少なくとも23か所",
+      "source": "NHK",
+      "time": "Tue, 04 Aug 2026 21:27:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196381_2608042112_0804212714_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風13号 小笠原諸島が暴風域 沖縄・奄美は5日から厳重警戒を",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 19:53:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608041950_0804195608_01_03.jpg"
+      "time": "Tue, 04 Aug 2026 22:11:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608042208_0804221113_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "全日空機で衝突防止装置が作動 国の検査機が付近を飛行",
+      "text": "安保3文書の有識者会議 経済的威圧に対処 法整備求める意見も",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 19:06:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196031_2608041929_0804193149_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本 八代 死亡した91歳男性の長女「心が凍ったような気持ち」",
-      "source": "NHK",
-      "time": "Tue, 04 Aug 2026 18:55:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195781_2608041708_0804185523_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 発生1週間 取材で見えてきた「現場の課題」",
-      "source": "NHK",
-      "time": "Tue, 04 Aug 2026 19:50:57 +0900"
+      "time": "Tue, 04 Aug 2026 20:59:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196301_2608041940_0804210000_01_02.jpg"
     },
     {
       "category": "news",
@@ -55,6 +69,13 @@
       "text": "トヨタ 今年度の業績見通しを上方修正 営業利益は3兆4000億円",
       "source": "NHK",
       "time": "Tue, 04 Aug 2026 19:48:31 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロッテ 益田直也投手が通算250セーブ達成 プロ野球史上5人目",
+      "source": "NHK",
+      "time": "Tue, 04 Aug 2026 21:57:40 +0900"
     }
   ]
 }
