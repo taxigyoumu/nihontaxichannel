@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-04 08:34",
-  "has_alert": true,
+  "updated_at": "2026-08-04 11:10",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　４日０８時１１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-03T23:14:06Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -20,10 +13,18 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "神奈川 伊勢原 東名高速道路で3台関係する事故 1人死亡",
+      "source": "NHK",
+      "time": "Tue, 04 Aug 2026 10:32:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195541_2608041003_0804103230_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "台風13号 小笠原諸島に近づく 高波と暴風に厳重に警戒を",
       "source": "NHK",
       "time": "Tue, 04 Aug 2026 07:20:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608040704_0804072059_01_02.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195361_2608041014_0804101449_01_03.jpg"
     },
     {
       "category": "news",
@@ -36,18 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イランは協議否定 米大統領“協議進行中で最後のチャンス”",
+      "text": "米トランプ政権の追加関税 25の州が取り消し求め提訴",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 07:41:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195481_2608040546_0804074123_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 10:42:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195531_2608040923_0804104219_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "西日本 7月中～下旬の気温は最高“温暖化なければ起こり得ず”",
       "source": "NHK",
-      "time": "Tue, 04 Aug 2026 08:06:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015195401_2608032142_0804080649_01_02.jpg"
+      "time": "Tue, 04 Aug 2026 08:06:48 +0900"
     },
     {
       "category": "news",
@@ -55,13 +55,6 @@
       "text": "食料品の消費税減税 5日にも閣議決定したい考え 政府",
       "source": "NHK",
       "time": "Tue, 04 Aug 2026 05:49:09 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 プッシュ型支援進める 予備費で予算確保も 政府",
-      "source": "NHK",
-      "time": "Tue, 04 Aug 2026 05:51:29 +0900"
     }
   ]
 }
