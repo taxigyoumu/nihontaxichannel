@@ -1,53 +1,53 @@
 {
-  "updated_at": "2026-08-05 14:28",
-  "has_alert": true,
+  "updated_at": "2026-08-05 17:03",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日１４時０３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-05T05:06:31Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "食料品消費税減税 政府が基本方針決定 来年4月から2年間1％に",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 16:46:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197191_2608051611_0805164616_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州新幹線 新水俣～鹿児島中央 7日から運行再開 交通への影響",
+      "text": "夏の甲子園開幕 開会式 ことしも夕方に 熊本の地震受け黙とう",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 12:46:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196931_2608051245_0805124642_01_02.jpg"
+      "time": "Wed, 05 Aug 2026 17:00:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196851_2608051342_0805160357_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日本製紙 地震のあと初めて社長ら記者会見",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 16:21:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197011_2608051503_0805161554_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米大統領訪問前のゴルフ場で男拘束 車から拳銃見つかる",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 16:17:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197171_2608051402_0805161754_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "山梨 中央道で乗用車など7台が関係する事故 7人けがで搬送",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 15:12:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197241_2608051442_0805151215_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "被災地は危険な暑さ予想 熱中症対策徹底を 台風情報にも注意",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 13:34:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196631_2608051312_0805131406_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大阪 警察官が威嚇射撃の約2秒後に容疑者に発砲 容疑者死亡",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 12:00:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196461_2608042207_0804221428_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【ライブ配信予定】日本製紙 地震のあと初めて社長ら記者会見",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 14:08:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197011_2608051229_0805140819_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自民 食料品の消費税減税 来年4月から2年間1％ 基本方針案了承",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 13:08:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197001_2608051130_0805114546_01_02.jpg"
+      "time": "Wed, 05 Aug 2026 13:34:25 +0900"
     },
     {
       "category": "news",
@@ -55,13 +55,6 @@
       "text": "熊本 震度5強程度以上の地震注意 きょうも猛暑日 熱中症対策を",
       "source": "NHK",
       "time": "Wed, 05 Aug 2026 13:16:38 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中国大使館侵入 自衛官「外交方針改められるべき」動機語る",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 14:15:34 +0900"
     }
   ]
 }
