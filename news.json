@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-05 21:59",
-  "has_alert": false,
+  "updated_at": "2026-08-06 00:21",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　５日２３時５２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-05T14:54:47Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風13号沖縄接近へ 影響長引くおそれ 熱中症対策も徹底を",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 21:59:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196631_2608051912_0805191340_01_02.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,22 +24,6 @@
       "source": "NHK",
       "time": "Wed, 05 Aug 2026 17:44:28 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197301_2608051630_0805174429_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風13号沖縄接近へ 影響長引くおそれ 熱中症対策も徹底を",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 19:12:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196631_2608051912_0805191340_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "食料品消費税減税 政府が基本方針決定 来年4月から2年間1％に",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 19:51:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197191_2608051611_0805164616_01_02.jpg"
     },
     {
       "category": "news",
@@ -47,14 +46,22 @@
       "label": "ニュース",
       "text": "高校野球 第1試合 仙台育英が札幌日大に勝利 2回戦へ",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 21:55:08 +0900"
+      "time": "Wed, 05 Aug 2026 22:53:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197431_2608051908_0805192214_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "NHK　職員への人権侵害をめぐり不適切な対応を公表",
+      "text": "食料品消費税減税 政府が基本方針決定 来年4月から2年間1％に",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 17:59:52 +0900"
+      "time": "Wed, 05 Aug 2026 22:02:02 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 22:05:21 +0900"
     }
   ]
 }
