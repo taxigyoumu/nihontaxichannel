@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-08-05 08:32",
+  "updated_at": "2026-08-05 11:10",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広島 東広島で火事 全焼した住宅の家族4人と連絡とれず",
+      "text": "広島 東広島 住宅火災で3人死亡 家族4人と連絡取れず",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 07:42:11 +0900",
+      "time": "Wed, 05 Aug 2026 10:32:06 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196791_2608050738_0805074212_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風13号 強い勢力で沖縄・奄美に接近へ 高波 暴風に厳重警戒",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 06:55:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196631_2608051024_0805102548_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米軍 対イラン作戦で一部のミサイル“ほぼ使い果たした”報道",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 09:58:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196781_2608050535_0805095815_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "JR山手線 内回りと外回りで運転見合わせ 人身事故の影響",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 10:27:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196841_2608051014_0805102710_01_02.jpg"
     },
     {
       "category": "news",
@@ -21,40 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 強い勢力で沖縄・奄美に接近へ 高波 暴風に厳重警戒",
+      "text": "米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 06:55:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196631_2608050628_0805063021_01_03.jpg"
+      "time": "Wed, 05 Aug 2026 10:25:09 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 ベッセント財務長官 “協調介入は象徴的な意味合い”",
+      "text": "ルーマニア 水位低下により原発一部停止 車生産一時休止も",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 08:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196511_2608042331_0804234031_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税 基本方針案 閣議決定へ 野党は国会でただす構え",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 05:42:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196581_2608050204_0805054232_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "公取委30年ぶり組織再編へ 中小企業の価格転嫁へ監視強化",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 06:49:02 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "三菱重工業 次世代型原子炉「SMR」国内実用化に向け本格開発へ",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 06:24:01 +0900"
+      "time": "Wed, 05 Aug 2026 10:37:26 +0900"
     }
   ]
 }
