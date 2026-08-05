@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-08-06 05:44",
-  "has_alert": false,
+  "updated_at": "2026-08-06 07:10",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大型の台風15号が発生 今後の情報に注意を",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 17:44:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197301_2608051630_0805174429_01_02.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-05T21:17:40Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-05T21:17:40Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-05T21:17:31Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 大谷翔平 カブス戦で今永昇太から25号先頭打者HR",
+      "text": "熊本は危険な暑さ予想も 熱中症対策を 台風影響にも注意を",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 05:12:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197681_2608060344_0806051232_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 05:46:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608060609_0806061816_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "OTC類似薬の追加負担 がん患者ら対象外に 中間とりまとめ",
+      "text": "台風13号 沖縄・奄美接近へ 影響長引くおそれ 厳重警戒を",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 05:21:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197641_2608052229_0806052144_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホンダ 地震で生産に影響 部品メーカーの復旧状況見て再開判断",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 05:17:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197541_2608052145_0806051729_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 06:23:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608060630_0806063738_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "広島 原爆投下から81年 核兵器の廃絶を国内外に訴え",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 04:52:24 +0900",
+      "time": "Thu, 06 Aug 2026 06:36:02 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197471_2608051943_0806045225_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "AI 実在の人標的にメッセージ“自律的に人だますリスク”",
+      "text": "広島「原爆の日」の朝  被爆者や遺族が祈りささげる",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 23:33:07 +0900"
+      "time": "Thu, 06 Aug 2026 06:27:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197691_2608060507_0806062716_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 夏の甲子園【大会2日目の見どころ】",
+      "text": "ドジャース 大谷 カブス戦で25号ソロ 26号ツーランホームラン",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 05:07:38 +0900"
+      "time": "Thu, 06 Aug 2026 06:25:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197681_2608060344_0806051232_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "消費税減税の基本方針決定 秋に法案提出し成立目指す 政府与党",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 05:37:10 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドイツ東部の空港 滑走路付近で爆発物搭載のドローン見つかる",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 06:51:53 +0900"
     }
   ]
 }
