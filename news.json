@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-08-05 19:59",
-  "has_alert": true,
+  "updated_at": "2026-08-05 21:59",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日１８時０６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-05T09:08:58Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日１７時２４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-05T08:26:39Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日１７時１６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-05T08:18:58Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -52,7 +31,7 @@
       "label": "ニュース",
       "text": "イオンモール熊本 “LPガス爆発の可能性高い”経産省など調査",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 18:35:52 +0900",
+      "time": "Wed, 05 Aug 2026 21:49:45 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197391_2608051828_0805183553_01_02.jpg"
     },
     {
@@ -66,9 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 第1試合 仙台育英が札幌日大をリード 5回終えて",
+      "text": "高校野球 第1試合 仙台育英が札幌日大に勝利 2回戦へ",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 19:27:15 +0900"
+      "time": "Wed, 05 Aug 2026 21:55:08 +0900"
     },
     {
       "category": "news",
