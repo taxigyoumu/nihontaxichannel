@@ -1186,6 +1186,14 @@ for(var i=0;i<65;i++){
       html += '</div>';
     }
 
+    // 交通規制マップ画像（後半 or 全部）
+    if(ev.image && part !== 'front'){
+      html += '<div class="info-card" style="margin-top:10px;border-left:4px solid #1453c4;padding:8px;">';
+      html += '<div class="info-label">🗺️ 交通規制マップ</div>';
+      html += '<img src="'+ev.image+'" alt="交通規制マップ" style="width:100%;border-radius:8px;margin-top:6px;display:block;" />';
+      html += '</div>';
+    }
+
     // 営業ヒント（後半 or 全部）
     if(ev.demandNote && part !== 'front'){
       html += '<div class="info-card" style="margin-top:10px;border-left:4px solid #1453c4;">';
