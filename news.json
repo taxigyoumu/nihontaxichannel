@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-08-05 11:10",
-  "has_alert": false,
+  "updated_at": "2026-08-05 14:28",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "広島 東広島 住宅火災で3人死亡 家族4人と連絡取れず",
-      "source": "NHK",
-      "time": "Wed, 05 Aug 2026 10:32:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196791_2608050738_0805074212_01_03.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　５日１４時０３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-05T05:06:31Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 強い勢力で沖縄・奄美に接近へ 高波 暴風に厳重警戒",
+      "text": "九州新幹線 新水俣～鹿児島中央 7日から運行再開 交通への影響",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 06:55:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196631_2608051024_0805102548_01_03.jpg"
+      "time": "Wed, 05 Aug 2026 12:46:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196931_2608051245_0805124642_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米軍 対イラン作戦で一部のミサイル“ほぼ使い果たした”報道",
+      "text": "被災地は危険な暑さ予想 熱中症対策徹底を 台風情報にも注意",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 09:58:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196781_2608050535_0805095815_01_02.jpg"
+      "time": "Wed, 05 Aug 2026 13:34:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196631_2608051312_0805131406_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR山手線 内回りと外回りで運転見合わせ 人身事故の影響",
+      "text": "大阪 警察官が威嚇射撃の約2秒後に容疑者に発砲 容疑者死亡",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 10:27:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196841_2608051014_0805102710_01_02.jpg"
+      "time": "Wed, 05 Aug 2026 12:00:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260804/K10015196461_2608042207_0804221428_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 震度5強程度以上の地震注意 復旧作業の際は熱中症対策を",
+      "text": "【ライブ配信予定】日本製紙 地震のあと初めて社長ら記者会見",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 05:35:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015196771_2608050525_0805053516_01_02.jpg"
+      "time": "Wed, 05 Aug 2026 14:08:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197011_2608051229_0805140819_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 スペースX 上場後初の決算 AI開発投資が負担となり赤字に",
+      "text": "自民 食料品の消費税減税 来年4月から2年間1％ 基本方針案了承",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 10:25:09 +0900"
+      "time": "Wed, 05 Aug 2026 13:08:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260805/K10015197001_2608051130_0805114546_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ルーマニア 水位低下により原発一部停止 車生産一時休止も",
+      "text": "熊本 震度5強程度以上の地震注意 きょうも猛暑日 熱中症対策を",
       "source": "NHK",
-      "time": "Wed, 05 Aug 2026 10:37:26 +0900"
+      "time": "Wed, 05 Aug 2026 13:16:38 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中国大使館侵入 自衛官「外交方針改められるべき」動機語る",
+      "source": "NHK",
+      "time": "Wed, 05 Aug 2026 14:15:34 +0900"
     }
   ]
 }
