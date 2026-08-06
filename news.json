@@ -1,74 +1,74 @@
 {
-  "updated_at": "2026-08-06 13:08",
+  "updated_at": "2026-08-06 16:14",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　６日１２時１７分ころ、地震がありました。",
+      "text": "【震源・震度情報】　６日１４時３７分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-06T03:20:42Z"
+      "time": "2026-08-06T05:40:30Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　６日１１時５０分ころ、地震がありました。",
+      "text": "【震源・震度情報】　６日１４時０９分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-06T02:53:56Z"
+      "time": "2026-08-06T05:12:07Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "被爆から81年 広島 平和記念式典",
+      "text": "広島原爆の日 被爆者や遺族などが祈りささげる",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 12:36:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197811_2608060959_0806101514_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 16:06:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197691_2608061553_0806160628_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 猛烈な風が予想 沖縄は線状降水帯のおそれ 厳重警戒",
+      "text": "【ライブ】熊本地震 災害関連死の疑い含め38人死亡",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 12:54:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608061251_0806125418_01_03.jpg"
+      "time": "Thu, 06 Aug 2026 15:57:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197971_2608061154_0806115923_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本はきょうも危険な暑さ予想 熱中症対策を 台風影響にも注意",
+      "text": "台風13号 沖縄・奄美で風が強まる 沖縄は線状降水帯のおそれ",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 11:49:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608061129_0806114911_01_03.jpg"
+      "time": "Thu, 06 Aug 2026 16:04:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608061602_0806160456_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広島「原爆の日」の朝  被爆者や遺族が祈りささげる",
+      "text": "俳優 寿美花代さん死去 宝塚歌劇団で男役トップスター 94歳",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 06:27:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197691_2608060507_0806062716_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 14:25:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198081_2608061338_0806142532_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "九州新幹線“全線再開見通し 8月中に示す”JR九州社長",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 15:36:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198111_2608061355_0806153639_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "韓国警察 サッカーW杯監督選考めぐりサッカー協会を捜索",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 15:39:36 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "人気雑誌グッズを大量注文しキャンセル疑い 32歳を逮捕 警視庁",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 12:11:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197981_2608061151_0806121119_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秘匿性高い通信アプリを遠隔解析 トクリュウ対策で検討へ",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 12:19:03 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "コメ価格見通しを示す指数 過去最低に 民間在庫増の影響も",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 11:39:19 +0900"
+      "time": "Thu, 06 Aug 2026 15:28:33 +0900"
     }
   ]
 }
