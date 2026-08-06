@@ -1,95 +1,74 @@
 {
-  "updated_at": "2026-08-06 09:52",
+  "updated_at": "2026-08-06 13:08",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　６日０８時１９分ころ、地震がありました。",
+      "text": "【震源・震度情報】　６日１２時１７分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-05T23:22:51Z"
+      "time": "2026-08-06T03:20:42Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　６日０７時５９分ころ、地震がありました。",
+      "text": "【震源・震度情報】　６日１１時５０分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-05T23:03:39Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　６日０７時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-05T23:02:59Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう　６日０７時５９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-05T23:02:28Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　６日０７時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-05T23:01:59Z"
+      "time": "2026-08-06T02:53:56Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 沖縄・奄美接近へ 影響長引くおそれ 厳重警戒を",
+      "text": "被爆から81年 広島 平和記念式典",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 09:10:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608060630_0806063738_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 12:36:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197811_2608060959_0806101514_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 大谷 今季初1試合2本のホームラン チームは6連敗",
+      "text": "台風13号 猛烈な風が予想 沖縄は線状降水帯のおそれ 厳重警戒",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 08:26:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197681_2608060922_0806092351_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 12:54:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608061251_0806125418_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本 長崎 鹿児島で震度4 津波の心配なし",
+      "text": "熊本はきょうも危険な暑さ予想 熱中症対策を 台風影響にも注意",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 08:17:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015195511_2608060809_0806081102_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本は危険な暑さ予想も 熱中症対策を 台風影響にも注意を",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 05:46:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608060609_0806061816_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "広島 原爆投下から81年 核兵器の廃絶を国内外に訴え",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 07:30:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197471_2608051943_0806045225_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 11:49:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608061129_0806114911_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "広島「原爆の日」の朝  被爆者や遺族が祈りささげる",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 06:27:15 +0900"
+      "time": "Thu, 06 Aug 2026 06:27:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197691_2608060507_0806062716_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国 米に対抗措置 アメリカ向けドローンの輸出規制を強化",
+      "text": "人気雑誌グッズを大量注文しキャンセル疑い 32歳を逮捕 警視庁",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 07:34:40 +0900"
+      "time": "Thu, 06 Aug 2026 12:11:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197981_2608061151_0806121119_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "秘匿性高い通信アプリを遠隔解析 トクリュウ対策で検討へ",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 12:19:03 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "コメ価格見通しを示す指数 過去最低に 民間在庫増の影響も",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 11:39:19 +0900"
     }
   ]
 }
