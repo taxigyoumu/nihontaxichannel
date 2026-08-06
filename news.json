@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-06 08:28",
+  "updated_at": "2026-08-06 09:52",
   "has_alert": true,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-05T21:17:40Z"
-    },
     {
       "category": "quake",
       "label": "地震",
@@ -47,10 +40,34 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本 長崎 鹿児島で震度4 津波の心配なし",
+      "text": "台風13号 沖縄・奄美接近へ 影響長引くおそれ 厳重警戒を",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 09:10:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608060630_0806063738_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース 大谷 今季初1試合2本のホームラン チームは6連敗",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 08:26:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197681_2608060922_0806092351_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】熊本 長崎 鹿児島で震度4 津波の心配なし",
       "source": "NHK",
       "time": "Thu, 06 Aug 2026 08:17:23 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015195511_2608060809_0806081102_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本は危険な暑さ予想も 熱中症対策を 台風影響にも注意を",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 05:46:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608060609_0806061816_01_03.jpg"
     },
     {
       "category": "news",
@@ -65,38 +82,14 @@
       "label": "ニュース",
       "text": "広島「原爆の日」の朝  被爆者や遺族が祈りささげる",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 06:27:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197691_2608060507_0806062716_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 06:27:15 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本は危険な暑さ予想も 熱中症対策を 台風影響にも注意を",
+      "text": "中国 米に対抗措置 アメリカ向けドローンの輸出規制を強化",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 05:46:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608060609_0806061816_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風13号 沖縄・奄美接近へ 影響長引くおそれ 厳重警戒を",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 06:23:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608060630_0806063738_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース 大谷 今季初1試合2本のホームラン チームは6連敗",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 08:26:56 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税の基本方針決定 秋に法案提出し成立目指す 政府与党",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 05:37:10 +0900"
+      "time": "Thu, 06 Aug 2026 07:34:40 +0900"
     }
   ]
 }
