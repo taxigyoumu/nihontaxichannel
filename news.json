@@ -1,88 +1,60 @@
 {
-  "updated_at": "2026-08-06 19:07",
-  "has_alert": true,
+  "updated_at": "2026-08-06 21:24",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-06T09:19:59Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-06T09:19:59Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-06T09:19:54Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　６日１８時２１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-06T09:24:44Z"
-    },
-    {
       "category": "news",
       "label": "ニュース",
-      "text": "広島原爆の日 被爆から81年 核兵器廃絶の訴え続く",
+      "text": "大型で強い台風13号 沖縄・奄美接近へ 厳重警戒を",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 18:49:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197811_2608061749_0806175413_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風13号 沖縄・奄美で風が強まる 沖縄は線状降水帯のおそれ",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 18:02:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608061753_0806180237_01_03.jpg"
+      "time": "Thu, 06 Aug 2026 21:04:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608062058_0806210409_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "地震被害の八代で39度 あすも猛暑の予想 台風影響にも注意を",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 18:32:50 +0900",
+      "time": "Thu, 06 Aug 2026 19:39:37 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608061129_0806114911_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "韓国軍が竹島周辺で定例訓練 外務省が強く抗議",
+      "text": "広島原爆の日 被爆から81年 核兵器廃絶の訴え続く",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 18:33:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198251_2608061709_0806183346_01_03.jpg"
+      "time": "Thu, 06 Aug 2026 19:40:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197811_2608061749_0806175413_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北朝鮮から弾道ミサイルの可能性あるもの発射 EEZ外に落下か",
+      "text": "写真加工アプリ「SNOW」 ステマで消費者庁が措置命令",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 18:00:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198261_2608061804_0806180504_01_03.jpg"
+      "time": "Thu, 06 Aug 2026 20:32:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198441_2608061910_0806203244_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "俳優 寿美花代さん死去 宝塚歌劇団で男役トップスター 94歳",
+      "text": "ホルムズ海峡の新航路 イラン「調整の最終段階」",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 14:25:31 +0900"
+      "time": "Thu, 06 Aug 2026 20:45:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198411_2608061918_0806204527_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡 県議会が3年間の海外視察費用公表 23件 計2億6000万円余",
+      "text": "【地震情報】熊本県で震度4 津波の心配なし",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 18:04:30 +0900"
+      "time": "Thu, 06 Aug 2026 20:07:40 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "北朝鮮が弾道ミサイル発射 日本のEEZ外に落下か 小泉防衛相",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 19:23:00 +0900"
     }
   ]
 }
