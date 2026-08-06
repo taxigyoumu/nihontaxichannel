@@ -1,74 +1,88 @@
 {
-  "updated_at": "2026-08-06 16:14",
+  "updated_at": "2026-08-06 19:07",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　６日１４時３７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-06T05:40:30Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-06T09:19:59Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-06T09:19:59Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-06T09:19:54Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　６日１４時０９分ころ、地震がありました。",
+      "text": "【震源・震度情報】　６日１８時２１分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-06T05:12:07Z"
+      "time": "2026-08-06T09:24:44Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広島原爆の日 被爆者や遺族などが祈りささげる",
+      "text": "広島原爆の日 被爆から81年 核兵器廃絶の訴え続く",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 16:06:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197691_2608061553_0806160628_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【ライブ】熊本地震 災害関連死の疑い含め38人死亡",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 15:57:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197971_2608061154_0806115923_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 18:49:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197811_2608061749_0806175413_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風13号 沖縄・奄美で風が強まる 沖縄は線状降水帯のおそれ",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 16:04:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608061602_0806160456_01_03.jpg"
+      "time": "Thu, 06 Aug 2026 18:02:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608061753_0806180237_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "地震被害の八代で39度 あすも猛暑の予想 台風影響にも注意を",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 18:32:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608061129_0806114911_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "韓国軍が竹島周辺で定例訓練 外務省が強く抗議",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 18:33:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198251_2608061709_0806183346_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "北朝鮮から弾道ミサイルの可能性あるもの発射 EEZ外に落下か",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 18:00:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198261_2608061804_0806180504_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "俳優 寿美花代さん死去 宝塚歌劇団で男役トップスター 94歳",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 14:25:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198081_2608061338_0806142532_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 14:25:31 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州新幹線“全線再開見通し 8月中に示す”JR九州社長",
+      "text": "福岡 県議会が3年間の海外視察費用公表 23件 計2億6000万円余",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 15:36:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198111_2608061355_0806153639_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "韓国警察 サッカーW杯監督選考めぐりサッカー協会を捜索",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 15:39:36 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "人気雑誌グッズを大量注文しキャンセル疑い 32歳を逮捕 警視庁",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 15:28:33 +0900"
+      "time": "Thu, 06 Aug 2026 18:04:30 +0900"
     }
   ]
 }
