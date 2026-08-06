@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-08-06 21:24",
-  "has_alert": false,
+  "updated_at": "2026-08-06 23:52",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　６日２３時２１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-06T14:24:04Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大型で強い台風13号 沖縄・奄美接近へ 厳重警戒を",
+      "text": "大型で強い台風13号 沖縄・奄美に接近へ 厳重警戒を",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 21:04:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608062058_0806210409_01_03.jpg"
+      "time": "Thu, 06 Aug 2026 22:58:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608062251_0806225815_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本 八代 地震の瞬間 手術室は緊迫した状況に…【動画】",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 19:21:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198461_2608061919_0806192200_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "7日も広い範囲で危険な暑さに 40度に迫る予想も 熱中症対策を",
+      "source": "NHK",
+      "time": "Thu, 06 Aug 2026 22:03:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197901_2608061151_0806191518_01_03.jpg"
     },
     {
       "category": "news",
@@ -17,14 +40,6 @@
       "source": "NHK",
       "time": "Thu, 06 Aug 2026 19:39:37 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608061129_0806114911_01_03.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "広島原爆の日 被爆から81年 核兵器廃絶の訴え続く",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 19:40:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197811_2608061749_0806175413_01_02.jpg"
     },
     {
       "category": "news",
@@ -39,22 +54,14 @@
       "label": "ニュース",
       "text": "ホルムズ海峡の新航路 イラン「調整の最終段階」",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 20:45:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198411_2608061918_0806204527_01_02.jpg"
+      "time": "Thu, 06 Aug 2026 20:45:26 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本県で震度4 津波の心配なし",
+      "text": "広島原爆の日 被爆から81年 核兵器廃絶の訴え続く",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 20:07:40 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北朝鮮が弾道ミサイル発射 日本のEEZ外に落下か 小泉防衛相",
-      "source": "NHK",
-      "time": "Thu, 06 Aug 2026 19:23:00 +0900"
+      "time": "Thu, 06 Aug 2026 19:40:49 +0900"
     }
   ]
 }
