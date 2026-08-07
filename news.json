@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-08-07 17:10",
+  "updated_at": "2026-08-07 18:30",
   "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、低い土地の浸水や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-07T09:06:37Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、低い土地の浸水や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-07T09:06:37Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-07T09:06:34Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】岐阜県では、低い土地の浸水や河川の増水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-07T09:06:34Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -14,8 +42,16 @@
       "label": "ニュース",
       "text": "台風13号 沖縄本島北部に「線状降水帯直前予測」【中継も】",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 17:02:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198521_2608071611_0807161441_01_02.jpg"
+      "time": "Fri, 07 Aug 2026 18:11:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198521_2608071754_0807175744_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
+      "source": "NHK",
+      "time": "Fri, 07 Aug 2026 17:41:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199401_2608071738_0807174144_01_02.jpg"
     },
     {
       "category": "news",
@@ -28,40 +64,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震の被害を「激甚災害」に指定 自治体の復旧費用支援へ",
+      "text": "SNSの安全対策めぐり米メタに約900億円支払い命令 米裁判所",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 14:47:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198971_2608071331_0807135417_01_02.jpg"
+      "time": "Fri, 07 Aug 2026 17:44:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199281_2608071622_0807174423_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "土地取得ルール「届け出必要な対象拡大を」国交省の有識者会議",
+      "text": "タイの学校で銃撃 14歳の容疑者含む6人死亡20人余けが",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 16:31:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199271_2608071617_0807163139_01_02.jpg"
+      "time": "Fri, 07 Aug 2026 17:34:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199241_2608071613_0807173500_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 江別 強盗致死事件裁判 当時18歳被告に無期懲役の判決",
+      "text": "公的年金積立金 過去最高302兆円余 令和7年度決算",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 14:20:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199131_2608071356_0807142053_01_03.jpg"
+      "time": "Fri, 07 Aug 2026 17:14:28 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "悠仁さま 広島で原爆の犠牲者を慰霊",
+      "text": "スーパーのコメ平均価格 5キロ3198円 6週連続で値下がり",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 15:53:46 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡県議 現職アンケート 金銭授受「うわさ聞いた」半数近く",
-      "source": "NHK",
-      "time": "Fri, 07 Aug 2026 15:59:47 +0900"
+      "time": "Fri, 07 Aug 2026 18:05:46 +0900"
     }
   ]
 }
