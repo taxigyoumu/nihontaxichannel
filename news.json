@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-08-07 09:22",
-  "has_alert": true,
+  "updated_at": "2026-08-07 12:26",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　７日０８時０８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-06T23:11:21Z"
-    },
-    {
       "category": "news",
       "label": "ニュース",
-      "text": "4月30日の市場介入 6.2兆円 円買いとして1日あたりで過去最大",
+      "text": "大型で強い台風13号 沖縄本島・奄美 厳重警戒を【中継も】",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 09:07:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198801_2608070859_0807090748_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大型で強い台風13号 沖縄本島地方・奄美地方 厳重警戒を",
-      "source": "NHK",
-      "time": "Fri, 07 Aug 2026 06:58:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198521_2608070749_0807080905_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "九州新幹線 新水俣駅～鹿児島中央駅で運転再開 本数は大幅減",
-      "source": "NHK",
-      "time": "Fri, 07 Aug 2026 08:41:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198771_2608070828_0807084200_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "6月 実質消費支出 7か月連続減少 家計調査",
-      "source": "NHK",
-      "time": "Fri, 07 Aug 2026 08:50:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198791_2608070857_0807085900_01_02.jpg"
+      "time": "Fri, 07 Aug 2026 12:04:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198521_2608071206_0807120651_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本県では7日も猛暑予想 台風影響による強風にも注意を",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 08:19:07 +0900",
+      "time": "Fri, 07 Aug 2026 11:56:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198731_2608070632_0807065709_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 3万6000戸余で断水続く 解消は今月末の見込み",
+      "text": "福岡県議 現職アンケート 金銭授受「うわさ聞いた」半数近く",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 07:22:17 +0900"
+      "time": "Fri, 07 Aug 2026 12:00:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198861_2608071034_0807120028_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イラン“船舶から料金徴収” 海運業界団体は反対",
+      "text": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6794人避難",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 09:04:29 +0900"
+      "time": "Fri, 07 Aug 2026 11:35:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198921_2608071112_0807113502_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米 半導体や太陽光パネルの材料に追加関税 中国を念頭か",
+      "source": "NHK",
+      "time": "Fri, 07 Aug 2026 11:53:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198941_2608071126_0807115302_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "国民民主党代表選 2人が立候補を届け出 選挙戦に",
+      "source": "NHK",
+      "time": "Fri, 07 Aug 2026 11:35:39 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "九州新幹線 新水俣～鹿児島中央で運行再開 1日6往復のダイヤ",
+      "source": "NHK",
+      "time": "Fri, 07 Aug 2026 11:57:21 +0900"
     }
   ]
 }
