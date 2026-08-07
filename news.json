@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-07 21:55",
+  "updated_at": "2026-08-07 23:11",
   "has_alert": false,
   "items": [
     {
@@ -7,7 +7,7 @@
       "label": "ニュース",
       "text": "大型で非常に強い台風13号 大雨や暴風など厳重警戒【中継も】",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 20:44:36 +0900",
+      "time": "Fri, 07 Aug 2026 22:37:03 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198521_2608071845_0807185834_01_02.jpg"
     },
     {
@@ -21,18 +21,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "地震被害の熊本 夜も気温下がらず 熱中症対策 揺れにも備えを",
-      "source": "NHK",
-      "time": "Fri, 07 Aug 2026 18:41:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198731_2608071921_0807192146_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "イオンモール熊本 妹亡くした男性“当時の対応 丁寧に調査を”",
       "source": "NHK",
       "time": "Fri, 07 Aug 2026 19:38:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199501_2608071925_0807193802_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "税務職員が高齢女性から約1億5000万円受け取り競艇 懲戒免職に",
+      "source": "NHK",
+      "time": "Fri, 07 Aug 2026 21:49:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199381_2608071735_0807214948_01_02.jpg"
     },
     {
       "category": "news",
