@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-08-06 23:52",
+  "updated_at": "2026-08-07 09:22",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　６日２３時２１分ころ、地震がありました。",
+      "text": "【震源・震度情報】　７日０８時０８分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-06T14:24:04Z"
+      "time": "2026-08-06T23:11:21Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大型で強い台風13号 沖縄・奄美に接近へ 厳重警戒を",
+      "text": "4月30日の市場介入 6.2兆円 円買いとして1日あたりで過去最大",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 22:58:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197581_2608062251_0806225815_01_03.jpg"
+      "time": "Fri, 07 Aug 2026 09:07:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198801_2608070859_0807090748_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 八代 地震の瞬間 手術室は緊迫した状況に…【動画】",
+      "text": "大型で強い台風13号 沖縄本島地方・奄美地方 厳重警戒を",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 19:21:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198461_2608061919_0806192200_01_03.jpg"
+      "time": "Fri, 07 Aug 2026 06:58:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198521_2608070749_0807080905_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "7日も広い範囲で危険な暑さに 40度に迫る予想も 熱中症対策を",
+      "text": "九州新幹線 新水俣駅～鹿児島中央駅で運転再開 本数は大幅減",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 22:03:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197901_2608061151_0806191518_01_03.jpg"
+      "time": "Fri, 07 Aug 2026 08:41:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198771_2608070828_0807084200_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "地震被害の八代で39度 あすも猛暑の予想 台風影響にも注意を",
+      "text": "6月 実質消費支出 7か月連続減少 家計調査",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 19:39:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015197571_2608061129_0806114911_01_03.jpg"
+      "time": "Fri, 07 Aug 2026 08:50:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198791_2608070857_0807085900_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "写真加工アプリ「SNOW」 ステマで消費者庁が措置命令",
+      "text": "熊本県では7日も猛暑予想 台風影響による強風にも注意を",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 20:32:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260806/K10015198441_2608061910_0806203244_01_02.jpg"
+      "time": "Fri, 07 Aug 2026 08:19:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198731_2608070632_0807065709_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ホルムズ海峡の新航路 イラン「調整の最終段階」",
+      "text": "熊本地震 3万6000戸余で断水続く 解消は今月末の見込み",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 20:45:26 +0900"
+      "time": "Fri, 07 Aug 2026 07:22:17 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広島原爆の日 被爆から81年 核兵器廃絶の訴え続く",
+      "text": "イラン“船舶から料金徴収” 海運業界団体は反対",
       "source": "NHK",
-      "time": "Thu, 06 Aug 2026 19:40:49 +0900"
+      "time": "Fri, 07 Aug 2026 09:04:29 +0900"
     }
   ]
 }
