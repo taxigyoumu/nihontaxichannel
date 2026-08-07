@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-08 06:09",
-  "has_alert": false,
+  "updated_at": "2026-08-08 07:05",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日０６時２９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-07T21:31:46Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,10 +20,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【台風影響】7日は約470便が欠航 8日も320便余が欠航に",
+      "text": "熊本 8日も猛烈な暑さ 熱中症対策を 台風13号で強風にも注意",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 17:41:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199401_2608071738_0807174144_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 06:24:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199781_2608080619_0808062413_01_02.jpg"
     },
     {
       "category": "news",
