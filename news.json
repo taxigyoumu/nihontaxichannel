@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026-08-07 19:49",
-  "has_alert": true,
+  "updated_at": "2026-08-07 20:42",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、低い土地の浸水や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-07T10:09:02Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、低い土地の浸水や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-07T10:09:02Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】岐阜県では、低い土地の浸水や河川の増水に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-07T10:08:48Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【南海トラフ地震関連解説情報】　第１０８回南海トラフ沿いの地震に関する評価検討会で、南海トラフ周辺の地殻活動を評価しました。",
-      "source": "気象庁",
-      "time": "2026-08-07T08:00:27Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -57,18 +29,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6651人避難",
-      "source": "NHK",
-      "time": "Fri, 07 Aug 2026 18:47:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198921_2608071112_0807113502_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "イオンモール熊本 妹亡くした男性“当時の対応 丁寧に調査を”",
       "source": "NHK",
       "time": "Fri, 07 Aug 2026 19:38:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199501_2608071925_0807193802_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6651人避難",
+      "source": "NHK",
+      "time": "Fri, 07 Aug 2026 18:47:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198921_2608071112_0807113502_01_02.jpg"
     },
     {
       "category": "news",
