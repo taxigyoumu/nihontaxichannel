@@ -1,21 +1,14 @@
 {
-  "updated_at": "2026-08-08 01:22",
-  "has_alert": true,
+  "updated_at": "2026-08-08 02:21",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日０１時１０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-07T16:12:59Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大型で非常に強い台風13号 大雨や暴風など厳重警戒【中継も】",
+      "text": "大型で非常に強い台風13号 暴風や土砂災害など厳重警戒",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 00:08:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198521_2608071845_0807185834_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 01:40:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608080121_0808014018_01_02.jpg"
     },
     {
       "category": "news",
