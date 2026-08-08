@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-08-08 18:33",
-  "has_alert": false,
+  "updated_at": "2026-08-08 19:28",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 18:11:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608081747_0808175342_01_03.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日１８時４７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-08T09:50:10Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大気不安定 新潟 岩手 青森に記録的短時間大雨 厳重警戒を",
+      "text": "台風13号 影響は長時間続く 警戒を【中継も】台風15号の動きは",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 18:19:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200211_2608081532_0808153501_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 15:10:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200151_2608081406_0808151012_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 18:22:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199981_2608081324_0808132618_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 19:15:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608081855_0808191356_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【ライブ映像】お盆休みで下りの混雑ピーク 高速道路や新幹線",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 11:55:53 +0900",
+      "time": "Sat, 08 Aug 2026 18:42:53 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199951_2608081148_0808115554_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か",
+      "text": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 10:19:45 +0900"
+      "time": "Sat, 08 Aug 2026 19:08:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199981_2608081324_0808132618_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 夏の甲子園 日本文理と大分商 5回を終え同点",
+      "text": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 17:41:51 +0900"
+      "time": "Sat, 08 Aug 2026 18:38:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200271_2608081825_0808183824_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大気不安定 新潟 岩手 青森 富山に記録的短時間大雨 厳重警戒",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 19:05:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200211_2608081906_0808190748_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 15:10:11 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高校野球 夏の甲子園 大分商が日本文理に逆転勝ち 2回戦へ",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 18:53:31 +0900"
     }
   ]
 }
