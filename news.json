@@ -1,28 +1,14 @@
 {
-  "updated_at": "2026-08-08 13:34",
-  "has_alert": true,
+  "updated_at": "2026-08-08 14:39",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日１２時３２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T03:35:26Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日１１時０７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T02:10:12Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 12:14:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608081152_0808121435_01_03.jpg"
+      "time": "Sat, 08 Aug 2026 13:59:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608081350_0808135938_01_03.jpg"
     },
     {
       "category": "news",
@@ -31,6 +17,14 @@
       "source": "NHK",
       "time": "Sat, 08 Aug 2026 11:55:53 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199951_2608081148_0808115554_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 南房総 海水浴場で男性2人が溺れる このうち1人意識なし",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 13:56:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200141_2608081353_0808135653_01_02.jpg"
     },
     {
       "category": "news",
@@ -53,22 +47,14 @@
       "label": "ニュース",
       "text": "悠仁さま ボーイスカウトのキャンプで豚汁作りや木工体験",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 11:21:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199941_2608081101_0808112135_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "きょうも猛暑日に熱中症対策徹底を 午後は大気不安定に",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 12:25:05 +0900"
+      "time": "Sat, 08 Aug 2026 11:21:35 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高校野球 青森山田が遊学館に競り勝ち2回戦へ",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 11:49:52 +0900"
+      "time": "Sat, 08 Aug 2026 14:13:38 +0900"
     }
   ]
 }
