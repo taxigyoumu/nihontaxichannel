@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-08 20:01",
+  "updated_at": "2026-08-08 20:53",
   "has_alert": false,
   "items": [
     {
@@ -7,7 +7,7 @@
       "label": "ニュース",
       "text": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 19:52:24 +0900",
+      "time": "Sat, 08 Aug 2026 20:11:52 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608081946_0808195225_01_03.jpg"
     },
     {
@@ -29,6 +29,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 20:29:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200291_2608081921_0808202938_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "お盆休みで下りの混雑ピーク 高速道路や新幹線は",
       "source": "NHK",
       "time": "Sat, 08 Aug 2026 19:49:38 +0900",
@@ -39,8 +47,7 @@
       "label": "ニュース",
       "text": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 15:10:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200151_2608081406_0808151012_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 15:10:11 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
       "source": "NHK",
       "time": "Sat, 08 Aug 2026 19:08:46 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高校野球 夏の甲子園 大分商が日本文理に逆転勝ち 2回戦へ",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 18:53:31 +0900"
     }
   ]
 }
