@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-09 06:34",
+  "updated_at": "2026-08-09 07:24",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　９日０７時００分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-08T22:02:53Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -19,10 +26,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
+      "text": "台風13号 高波強風影響続く 台風15号の進路にも注意を",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 05:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005644_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 06:48:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42871/20260808de42871_E0000005654_1_l.jpg"
     },
     {
       "category": "news",
@@ -35,18 +42,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 次第に離れるも高波に厳重警戒 台風15号 進路に注意",
+      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 05:16:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42871/20260808de42871_E0000005654_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 05:13:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005644_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本 宇城で震度3 津波の心配なし",
+      "text": "ゼレンスキー大統領がセルビア初訪問 ロシアけん制のねらいも",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 05:25:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42913/20260809de42913_E0000005628_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 07:03:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42889/20260809de42889_E0000005626_1_l.jpg"
     },
     {
       "category": "news",
