@@ -1,7 +1,56 @@
 {
-  "updated_at": "2026-08-09 03:35",
+  "updated_at": "2026-08-09 04:25",
   "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-08T19:04:28Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-08T19:04:28Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-08T19:04:26Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-08T19:00:55Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-08T19:00:55Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-08T19:00:07Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　９日０３時５６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-08T18:59:24Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -31,21 +80,6 @@
       "time": "2026-08-08T18:00:36Z"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　９日０２時５８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-08T17:59:36Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【地震速報】岩手 普代村で震度4 津波の心配なし",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 03:11:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42879/20260809de42879_E0000005621_1_l.jpg"
-    },
-    {
       "category": "news",
       "label": "ニュース",
       "text": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
@@ -60,6 +94,14 @@
       "source": "NHK",
       "time": "Sun, 09 Aug 2026 01:51:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42872/20260808de42872_E0000005601_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】岩手 普代村で震度4 津波の心配なし",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 03:33:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42879/20260809de42879_E0000005621_1_l.jpg"
     },
     {
       "category": "news",
