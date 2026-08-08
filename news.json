@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-08 12:22",
+  "updated_at": "2026-08-08 13:34",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日１２時３２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-08T03:35:26Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -28,10 +35,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 各地で厳しい暑さ熱中症対策徹底 揺れにも備えを",
+      "text": "地震被害の熊本 氷川町でボランティアが活動開始",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 12:17:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199781_2608081208_0808121730_01_03.jpg"
+      "time": "Sat, 08 Aug 2026 13:15:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200101_2608081307_0808131532_01_02.jpg"
     },
     {
       "category": "news",
@@ -52,16 +59,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 青森山田が遊学館に競り勝ち2回戦へ",
+      "text": "きょうも猛暑日に熱中症対策徹底を 午後は大気不安定に",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 11:49:52 +0900"
+      "time": "Sat, 08 Aug 2026 12:25:05 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
+      "text": "高校野球 青森山田が遊学館に競り勝ち2回戦へ",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 11:44:54 +0900"
+      "time": "Sat, 08 Aug 2026 11:49:52 +0900"
     }
   ]
 }
