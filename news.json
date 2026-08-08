@@ -1,45 +1,14 @@
 {
-  "updated_at": "2026-08-08 19:28",
-  "has_alert": true,
+  "updated_at": "2026-08-08 20:01",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日１８時４７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T09:50:10Z"
-    },
-    {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 影響は長時間続く 警戒を【中継も】台風15号の動きは",
+      "text": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 19:15:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608081855_0808191356_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【ライブ映像】お盆休みで下りの混雑ピーク 高速道路や新幹線",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 18:42:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199951_2608081148_0808115554_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 19:08:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199981_2608081324_0808132618_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 18:38:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200271_2608081825_0808183824_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 19:52:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608081946_0808195225_01_03.jpg"
     },
     {
       "category": "news",
@@ -52,9 +21,33 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 18:38:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200271_2608081825_0808183824_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "お盆休みで下りの混雑ピーク 高速道路や新幹線は",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 19:49:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199951_2608081148_0808115554_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "オープンAI 開発一時中断 AIみずからサイバー攻撃実行のおそれ",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 15:10:11 +0900"
+      "time": "Sat, 08 Aug 2026 15:10:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200151_2608081406_0808151012_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 19:08:46 +0900"
     },
     {
       "category": "news",
