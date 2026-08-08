@@ -1,50 +1,37 @@
 {
-  "updated_at": "2026-08-08 10:48",
+  "updated_at": "2026-08-08 12:22",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　８日１０時３２分ころ、地震がありました。",
+      "text": "【震源・震度情報】　８日１１時０７分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-08T01:35:35Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日１０時０５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T01:08:38Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日０９時２８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T00:31:16Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日０９時１７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T00:20:43Z"
+      "time": "2026-08-08T02:10:12Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大型で非常に強い台風13号 暴風などに厳重警戒【中継映像も】",
+      "text": "台風13号 暴風など長時間続く 厳重警戒を【中継映像も】",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 10:27:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608080946_0808101651_01_03.jpg"
+      "time": "Sat, 08 Aug 2026 12:14:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608081152_0808121435_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "地震被害の熊本 8日も猛烈な暑さ 熱中症対策を 強風にも注意",
+      "text": "【ライブ映像】お盆休みで下りの混雑ピーク 高速道路や新幹線",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 06:24:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199781_2608080619_0808062413_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 11:55:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199951_2608081148_0808115554_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本 各地で厳しい暑さ熱中症対策徹底 揺れにも備えを",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 12:17:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199781_2608081208_0808121730_01_03.jpg"
     },
     {
       "category": "news",
@@ -57,32 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米当局者 “航行妨げない合意なら海上封鎖を解除” 報道",
+      "text": "悠仁さま ボーイスカウトのキャンプで豚汁作りや木工体験",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 10:09:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199871_2608080911_0808100921_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 11:21:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199941_2608081101_0808112135_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 銚子 輸入サバ高騰で加工業者の約2割が倒産や廃業状態に",
+      "text": "高校野球 青森山田が遊学館に競り勝ち2回戦へ",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 07:28:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199891_2608080700_0808072859_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 11:49:52 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 FRBクック理事に“解任検討”を再び通知 報道",
+      "text": "熊本地震 死者1人増 災害関連死の疑い1人含め 死者39人に",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 09:14:33 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高校野球 青森山田が遊学館に競り勝つ",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 10:29:49 +0900"
+      "time": "Sat, 08 Aug 2026 11:44:54 +0900"
     }
   ]
 }
