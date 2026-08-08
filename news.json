@@ -1,19 +1,47 @@
 {
-  "updated_at": "2026-08-08 08:57",
-  "has_alert": false,
+  "updated_at": "2026-08-08 10:48",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大型で非常に強い台風13号 暴風などに厳重警戒",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 07:34:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608080603_0808060727_01_02.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日１０時３２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-08T01:35:35Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日１０時０５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-08T01:08:38Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日０９時２８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-08T00:31:16Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日０９時１７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-08T00:20:43Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 8日も猛烈な暑さ 熱中症対策を 台風13号で強風にも注意",
+      "text": "大型で非常に強い台風13号 暴風などに厳重警戒【中継映像も】",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 10:27:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608080946_0808101651_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "地震被害の熊本 8日も猛烈な暑さ 熱中症対策を 強風にも注意",
       "source": "NHK",
       "time": "Sat, 08 Aug 2026 06:24:12 +0900",
       "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199781_2608080619_0808062413_01_02.jpg"
@@ -21,40 +49,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イオンモール熊本 妹亡くした男性“当時の対応 丁寧に調査を”",
+      "text": "「ロシアがNATO限定侵攻の可能性も」 米情報機関が分析か",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 19:38:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199501_2608071925_0807193802_01_03.jpg"
+      "time": "Sat, 08 Aug 2026 10:19:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199861_2608080602_0808101946_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "税務職員が高齢女性から約1億5000万円受け取り競艇 懲戒免職に",
+      "text": "米当局者 “航行妨げない合意なら海上封鎖を解除” 報道",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 21:49:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015199381_2608071735_0807214948_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 10:09:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199871_2608080911_0808100921_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含め38人死亡 避難所に6630人避難",
+      "text": "千葉 銚子 輸入サバ高騰で加工業者の約2割が倒産や廃業状態に",
       "source": "NHK",
-      "time": "Fri, 07 Aug 2026 21:31:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260807/K10015198921_2608071112_0807113502_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 07:28:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199891_2608080700_0808072859_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台湾軍 中国による侵攻を想定した大規模演習を公開",
+      "text": "トランプ大統領 FRBクック理事に“解任検討”を再び通知 報道",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 01:02:44 +0900"
+      "time": "Sat, 08 Aug 2026 09:14:33 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "韓国調査船が竹島周辺EEZ内で海洋調査か 日本政府が抗議",
+      "text": "高校野球 青森山田が遊学館に競り勝つ",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 01:43:08 +0900"
+      "time": "Sat, 08 Aug 2026 10:29:49 +0900"
     }
   ]
 }
