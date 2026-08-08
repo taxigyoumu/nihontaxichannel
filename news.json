@@ -1,14 +1,42 @@
 {
-  "updated_at": "2026-08-08 21:40",
-  "has_alert": false,
+  "updated_at": "2026-08-08 22:42",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。飛騨地方では、低い土地の浸水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-08T13:24:29Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。飛騨地方では、低い土地の浸水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-08T13:24:29Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】飛騨地方では、低い土地の浸水や河川の増水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-08T13:24:16Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日２１時２３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-08T12:26:14Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 21:34:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608082115_0808213500_01_03.jpg"
+      "time": "Sat, 08 Aug 2026 21:54:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608082152_0808215431_01_03.jpg"
     },
     {
       "category": "news",
@@ -21,10 +49,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+      "text": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 18:38:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200271_2608081825_0808183824_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 20:53:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200121_2608081339_0808205350_01_02.jpg"
     },
     {
       "category": "news",
@@ -37,10 +65,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "お盆休みで下りの混雑ピーク 高速道路や新幹線は",
+      "text": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 19:49:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199951_2608081148_0808115554_01_02.jpg"
+      "time": "Sat, 08 Aug 2026 18:38:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200271_2608081825_0808183824_01_02.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ラグビー日本代表 3点及ばず テストマッチで豪州に競り負ける",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 21:59:02 +0900"
     },
     {
       "category": "news",
@@ -48,13 +83,6 @@
       "text": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
       "source": "NHK",
       "time": "Sat, 08 Aug 2026 20:55:50 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 20:53:49 +0900"
     }
   ]
 }
