@@ -1,21 +1,14 @@
 {
-  "updated_at": "2026-08-09 01:28",
-  "has_alert": true,
+  "updated_at": "2026-08-09 02:03",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日２３時２８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T14:30:41Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
       "source": "NHK",
       "time": "Sat, 08 Aug 2026 21:54:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608082314_0808231536_01_03.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608090130_0809013353_01_03.jpg"
     },
     {
       "category": "news",
