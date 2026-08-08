@@ -1,50 +1,30 @@
 {
-  "updated_at": "2026-08-08 22:42",
-  "has_alert": true,
+  "updated_at": "2026-08-08 23:28",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。飛騨地方では、低い土地の浸水に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-08T13:24:29Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。飛騨地方では、低い土地の浸水に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-08T13:24:29Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】飛騨地方では、低い土地の浸水や河川の増水に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-08T13:24:16Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日２１時２３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T12:26:14Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風13号 影響は長時間続く 警戒を 台風15号の動きは?",
       "source": "NHK",
       "time": "Sat, 08 Aug 2026 21:54:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608082152_0808215431_01_03.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015199841_2608082314_0808231536_01_03.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大気不安定 新潟 岩手 青森 富山に記録的短時間大雨 厳重警戒",
+      "text": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 21:12:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200211_2608081906_0808190748_01_03.jpg"
+      "time": "Sat, 08 Aug 2026 23:17:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200211_2608082310_0808231733_01_03.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛知県内で水難事故相次ぐ 2人死亡",
+      "source": "NHK",
+      "time": "Sat, 08 Aug 2026 23:06:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200261_2608081751_0808175629_01_02.jpg"
     },
     {
       "category": "news",
@@ -60,22 +40,14 @@
       "text": "ラグビーリーグワン フィジー出身選手が死亡 熱中症疑いで搬送",
       "source": "NHK",
       "time": "Sat, 08 Aug 2026 20:29:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200291_2608081921_0808202938_01_02.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200291_2608082322_0808232230_01_02.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
       "source": "NHK",
-      "time": "Sat, 08 Aug 2026 18:38:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/html/20260808/K10015200271_2608081825_0808183824_01_02.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ラグビー日本代表 3点及ばず テストマッチで豪州に競り負ける",
-      "source": "NHK",
-      "time": "Sat, 08 Aug 2026 21:59:02 +0900"
+      "time": "Sat, 08 Aug 2026 18:38:23 +0900"
     },
     {
       "category": "news",
