@@ -1,41 +1,29 @@
 {
-  "updated_at": "2026-08-09 04:53",
+  "updated_at": "2026-08-09 05:24",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　９日０４時３９分ころ、地震がありました。",
+      "text": "【震源・震度情報】　９日０５時１８分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-08T19:44:04Z"
+      "time": "2026-08-08T20:20:33Z"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　９日０４時３３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T19:36:15Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 05:13:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005610_1_l.jpg"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう　９日０４時３３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T19:35:26Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　９日０４時３３分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-08T19:34:41Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　９日０３時５６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-08T18:59:24Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風13号 次第に離れるも高波に厳重警戒 台風15号 進路に注意",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 05:16:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42871/20260808de42871_E0000005633_1_l.jpg"
     },
     {
       "category": "news",
@@ -48,14 +36,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 影響は長時間続く 警戒を 台風15号の動きは",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 01:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42871/20260808de42871_E0000005613_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "北日本と東日本中心 9日も大気の状態が非常に不安定の見込み",
       "source": "NHK",
       "time": "Sun, 09 Aug 2026 01:51:00 +0900",
@@ -64,18 +44,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 10年前の地震と隣り合う領域で発生か 専門家分析",
+      "text": "米議会上院 新司法長官にトランプ大統領指名のブランチ氏承認",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 01:53:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42867/20260808de42867_E0000005597_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 05:17:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42888/20260809de42888_E0000005625_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】岩手 普代村で震度4 津波の心配なし",
+      "text": "大飯原発3号機 発電設備トラブルで自動停止 外部への影響なし",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 03:33:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42879/20260809de42879_E0000005621_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 05:10:43 +0900"
     },
     {
       "category": "news",
@@ -83,13 +62,6 @@
       "text": "イチローさん マリナーズOBのホームラン競争でファンわかせる",
       "source": "NHK",
       "time": "Sun, 09 Aug 2026 01:56:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 01:55:00 +0900"
     }
   ]
 }
