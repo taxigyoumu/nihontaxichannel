@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-08-09 13:45",
+  "updated_at": "2026-08-09 14:43",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　９日１２時５０分ころ、地震がありました。",
+      "text": "【震源・震度情報】　９日１４時０５分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-09T03:53:17Z"
+      "time": "2026-08-09T05:08:01Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
+      "text": "秋田 湯沢で記録的短時間大雨",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 13:36:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005718_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 14:01:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42968/20260809de42968_E0000005781_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東北と東日本中心に大気不安定 土砂災害など十分注意を",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 14:05:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42956/20260809de42956_E0000005776_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,10 +36,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 高波強風影響続く 台風15号の進路にも注意を",
+      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 12:55:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42871/20260808de42871_E0000005735_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 14:01:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005718_1_l.jpg"
     },
     {
       "category": "news",
@@ -46,22 +54,14 @@
       "label": "ニュース",
       "text": "熊本地震 被災地は厳しい暑さ できるかぎりの熱中症対策を",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 13:02:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42886/20260809de42886_E0000005617_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 13:02:23 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ゼレンスキー大統領“北朝鮮が3～5万人をロシアに派兵決定”",
+      "text": "高校野球 花巻東が小刻みに得点重ね新田に勝利 2回戦進出",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 11:17:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大飯原発3号機 発電設備トラブルで自動停止 外部への影響なし",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 11:41:09 +0900"
+      "time": "Sun, 09 Aug 2026 13:41:54 +0900"
     }
   ]
 }
