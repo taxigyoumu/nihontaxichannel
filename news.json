@@ -1,21 +1,57 @@
 {
-  "updated_at": "2026-08-10 00:27",
-  "has_alert": false,
+  "updated_at": "2026-08-10 00:58",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１０日００時４８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-09T15:52:03Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう１０日００時４８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-09T15:50:50Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１０日００時４８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-09T15:50:45Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１０日００時４８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-09T15:49:45Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】岐阜県と滋賀県で震度3 津波の心配なし",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 00:56:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43027/20260810de43027_E0000005935_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "和歌山市長選挙 新人で元県議の尾崎太郎氏 初当選",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 23:48:29 +0900",
+      "time": "Mon, 10 Aug 2026 00:36:30 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42978/20260809de42978_E0000005922_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長野県知事選挙 現職の阿部守一氏の5回目の当選",
+      "text": "長野県知事選 現職 阿部守一氏が5回目の当選 投票率は過去最低",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 22:56:29 +0900",
+      "time": "Mon, 10 Aug 2026 00:32:40 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42980/20260809de42980_E0000005904_1_l.jpg"
     },
     {
@@ -39,22 +75,14 @@
       "label": "ニュース",
       "text": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 21:45:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42950/20260809de42950_E0000005791_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 21:45:04 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本地震 自宅全壊の被災者の偽画像拡散 報道写真をAIで加工か",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 23:33:33 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "長崎原爆の日 被爆者や遺族などが各地で祈りささげる",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 21:32:39 +0900"
+      "time": "Mon, 10 Aug 2026 00:38:25 +0900"
     }
   ]
 }
