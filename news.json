@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-08-10 06:27",
-  "has_alert": true,
+  "updated_at": "2026-08-10 06:58",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、竜巻などの激しい突風や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-09T21:06:11Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、竜巻などの激しい突風や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-09T21:06:11Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】美濃地方では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-09T21:06:06Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -50,6 +29,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "熊本地震 被災地は10日も厳しい暑さ予想 熱中症対策を",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 06:33:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000005954_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "イスラエル首相 ガザ地区の和平に向けた工程表 拒否すると表明",
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 05:53:53 +0900",
@@ -60,8 +47,7 @@
       "label": "ニュース",
       "text": "長野県知事選 現職 阿部守一氏が5回目の当選 投票率は過去最低",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:32:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42980/20260809de42980_E0000005904_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 00:32:40 +0900"
     },
     {
       "category": "news",
@@ -69,13 +55,6 @@
       "text": "和歌山市長選挙 新人で元県議の尾崎太郎氏 初当選",
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 00:36:30 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "俳優 小川真由美さん死去 映画「復讐するは我にあり」など活躍",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 22:32:26 +0900"
     }
   ]
 }
