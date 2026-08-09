@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 06:58",
+  "updated_at": "2026-08-10 07:38",
   "has_alert": false,
   "items": [
     {
@@ -7,7 +7,7 @@
       "label": "ニュース",
       "text": "台風15号 11日には東北・関東甲信に接近へ 最新情報の確認を",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 06:22:36 +0900",
+      "time": "Mon, 10 Aug 2026 07:36:50 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000005948_1_l.jpg"
     },
     {
@@ -47,14 +47,14 @@
       "label": "ニュース",
       "text": "長野県知事選 現職 阿部守一氏が5回目の当選 投票率は過去最低",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:32:40 +0900"
+      "time": "Mon, 10 Aug 2026 00:32:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "和歌山市長選挙 新人で元県議の尾崎太郎氏 初当選",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:36:30 +0900"
+      "time": "Mon, 10 Aug 2026 00:36:00 +0900"
     }
   ]
 }
