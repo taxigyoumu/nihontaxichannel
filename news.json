@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 00:58",
+  "updated_at": "2026-08-10 01:41",
   "has_alert": true,
   "items": [
     {
@@ -33,14 +33,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】岐阜県と滋賀県で震度3 津波の心配なし",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:56:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43027/20260810de43027_E0000005935_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "和歌山市長選挙 新人で元県議の尾崎太郎氏 初当選",
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 00:36:30 +0900",
@@ -53,6 +45,14 @@
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 00:32:40 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42980/20260809de42980_E0000005904_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】岐阜県と滋賀県で震度3 津波の心配なし",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 00:56:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43027/20260810de43027_E0000005935_1_l.jpg"
     },
     {
       "category": "news",
