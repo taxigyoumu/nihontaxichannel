@@ -1,14 +1,38 @@
 {
-  "updated_at": "2026-08-09 17:37",
+  "updated_at": "2026-08-09 18:35",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山形新幹線 大雨で大石田～新庄間の上下線で運転見合わせ",
+      "text": "長野 安曇野で土石流が発生 一時約390人が取り残される",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 17:00:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42997/20260809de42997_E0000003965_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 18:10:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42947/20260809de42947_E0000005719_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風16号が発生 付近を通る船舶に注意呼びかけ 気象庁",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 17:35:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42994/20260809de42994_E0000005825_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 14:01:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005718_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "長崎原爆の日 被爆者や遺族などが各地で祈りささげる",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 12:59:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42929/20260809de42929_E0000005773_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,40 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長野 安曇野で土石流が発生 約390人が取り残されたか",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 17:18:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42947/20260809de42947_E0000005719_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東北と東日本中心に大気不安定 土砂災害など十分注意を",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 14:05:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42956/20260809de42956_E0000005776_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "高市首相 内閣改造 党役員人事“現時点で申し上げることない”",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 16:27:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42974/20260809de42974_E0000005802_2_l.jpg"
+      "time": "Sun, 09 Aug 2026 16:27:03 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
+      "text": "地震で被害の生花店 お盆に向け再開【9日 被災地の動き】",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 14:01:45 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "長崎原爆の日 被爆者や遺族などが各地で祈りささげる",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 12:59:00 +0900"
+      "time": "Sun, 09 Aug 2026 16:41:19 +0900"
     }
   ]
 }
