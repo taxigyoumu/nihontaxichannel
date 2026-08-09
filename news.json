@@ -1,37 +1,59 @@
 {
-  "updated_at": "2026-08-10 05:30",
+  "updated_at": "2026-08-10 06:27",
   "has_alert": true,
   "items": [
     {
       "category": "weather",
       "label": "気象",
-      "text": "【岐阜県気象解説情報（落雷・突風・降ひょう）】美濃地方では、１０日昼過ぎから夜遅くにかけて、竜巻などの激しい突風、落雷、降ひょう、急な強い雨に注意してください。",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、竜巻などの激しい突風や落雷に注意してください。",
       "source": "岐阜地方気象台",
-      "time": "2026-08-09T20:27:27Z"
+      "time": "2026-08-09T21:06:11Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、竜巻などの激しい突風や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-09T21:06:11Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】美濃地方では、竜巻などの激しい突風や急な強い雨、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-09T21:06:06Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
+      "text": "台風15号 11日には東北・関東甲信に接近へ 最新情報の確認を",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 21:35:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42956/20260809de42956_E0000005844_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 06:22:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000005948_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
+      "text": "東日本から西日本で猛暑続く 一層の熱中症対策を",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 21:45:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42950/20260809de42950_E0000005791_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 06:15:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43033/20260810de43033_E0000005947_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イラン ホルムズ海峡開放で米に条件提示 双方で駆け引き続く",
+      "text": "土石流で橋が流される 仮設の橋で移動可能に 長野 安曇野",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 23:03:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43006/20260809de43006_E0000005865_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 05:42:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43038/20260810de43038_E0000005946_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イスラエル首相 ガザ地区の和平に向けた工程表 拒否すると表明",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 05:53:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43024/20260809de43024_E0000005950_1_l.jpg"
     },
     {
       "category": "news",
@@ -46,8 +68,7 @@
       "label": "ニュース",
       "text": "和歌山市長選挙 新人で元県議の尾崎太郎氏 初当選",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:36:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42978/20260809de42978_E0000005922_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 00:36:30 +0900"
     },
     {
       "category": "news",
@@ -55,13 +76,6 @@
       "text": "俳優 小川真由美さん死去 映画「復讐するは我にあり」など活躍",
       "source": "NHK",
       "time": "Sun, 09 Aug 2026 22:32:26 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 自宅全壊の被災者の偽画像拡散 報道写真をAIで加工か",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:38:25 +0900"
     }
   ]
 }
