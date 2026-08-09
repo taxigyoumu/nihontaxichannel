@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 07:38",
+  "updated_at": "2026-08-10 08:27",
   "has_alert": false,
   "items": [
     {
@@ -8,7 +8,7 @@
       "text": "台風15号 11日には東北・関東甲信に接近へ 最新情報の確認を",
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 07:36:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000005948_1_l.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000005960_1_l.jpg"
     },
     {
       "category": "news",
@@ -17,14 +17,6 @@
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 06:15:42 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43033/20260810de43033_E0000005947_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "土石流で橋が流される 仮設の橋で移動可能に 長野 安曇野",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 05:42:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43038/20260810de43038_E0000005946_1_l.jpg"
     },
     {
       "category": "news",
@@ -41,6 +33,14 @@
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 05:53:53 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43024/20260809de43024_E0000005950_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 07:45:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43010/20260809de43010_E0000005939_1_l.jpg"
     },
     {
       "category": "news",
