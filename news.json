@@ -1,29 +1,57 @@
 {
-  "updated_at": "2026-08-09 18:35",
-  "has_alert": false,
+  "updated_at": "2026-08-09 19:30",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-09T10:27:59Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-09T10:27:59Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】美濃地方では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-09T10:27:46Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　９日１８時５９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-09T10:02:41Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "長野 安曇野で土石流が発生 一時約390人が取り残される",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 18:10:09 +0900",
+      "time": "Sun, 09 Aug 2026 19:18:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42947/20260809de42947_E0000005719_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風16号が発生 付近を通る船舶に注意呼びかけ 気象庁",
+      "text": "東日本や東北中心に大気不安定 土砂災害など警戒を",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 17:35:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42994/20260809de42994_E0000005825_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 19:27:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42956/20260809de42956_E0000005844_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "原爆投下から81年 “長崎を最後の被爆地に”",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 14:01:45 +0900",
+      "time": "Sun, 09 Aug 2026 19:03:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005718_1_l.jpg"
     },
     {
@@ -45,16 +73,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 内閣改造 党役員人事“現時点で申し上げることない”",
+      "text": "地震で被害の生花店 お盆に向け再開【9日 被災地の動き】",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 16:27:03 +0900"
+      "time": "Sun, 09 Aug 2026 16:41:19 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "地震で被害の生花店 お盆に向け再開【9日 被災地の動き】",
+      "text": "高校野球 岡山学芸館が鳥取城北に逆転勝ち 2回戦へ",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 16:41:19 +0900"
+      "time": "Sun, 09 Aug 2026 19:06:42 +0900"
     }
   ]
 }
