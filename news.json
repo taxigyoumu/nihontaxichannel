@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-09 23:30",
+  "updated_at": "2026-08-10 00:27",
   "has_alert": false,
   "items": [
     {
@@ -7,7 +7,7 @@
       "label": "ニュース",
       "text": "和歌山市長選挙 新人で元県議の尾崎太郎氏 初当選",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 23:28:55 +0900",
+      "time": "Sun, 09 Aug 2026 23:48:29 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42978/20260809de42978_E0000005922_1_l.jpg"
     },
     {
@@ -37,24 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長崎原爆の日 被爆者や遺族などが各地で祈りささげる",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 21:32:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42929/20260809de42929_E0000005773_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 21:45:04 +0900"
+      "time": "Sun, 09 Aug 2026 21:45:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42950/20260809de42950_E0000005791_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "卓球国際大会 張本美和・智和 きょうだいで男女シングルス優勝",
+      "text": "熊本地震 自宅全壊の被災者の偽画像拡散 報道写真をAIで加工か",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 22:30:31 +0900"
+      "time": "Sun, 09 Aug 2026 23:33:33 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "長崎原爆の日 被爆者や遺族などが各地で祈りささげる",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 21:32:39 +0900"
     }
   ]
 }
