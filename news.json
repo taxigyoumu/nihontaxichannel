@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 03:00",
+  "updated_at": "2026-08-10 04:10",
   "has_alert": true,
   "items": [
     {
@@ -12,10 +12,26 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "和歌山市長選挙 新人で元県議の尾崎太郎氏 初当選",
+      "text": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:36:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42978/20260809de42978_E0000005922_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 21:35:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42956/20260809de42956_E0000005844_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 21:45:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42950/20260809de42950_E0000005791_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イラン ホルムズ海峡開放で米に条件提示 双方で駆け引き続く",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 23:03:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43006/20260809de43006_E0000005865_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,33 +44,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】岐阜県と滋賀県で震度3 津波の心配なし",
+      "text": "和歌山市長選挙 新人で元県議の尾崎太郎氏 初当選",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:56:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43027/20260810de43027_E0000005935_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 00:36:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42978/20260809de42978_E0000005922_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
+      "text": "俳優 小川真由美さん死去 映画「復讐するは我にあり」など活躍",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 21:35:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42956/20260809de42956_E0000005844_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "原爆投下から81年“核兵器は絶対悪 長崎を最後の被爆地に”",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 21:31:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005718_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 21:45:04 +0900"
+      "time": "Sun, 09 Aug 2026 22:32:26 +0900"
     },
     {
       "category": "news",
