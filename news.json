@@ -1,14 +1,35 @@
 {
-  "updated_at": "2026-08-09 20:54",
-  "has_alert": false,
+  "updated_at": "2026-08-09 21:42",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-09T12:28:29Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-09T12:28:29Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-09T12:28:21Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "長野県知事選挙 現職の阿部守一氏の5回目の当選が確実",
       "source": "NHK",
       "time": "Sun, 09 Aug 2026 20:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42980/20260809de42980_E0000005861_1_l.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42980/20260809de42980_E0000005904_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,17 +42,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東日本や東北中心に大気不安定 土砂災害など警戒を",
+      "text": "大気不安定 関東で激しい雨 浸水や川の増水など警戒を",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 19:27:31 +0900",
+      "time": "Sun, 09 Aug 2026 21:35:45 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42956/20260809de42956_E0000005844_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
+      "text": "原爆投下から81年“核兵器は絶対悪 長崎を最後の被爆地に”",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 19:03:00 +0900",
+      "time": "Sun, 09 Aug 2026 21:31:33 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005718_1_l.jpg"
     },
     {
@@ -39,22 +60,22 @@
       "label": "ニュース",
       "text": "長崎原爆の日 被爆者や遺族などが各地で祈りささげる",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 12:59:00 +0900",
+      "time": "Sun, 09 Aug 2026 21:32:39 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42929/20260809de42929_E0000005773_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6332人避難",
+      "text": "熊本地震 災害関連死の疑い含めて39人死亡 避難所に6183人避難",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 16:46:38 +0900"
+      "time": "Sun, 09 Aug 2026 21:27:56 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 岡山学芸館が鳥取城北に逆転勝ち 2回戦へ",
+      "text": "陸上 女子100メートルハードル 中島ひとみが日本新記録",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 20:11:35 +0900"
+      "time": "Sun, 09 Aug 2026 21:29:22 +0900"
     }
   ]
 }
