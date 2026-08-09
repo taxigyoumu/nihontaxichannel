@@ -1,29 +1,37 @@
 {
-  "updated_at": "2026-08-09 10:24",
+  "updated_at": "2026-08-09 12:14",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
+      "text": "長野 安曇野で土砂崩れ 約390人が取り残されたか",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 05:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005644_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 12:01:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42947/20260809de42947_E0000005719_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本 上天草市で震度4 津波の心配なし",
+      "text": "原爆投下から81年 “長崎を最後の被爆地に”",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 08:34:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42935/20260809de42935_E0000005700_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 11:59:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42887/20260809de42887_E0000005718_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風13号 高波強風影響続く 台風15号の進路にも注意を",
+      "source": "NHK",
+      "time": "Sun, 09 Aug 2026 12:05:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42871/20260808de42871_E0000005735_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "長崎原爆の日 被爆者や遺族などが各地で祈りささげる",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 09:34:56 +0900",
+      "time": "Sun, 09 Aug 2026 11:12:06 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de42929/20260809de42929_E0000005650_1_l.jpg"
     },
     {
@@ -37,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風13号 高波強風影響続く 台風15号の進路にも注意を",
+      "text": "ゼレンスキー大統領“北朝鮮が3～5万人をロシアに派兵決定”",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 09:09:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260808de42871/20260808de42871_E0000005709_1_l.jpg"
+      "time": "Sun, 09 Aug 2026 11:17:35 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「韓国サッカー協会が外国人審判員に性的接待」韓国メディア",
+      "text": "大飯原発3号機 発電設備トラブルで自動停止 外部への影響なし",
       "source": "NHK",
-      "time": "Sun, 09 Aug 2026 01:55:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イラン“通航再開は米の補償も条件” “交渉は停滞”報道も",
-      "source": "NHK",
-      "time": "Sun, 09 Aug 2026 05:55:46 +0900"
+      "time": "Sun, 09 Aug 2026 11:41:09 +0900"
     }
   ]
 }
