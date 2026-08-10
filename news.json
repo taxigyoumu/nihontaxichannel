@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-08-10 17:56",
+  "updated_at": "2026-08-10 19:17",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象解説情報（台風第１５号）】台風第１５号は、岐阜県に１２日未明から朝にかけて接近する見込みです。土砂災害、低い土地の浸水、河川の増水に注意・警戒してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-10T07:59:11Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１０日１８時１９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T09:22:31Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１０日１８時１６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T09:19:23Z"
     },
     {
       "category": "quake",
@@ -19,10 +26,26 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風15号 東北・関東接近へ 土砂災害や暴風など警戒を",
+      "text": "台風15号 あす関東甲信に接近 夜にかけ上陸のおそれ",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 16:54:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006286_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 19:12:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006507_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風15号 交通機関への影響は（鉄道 高速道路 空の便）",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 18:38:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43124/20260810de43124_E0000006436_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 気象庁「1か月ほど最大震度5弱程度以上の地震注意」",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 18:47:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000005954_1_l.jpg"
     },
     {
       "category": "news",
@@ -35,40 +58,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "特捜検事の調べに賠償求める裁判 取り調べ映像を法廷で再生",
+      "text": "高市内閣支持率53％ 不支持33％ NHK世論調査",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 14:24:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260810de43095/20260810de43095_E0000006170_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 19:00:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43053/20260810de43053_E0000006005_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟市の海で3人流される 2人意識不明 海上保安部・消防",
+      "text": "各党支持率「自民党」35.0％ 「支持なし」39.0％ NHK世論調査",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 13:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43094/20260810de43094_E0000006142_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 19:01:07 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 気象庁「1か月ほど最大震度5弱程度以上の地震注意」",
+      "text": "新潟市の海で親子3人流される 13歳と8歳のきょうだい死亡",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 17:55:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000005954_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東日本から西日本で猛暑続く 一層の熱中症対策を",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 17:09:39 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 中央区のビルで貸金庫こじあけられる 7月も同様の被害",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 16:49:41 +0900"
+      "time": "Mon, 10 Aug 2026 18:52:56 +0900"
     }
   ]
 }
