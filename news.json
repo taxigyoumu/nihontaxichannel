@@ -1,27 +1,20 @@
 {
-  "updated_at": "2026-08-10 19:17",
+  "updated_at": "2026-08-10 20:29",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１０日１８時１９分ころ、地震がありました。",
+      "text": "【震源・震度情報】１０日２０時２５分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-10T09:22:31Z"
+      "time": "2026-08-10T11:28:11Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１０日１８時１６分ころ、地震がありました。",
+      "text": "【震源・震度情報】１０日２０時１３分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-10T09:19:23Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１０日１７時０２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-10T08:04:55Z"
+      "time": "2026-08-10T11:15:52Z"
     },
     {
       "category": "news",
@@ -42,17 +35,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 気象庁「1か月ほど最大震度5弱程度以上の地震注意」",
+      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に6108人避難",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 18:47:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000005954_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に6165人避難",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 16:39:57 +0900",
+      "time": "Mon, 10 Aug 2026 20:14:20 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43067/20260810de43067_E0000006189_1_l.jpg"
     },
     {
@@ -60,22 +45,30 @@
       "label": "ニュース",
       "text": "高市内閣支持率53％ 不支持33％ NHK世論調査",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 19:00:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43053/20260810de43053_E0000006005_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 19:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43053/20260810de43053_E0000006545_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "各党支持率「自民党」35.0％ 「支持なし」39.0％ NHK世論調査",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 19:01:07 +0900"
+      "time": "Mon, 10 Aug 2026 19:01:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43054/20260810de43054_E0000006492_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "新潟市の海で親子3人流される 13歳と8歳のきょうだい死亡",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 18:52:56 +0900"
+      "time": "Mon, 10 Aug 2026 19:24:58 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ニチレイのサイバー攻撃 ハッカー集団が個人情報など公開か",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 19:22:00 +0900"
     }
   ]
 }
