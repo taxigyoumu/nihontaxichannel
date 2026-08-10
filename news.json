@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-10 23:54",
+  "updated_at": "2026-08-11 00:57",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１０日２３時５５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T14:59:27Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -22,16 +29,16 @@
       "label": "ニュース",
       "text": "台風15号 交通機関への影響は（鉄道 高速道路 空の便）",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 18:38:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43124/20260810de43124_E0000006436_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 18:38:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43124/20260810de43124_E0000006614_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に6092人避難",
+      "text": "日本版GPS衛星「みちびき7号機」きょうH3ロケットで打ち上げへ",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 23:17:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43067/20260810de43067_E0000006189_1_l.jpg"
+      "time": "Tue, 11 Aug 2026 00:07:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43195/20260810de43195_E0000006590_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,10 +51,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市内閣支持率53％ 不支持33％ NHK世論調査",
+      "text": "高知「よさこい祭り」10日から本番始まる 夏の風物詩",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 19:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43053/20260810de43053_E0000006545_1_l.jpg"
+      "time": "Tue, 11 Aug 2026 00:41:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43198/20260810de43198_E0000006606_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日本被団協結成70年で声明「核兵器ない社会築くのは市民」",
+      "source": "NHK",
+      "time": "Tue, 11 Aug 2026 22:48:00 +0900"
     },
     {
       "category": "news",
@@ -55,13 +69,6 @@
       "text": "各党支持率「自民党」35.0％ 「支持なし」39.0％ NHK世論調査",
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 19:01:07 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "新潟市の海で親子3人流される 13歳と8歳のきょうだい死亡",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 19:24:58 +0900"
     }
   ]
 }
