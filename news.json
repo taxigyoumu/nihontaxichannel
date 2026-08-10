@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-10 14:54",
+  "updated_at": "2026-08-10 16:25",
   "has_alert": true,
   "items": [
     {
@@ -19,26 +19,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風15号 東北・関東接近へ 土砂災害や暴風など警戒を",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 14:18:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006132_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "特捜検事の調べに賠償求める裁判 取り調べ映像を法廷で再生",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 14:24:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260810de43095/20260810de43095_E0000006170_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に6165人避難",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 14:44:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43067/20260810de43067_E0000006168_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 15:52:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43067/20260810de43067_E0000006189_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風15号 東北・関東接近へ 土砂災害や暴風など警戒を",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 14:18:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006132_1_l.jpg"
     },
     {
       "category": "news",
@@ -47,6 +39,14 @@
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 13:48:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43094/20260810de43094_E0000006142_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "特捜検事の調べに賠償求める裁判 取り調べ映像を法廷で再生",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 14:24:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260810de43095/20260810de43095_E0000006170_1_l.jpg"
     },
     {
       "category": "news",
