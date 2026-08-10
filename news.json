@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-08-10 11:22",
-  "has_alert": false,
+  "updated_at": "2026-08-10 13:11",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風15号 11日には東北・関東甲信に接近へ 最新情報の確認を",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 07:36:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000005960_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１０日１２時２２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T03:26:07Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "土石流で橋が流される 仮設の橋で移動可能に 長野 安曇野",
+      "text": "台風15号 東北・関東接近へ 土砂災害や暴風など警戒を",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 10:18:14 +0900",
+      "time": "Mon, 10 Aug 2026 12:34:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006003_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "長野 安曇野 土石流で橋が流される 仮設の橋使い移動呼びかけ",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 12:28:11 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43038/20260810de43038_E0000005946_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 被災地は10日も厳しい暑さ予想 熱中症対策を",
+      "text": "熊本地震 被災地は午前中から厳しい暑さ 熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 06:33:00 +0900",
+      "time": "Mon, 10 Aug 2026 11:50:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000005954_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領 核開発合意なしでも幕引き模索か 米メディア",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 12:21:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43045/20260810de43045_E0000005949_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "東日本から西日本で猛暑続く 一層の熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 06:15:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43033/20260810de43033_E0000005947_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 12:47:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43033/20260810de43033_E0000006011_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
+      "text": "日銀 7月の金融政策決定会合“利上げペース加速”意見相次ぐ",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 07:45:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43010/20260809de43010_E0000005939_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 11:57:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "タングステン 中国の輸出規制影響 製品価格高騰や調達難に",
+      "text": "株価 値上がり 半導体関連の銘柄中心に買い注文",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 07:19:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イスラエル首相 ガザ地区の和平に向けた工程表 拒否すると表明",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 05:53:53 +0900"
+      "time": "Mon, 10 Aug 2026 12:09:49 +0900"
     }
   ]
 }
