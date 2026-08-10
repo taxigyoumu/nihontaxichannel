@@ -1,44 +1,36 @@
 {
-  "updated_at": "2026-08-10 16:25",
+  "updated_at": "2026-08-10 17:56",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１０日１４時３２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-10T05:35:32Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象解説情報（台風第１５号）】台風第１５号は、岐阜県に１２日未明から朝にかけて接近する見込みです。土砂災害、低い土地の浸水、河川の増水に注意・警戒してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-10T07:59:11Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１０日１３時５７分ころ、地震がありました。",
+      "text": "【震源・震度情報】１０日１７時０２分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-10T05:00:42Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に6165人避難",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 15:52:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43067/20260810de43067_E0000006189_1_l.jpg"
+      "time": "2026-08-10T08:04:55Z"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風15号 東北・関東接近へ 土砂災害や暴風など警戒を",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 14:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006132_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 16:54:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000006286_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟市の海で3人流される 2人意識不明 海上保安部・消防",
+      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に6165人避難",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 13:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43094/20260810de43094_E0000006142_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 16:39:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43067/20260810de43067_E0000006189_1_l.jpg"
     },
     {
       "category": "news",
@@ -51,24 +43,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長野 安曇野 土石流で橋が流される 仮設の橋使い移動呼びかけ",
+      "text": "新潟市の海で3人流される 2人意識不明 海上保安部・消防",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 12:28:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43038/20260810de43038_E0000005946_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 13:48:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43094/20260810de43094_E0000006142_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 被災地は午前中から厳しい暑さ 熱中症対策を",
+      "text": "熊本地震 気象庁「1か月ほど最大震度5弱程度以上の地震注意」",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 11:50:00 +0900"
+      "time": "Mon, 10 Aug 2026 17:55:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000005954_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "東日本から西日本で猛暑続く 一層の熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 12:47:02 +0900"
+      "time": "Mon, 10 Aug 2026 17:09:39 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 中央区のビルで貸金庫こじあけられる 7月も同様の被害",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 16:49:41 +0900"
     }
   ]
 }
