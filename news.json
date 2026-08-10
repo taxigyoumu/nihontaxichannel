@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-11 00:57",
+  "updated_at": "2026-08-11 01:55",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１１日０１時１５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T16:17:51Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１１日００時５５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T15:58:09Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -51,17 +65,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高知「よさこい祭り」10日から本番始まる 夏の風物詩",
+      "text": "FIFA子会社設立計画めぐり 3連盟が共同声明「根本的な裏切り」",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 00:41:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43198/20260810de43198_E0000006606_1_l.jpg"
+      "time": "Tue, 11 Aug 2026 00:44:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43202/20260810de43202_E0000006609_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本被団協結成70年で声明「核兵器ない社会築くのは市民」",
+      "text": "高市内閣支持率53％ 不支持33％ NHK世論調査",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 22:48:00 +0900"
+      "time": "Mon, 10 Aug 2026 19:00:00 +0900"
     },
     {
       "category": "news",
