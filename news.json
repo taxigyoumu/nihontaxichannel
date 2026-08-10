@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-10 08:59",
-  "has_alert": true,
+  "updated_at": "2026-08-10 11:22",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１０日０８時３３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-09T23:37:06Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -16,6 +9,22 @@
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 07:36:50 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43043/20260810de43043_E0000005960_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "土石流で橋が流される 仮設の橋で移動可能に 長野 安曇野",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 10:18:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43038/20260810de43038_E0000005946_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 被災地は10日も厳しい暑さ予想 熱中症対策を",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 06:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000005954_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,40 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 被災地は10日も厳しい暑さ予想 熱中症対策を",
+      "text": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 06:33:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43032/20260810de43032_E0000005954_1_l.jpg"
+      "time": "Mon, 10 Aug 2026 07:45:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43010/20260809de43010_E0000005939_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "タングステン 中国の輸出規制影響 製品価格高騰や調達難に",
+      "source": "NHK",
+      "time": "Mon, 10 Aug 2026 07:19:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "イスラエル首相 ガザ地区の和平に向けた工程表 拒否すると表明",
       "source": "NHK",
-      "time": "Mon, 10 Aug 2026 05:53:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43024/20260809de43024_E0000005950_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イオンモール 設備の緊急点検 各地でイベント中止・延期相次ぐ",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 07:45:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260809de43010/20260809de43010_E0000005939_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "長野県知事選 現職 阿部守一氏が5回目の当選 投票率は過去最低",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:32:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "和歌山市長選挙 新人で元県議の尾崎太郎氏 初当選",
-      "source": "NHK",
-      "time": "Mon, 10 Aug 2026 00:36:00 +0900"
+      "time": "Mon, 10 Aug 2026 05:53:53 +0900"
     }
   ]
 }
