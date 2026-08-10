@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-08-11 02:49",
-  "has_alert": false,
+  "updated_at": "2026-08-11 03:52",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１１日０３時１２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T18:15:49Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう１１日０３時１２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T18:14:50Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１１日０３時１２分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-10T18:14:10Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１１日０２時４７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T17:51:07Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう１１日０２時４７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-10T17:50:11Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】熊本・上天草で震度3 津波の心配なし（3:12）",
+      "source": "NHK",
+      "time": "Tue, 11 Aug 2026 03:17:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43215/20260811de43215_E0000006632_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -33,14 +76,6 @@
       "source": "NHK",
       "time": "Mon, 10 Aug 2026 22:26:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43201/20260810de43201_E0000004021_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "FIFA子会社設立計画めぐり 3連盟が共同声明「根本的な裏切り」",
-      "source": "NHK",
-      "time": "Tue, 11 Aug 2026 00:44:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43202/20260810de43202_E0000006609_1_l.jpg"
     },
     {
       "category": "news",
