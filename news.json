@@ -1,30 +1,37 @@
 {
-  "updated_at": "2026-08-12 01:24",
-  "has_alert": false,
+  "updated_at": "2026-08-12 02:26",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１２日０２時１１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-11T17:15:00Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風15号 関東で強風被害 台風から離れても大雨に警戒",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 01:14:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006871_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風15号 各地の被害 茨城で3人けが 関東で1万8880戸停電",
-      "source": "NHK",
-      "time": "Wed, 12 Aug 2026 00:44:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43291/20260811de43291_E0000006813_1_l.jpg"
+      "time": "Wed, 12 Aug 2026 02:08:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006883_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【交通影響】東北道一部通行止め 常磐線運転再開",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 23:40:08 +0900",
+      "time": "Wed, 12 Aug 2026 01:58:30 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43204/20260810de43204_E0000006857_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風15号 各地の被害 茨城で3人けが 関東で1万8880戸停電",
+      "source": "NHK",
+      "time": "Wed, 12 Aug 2026 01:56:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43291/20260811de43291_E0000006813_1_l.jpg"
     },
     {
       "category": "news",
