@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-08-11 17:29",
+  "updated_at": "2026-08-11 18:33",
   "has_alert": true,
   "items": [
     {
       "category": "weather",
       "label": "気象",
-      "text": "【岐阜県気象解説情報（台風第１５号）】台風第１５号は、１２日未明から朝にかけて岐阜県に最接近する見込みです。土砂災害、低い土地の浸水、河川の増水に注意・警戒してください。",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
       "source": "岐阜地方気象台",
-      "time": "2026-08-11T08:08:59Z"
+      "time": "2026-08-11T08:55:00Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-11T08:55:00Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県乾燥注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-11T08:54:53Z"
     },
     {
       "category": "quake",
@@ -19,17 +33,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風15号 今夜にも関東上陸のおそれ 土砂災害や暴風など警戒",
+      "text": "台風15号 今夜 関東上陸へ 広い範囲で激しい雨の見込み",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 17:16:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006759_1_l.jpg"
+      "time": "Tue, 11 Aug 2026 18:21:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006789_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風15号 交通機関への影響は（鉄道 高速道路 空の便）11日",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 16:25:20 +0900",
+      "time": "Tue, 11 Aug 2026 17:58:20 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43204/20260810de43204_E0000006615_1_l.jpg"
     },
     {
@@ -37,8 +51,8 @@
       "label": "ニュース",
       "text": "【気象予報士解説】台風15号 今後の見通しは",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 13:07:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43243/20260811de43243_E0000006695_1_l.jpg"
+      "time": "Tue, 11 Aug 2026 18:30:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43243/20260811de43243_E0000006793_1_l.jpg"
     },
     {
       "category": "news",
@@ -51,10 +65,17 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "熊本地震 “たかおっちゃん”のスニーカー　めいが思い語る",
+      "source": "NHK",
+      "time": "Tue, 11 Aug 2026 17:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43276/20260811de43276_E0000006770_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "熊本地震から2週間 仮設住宅の建設始まる【被災地の動き】",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 17:13:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43234/20260811de43234_E0000006684_1_l.jpg"
+      "time": "Tue, 11 Aug 2026 17:13:34 +0900"
     },
     {
       "category": "news",
@@ -62,13 +83,6 @@
       "text": "熊本地震 物資配送の“目詰まり”解消へ 運送会社など取り組み",
       "source": "NHK",
       "time": "Tue, 11 Aug 2026 16:16:06 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ大統領 子ども向けワクチン接種の方針変更 批判も",
-      "source": "NHK",
-      "time": "Tue, 11 Aug 2026 15:13:07 +0900"
     }
   ]
 }
