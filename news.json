@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 03:24",
+  "updated_at": "2026-08-12 04:33",
   "has_alert": true,
   "items": [
     {
@@ -14,7 +14,7 @@
       "label": "ニュース",
       "text": "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 02:45:21 +0900",
+      "time": "Wed, 12 Aug 2026 03:59:58 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43330/20260812de43330_E0000006882_1_l.jpg"
     },
     {
@@ -22,7 +22,7 @@
       "label": "ニュース",
       "text": "台風15号 関東で強風被害 台風から離れても大雨に警戒",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 02:59:10 +0900",
+      "time": "Wed, 12 Aug 2026 04:01:05 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006888_1_l.jpg"
     },
     {
@@ -36,9 +36,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風15号 各地の被害 茨城で3人けが 関東で1万8880戸停電",
+      "text": "台風15号 各地の被害 茨城で3人けが 茨城・栃木など8040戸停電",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 01:56:15 +0900",
+      "time": "Wed, 12 Aug 2026 04:08:13 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43291/20260811de43291_E0000006813_1_l.jpg"
     },
     {
