@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-12 06:41",
+  "updated_at": "2026-08-12 07:37",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１２日０６時５３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-11T21:56:04Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１２日０６時４６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-11T21:49:23Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -19,9 +33,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か",
+      "text": "北朝鮮の弾道ミサイルの可能性あるもの EEZへの飛来確認されず",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 06:35:25 +0900",
+      "time": "Wed, 12 Aug 2026 07:08:34 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43345/20260812de43345_E0000003943_1_l.jpg"
     },
     {
@@ -29,8 +43,8 @@
       "label": "ニュース",
       "text": "台風15号 関東で強風被害 台風から離れても大雨に警戒",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 06:04:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006907_1_l.jpg"
+      "time": "Wed, 12 Aug 2026 07:00:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006919_1_l.jpg"
     },
     {
       "category": "news",
@@ -43,25 +57,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【交通影響】新幹線や首都圏の鉄道 空の便は平常通り",
+      "text": "【交通影響】JR青梅線 久留里線運転見合わせ 北関東道通行止め",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 05:27:04 +0900",
+      "time": "Wed, 12 Aug 2026 07:13:16 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43204/20260810de43204_E0000006857_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風15号 各地の被害 茨城と栃木で4人けが 茨城など7660戸停電",
-      "source": "NHK",
-      "time": "Wed, 12 Aug 2026 06:19:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43291/20260811de43291_E0000006813_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "日航ジャンボ機の墜落事故 きょうで41年 520人が犠牲",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 06:24:53 +0900"
+      "time": "Wed, 12 Aug 2026 06:24:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43331/20260812de43331_E0000006886_1_l.jpg"
     },
     {
       "category": "news",
@@ -69,6 +76,13 @@
       "text": "“トランプ大統領 7月 秘密裏に専用機から乗り換え”米有力紙",
       "source": "NHK",
       "time": "Wed, 12 Aug 2026 04:51:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中国とインドネシアの海軍 台湾東の海域で訓練実施へ",
+      "source": "NHK",
+      "time": "Wed, 12 Aug 2026 06:21:46 +0900"
     }
   ]
 }
