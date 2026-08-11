@@ -1,14 +1,22 @@
 {
-  "updated_at": "2026-08-12 00:28",
+  "updated_at": "2026-08-12 01:24",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風15号 茨城県南部に上陸 茨城上陸は統計開始から初 気象庁",
+      "text": "台風15号 関東で強風被害 台風から離れても大雨に警戒",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 23:07:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006858_1_l.jpg"
+      "time": "Wed, 12 Aug 2026 01:14:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006871_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風15号 各地の被害 茨城で3人けが 関東で1万8880戸停電",
+      "source": "NHK",
+      "time": "Wed, 12 Aug 2026 00:44:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43291/20260811de43291_E0000006813_1_l.jpg"
     },
     {
       "category": "news",
@@ -17,14 +25,6 @@
       "source": "NHK",
       "time": "Tue, 11 Aug 2026 23:40:08 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43204/20260810de43204_E0000006857_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風15号 各地の被害 茨城で3人けが 関東で1万8880戸停電",
-      "source": "NHK",
-      "time": "Tue, 11 Aug 2026 23:45:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43291/20260811de43291_E0000006813_1_l.jpg"
     },
     {
       "category": "news",
