@@ -1,72 +1,37 @@
 {
-  "updated_at": "2026-08-11 21:55",
-  "has_alert": true,
+  "updated_at": "2026-08-11 23:18",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-11T12:02:10Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-11T12:02:10Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-11T12:02:04Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１１日２１時３７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-11T12:40:38Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１１日２０時２５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-11T11:28:10Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風15号 茨城県南部に上陸 茨城上陸は統計開始から初 気象庁",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 21:26:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006822_1_l.jpg"
+      "time": "Tue, 11 Aug 2026 23:07:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000006858_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風15号 交通機関への影響は（鉄道 高速道路 空の便）11日",
+      "text": "【交通影響】東北道一部通行止め 常磐線見合わせも",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 21:51:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43204/20260810de43204_E0000006615_1_l.jpg"
+      "time": "Tue, 11 Aug 2026 22:52:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260810de43204/20260810de43204_E0000006857_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【気象予報士解説】台風15号 今後の見通しは",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 19:25:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43243/20260811de43243_E0000006807_1_l.jpg"
+      "time": "Tue, 11 Aug 2026 22:49:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43243/20260811de43243_E0000006855_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風15号 各地の被害 茨城で3人けが 関東で2万1200戸停電",
+      "text": "台風15号 各地の被害 茨城で3人けが 関東で2万630戸停電",
       "source": "NHK",
-      "time": "Tue, 11 Aug 2026 21:55:09 +0900",
+      "time": "Tue, 11 Aug 2026 23:10:59 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43291/20260811de43291_E0000006813_1_l.jpg"
     },
     {
