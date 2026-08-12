@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-08-12 22:55",
+  "updated_at": "2026-08-12 23:53",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１２日２１時０３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-12T12:06:38Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-12T14:32:26Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-12T14:32:26Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】美濃地方では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-12T14:32:12Z"
     },
     {
       "category": "news",
@@ -22,8 +36,8 @@
       "label": "ニュース",
       "text": "台風17号が発生 “今後の情報に注意を” 気象庁",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 19:37:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43369/20260812de43369_E0000007513_1_l.jpg"
+      "time": "Wed, 12 Aug 2026 19:37:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43369/20260812de43369_E0000007623_1_l.jpg"
     },
     {
       "category": "news",
