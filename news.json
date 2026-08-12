@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-08-12 20:03",
-  "has_alert": false,
+  "updated_at": "2026-08-12 21:07",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１２日２１時０３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-12T12:06:38Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広い範囲で大気不安定 関東では危険警報も",
+      "text": "熱帯低気圧 広い範囲で大気不安定 関東では危険警報も",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 19:31:12 +0900",
+      "time": "Wed, 12 Aug 2026 21:03:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000007505_1_l.jpg"
     },
     {
@@ -39,15 +46,8 @@
       "label": "ニュース",
       "text": "日航機墜落事故から41年 追悼慰霊式に遺族などが参列",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 19:34:50 +0900",
+      "time": "Wed, 12 Aug 2026 20:56:46 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43375/20260812de43375_E0000007475_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロシア プーチン大統領 北方領土問題めぐり 日本を強くけん制",
-      "source": "NHK",
-      "time": "Wed, 12 Aug 2026 19:51:47 +0900"
     },
     {
       "category": "news",
@@ -55,6 +55,13 @@
       "text": "熊本 断水の復旧長期化 断層沿いの主要な水道管の被害が要因か",
       "source": "NHK",
       "time": "Wed, 12 Aug 2026 19:52:10 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“弾道ミサイルなどの発射実験は事前通知を”40余国が共同声明",
+      "source": "NHK",
+      "time": "Wed, 12 Aug 2026 20:46:20 +0900"
     }
   ]
 }
