@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-08-12 23:53",
-  "has_alert": true,
+  "updated_at": "2026-08-13 00:56",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-12T14:32:26Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-12T14:32:26Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】美濃地方では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-12T14:32:12Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -58,10 +37,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日航機墜落事故から41年 追悼慰霊式に遺族などが参列",
+      "text": "熱中症搬送者数 8月9日までの1週間で7600人余 熊本も200人近く",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 20:56:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43375/20260812de43375_E0000007475_1_l.jpg"
+      "time": "Thu, 13 Aug 2026 00:23:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43538/20260812de43538_E0000003459_1_l.jpg"
     },
     {
       "category": "news",
@@ -73,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米消費者物価上昇率3.4％ 伸び率縮小で早期利上げ観測が後退か",
+      "text": "米物価上昇率3.4％ 伸び率縮小 利上げ観測やや後退",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 21:54:00 +0900"
+      "time": "Thu, 13 Aug 2026 00:26:19 +0900"
     }
   ]
 }
