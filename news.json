@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-12 17:46",
+  "updated_at": "2026-08-12 18:59",
   "has_alert": false,
   "items": [
     {
@@ -15,16 +15,8 @@
       "label": "ニュース",
       "text": "台風17号が発生 “今後の情報に注意を” 気象庁",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 16:27:45 +0900",
+      "time": "Wed, 12 Aug 2026 17:54:36 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43369/20260812de43369_E0000007309_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日航機墜落事故から41年 遺族や関係者が雨のなか慰霊登山",
-      "source": "NHK",
-      "time": "Wed, 12 Aug 2026 17:15:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43375/20260812de43375_E0000006972_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イオンモール熊本爆発事故 遺族に補償する方向で調整 イオン",
+      "text": "熊本震度7の被災地 通所介護施設で再開できない所や一部制限も",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 17:24:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43440/20260812de43440_E0000007291_1_l.jpg"
+      "time": "Wed, 12 Aug 2026 18:47:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43444/20260812de43444_E0000007452_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "坂口力元厚労相が老衰で死去 92歳 公明党元衆議院議員",
+      "text": "日航機墜落事故から41年 追悼慰霊式に遺族などが参列",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 15:56:00 +0900"
+      "time": "Wed, 12 Aug 2026 18:45:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43375/20260812de43375_E0000007475_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "希少トカゲ密輸疑いで逮捕 スーツケースにトカゲ200匹 警視庁",
+      "text": "辺野古沖転覆事故 海保 船長所属団体の共同代表らの自宅を捜索",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 17:13:49 +0900"
+      "time": "Wed, 12 Aug 2026 18:24:59 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "鶏肉と豚肉の小売価格が過去最高 農林水産省8月調査",
+      "source": "NHK",
+      "time": "Wed, 12 Aug 2026 18:32:18 +0900"
     }
   ]
 }
