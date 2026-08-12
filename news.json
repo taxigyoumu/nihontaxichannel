@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-12 14:53",
-  "has_alert": false,
+  "updated_at": "2026-08-12 16:19",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3652人避難",
-      "source": "NHK",
-      "time": "Wed, 12 Aug 2026 12:10:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43373/20260812de43373_E0000007058_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１２日１５時４１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-12T06:43:54Z"
     },
     {
       "category": "news",
@@ -21,18 +20,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本 長崎で震度4 津波の心配なし",
+      "text": "日航機墜落事故から41年 遺族や関係者が雨のなか慰霊登山",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 13:31:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43409/20260812de43409_E0000007117_1_l.jpg"
+      "time": "Wed, 12 Aug 2026 15:59:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43375/20260812de43375_E0000006972_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“トランプ大統領 7月 秘密裏に専用機から乗り換え”米有力紙",
+      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3652人避難",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 12:55:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43298/20260811de43298_E0000006832_1_l.jpg"
+      "time": "Wed, 12 Aug 2026 15:33:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43373/20260812de43373_E0000007058_1_l.jpg"
     },
     {
       "category": "news",
@@ -45,16 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日航機墜落事故から41年 遺族や関係者が雨のなか慰霊登山",
+      "text": "坂口力元厚労相が老衰で死去 92歳 公明党元衆議院議員",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 12:01:00 +0900"
+      "time": "Wed, 12 Aug 2026 15:56:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43439/20260812de43439_E0000007290_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高松 丸亀 高潮危険警報発表 沿岸部に避難指示",
+      "text": "検察トップ 畝本検事総長が退任会見 相次ぐ不祥事を陳謝",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 14:21:41 +0900"
+      "time": "Wed, 12 Aug 2026 15:50:40 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース 大谷翔平 無安打もチームはサヨナラ勝ちで2連勝",
+      "source": "NHK",
+      "time": "Wed, 12 Aug 2026 16:09:10 +0900"
     }
   ]
 }
