@@ -1,22 +1,7 @@
 {
-  "updated_at": "2026-08-12 13:03",
-  "has_alert": true,
+  "updated_at": "2026-08-12 14:53",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１２日１１時５７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-12T02:59:30Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風15号は熱帯低気圧に 東北から西日本は激しい雨のおそれ",
-      "source": "NHK",
-      "time": "Wed, 12 Aug 2026 12:35:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000007067_1_l.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -28,18 +13,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR山手線 外回りも全線で運転再開",
+      "text": "台風15号は熱帯低気圧に 東北から西日本は激しい雨のおそれ",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 13:01:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43387/20260812de43387_E0000003959_1_l.jpg"
+      "time": "Wed, 12 Aug 2026 14:20:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260811de43217/20260811de43217_E0000007067_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
+      "text": "【地震情報】熊本 長崎で震度4 津波の心配なし",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 10:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43330/20260812de43330_E0000006882_1_l.jpg"
+      "time": "Wed, 12 Aug 2026 13:31:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43409/20260812de43409_E0000007117_1_l.jpg"
     },
     {
       "category": "news",
@@ -52,6 +37,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "奥田碩氏が死去 93歳 トヨタ自動車社長や経団連会長など歴任",
+      "source": "NHK",
+      "time": "Wed, 12 Aug 2026 13:04:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43330/20260812de43330_E0000007077_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "日航機墜落事故から41年 遺族や関係者が雨のなか慰霊登山",
       "source": "NHK",
       "time": "Wed, 12 Aug 2026 12:01:00 +0900"
@@ -59,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風17号が発生 “今後の情報に注意を” 気象庁",
+      "text": "高松 丸亀 高潮危険警報発表 沿岸部に避難指示",
       "source": "NHK",
-      "time": "Wed, 12 Aug 2026 10:53:00 +0900"
+      "time": "Wed, 12 Aug 2026 14:21:41 +0900"
     }
   ]
 }
