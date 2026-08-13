@@ -1,41 +1,34 @@
 {
-  "updated_at": "2026-08-13 19:58",
+  "updated_at": "2026-08-13 20:52",
   "has_alert": true,
   "items": [
     {
       "category": "weather",
       "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。岐阜県では、落雷に注意してください。",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
       "source": "岐阜地方気象台",
-      "time": "2026-08-13T10:31:12Z"
+      "time": "2026-08-13T11:48:37Z"
     },
     {
       "category": "weather",
       "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。岐阜県では、落雷に注意してください。",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
       "source": "岐阜地方気象台",
-      "time": "2026-08-13T10:31:12Z"
+      "time": "2026-08-13T11:48:37Z"
     },
     {
       "category": "weather",
       "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】美濃地方では、低い土地の浸水や河川の増水に注意してください。",
+      "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
       "source": "岐阜地方気象台",
-      "time": "2026-08-13T10:30:51Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１３日１８時４９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-13T09:51:27Z"
+      "time": "2026-08-13T11:48:31Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉の14市 レベル5大雨特別警報 最大級警戒 気象庁など会見へ",
+      "text": "千葉にレベル5大雨特別警報 最大級警戒を【気象庁会見配信中】",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 19:57:49 +0900",
+      "time": "Thu, 13 Aug 2026 20:40:45 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43749/20260813de43749_E0000003995_1_l.jpg"
     },
     {
@@ -43,24 +36,24 @@
       "label": "ニュース",
       "text": "【ライブ配信中】関東で局地的に猛烈な雨 危険警報の地域も",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 19:49:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43577/20260813de43577_E0000008132_1_l.jpg"
+      "time": "Thu, 13 Aug 2026 20:01:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43577/20260813de43577_E0000008307_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【大雨】JR千葉駅前は道路が冠水（午後6時ごろ）",
+      "text": "【大雨】千葉市や船橋市で道路冠水（午後6時前後）",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 19:33:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43760/20260813de43760_E0000008278_1_l.jpg"
+      "time": "Thu, 13 Aug 2026 20:18:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43760/20260813de43760_E0000008293_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉県北西部と南部 線状降水帯発生 災害危険度高まる",
+      "text": "【大雨被害】千葉 道路冠水で車水没 住宅浸水や崖崩れの情報も",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 19:02:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43703/20260813de43703_E0000008202_1_l.jpg"
+      "time": "Thu, 13 Aug 2026 20:40:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43748/20260813de43748_E0000008318_1_l.jpg"
     },
     {
       "category": "news",
@@ -68,7 +61,7 @@
       "text": "【大雨 交通影響】首都圏 JRや私鉄各線で運転見合わせや遅れ",
       "source": "NHK",
       "time": "Thu, 13 Aug 2026 19:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43729/20260813de43729_E0000004054_1_l.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43729/20260813de43729_E0000003966_1_l.jpg"
     },
     {
       "category": "news",
