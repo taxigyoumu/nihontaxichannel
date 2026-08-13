@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+﻿<!DOCTYPE html>
 <html lang="ja">
 <head>
   <meta charset="UTF-8" />
@@ -644,6 +644,19 @@ for(var i=0;i<65;i++){
             お使いのブラウザは動画再生に対応していません。
           </video>
         </div>
+        <!-- ⑤-0 にゃん氏物語 特別編（漫画コマ送り＋テロップ、終了後 実際の事故映像へ） -->
+        <div class="ev-slot" id="ev-nyanshi-tokubetsu" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;">
+          <img id="ev-nyanshi-img" src="nyanshi1.jpg" alt="にゃん氏物語 特別編"
+            style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:1;transition:opacity .4s ease;">
+          <div style="position:absolute;left:0;right:0;bottom:0;z-index:10;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.93) 0%,rgba(0,0,0,.65) 75%,transparent 100%);">
+            <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
+              <span style="background:var(--accent);color:#000;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;">にゃん氏物語 特別編</span>
+              <span style="font-size:11px;color:#ffd9a0;">一瞬の油断が</span>
+            </div>
+            <div id="ev-nyanshi-text" style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">いつも通りの、何でもない一日のはずでした</div>
+          </div>
+        </div>
+
         <!-- ⑤ 重大事故について（movie6→movie7 連続再生） -->
         <div class="ev-slot" id="ev-video4" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;">
           <video id="ev-video4-el"
@@ -680,6 +693,110 @@ for(var i=0;i<65;i++){
             </div>
             <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.25;text-shadow:0 2px 8px rgba(0,0,0,.9);">周囲の確認を徹底してください</div>
             <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.18);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;letter-spacing:.02em;">「明日は我が身」</div>
+          </div>
+        </div>
+
+        <!-- ⑥-1 8月度 事故多発 厳重注意（期間限定 2026/8/13〜8/18） -->
+        <div class="ev-slot" id="ev-cau1" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 28px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:14px;">
+          <span style="background:#e52020;color:#fff;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.06em;animation:blink 1.4s step-start infinite;">緊急注意喚起</span>
+          <div style="background:rgba(229,52,46,.14);border:2px solid #E5342E;border-radius:12px;padding:16px 40px;">
+            <div style="font-size:13px;color:var(--text-secondary);">8月度 自責事故（7/21〜8/13）</div>
+            <div style="font-size:48px;font-weight:900;color:#ff5555;line-height:1.25;">13件</div>
+            <div style="font-size:14px;color:#ff9090;font-weight:700;">ものすごくハイペースです</div>
+          </div>
+          <div style="font-size:15px;font-weight:700;line-height:1.6;color:var(--text-primary);max-width:90%;">
+            本当に注意して運転願います
+          </div>
+        </div>
+
+        <!-- ⑥-2 岐阜県 交通死亡事故多発県内警報 -->
+        <div class="ev-slot" id="ev-cau2" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;gap:12px;">
+          <div style="display:flex;align-items:center;gap:8px;">
+            <span style="background:#e5a600;color:#1a1200;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.04em;">岐阜県 警報発令中</span>
+            <span style="font-size:15px;color:#ffd966;font-weight:700;">交通死亡事故多発県内警報</span>
+          </div>
+          <div style="font-size:14px;line-height:1.85;color:var(--text-primary);">
+            岐阜県交通安全対策協議会（会長：岐阜県知事）が発令（交協第10号・令和8年8月12日）。<b style="color:#ffd966;">7月12日〜8月10日の間に県内で交通死亡事故が10件10人発生</b>したことによるものです。
+          </div>
+          <div style="font-size:14px;color:var(--text-primary);">期間：<b style="color:#ffd966;">8月12日(水)〜8月26日(水)の15日間</b></div>
+          <div style="display:flex;gap:8px;">
+            <div style="flex:1;background:var(--bg-panel-hover);border-radius:8px;padding:9px 6px;text-align:center;font-size:12.5px;color:var(--text-primary);">①高齢者の<br>事故防止</div>
+            <div style="flex:1;background:var(--bg-panel-hover);border-radius:8px;padding:9px 6px;text-align:center;font-size:12.5px;color:var(--text-primary);">②歩行者・自転車の<br>事故防止</div>
+            <div style="flex:1;background:var(--bg-panel-hover);border-radius:8px;padding:9px 6px;text-align:center;font-size:12.5px;color:var(--text-primary);">③自動二輪車の<br>事故防止</div>
+          </div>
+        </div>
+
+        <!-- ⑥-3 増える出歩き、増えるリスク -->
+        <div class="ev-slot" id="ev-cau3" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;gap:16px;">
+          <div style="font-size:15px;font-weight:700;color:#ff9090;">人が多く出歩く時期です</div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
+            <div style="background:var(--bg-panel-hover);border-radius:8px;padding:12px;text-align:center;">
+              <div style="font-size:22px;">🏮</div>
+              <div style="font-size:13px;font-weight:700;color:var(--text-primary);margin-top:4px;">お盆で帰省・外出</div>
+            </div>
+            <div style="background:var(--bg-panel-hover);border-radius:8px;padding:12px;text-align:center;">
+              <div style="font-size:22px;">🎪</div>
+              <div style="font-size:13px;font-weight:700;color:var(--text-primary);margin-top:4px;">各種イベント多数</div>
+            </div>
+            <div style="background:var(--bg-panel-hover);border-radius:8px;padding:12px;text-align:center;">
+              <div style="font-size:22px;">🏖️</div>
+              <div style="font-size:13px;font-weight:700;color:var(--text-primary);margin-top:4px;">子供が夏休み</div>
+            </div>
+            <div style="background:rgba(16,185,129,.14);border:1px solid var(--nenkin);border-radius:8px;padding:12px;text-align:center;">
+              <div style="font-size:22px;">💰</div>
+              <div style="font-size:13px;font-weight:700;color:#6EE7B7;margin-top:4px;">8/14 年金支給日</div>
+            </div>
+          </div>
+          <div style="font-size:13.5px;line-height:1.7;color:var(--text-primary);"><b style="color:#9ecbff;">運収を見込めるチャンス</b>である一方、<b style="color:#ff9090;">事故のリスクも同じだけ高まっています。</b></div>
+        </div>
+
+        <!-- ⑥-4 任意保険料について -->
+        <div class="ev-slot" id="ev-cau4" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:14px;">
+          <span style="font-size:15px;font-weight:700;color:#ffd966;">任意保険料について</span>
+          <div style="font-size:14.5px;line-height:1.85;color:var(--text-primary);max-width:92%;">
+            8月1日より、来年度の任意保険の算定期間に入りました。今年度は割引率が下がり、保険料が
+          </div>
+          <div style="font-size:34px;font-weight:900;color:#ff5555;">3,000万円以上</div>
+          <div style="font-size:14.5px;line-height:1.85;color:var(--text-primary);max-width:92%;">
+            増加することが決まっています。<b style="color:#ffd966;">事故を減らし割引率を取り戻すために大切な期間です。</b>
+          </div>
+        </div>
+
+        <!-- ⑦-1 8月12日発生 事故について -->
+        <div class="ev-slot" id="ev-jiko1" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;gap:14px;">
+          <div style="display:flex;align-items:center;gap:8px;">
+            <span style="background:#e52020;color:#fff;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.06em;">実際の事故</span>
+            <span style="font-size:14px;color:#ff9090;font-weight:700;">8月12日 岐阜市古市場</span>
+          </div>
+          <div style="font-size:20px;font-weight:900;color:var(--text-primary);">出会い頭の衝突事故</div>
+          <div style="font-size:14.5px;line-height:1.9;color:var(--text-primary);">
+            相手方は<b style="color:#ffd966;">92歳の運転手</b>と<b style="color:#ffd966;">助手席の85歳の方</b>で、お二人とも救急搬送されました。
+          </div>
+          <div style="font-size:15px;font-weight:700;color:#ff9090;">相手の動きに不審な点が多い事故ですが、決して他人事ではありません。十分に注意してください。</div>
+        </div>
+
+        <!-- ⑦-2 事故現場の写真 -->
+        <div class="ev-slot" id="ev-jiko2" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:16px 20px;display:flex;flex-direction:column;gap:8px;">
+          <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+            <span style="background:#e52020;color:#fff;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.06em;">現場写真</span>
+            <span style="font-size:13px;color:#ff9090;font-weight:700;">8月12日 岐阜市古市場の事故</span>
+          </div>
+          <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;flex:1;min-height:0;">
+            <img src="jiko0812_1.jpg" alt="8月12日事故 現場写真1" style="width:100%;height:100%;object-fit:cover;border-radius:8px;border:1px solid var(--border);">
+            <img src="jiko0812_2.jpg" alt="8月12日事故 現場写真2" style="width:100%;height:100%;object-fit:cover;border-radius:8px;border:1px solid var(--border);">
+            <img src="jiko0812_3.jpg" alt="8月12日事故 現場写真3" style="width:100%;height:100%;object-fit:cover;border-radius:8px;border:1px solid var(--border);">
+          </div>
+        </div>
+
+        <!-- ⑦-3 ドライブレコーダー点検のお願い -->
+        <div class="ev-slot" id="ev-jiko3" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;gap:14px;">
+          <div style="font-size:15px;font-weight:700;color:#ff9090;">🎥 ドライブレコーダーの点検をお願いします</div>
+          <div style="font-size:14px;line-height:1.85;color:var(--text-primary);">
+            今回の事故では<b style="color:#ff9090;">ドライブレコーダーの映像が抽出できませんでした。</b>各所長へ点検の通達を行っています。各ドライバーも下記を点検してください。
+          </div>
+          <div style="display:flex;flex-direction:column;gap:10px;">
+            <div style="background:var(--bg-panel-hover);border-radius:8px;padding:11px 14px;font-size:13.5px;color:var(--text-primary);border-left:3px solid var(--accent);">異常ランプが点灯（転倒表示）していないか</div>
+            <div style="background:var(--bg-panel-hover);border-radius:8px;padding:11px 14px;font-size:13.5px;color:var(--text-primary);border-left:3px solid var(--accent);">電源投入時に「録画を開始します」等のアナウンスが流れるか（古い機種は無音の場合あり）</div>
           </div>
         </div>
       </div>
@@ -825,15 +942,86 @@ for(var i=0;i<65;i++){
 <script>
 (function(){
   var TICK = 250;
-  var views = [
+
+  // にゃん氏物語 特別編：漫画コマ送り＋テロップ（画像を切替えながらテロップ文言を差し替える）
+  var NYANSHI_PANELS = [
+    { img:'nyanshi1.jpg', text:'いつも通りの、何でもない一日のはずでした',                                   dur:4500 },
+    { img:'nyanshi2.jpg', text:'そのとき、新しい配車指示が入りました',                                       dur:4000 },
+    { img:'nyanshi3.jpg', text:'「早く行かなきゃ……」焦りが、判断を鈍らせます',                                dur:4000 },
+    { img:'nyanshi4.jpg', text:'このとき、後方の車線を猛スピードで接近する車が',                              dur:4000 },
+    { img:'nyanshi5.jpg', text:'一瞬の後方確認不足が、大きな事故につながりました',                            dur:4500 },
+    { img:'nyanshi6.jpg', text:'相手ドライバーは、救急搬送されました',                                        dur:4500 },
+    { img:'nyanshi7.jpg', text:'原因は、配車指示に気を取られたことによる後方確認不足',                        dur:4500 },
+    { img:'nyanshi8.jpg', text:'配車が入っても、お客様は少し待ってくれます。まず安全確認、それから車線変更です', dur:5000 },
+    { img:'nyanshi8.jpg', text:'これは、実際にあった出来事です',                                              dur:3000 }
+  ];
+  var NYANSHI_TOTAL_MS = NYANSHI_PANELS.reduce(function(sum, p){ return sum + p.dur; }, 0);
+  var nyanshiIdx = 0;
+  var nyanshiTimer = null;
+  var nyanshiImgEl = null;
+  var nyanshiTextEl = null;
+  function showNyanshiPanel(i){
+    var p = NYANSHI_PANELS[i];
+    if(!nyanshiImgEl)  nyanshiImgEl  = document.getElementById('ev-nyanshi-img');
+    if(!nyanshiTextEl) nyanshiTextEl = document.getElementById('ev-nyanshi-text');
+    if(!nyanshiImgEl || !nyanshiTextEl) return;
+    if(nyanshiImgEl.getAttribute('src') !== p.img){
+      nyanshiImgEl.style.opacity = '0';
+      setTimeout(function(){
+        nyanshiImgEl.src = p.img;
+        nyanshiImgEl.style.opacity = '1';
+      }, 200);
+    }
+    nyanshiTextEl.textContent = p.text;
+  }
+  function scheduleNextNyanshiPanel(){
+    if(nyanshiTimer) clearTimeout(nyanshiTimer);
+    if(nyanshiIdx >= NYANSHI_PANELS.length - 1) return; // 最終コマで停止（次はスロット自体の自動切替に委ねる）
+    nyanshiTimer = setTimeout(function(){
+      nyanshiIdx++;
+      showNyanshiPanel(nyanshiIdx);
+      scheduleNextNyanshiPanel();
+    }, NYANSHI_PANELS[nyanshiIdx].dur);
+  }
+  function startNyanshiSequence(){
+    nyanshiIdx = 0;
+    showNyanshiPanel(0);
+    scheduleNextNyanshiPanel();
+  }
+  function stopNyanshiSequence(){
+    if(nyanshiTimer){ clearTimeout(nyanshiTimer); nyanshiTimer = null; }
+  }
+
+  // 期間限定キャンペーン（2026/8/13〜8/18）：8月度事故多発の注意喚起を右下パネルに固定表示。
+  // 期間を過ぎたら自動的に通常ローテーションへ復帰する。
+  var _now = new Date();
+  var _campaignStart = new Date(2026, 7, 13, 0, 0, 0);   // 8/13 00:00
+  var _campaignEnd   = new Date(2026, 7, 18, 23, 59, 59); // 8/18 23:59
+  var _isCampaign = (_now >= _campaignStart && _now <= _campaignEnd);
+
+  var normalViews = [
     { slot:'ev-safety',  icon:'⚠️', title:'安全注意喚起',        sub:'重大事故・自責事故 警戒',   dur:20000, video:null },
     { slot:'ev-daisuguchi', icon:'🚕', title:'台数口配車ルール',  sub:'複数台同時配車時の乗務員指導', dur:25000, video:null },
     { slot:'ev-video',   icon:'🎬', title:'業務連絡 動画',        sub:'事故防止 注意喚起',          dur:30000, video:'ev-video-el' },
     { slot:'ev-video2',  icon:'🎬', title:'業務連絡 動画',        sub:'GO後席決済機の注意事項',     dur:28000, video:'ev-video2-el' },
     { slot:'ev-video3',  icon:'🎬', title:'業務連絡 動画',        sub:'スライドドアの確認',         dur:30000, video:'ev-video3-el' },
+    { slot:'ev-nyanshi-tokubetsu', icon:'📖', title:'業務連絡 特別編', sub:'にゃん氏物語 ─ 進路変更の油断', dur:NYANSHI_TOTAL_MS, video:null },
     { slot:'ev-video4',  icon:'🚨', title:'業務連絡 動画',        sub:'重大事故について',           dur:60000, sequence:['ev-video4-el','ev-video7-el'] },
     { slot:'ev-accident', icon:'🚨', title:'業務連絡 動画',       sub:'事故映像 ─ 周囲確認の徹底',  dur:120000, sequence:['ev-accident-v1-el','ev-accident-v2-el'] }
   ];
+
+  var campaignViews = [
+    { slot:'ev-cau1',  icon:'⚠️', title:'緊急注意喚起', sub:'8月度 事故多発 ─ 厳重注意',       dur:14000, video:null },
+    { slot:'ev-cau2',  icon:'⚠️', title:'緊急注意喚起', sub:'岐阜県 交通死亡事故多発県内警報', dur:16000, video:null },
+    { slot:'ev-cau3',  icon:'⚠️', title:'緊急注意喚起', sub:'増える出歩き、増えるリスク',       dur:16000, video:null },
+    { slot:'ev-cau4',  icon:'⚠️', title:'緊急注意喚起', sub:'任意保険料について',               dur:15000, video:null },
+    { slot:'ev-jiko1', icon:'🚨', title:'業務連絡',     sub:'8月12日発生 事故について',         dur:15000, video:null },
+    { slot:'ev-jiko2', icon:'🚨', title:'業務連絡',     sub:'8月12日 事故現場の写真',           dur:16000, video:null },
+    { slot:'ev-jiko3', icon:'🚨', title:'業務連絡',     sub:'ドライブレコーダー点検のお願い',   dur:16000, video:null },
+    { slot:'ev-nyanshi-tokubetsu', icon:'📖', title:'業務連絡 特別編', sub:'にゃん氏物語 ─ 進路変更の油断', dur:NYANSHI_TOTAL_MS, video:null }
+  ];
+
+  var views = _isCampaign ? campaignViews : normalViews;
   var idx = 0;
   var elapsed = 0;
   var currentIdx = 0;
@@ -923,6 +1111,8 @@ for(var i=0;i<65;i++){
         else { try { tag.pause(); } catch(e){} }        // 位置を保持して停止
       });
     }
+    if(v.slot === 'ev-nyanshi-tokubetsu'){ startNyanshiSequence(); }
+    else { stopNyanshiSequence(); }
     if(iconEl)  iconEl.textContent  = v.icon;
     if(titleEl) titleEl.textContent = v.title;
     if(subEl)   subEl.textContent   = v.sub + ' ／ 自動切替';
@@ -947,7 +1137,7 @@ for(var i=0;i<65;i++){
   document.addEventListener('touchstart', primeVideos);
   document.addEventListener('keydown', primeVideos);
 
-  show(0);
+  show(idx);
 
   setInterval(function(){
     elapsed += TICK;
@@ -1144,8 +1334,11 @@ for(var i=0;i<65;i++){
 
   // ===== イベントページのHTMLを組み立てる =====
   function buildEventHTML(ev, part){
-    // part: 'all'(全部1ページ) / 'front'(前半:バナー+乗り場) / 'back'(後半:GO注意+需要)
+    // part: 'all'(全部1ページ) / 'front'(乗り場) / 'image'(交通規制マップのみ) / 'back'(GO注意+需要)
     part = part || 'all';
+    var showFront = (part === 'all' || part === 'front');
+    var showImage = (part === 'all' || part === 'image');
+    var showBack  = (part === 'all' || part === 'back');
     var html = '';
     // 大型バナー（highlightで色を変える）
     var grad = ev.highlight
@@ -1166,7 +1359,7 @@ for(var i=0;i<65;i++){
     html += '</div></div></div>';
 
     // 乗り場変更の警告（前半 or 全部）
-    if(ev.taxiChange && part !== 'back'){
+    if(ev.taxiChange && showFront){
       html += '<div style="background:rgba(229,52,46,.14);border:2px solid #E5342E;border-radius:10px;padding:14px 16px;margin-top:10px;">';
       html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;"><span style="font-size:22px;">🚕</span><span style="font-size:16px;font-weight:900;color:#ff9090;letter-spacing:0.04em;">⚠ タクシー乗り場が変更になります</span></div>';
       html += '<div style="display:flex;align-items:center;gap:14px;justify-content:center;padding:6px 0;">';
@@ -1179,15 +1372,15 @@ for(var i=0;i<65;i++){
     }
 
     // GOアプリ 注意事項（後半 or 全部）
-    if(ev.goWarning && part !== 'front'){
+    if(ev.goWarning && showBack){
       html += '<div style="background:rgba(240,180,41,.14);border:2px solid var(--accent);border-radius:10px;padding:12px 16px;margin-top:10px;">';
       html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;"><span style="font-size:20px;">📱</span><span style="font-size:15px;font-weight:900;color:var(--accent);letter-spacing:0.03em;">⚠ GOアプリ 配車にご注意</span></div>';
       html += '<div style="font-size:12.5px;color:#ffe6b0;line-height:1.6;">'+ev.goWarning+'</div>';
       html += '</div>';
     }
 
-    // 交通規制マップ画像（後半 or 全部）
-    if(ev.image && part !== 'front'){
+    // 交通規制マップ画像（画像専用ページ or 全部）
+    if(ev.image && showImage){
       html += '<div class="info-card" style="margin-top:10px;border-left:4px solid #1453c4;padding:8px;">';
       html += '<div class="info-label">🗺️ 交通規制マップ</div>';
       html += '<img src="'+ev.image+'" alt="交通規制マップ" style="width:100%;border-radius:8px;margin-top:6px;display:block;" />';
@@ -1195,7 +1388,7 @@ for(var i=0;i<65;i++){
     }
 
     // 営業ヒント（後半 or 全部）
-    if(ev.demandNote && part !== 'front'){
+    if(ev.demandNote && showBack){
       html += '<div class="info-card" style="margin-top:10px;border-left:4px solid #1453c4;">';
       html += '<div class="info-label">📈 需要のヒント</div>';
       html += '<div class="info-body" style="line-height:1.6;">'+ev.demandNote+'</div>';
@@ -1204,9 +1397,16 @@ for(var i=0;i<65;i++){
     return html;
   }
 
-  // イベントを2ページに分けるべきか判定（情報量が多い重要イベント）
-  function needsTwoPages(ev){
-    return ev.taxiChange && (ev.goWarning || ev.demandNote);
+  // イベントを何ページに分けるべきか判定（情報の種類ごとにページを分離）
+  // 乗り場変更(front) / 交通規制マップ(image) / GO注意・需要ヒント(back) の3種類のうち
+  // 2種類以上あるページは分割し、交通規制の図は必ず専用ページにする。
+  function getEventParts(ev){
+    var blocks = [];
+    if(ev.taxiChange) blocks.push('front');
+    if(ev.image) blocks.push('image');
+    if(ev.goWarning || ev.demandNote) blocks.push('back');
+    if(blocks.length <= 1) return ['all'];
+    return blocks;
   }
 
   // ===== メイン：events.json を読み込んで初期化 =====
@@ -1227,9 +1427,9 @@ for(var i=0;i<65;i++){
     if(activeEvents.length > 0 && templatePage && container){
       headEvent = activeEvents[0];
       var pageCounter = 0;
-      // 各イベントのページを生成（重要イベントは前半・後半の2ページ）
+      // 各イベントのページを生成（情報量が多いイベントは複数ページに分割）
       activeEvents.forEach(function(ev){
-        var parts = needsTwoPages(ev) ? ['front','back'] : ['all'];
+        var parts = getEventParts(ev);
         parts.forEach(function(part){
           var page;
           if(pageCounter === 0){
@@ -1243,7 +1443,7 @@ for(var i=0;i<65;i++){
           page.style.display = '';
           page.setAttribute('data-icon', '📣');
           page.setAttribute('data-title', 'イベント情報');
-          var subSuffix = (part === 'front') ? ' ／ 乗り場のご案内' : (part === 'back') ? ' ／ 配車注意・需要' : ' ／ 需要・乗り場案内';
+          var subSuffix = (part === 'front') ? ' ／ 乗り場のご案内' : (part === 'image') ? ' ／ 交通規制マップ' : (part === 'back') ? ' ／ 配車注意・需要' : ' ／ 需要・乗り場案内';
           page.setAttribute('data-sub', (ev.title || 'イベント') + subSuffix);
           page.setAttribute('data-is-event', '1');
           pageCounter++;
