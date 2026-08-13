@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-14 06:12",
+  "updated_at": "2026-08-14 07:09",
   "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-13T21:33:43Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-13T21:33:43Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-13T21:33:33Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -33,25 +54,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉県内の大雨特別警報を危険警報などに切り替え【詳しく】",
+      "text": "【大雨被害】千葉 記録的大雨 2人死亡1人心肺停止1人意識なし",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 05:59:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43749/20260813de43749_E0000003986_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 佐倉 タクシーが水没 車内の女性１人が意識がない状態",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 06:07:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43970/20260814de43970_E0000004045_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【大雨被害】千葉 記録的大雨 2人が死亡 1人が心肺停止",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 05:55:23 +0900",
+      "time": "Fri, 14 Aug 2026 07:02:29 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43748/20260813de43748_E0000008421_1_l.jpg"
     },
     {
@@ -65,9 +70,17 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "千葉県内の大雨特別警報を危険警報などに切り替え【詳しく】",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 07:04:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43749/20260813de43749_E0000008455_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "【大雨 交通影響】首都圏 JRや私鉄の運転予定は（14日）",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 05:46:02 +0900",
+      "time": "Fri, 14 Aug 2026 06:55:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43937/20260814de43937_E0000003974_1_l.jpg"
     },
     {
@@ -75,14 +88,22 @@
       "label": "ニュース",
       "text": "【動画】千葉 大雨 被害の様子",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 02:42:20 +0900"
+      "time": "Fri, 14 Aug 2026 02:42:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43880/20260813de43880_E0000008395_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【気象予報士解説】千葉 レベル5大雨特別警報 今後の見通しは",
+      "text": "【気象予報士解説】千葉 レベル4大雨危険警報などに切り替え",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 03:30:55 +0900"
+      "time": "Fri, 14 Aug 2026 06:38:14 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "政府 ロシアへの対抗措置を検討 プーチン氏の北方領土訪問受け",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 06:43:53 +0900"
     }
   ]
 }
