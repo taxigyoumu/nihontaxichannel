@@ -799,6 +799,31 @@ for(var i=0;i<65;i++){
             <div style="background:var(--bg-panel-hover);border-radius:8px;padding:11px 14px;font-size:13.5px;color:var(--text-primary);border-left:3px solid var(--accent);">電源投入時に「録画を開始します」等のアナウンスが流れるか（古い機種は無音の場合あり）</div>
           </div>
         </div>
+
+        <!-- ⑧ 道路交通法令違反通知書について -->
+        <div class="ev-slot" id="ev-ihan" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:18px 22px;display:flex;gap:16px;">
+          <div style="flex:1.15;min-width:0;display:flex;flex-direction:column;gap:10px;overflow-y:auto;">
+            <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
+              <span style="background:#e5a600;color:#1a1200;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.04em;">注意喚起</span>
+              <span style="font-size:14px;color:#ffd966;font-weight:700;">道路交通法令違反通知書</span>
+            </div>
+            <div style="font-size:13px;line-height:1.85;color:var(--text-primary);">
+              皆さんが違反を犯すと、岐阜中警察署から会社宛に通知書が届くことがあります。違反件数の節目で発送されているようですが、警察署からは<b style="color:#ffd966;">「日タクさん、最近違反件数が多いですよ」</b>と直接ご指摘を受けました。
+            </div>
+            <div style="font-size:13px;line-height:1.85;color:var(--text-primary);">
+              交通違反は皆さん個人に行政処分がいきますが、<b style="color:#ffd966;">運行管理の上で会社も把握することが法令で義務付けられています。</b>違反をしたら必ず報告してください。
+            </div>
+            <div style="background:rgba(229,166,0,.14);border-left:3px solid #e5a600;border-radius:0 8px 8px 0;padding:10px 14px;font-size:13.5px;font-weight:700;line-height:1.8;color:#fff;">
+              「これくらいは」「たいしたことないだろう」<br>この油断が、大きな事故に発展します。
+            </div>
+            <div style="font-size:13.5px;font-weight:700;color:#ff9090;">交通ルールを守ることと、事故防止は密接な関係にあります。気を引き締めてお願いします。</div>
+          </div>
+          <div style="flex:0.85;min-width:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;">
+            <img src="ihan_tsuchi_202607.jpg" alt="道路交通法令違反通知書（氏名・住所は伏せています）"
+              style="max-width:100%;max-height:100%;object-fit:contain;border-radius:6px;border:1px solid var(--border);box-shadow:0 4px 14px rgba(0,0,0,.35);">
+            <div style="font-size:10.5px;color:var(--text-secondary);">※氏名・住所は伏せています</div>
+          </div>
+        </div>
       </div>
     </section>
 
@@ -1002,6 +1027,7 @@ for(var i=0;i<65;i++){
   var normalViews = [
     { slot:'ev-safety',  icon:'⚠️', title:'安全注意喚起',        sub:'重大事故・自責事故 警戒',   dur:20000, video:null },
     { slot:'ev-daisuguchi', icon:'🚕', title:'台数口配車ルール',  sub:'複数台同時配車時の乗務員指導', dur:25000, video:null },
+    { slot:'ev-ihan',    icon:'⚠️', title:'注意喚起',            sub:'道路交通法令違反通知書について', dur:22000, video:null },
     { slot:'ev-video',   icon:'🎬', title:'業務連絡 動画',        sub:'事故防止 注意喚起',          dur:30000, video:'ev-video-el' },
     { slot:'ev-video2',  icon:'🎬', title:'業務連絡 動画',        sub:'GO後席決済機の注意事項',     dur:28000, video:'ev-video2-el' },
     { slot:'ev-video3',  icon:'🎬', title:'業務連絡 動画',        sub:'スライドドアの確認',         dur:30000, video:'ev-video3-el' },
@@ -1018,6 +1044,7 @@ for(var i=0;i<65;i++){
     { slot:'ev-jiko1', icon:'🚨', title:'業務連絡',     sub:'8月12日発生 事故について',         dur:15000, video:null },
     { slot:'ev-jiko2', icon:'🚨', title:'業務連絡',     sub:'8月12日 事故現場の写真',           dur:16000, video:null },
     { slot:'ev-jiko3', icon:'🚨', title:'業務連絡',     sub:'ドライブレコーダー点検のお願い',   dur:16000, video:null },
+    { slot:'ev-ihan',  icon:'⚠️', title:'注意喚起',     sub:'道路交通法令違反通知書について',   dur:22000, video:null },
     { slot:'ev-nyanshi-tokubetsu', icon:'📖', title:'業務連絡 特別編', sub:'にゃん氏物語 ─ 進路変更の油断', dur:NYANSHI_TOTAL_MS, video:null },
     { slot:'ev-video4',  icon:'🚨', title:'業務連絡 動画',        sub:'重大事故について',           dur:60000, sequence:['ev-video4-el','ev-video7-el'] }
   ];
