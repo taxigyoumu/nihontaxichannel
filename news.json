@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-14 05:03",
+  "updated_at": "2026-08-14 06:12",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１４日０５時３９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-13T20:41:41Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１４日０５時３１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-13T20:33:34Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１４日０５時２０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-13T20:26:24Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -12,42 +33,42 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉県内22自治体に大雨特別警報 気象庁と国交省会見【詳細】",
+      "text": "千葉県内の大雨特別警報を危険警報などに切り替え【詳しく】",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 03:22:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43749/20260813de43749_E0000003995_1_l.jpg"
+      "time": "Fri, 14 Aug 2026 05:59:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43749/20260813de43749_E0000003986_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【大雨被害】市川市 八千代市 2人死亡確認",
+      "text": "千葉 佐倉 タクシーが水没 車内の女性１人が意識がない状態",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 05:00:53 +0900",
+      "time": "Fri, 14 Aug 2026 06:07:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43970/20260814de43970_E0000004045_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【大雨被害】千葉 記録的大雨 2人が死亡 1人が心肺停止",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 05:55:23 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43748/20260813de43748_E0000008421_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉県 レベル5の大雨と土砂災害の特別警報 命助かる行動を",
+      "text": "成田空港 ターミナルに約7000人滞留 大雨による電車バス運休で",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 03:58:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43577/20260813de43577_E0000008418_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "成田空港 ターミナルに約6600人滞留 電車やバス運休で",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 04:16:00 +0900",
+      "time": "Fri, 14 Aug 2026 06:03:34 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43941/20260814de43941_E0000008427_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【大雨】千葉県・千葉市・船橋市 帰宅困難者向けに施設を開放",
+      "text": "【大雨 交通影響】首都圏 JRや私鉄の運転予定は（14日）",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 04:54:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43764/20260813de43764_E0000008399_1_l.jpg"
+      "time": "Fri, 14 Aug 2026 05:46:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43937/20260814de43937_E0000003974_1_l.jpg"
     },
     {
       "category": "news",
