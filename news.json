@@ -1,19 +1,11 @@
 {
-  "updated_at": "2026-08-13 15:55",
+  "updated_at": "2026-08-13 17:18",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア プーチン大統領 北方領土初めて訪問",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 15:07:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43566/20260813de43566_E0000007969_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【ライブ配信中】大気不安定 関東など非常に激しい雨のおそれ",
+      "text": "【ライブ配信中】関東で非常に激しい雨 危険警報の地域も",
       "source": "NHK",
       "time": "Thu, 13 Aug 2026 12:00:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43577/20260813de43577_E0000007827_1_l.jpg"
@@ -21,33 +13,34 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "半蔵門線ホームでアスベスト 国交省が全国鉄道会社に点検要請",
+      "text": "東京 練馬区にレベル４ 大雨危険警報",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 15:20:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43586/20260813de43586_E0000007866_1_l.jpg"
+      "time": "Thu, 13 Aug 2026 16:40:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43663/20260813de43663_E0000003986_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロシア プーチン大統領 北方領土初めて訪問",
+      "source": "NHK",
+      "time": "Thu, 13 Aug 2026 17:11:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43566/20260813de43566_E0000008018_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3662人避難",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 15:52:12 +0900",
+      "time": "Thu, 13 Aug 2026 16:44:11 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43574/20260813de43574_E0000007757_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 有明が長崎日大高に競り勝って3回戦進出",
+      "text": "長野 東御 親子3人殺傷 父親を再逮捕 母親から依頼受け殺害か",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 15:07:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43615/20260813de43615_E0000007907_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ニシキヘビ 体長2mの2匹 マンションから逃げ出す 川崎 多摩区",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 15:50:17 +0900"
+      "time": "Thu, 13 Aug 2026 16:59:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43653/20260813de43653_E0000008073_1_l.jpg"
     },
     {
       "category": "news",
@@ -55,6 +48,13 @@
       "text": "台風17号 南鳥島近海を北東に進む 今後の情報に注意",
       "source": "NHK",
       "time": "Thu, 13 Aug 2026 14:04:50 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "睡眠薬入りの酒で現金など奪った疑い逮捕 容疑否認",
+      "source": "NHK",
+      "time": "Thu, 13 Aug 2026 16:54:07 +0900"
     }
   ]
 }
