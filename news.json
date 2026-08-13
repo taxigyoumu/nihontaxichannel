@@ -1,7 +1,51 @@
 {
-  "updated_at": "2026-08-13 08:08",
-  "has_alert": false,
+  "updated_at": "2026-08-13 09:06",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１３日０８時５６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-12T23:59:59Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう１３日０８時５６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-12T23:58:59Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１３日０８時５６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-12T23:58:46Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１３日０８時５６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-12T23:57:46Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】熊本県・鹿児島県で震度3 津波の心配なし",
+      "source": "NHK",
+      "time": "Thu, 13 Aug 2026 08:59:00 +0900",
+      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風17号 北寄りに進む見込み 進路予報に幅 今後の情報に注意",
+      "source": "NHK",
+      "time": "Thu, 13 Aug 2026 07:26:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43523/20260812de43523_E0000007663_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -21,26 +65,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風17号 北寄りに進む見込み 進路予報に幅 今後の情報に注意",
+      "text": "体長約2mのニシキヘビ2匹 マンションから逃げ出す 川崎 多摩区",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 07:26:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43523/20260812de43523_E0000007663_1_l.jpg"
+      "time": "Thu, 13 Aug 2026 08:49:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43553/20260813de43553_E0000003898_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "IEA 石油供給量見通しを下方修正 ホルムズ海峡再開見通せず",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 07:19:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43546/20260813de43546_E0000007654_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米 トランプ大統領 優位な立場を改めて主張も 先行きは不透明",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 07:17:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260812de43527/20260812de43527_E0000007665_1_l.jpg"
+      "time": "Thu, 13 Aug 2026 07:19:04 +0900"
     },
     {
       "category": "news",
@@ -48,13 +83,6 @@
       "text": "検事の取り調べ映像 高等検察庁でチェックの取り組み開始",
       "source": "NHK",
       "time": "Thu, 13 Aug 2026 05:36:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 震源断層30キロから40キロ 政府・地震調査委員会",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 05:16:06 +0900"
     }
   ]
 }
