@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-08-13 22:01",
-  "has_alert": false,
+  "updated_at": "2026-08-14 00:56",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１４日００時２５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-13T15:28:11Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉県に大雨特別警報 気象庁と国交省会見【詳細】",
+      "text": "千葉県内22自治体に大雨特別警報 気象庁と国交省会見【詳細】",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 21:53:13 +0900",
+      "time": "Fri, 14 Aug 2026 00:40:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43749/20260813de43749_E0000003995_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉県レベル5大雨特別警報 命助かる行動を【現地状況 配信】",
+      "text": "【大雨被害】市川の冠水道路で見つかった男性 死亡確認",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 21:45:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43577/20260813de43577_E0000008331_1_l.jpg"
+      "time": "Fri, 14 Aug 2026 00:18:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43748/20260813de43748_E0000008333_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 山武市付近で記録的な大雨 災害の危険迫る（0：30）",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 00:44:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43916/20260814de43916_E0000008406_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉県で記録的な大雨 災害の危険迫る（23：30）",
+      "source": "NHK",
+      "time": "Thu, 13 Aug 2026 23:52:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43895/20260813de43895_E0000008385_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉県 レベル5の大雨と土砂災害の特別警報 命助かる行動を",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 00:34:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43577/20260813de43577_E0000008347_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【動画】千葉 市川でバス立往生（午後6時前）",
+      "source": "NHK",
+      "time": "Thu, 13 Aug 2026 23:01:59 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【動画】千葉市中央区で道路から水吹き上がる（午後7時ごろ）",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 21:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43816/20260813de43816_E0000008327_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【動画】千葉 柏の道路冠水 JR千葉駅ホーム上（午後7時前後）",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 20:57:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43791/20260813de43791_E0000008314_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【大雨被害】各地で道路冠水相次ぐ 市川で搬送の男性意識なし",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 21:54:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43748/20260813de43748_E0000008333_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【気象予報士解説】千葉 レベル5大雨特別警報 今後の見通しは",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 21:32:45 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【大雨 交通影響】首都圏 JRや私鉄各線で運転見合わせや遅れ",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 21:57:02 +0900"
+      "time": "Thu, 13 Aug 2026 21:41:00 +0900"
     }
   ]
 }
