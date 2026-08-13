@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 00:56",
+  "updated_at": "2026-08-14 01:55",
   "has_alert": true,
   "items": [
     {
@@ -28,26 +28,26 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 山武市付近で記録的な大雨 災害の危険迫る（0：30）",
+      "text": "千葉 東金市付近で記録的な大雨 災害の危険迫る（1：00）",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 00:44:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43916/20260814de43916_E0000008406_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉県で記録的な大雨 災害の危険迫る（23：30）",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 23:52:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43895/20260813de43895_E0000008385_1_l.jpg"
+      "time": "Fri, 14 Aug 2026 01:25:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43925/20260814de43925_E0000008411_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉県 レベル5の大雨と土砂災害の特別警報 命助かる行動を",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 00:34:33 +0900",
+      "time": "Fri, 14 Aug 2026 01:51:56 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43577/20260813de43577_E0000008347_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【動画】走行中のバスの車内に水が入り込む 千葉 松戸",
+      "source": "NHK",
+      "time": "Thu, 13 Aug 2026 22:38:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43851/20260813de43851_E0000008349_1_l.jpg"
     },
     {
       "category": "news",
