@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-13 14:16",
+  "updated_at": "2026-08-13 15:55",
   "has_alert": false,
   "items": [
     {
@@ -7,13 +7,13 @@
       "label": "ニュース",
       "text": "ロシア プーチン大統領 北方領土初めて訪問",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 13:56:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43566/20260813de43566_E0000007841_1_l.jpg"
+      "time": "Thu, 13 Aug 2026 15:07:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43566/20260813de43566_E0000007969_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北日本から西日本 大気不安定 関東など非常に激しい雨のおそれ",
+      "text": "【ライブ配信中】大気不安定 関東など非常に激しい雨のおそれ",
       "source": "NHK",
       "time": "Thu, 13 Aug 2026 12:00:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43577/20260813de43577_E0000007827_1_l.jpg"
@@ -21,33 +21,33 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "半蔵門線ホームでアスベスト 国交省が全国鉄道会社に点検要請",
+      "source": "NHK",
+      "time": "Thu, 13 Aug 2026 15:20:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43586/20260813de43586_E0000007866_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3662人避難",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 12:49:21 +0900",
+      "time": "Thu, 13 Aug 2026 15:52:12 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43574/20260813de43574_E0000007757_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース大谷翔平 6試合ぶり27号ホームラン",
+      "text": "高校野球 有明が長崎日大高に競り勝って3回戦進出",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 13:01:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43587/20260813de43587_E0000007845_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "株価 値上がり 半導体関連の銘柄を中心に買い注文",
-      "source": "NHK",
-      "time": "Thu, 13 Aug 2026 12:54:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43579/20260813de43579_E0000007781_1_l.jpg"
+      "time": "Thu, 13 Aug 2026 15:07:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43615/20260813de43615_E0000007907_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ニシキヘビ 体長2mの2匹 マンションから逃げ出す 川崎 多摩区",
       "source": "NHK",
-      "time": "Thu, 13 Aug 2026 12:09:00 +0900"
+      "time": "Thu, 13 Aug 2026 15:50:17 +0900"
     },
     {
       "category": "news",
