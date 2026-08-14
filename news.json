@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-15 06:48",
+  "updated_at": "2026-08-15 07:18",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日０７時１２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-14T22:16:44Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日０６時５８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-14T22:01:28Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -16,6 +30,14 @@
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 06:34:21 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009324_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【大雨 交通影響】鉄道や道路 一部区間で運転見合わせなど続く",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 06:45:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260815de44210/20260815de44210_E0000003966_1_l.jpg"
     },
     {
       "category": "news",
@@ -46,8 +68,7 @@
       "label": "ニュース",
       "text": "15歳未満のSNS利用禁止法に違憲判断 フランス憲法評議会",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 06:40:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44203/20260815de44203_E0000009340_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 06:40:33 +0900"
     },
     {
       "category": "news",
@@ -55,13 +76,6 @@
       "text": "ウクライナ高官「北朝鮮とロシアの軍事協力拡大」日本に警鐘",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 06:29:09 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "国内女子サッカーの課題を考えるイベント開催",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 06:18:20 +0900"
     }
   ]
 }
