@@ -1,20 +1,21 @@
 {
-  "updated_at": "2026-08-14 19:55",
-  "has_alert": true,
+  "updated_at": "2026-08-14 20:41",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１４日１９時０８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-14T10:11:21Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 御宿町にレベル4土砂災害危険警報（19:03）",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 20:32:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44169/20260814de44169_E0000003985_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【千葉 大雨被害】死者8人に 住宅被害は少なくとも178棟に",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 19:13:13 +0900",
+      "time": "Fri, 14 Aug 2026 19:59:37 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43980/20260814de43980_E0000008593_1_l.jpg"
     },
     {
@@ -28,18 +29,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "浸水相次いだ要因 台地浸食のくぼ地広がる「谷津地形」影響か",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 18:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44115/20260814de44115_E0000009006_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "千葉など関東 15日明け方にかけ激しい雨のおそれ 警戒を",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 19:45:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44019/20260814de44019_E0000008526_1_l.jpg"
+      "time": "Fri, 14 Aug 2026 20:36:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44019/20260814de44019_E0000009228_1_l.jpg"
     },
     {
       "category": "news",
@@ -59,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "秋田県オンライン記者説明会で不適切対応 職員を停職処分",
+      "text": "車で移動中に浸水被害 専門家「毎年起きる身近な危険」",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 16:20:40 +0900"
+      "time": "Fri, 14 Aug 2026 20:23:37 +0900"
     }
   ]
 }
