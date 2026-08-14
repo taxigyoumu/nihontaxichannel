@@ -1,21 +1,7 @@
 {
-  "updated_at": "2026-08-15 01:21",
-  "has_alert": true,
+  "updated_at": "2026-08-15 02:26",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日００時５１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-14T15:54:35Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１４日２３時１３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-14T14:16:24Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -43,6 +29,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "熊本地震 被災の福祉施設へ介護職員派遣 人件費は公費負担に",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 01:12:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44172/20260814de44172_E0000009300_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "米 7月の小売業の売上高 前月比0.6％減 FRB利上げ観測やや後退",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 00:05:27 +0900",
@@ -53,15 +47,7 @@
       "label": "ニュース",
       "text": "福岡県議会 藏内議長に対する議長職の辞職勧告決議案を提出",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 22:39:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44162/20260814de44162_E0000009233_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "辺野古沖事故 遺族が同志社国際高校と学校法人に要望書を提出",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 19:36:13 +0900"
+      "time": "Fri, 14 Aug 2026 22:39:18 +0900"
     },
     {
       "category": "news",
