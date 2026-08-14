@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-15 06:22",
-  "has_alert": false,
+  "updated_at": "2026-08-15 06:48",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日０６時３８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-14T21:41:30Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【千葉 記録的豪雨】8人死亡 建物被害さらに増える可能性",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 06:34:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009324_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,6 +24,14 @@
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 05:17:48 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44171/20260814de44171_E0000009327_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 地震活動は依然活発 15日も厳しい暑さ",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 06:35:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44208/20260815de44208_E0000009342_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,33 +44,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 被災の福祉施設へ介護職員派遣 人件費は公費負担に",
+      "text": "15歳未満のSNS利用禁止法に違憲判断 フランス憲法評議会",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 01:12:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44172/20260814de44172_E0000009300_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 06:40:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44203/20260815de44203_E0000009340_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ政権“中国が高関税逃れで「う回輸出」”の報告書",
+      "text": "ウクライナ高官「北朝鮮とロシアの軍事協力拡大」日本に警鐘",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 06:09:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44181/20260814de44181_E0000009305_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "韓国 インチョン国際空港 上半期の国際線旅客数が世界一",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 04:55:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44196/20260815de44196_E0000009311_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アフガニスタン タリバン復権から5年 人道状況の悪化懸念",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 04:53:40 +0900"
+      "time": "Sat, 15 Aug 2026 06:29:09 +0900"
     },
     {
       "category": "news",
