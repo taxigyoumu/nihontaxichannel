@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 05:55",
+  "updated_at": "2026-08-15 06:22",
   "has_alert": false,
   "items": [
     {
@@ -29,6 +29,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "トランプ政権“中国が高関税逃れで「う回輸出」”の報告書",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 06:09:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44181/20260814de44181_E0000009305_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "韓国 インチョン国際空港 上半期の国際線旅客数が世界一",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 04:55:59 +0900",
@@ -39,22 +47,14 @@
       "label": "ニュース",
       "text": "アフガニスタン タリバン復権から5年 人道状況の悪化懸念",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 04:53:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44175/20260814de44175_E0000009255_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 04:53:40 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 7月の小売業の売上高 前月比0.6％減 FRB利上げ観測やや後退",
+      "text": "国内女子サッカーの課題を考えるイベント開催",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 00:05:27 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "英国 右派政党の党首 辞職後の補欠選挙で再選も疑惑の調査続く",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 05:01:01 +0900"
+      "time": "Sat, 15 Aug 2026 06:18:20 +0900"
     }
   ]
 }
