@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-15 04:27",
-  "has_alert": true,
+  "updated_at": "2026-08-15 05:03",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日０４時２１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-14T19:24:55Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -16,14 +9,6 @@
       "source": "NHK",
       "time": "Fri, 14 Aug 2026 23:56:27 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44019/20260814de44019_E0000009228_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 中央区のアンダーパス 排水ポンプ作動せず 原因を調査",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 22:34:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44178/20260814de44178_E0000009262_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,10 +29,25 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "韓国 インチョン国際空港 上半期の国際線旅客数が世界一",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 04:55:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44196/20260815de44196_E0000009311_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アフガニスタン タリバン復権から5年 人道状況の悪化懸念",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 04:53:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44175/20260814de44175_E0000009255_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "米 7月の小売業の売上高 前月比0.6％減 FRB利上げ観測やや後退",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 00:05:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44188/20260814de44188_E0000009284_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 00:05:27 +0900"
     },
     {
       "category": "news",
@@ -55,13 +55,6 @@
       "text": "福岡県議会 藏内議長に対する議長職の辞職勧告決議案を提出",
       "source": "NHK",
       "time": "Fri, 14 Aug 2026 22:39:18 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フィリピン大統領 日本との海洋境界交渉“2国間で決める”",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 22:48:42 +0900"
     }
   ]
 }
