@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-14 12:05",
+  "updated_at": "2026-08-14 14:13",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 記録的大雨 今後も激しい雨のおそれ 警戒を【ヘリ映像】",
+      "text": "【千葉 大雨被害】死者8人に 路上や車内で亡くなる",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 11:51:38 +0900",
+      "time": "Fri, 14 Aug 2026 13:46:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43980/20260814de43980_E0000008593_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 記録的大雨 今後も激しい雨のおそれ 警戒を",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 13:34:04 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44019/20260814de44019_E0000008526_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【千葉 大雨被害】5人死亡 1人心肺停止 1人行方不明",
+      "text": "【ドローン 上空ヘリ映像】千葉 記録的大雨 広い範囲で冠水",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 12:00:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43980/20260814de43980_E0000008556_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "成田空港 ロビーに利用客の長い列 大雨による電車・バス運休で",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 11:58:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43941/20260814de43941_E0000008427_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【大雨被害】千葉 記録的大雨 自治体ごとに詳しく",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 08:54:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43748/20260813de43748_E0000008421_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【大雨】千葉県庁で約1800人が一夜明かす 帰宅困難者相次ぎ",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 07:40:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260813de43764/20260813de43764_E0000008399_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 若葉区 車2台が川に流され7人救助 5人搬送",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 07:26:19 +0900"
+      "time": "Fri, 14 Aug 2026 13:11:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43999/20260814de43999_E0000008608_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【気象予報士解説】雨の今後の見通しは 雷にも注意 警戒を",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 11:26:59 +0900"
+      "time": "Fri, 14 Aug 2026 11:26:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44016/20260814de44016_E0000008522_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 大雨 成田空港で最大7000人が一時ターミナル内にとどまる",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 12:49:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43941/20260814de43941_E0000008427_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "九州自動車道 全線で通行止め解除 熊本地震発生から17日ぶり",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 13:24:52 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "プーチン大統領の北方領土訪問 国連が当事者に自制呼びかけ",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 12:02:00 +0900"
     }
   ]
 }
