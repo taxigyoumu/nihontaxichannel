@@ -1,57 +1,21 @@
 {
-  "updated_at": "2026-08-15 07:48",
+  "updated_at": "2026-08-15 08:18",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１５日０７時２９分ころ、地震がありました。",
+      "text": "【震源・震度情報】１５日０８時１３分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-14T22:31:37Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【遠地地震に関する情報】１５日０６時５８分ころ、海外で規模の大きな地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-14T22:29:04Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日０７時１２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-14T22:16:44Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日０６時５８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-14T22:01:28Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日０６時３８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-14T21:41:30Z"
+      "time": "2026-08-14T23:16:02Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【千葉 記録的豪雨】8人死亡 建物被害さらに増える可能性",
+      "text": "自民 鈴木幹事長 有村総務会長 西村選対委員長 靖国神社に参拝",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 06:34:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009324_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【大雨 交通影響】鉄道や道路 一部区間で運転見合わせなど続く",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 06:45:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260815de44210/20260815de44210_E0000003966_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 08:11:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44211/20260815de44211_E0000004045_1_l.jpg"
     },
     {
       "category": "news",
@@ -64,25 +28,33 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小泉防衛相が靖国神社に参拝",
+      "text": "【千葉 記録的豪雨】8人死亡 建物被害さらに増える可能性",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 07:35:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44211/20260815de44211_E0000004045_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 06:34:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009324_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 07:54:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44212/20260815de44212_E0000009352_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "インドネシアでM7.7の地震 日本への津波の影響なし",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 07:48:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44197/20260815de44197_E0000004021_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本地震 地震活動は依然活発 15日も厳しい暑さ",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 06:35:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44208/20260815de44208_E0000009342_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大リーグ村上宗隆選手が熊本支援のチャリティープロジェクト",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 05:04:49 +0900"
+      "time": "Sat, 15 Aug 2026 06:35:55 +0900"
     },
     {
       "category": "news",
