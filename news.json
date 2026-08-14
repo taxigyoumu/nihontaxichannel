@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-14 15:52",
+  "updated_at": "2026-08-14 17:12",
   "has_alert": false,
   "items": [
     {
@@ -7,7 +7,7 @@
       "label": "ニュース",
       "text": "【千葉 大雨被害】死者8人に 路上や車内で亡くなる",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 14:52:58 +0900",
+      "time": "Fri, 14 Aug 2026 17:04:15 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43980/20260814de43980_E0000008593_1_l.jpg"
     },
     {
@@ -21,40 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉の記録的大雨「令和8年8月千葉豪雨」と命名 気象庁",
+      "text": "【大雨】冠水した車から2人を引き出した男性 緊迫の状況語る",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 14:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44072/20260814de44072_E0000004046_1_l.jpg"
+      "time": "Fri, 14 Aug 2026 16:56:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44061/20260814de44061_E0000008812_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 JR大網駅では構内に水や泥 駅員が掃き出す作業に追われる",
+      "source": "NHK",
+      "time": "Fri, 14 Aug 2026 16:57:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44093/20260814de44093_E0000008845_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉 記録的大雨 今後も激しい雨のおそれ 警戒を",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 13:34:04 +0900",
+      "time": "Fri, 14 Aug 2026 17:01:53 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44019/20260814de44019_E0000008526_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【ドローン 上空ヘリ映像】千葉 記録的大雨 広い範囲で冠水",
-      "source": "NHK",
-      "time": "Fri, 14 Aug 2026 13:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de43999/20260814de43999_E0000008608_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "九州自動車道 全線で通行止め解除 熊本地震発生から17日ぶり",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 13:24:52 +0900"
+      "time": "Fri, 14 Aug 2026 16:35:33 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プーチン大統領の北方領土訪問 国連が当事者に自制呼びかけ",
+      "text": "秋田県オンライン記者説明会で不適切対応 職員を停職処分",
       "source": "NHK",
-      "time": "Fri, 14 Aug 2026 12:02:00 +0900"
+      "time": "Fri, 14 Aug 2026 16:20:40 +0900"
     }
   ]
 }
