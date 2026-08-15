@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 01:19",
+  "updated_at": "2026-08-16 01:49",
   "has_alert": true,
   "items": [
     {
@@ -43,6 +43,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "自民 岸田元首相 萩生田幹事長代行ら 山梨県鳴沢村で会合",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 01:21:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44321/20260815de44321_E0000009612_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3205人が避難",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 19:24:53 +0900",
@@ -53,8 +61,7 @@
       "label": "ニュース",
       "text": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送り",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 18:56:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44238/20260815de44238_E0000009401_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 18:56:03 +0900"
     },
     {
       "category": "news",
@@ -62,13 +69,6 @@
       "text": "靖国神社参拝めぐり中国“強く抗議”韓国“嘆き禁じ得ない”",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 23:00:19 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ大統領“近くホルムズ海峡は米領と宣言”イラン側反発",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 23:54:00 +0900"
     }
   ]
 }
