@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-08-15 16:53",
+  "updated_at": "2026-08-15 17:22",
   "has_alert": false,
   "items": [
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "戦後81年の終戦の日 政府主催の全国戦没者追悼式",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 13:42:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44171/20260814de44171_E0000009409_1_l.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -17,6 +9,14 @@
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 16:14:24 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009478_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "戦後81年の終戦の日 政府主催の全国戦没者追悼式",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 13:42:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44171/20260814de44171_E0000009409_1_l.jpg"
     },
     {
       "category": "news",
