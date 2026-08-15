@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 17:54",
+  "updated_at": "2026-08-15 18:22",
   "has_alert": true,
   "items": [
     {
@@ -22,6 +22,14 @@
       "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
       "source": "岐阜地方気象台",
       "time": "2026-08-15T08:32:40Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "地表断層出現の瞬間か 熊本 八代の防犯カメラに地表のずれ写る",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 18:06:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44255/20260815de44255_E0000009504_1_l.jpg"
     },
     {
       "category": "news",
@@ -60,8 +68,7 @@
       "label": "ニュース",
       "text": "終戦の日 さまざまな立場の人たちが戦争の犠牲者を悼む集会",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 17:45:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44275/20260815de44275_E0000009498_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 17:45:51 +0900"
     },
     {
       "category": "news",
@@ -69,13 +76,6 @@
       "text": "熊本地震 15日も厳しい暑さ 熱中症対策を 活発な地震活動続く",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 11:48:35 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 お盆にふるさとで実家の片づけ行う人も",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 16:01:20 +0900"
     }
   ]
 }
