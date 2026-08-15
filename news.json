@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 19:18",
+  "updated_at": "2026-08-15 19:47",
   "has_alert": true,
   "items": [
     {
@@ -14,7 +14,7 @@
       "label": "ニュース",
       "text": "地表断層出現の瞬間か 熊本 八代の防犯カメラに地表のずれ写る",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 18:06:42 +0900",
+      "time": "Sat, 15 Aug 2026 18:06:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44255/20260815de44255_E0000009504_1_l.jpg"
     },
     {
@@ -36,6 +36,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3205人が避難",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 19:24:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44248/20260815de44248_E0000009420_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送り",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 18:56:03 +0900",
@@ -44,24 +52,16 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "千葉県 熊谷知事が佐倉市を視察「激甚災害指定を」",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 19:18:16 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "熊本地震 活発な地震活動 厳しい暑さ続く見込み 熱中症対策を",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 19:06:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44208/20260815de44208_E0000009342_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 お盆にふるさとで実家の片づけ行う人も",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 16:01:20 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 07:54:15 +0900"
+      "time": "Sat, 15 Aug 2026 19:06:44 +0900"
     }
   ]
 }
