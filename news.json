@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-15 14:50",
-  "has_alert": false,
+  "updated_at": "2026-08-15 15:32",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-15T06:12:38Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-15T06:12:38Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】美濃地方では、低い土地の浸水や河川の増水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-15T06:12:36Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,26 +34,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送りへ",
+      "text": "【千葉豪雨 被害】8人死亡確認 建物への浸水被害相次ぐ",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 13:25:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44238/20260815de44238_E0000009401_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【千葉 記録的豪雨】8人死亡確認 建物への浸水被害相次ぐ",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 13:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009458_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高市首相 千鳥ヶ淵戦没者墓苑で献花 「全国戦没者追悼式」前に",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 11:27:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44236/20260815de44236_E0000009397_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 15:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009478_1_l.jpg"
     },
     {
       "category": "news",
@@ -45,16 +50,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
+      "text": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送りへ",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 07:54:15 +0900"
+      "time": "Sat, 15 Aug 2026 13:25:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44238/20260815de44238_E0000009401_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3223人が避難",
+      "text": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 12:35:00 +0900"
+      "time": "Sat, 15 Aug 2026 07:54:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44212/20260815de44212_E0000009352_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "終戦の日 超党派議員89人が靖国神社参拝 小野田経済安保相も",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 14:44:36 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "終戦81年 太平洋戦争の激戦地 フィリピンで戦没者を追悼",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 15:20:16 +0900"
     }
   ]
 }
