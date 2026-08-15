@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-15 08:46",
+  "updated_at": "2026-08-15 10:02",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日０９時２２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-15T00:25:20Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -14,8 +21,8 @@
       "label": "ニュース",
       "text": "自民 鈴木幹事長 有村総務会長 西村選対委員長 靖国神社に参拝",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 08:11:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44211/20260815de44211_E0000004045_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 09:14:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44211/20260815de44211_E0000009367_1_l.jpg"
     },
     {
       "category": "news",
@@ -24,6 +31,14 @@
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 05:17:48 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44171/20260814de44171_E0000009327_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高市首相 「終戦の日」の靖国神社参拝見送りへ",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 09:17:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44218/20260815de44218_E0000009372_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,14 +59,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インドネシアでM7.7の地震 日本への津波の影響なし",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 07:48:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44197/20260815de44197_E0000004021_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "熊本地震 地震活動は依然活発 15日も厳しい暑さ",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 06:35:55 +0900"
@@ -59,9 +66,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "コロンビア地震 1万超の住宅破壊　家失った人の支援も課題に",
+      "text": "ウクライナ高官「北朝鮮とロシアの軍事協力拡大」日本に警鐘",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 07:37:57 +0900"
+      "time": "Sat, 15 Aug 2026 09:13:59 +0900"
     }
   ]
 }
