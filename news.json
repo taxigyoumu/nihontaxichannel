@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-15 19:47",
-  "has_alert": true,
+  "updated_at": "2026-08-15 20:16",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日１８時４７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-15T09:49:56Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -28,9 +21,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【千葉豪雨 被害】8人死亡確認 建物への浸水被害相次ぐ",
+      "text": "【千葉豪雨】この雨で死亡した人9人に 住宅被害も相次ぐ",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 16:14:00 +0900",
+      "time": "Sat, 15 Aug 2026 20:04:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009478_1_l.jpg"
     },
     {
