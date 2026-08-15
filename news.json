@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-08-15 21:30",
+  "updated_at": "2026-08-15 22:26",
   "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-15T13:10:20Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-15T13:10:20Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-15T13:10:08Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日２１時３８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-15T12:40:27Z"
+    },
     {
       "category": "quake",
       "label": "地震",
