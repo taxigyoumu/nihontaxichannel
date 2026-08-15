@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-15 18:49",
-  "has_alert": false,
+  "updated_at": "2026-08-15 19:18",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日１８時４７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-15T09:49:56Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,22 +16,6 @@
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 18:06:42 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44255/20260815de44255_E0000009504_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送り",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 18:40:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44238/20260815de44238_E0000009401_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【千葉豪雨 被害】8人死亡確認 建物への浸水被害相次ぐ",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 16:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009478_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,17 +28,33 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 15日も厳しい暑さ 熱中症対策を 活発な地震活動続く",
+      "text": "【千葉豪雨 被害】8人死亡確認 建物への浸水被害相次ぐ",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 11:48:35 +0900",
+      "time": "Sat, 15 Aug 2026 16:14:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009478_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送り",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 18:56:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44238/20260815de44238_E0000009401_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 活発な地震活動 厳しい暑さ続く見込み 熱中症対策を",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 19:06:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44208/20260815de44208_E0000009342_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "終戦の日 さまざまな立場の人たちが戦争の犠牲者を悼む集会",
+      "text": "熊本地震 お盆にふるさとで実家の片づけ行う人も",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 17:45:51 +0900"
+      "time": "Sat, 15 Aug 2026 16:01:20 +0900"
     },
     {
       "category": "news",
