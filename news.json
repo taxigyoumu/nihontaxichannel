@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-15 11:31",
+  "updated_at": "2026-08-15 12:35",
   "has_alert": true,
   "items": [
     {
@@ -12,49 +12,49 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 記録的豪雨 8人死亡 建物被害増える可能性【上空映像】",
+      "text": "戦後81年の終戦の日 政府主催の全国戦没者追悼式",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 06:34:00 +0900",
+      "time": "Sat, 15 Aug 2026 05:17:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44171/20260814de44171_E0000009409_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送りへ",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 11:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44238/20260815de44238_E0000009401_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【千葉 記録的豪雨】8人死亡確認 建物への浸水被害相次ぐ",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 12:04:16 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009324_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自民 鈴木幹事長ら幹部が靖国神社に参拝 小泉防衛相ら閣僚も",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 11:19:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44211/20260815de44211_E0000009367_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "きょう戦後81年の終戦の日 各地で戦没者追悼の催し",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 05:17:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44171/20260814de44171_E0000009327_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高市首相 千鳥ヶ淵戦没者墓苑で献花 「全国戦没者追悼式」前に",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 11:27:39 +0900",
+      "time": "Sat, 15 Aug 2026 11:27:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44236/20260815de44236_E0000009397_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 15日も厳しい暑さ 熱中症対策を 活発な地震活動続く",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 11:48:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44208/20260815de44208_E0000009342_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 07:54:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44212/20260815de44212_E0000009352_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 地震活動は依然活発 15日も厳しい暑さ",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 06:35:55 +0900"
+      "time": "Sat, 15 Aug 2026 07:54:15 +0900"
     },
     {
       "category": "news",
