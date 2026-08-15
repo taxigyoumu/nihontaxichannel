@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 06:44",
+  "updated_at": "2026-08-16 07:17",
   "has_alert": true,
   "items": [
     {
@@ -65,10 +65,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山形 鶴岡 花火大会で3人軽傷 花火が地上で破裂したか",
+      "text": "自民 小林政調会長が靖国神社に参拝",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 06:16:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44344/20260816de44344_E0000003908_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 06:46:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44348/20260816de44348_E0000004054_1_l.jpg"
     },
     {
       "category": "news",
@@ -80,9 +80,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新体操 ロス五輪出場権を獲得 世界選手権の団体総合で2位に",
+      "text": "岐阜 長良川で水難事故相次ぐ 23歳の男性 計2人が溺れて死亡",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 02:44:00 +0900"
+      "time": "Sat, 15 Aug 2026 23:48:12 +0900"
     }
   ]
 }
