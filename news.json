@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-08-15 12:35",
-  "has_alert": true,
+  "updated_at": "2026-08-15 13:26",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日１０時５８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-15T02:01:52Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "戦後81年の終戦の日 政府主催の全国戦没者追悼式",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 05:17:00 +0900",
+      "time": "Sat, 15 Aug 2026 12:39:38 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44171/20260814de44171_E0000009409_1_l.jpg"
     },
     {
@@ -30,7 +23,7 @@
       "label": "ニュース",
       "text": "【千葉 記録的豪雨】8人死亡確認 建物への浸水被害相次ぐ",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 12:04:16 +0900",
+      "time": "Sat, 15 Aug 2026 13:00:40 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44198/20260815de44198_E0000009324_1_l.jpg"
     },
     {
@@ -44,10 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "熊本地震 災害関連死の疑い含め39人死亡 避難所に3223人が避難",
+      "source": "NHK",
+      "time": "Sat, 15 Aug 2026 12:35:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44248/20260815de44248_E0000009420_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "熊本地震 15日も厳しい暑さ 熱中症対策を 活発な地震活動続く",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 11:48:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44208/20260815de44208_E0000009342_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 11:48:35 +0900"
     },
     {
       "category": "news",
@@ -55,13 +55,6 @@
       "text": "関東甲信 大気不安定 千葉で大雨ピーク過ぎるも地盤緩み注意",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 07:54:15 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "4月-6月のGDP 民間は3期連続プラスの予測 個人消費堅調で",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 11:01:02 +0900"
     }
   ]
 }
