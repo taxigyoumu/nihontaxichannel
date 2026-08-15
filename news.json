@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-15 20:16",
-  "has_alert": false,
+  "updated_at": "2026-08-15 20:43",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日２０時３０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-15T11:33:47Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日２０時２９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-15T11:32:11Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -15,7 +29,7 @@
       "label": "ニュース",
       "text": "戦後81年の終戦の日 政府主催の全国戦没者追悼式",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 17:27:05 +0900",
+      "time": "Sat, 15 Aug 2026 20:17:27 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44171/20260814de44171_E0000009486_1_l.jpg"
     },
     {
