@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 07:17",
+  "updated_at": "2026-08-16 07:46",
   "has_alert": true,
   "items": [
     {
@@ -35,8 +35,8 @@
       "label": "ニュース",
       "text": "【千葉豪雨】死者9人 行方不明1人 浸水被害1000棟超 雨に注意",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 05:22:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009646_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 07:31:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009672_1_l.jpg"
     },
     {
       "category": "news",
@@ -49,10 +49,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インドネシア東部地震の死者47人に 救助活動続く",
+      "text": "岐阜 長良川で水難事故相次ぐ 23歳の男性 計2人が溺れて死亡",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 05:52:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44335/20260816de44335_E0000009656_1_l.jpg"
+      "time": "Sat, 15 Aug 2026 23:48:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44296/20260815de44296_E0000009611_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "山形 鶴岡 花火大会で3人軽傷 花火が地上で破裂したか",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 07:05:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44344/20260816de44344_E0000009658_1_l.jpg"
     },
     {
       "category": "news",
@@ -67,8 +75,7 @@
       "label": "ニュース",
       "text": "自民 小林政調会長が靖国神社に参拝",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 06:46:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44348/20260816de44348_E0000004054_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 07:41:45 +0900"
     },
     {
       "category": "news",
@@ -76,13 +83,6 @@
       "text": "地表断層出現の瞬間か 熊本 八代の防犯カメラに地表のずれ写る",
       "source": "NHK",
       "time": "Sat, 15 Aug 2026 18:06:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "岐阜 長良川で水難事故相次ぐ 23歳の男性 計2人が溺れて死亡",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 23:48:12 +0900"
     }
   ]
 }
