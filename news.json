@@ -1,7 +1,35 @@
 {
-  "updated_at": "2026-08-16 06:17",
-  "has_alert": false,
+  "updated_at": "2026-08-16 06:44",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-15T21:27:32Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-15T21:27:32Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】飛騨地方では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-15T21:27:23Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１６日０６時１８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-15T21:21:08Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -37,10 +65,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "絶滅危惧種のキタサンショウウオ 生息地等保護区指定へ 環境省",
+      "text": "山形 鶴岡 花火大会で3人軽傷 花火が地上で破裂したか",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 05:15:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44228/20260815de44228_E0000009484_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 06:16:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44344/20260816de44344_E0000003908_1_l.jpg"
     },
     {
       "category": "news",
