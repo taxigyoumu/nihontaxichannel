@@ -1,14 +1,22 @@
 {
-  "updated_at": "2026-08-16 05:18",
+  "updated_at": "2026-08-16 05:47",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【千葉豪雨】死者9人 行方不明1人 浸水被害1000棟超",
+      "text": "【千葉豪雨】死者9人 行方不明1人 浸水被害1000棟超 雨に注意",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 05:08:17 +0900",
+      "time": "Sun, 16 Aug 2026 05:22:26 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009646_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 活発な活動続く 最大震度5弱程度以上の地震に注意",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 05:38:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44323/20260815de44323_E0000009657_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,14 +29,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "戦後81年の終戦の日 政府主催の全国戦没者追悼式",
-      "source": "NHK",
-      "time": "Sat, 15 Aug 2026 20:17:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260814de44171/20260814de44171_E0000009486_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "自民 岸田元首相 萩生田幹事長代行ら 山梨県鳴沢村で会合",
       "source": "NHK",
       "time": "Sun, 16 Aug 2026 01:21:47 +0900",
@@ -37,17 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小泉防衛相ら4閣僚が靖国神社参拝 高市首相は見送り",
+      "text": "絶滅危惧種のキタサンショウウオ 生息地等保護区指定へ 環境省",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 18:56:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44238/20260815de44238_E0000009401_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 05:15:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44228/20260815de44228_E0000009484_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "靖国神社参拝めぐり中国“強く抗議”韓国“嘆き禁じ得ない”",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 23:00:19 +0900"
+      "time": "Sun, 16 Aug 2026 05:18:24 +0900"
     },
     {
       "category": "news",
