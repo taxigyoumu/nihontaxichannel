@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-17 00:17",
+  "updated_at": "2026-08-17 00:44",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１７日００時２２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-16T15:25:16Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -44,10 +51,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "酒に酔って逆走 車3台巻き込む事故起こす 会社員を逮捕 徳島",
+      "text": "ハンガリーでポーランド人観光客乗せたバス 横転事故 12人死亡",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 19:21:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44405/20260816de44405_E0000003868_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 00:13:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44416/20260816de44416_E0000009834_1_l.jpg"
     },
     {
       "category": "news",
