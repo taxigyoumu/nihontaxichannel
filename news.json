@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 06:43",
+  "updated_at": "2026-08-17 07:17",
   "has_alert": true,
   "items": [
     {
@@ -26,18 +26,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】福岡県で震度4",
+      "text": "【地震速報】福岡 糸島で震度4 津波の心配なし",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 06:40:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44445/20260817de44445_E0000004025_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 07:08:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44445/20260817de44445_E0000009887_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "きょうから米韓軍事演習 野外機動訓練縮小続くも北朝鮮は反発",
+      "text": "トランプ大統領 米韓合同軍事演習“縮小を指示”",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 05:25:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44424/20260816de44424_E0000009853_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 07:05:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44424/20260816de44424_E0000009888_1_l.jpg"
     },
     {
       "category": "news",
@@ -46,6 +46,14 @@
       "source": "NHK",
       "time": "Mon, 17 Aug 2026 02:39:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009866_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "JR外房線 17日朝から代行バス運行 一部区間で運転見合わせ続く",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 07:03:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44432/20260816de44432_E0000009883_1_l.jpg"
     },
     {
       "category": "news",
@@ -60,22 +68,14 @@
       "label": "ニュース",
       "text": "車いす利用者 送迎車での死亡事故7年で30件 消費者事故調",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 05:56:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44410/20260816de44410_E0000009827_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 05:56:16 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシアへの長距離攻撃にイギリス供与の無人機使用 英紙報道",
+      "text": "食料品の消費税減税の地方減収分 国で補てん検討",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 05:27:09 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "インドネシア東部地震で53人死亡 食料・水の確保が課題に",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 20:45:21 +0900"
+      "time": "Mon, 17 Aug 2026 07:14:26 +0900"
     }
   ]
 }
