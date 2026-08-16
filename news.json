@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 18:26",
+  "updated_at": "2026-08-16 18:51",
   "has_alert": true,
   "items": [
     {
@@ -8,6 +8,14 @@
       "text": "【震源・震度情報】１６日１８時０５分ころ、地震がありました。",
       "source": "気象庁",
       "time": "2026-08-16T09:08:53Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "お盆のUターンラッシュ 新幹線と空の便がピークに",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 18:41:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44364/20260816de44364_E0000009710_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,40 +36,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉県四街道市 市内全域の土砂災害警戒区域などに避難指示",
+      "text": "サッカー元日本代表巻さん 地元の熊本 宇城市の被災地で夏祭り",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 16:33:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44388/20260816de44388_E0000004037_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 18:25:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44395/20260816de44395_E0000009767_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 17日も熱中症対策を 最大震度5弱程度以上の地震注意",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 18:38:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44323/20260815de44323_E0000009657_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高校野球 横浜が霞ヶ浦に勝ち準々決勝進出",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 17:24:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44389/20260816de44389_E0000009750_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 17:24:49 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "お盆のUターンラッシュ 新幹線と空の便がピークに",
+      "text": "千葉県四街道市 市内全域の土砂災害警戒区域などに避難指示",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 13:08:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44364/20260816de44364_E0000009710_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 活発な活動続く きょうも熱中症対策を 雷雨にも注意",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 15:10:38 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "女子ゴルフ国内ツアー 安田祐香が優勝 全英制覇の桑木志帆42位",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 16:43:54 +0900"
+      "time": "Sun, 16 Aug 2026 16:33:09 +0900"
     }
   ]
 }
