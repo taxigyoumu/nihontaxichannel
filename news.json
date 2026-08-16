@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-08-16 16:54",
-  "has_alert": true,
+  "updated_at": "2026-08-16 17:24",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１６日１４時１９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-16T05:24:03Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１６日１４時０３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-16T05:05:43Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 府中 多摩川で遊んでいた中学3年男子生徒が溺れて重体",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 16:54:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44386/20260816de44386_E0000009760_1_l.jpg"
     },
     {
       "category": "news",
@@ -27,10 +21,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【千葉豪雨】死者9人 夜にかけ雨のおそれ 土砂災害に注意を",
+      "text": "【千葉豪雨】死者10人 夜にかけ雨のおそれ 土砂災害に注意を",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 16:36:00 +0900",
+      "time": "Sun, 16 Aug 2026 17:23:27 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009672_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高校野球 横浜が霞ヶ浦に勝ち準々決勝進出",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 17:11:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44389/20260816de44389_E0000009750_1_l.jpg"
     },
     {
       "category": "news",
@@ -43,32 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 花巻東が英明に勝利 3年ぶりベスト8 機動力生かす",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 16:10:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44380/20260816de44380_E0000009742_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "熊本地震 活発な活動続く きょうも熱中症対策を 雷雨にも注意",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 15:10:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44323/20260815de44323_E0000009657_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 15:10:38 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 「くまモン」が活動再開 被害受けた小学校を訪問",
+      "text": "女子ゴルフ国内ツアー 安田祐香が優勝 全英制覇の桑木志帆42位",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 12:39:19 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "上野動物園のパンダ舎 あすから解体 多くの人が最後の別れ",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 13:26:04 +0900"
+      "time": "Sun, 16 Aug 2026 16:43:54 +0900"
     }
   ]
 }
