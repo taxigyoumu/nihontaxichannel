@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 07:17",
+  "updated_at": "2026-08-17 07:45",
   "has_alert": true,
   "items": [
     {
@@ -22,14 +22,6 @@
       "text": "【震度速報】１７日０６時３７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
       "source": "気象庁",
       "time": "2026-08-16T21:38:52Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【地震速報】福岡 糸島で震度4 津波の心配なし",
-      "source": "NHK",
-      "time": "Mon, 17 Aug 2026 07:08:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44445/20260817de44445_E0000009887_1_l.jpg"
     },
     {
       "category": "news",
@@ -68,7 +60,8 @@
       "label": "ニュース",
       "text": "車いす利用者 送迎車での死亡事故7年で30件 消費者事故調",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 05:56:16 +0900"
+      "time": "Mon, 17 Aug 2026 05:56:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44410/20260816de44410_E0000009827_1_l.jpg"
     },
     {
       "category": "news",
@@ -76,6 +69,13 @@
       "text": "食料品の消費税減税の地方減収分 国で補てん検討",
       "source": "NHK",
       "time": "Mon, 17 Aug 2026 07:14:26 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "論文盗用疑惑のケンブリッジ大元教授死亡 疑惑に人種差別訴え",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 07:34:55 +0900"
     }
   ]
 }
