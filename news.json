@@ -1,14 +1,35 @@
 {
-  "updated_at": "2026-08-17 06:16",
-  "has_alert": false,
+  "updated_at": "2026-08-17 06:43",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１７日０６時３７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-16T21:41:12Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう１７日０６時３７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-16T21:40:21Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１７日０６時３７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-16T21:38:52Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨 死者10人 千葉市で車約2500台が路上に残る",
+      "text": "【地震速報】福岡県で震度4",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 02:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009866_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 06:40:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44445/20260817de44445_E0000004025_1_l.jpg"
     },
     {
       "category": "news",
@@ -17,6 +38,14 @@
       "source": "NHK",
       "time": "Mon, 17 Aug 2026 05:25:50 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44424/20260816de44424_E0000009853_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉豪雨 死者10人 千葉市で車約2500台が路上に残る",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 02:39:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009866_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,15 +68,7 @@
       "label": "ニュース",
       "text": "ロシアへの長距離攻撃にイギリス供与の無人機使用 英紙報道",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 05:27:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44425/20260816de44425_E0000009873_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ハンガリーでポーランド人観光客乗せたバス 横転事故 12人死亡",
-      "source": "NHK",
-      "time": "Mon, 17 Aug 2026 00:13:00 +0900"
+      "time": "Mon, 17 Aug 2026 05:27:09 +0900"
     },
     {
       "category": "news",
