@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 16:27",
+  "updated_at": "2026-08-16 16:54",
   "has_alert": true,
   "items": [
     {
@@ -19,18 +19,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【千葉豪雨】死者9人 夜にかけ雨のおそれ 土砂災害に注意を",
+      "text": "千葉県四街道市 市内全域の土砂災害警戒区域などに避難指示",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 13:28:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009672_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 16:33:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44388/20260816de44388_E0000004037_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“交渉期限”迫る イラン「停戦存在せず」 米も対決姿勢",
+      "text": "【千葉豪雨】死者9人 夜にかけ雨のおそれ 土砂災害に注意を",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 15:40:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44371/20260816de44371_E0000009751_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 16:36:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009672_1_l.jpg"
     },
     {
       "category": "news",
