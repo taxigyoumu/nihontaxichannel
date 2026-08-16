@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 05:17",
+  "updated_at": "2026-08-17 05:46",
   "has_alert": false,
   "items": [
     {
@@ -13,18 +13,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 17日も熱中症対策を 最大震度5弱程度以上の地震注意",
+      "text": "きょうから米韓軍事演習 野外機動訓練縮小続くも北朝鮮は反発",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 19:28:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44323/20260815de44323_E0000009657_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 05:25:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44424/20260816de44424_E0000009853_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インドネシア東部地震で53人死亡 食料・水の確保が課題に",
+      "text": "熊本地震 17日も熱中症対策を 最大震度5弱程度以上の地震注意",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 20:45:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260816de44411/20260816de44411_E0000009820_3_l.jpg"
+      "time": "Sun, 16 Aug 2026 19:28:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44323/20260815de44323_E0000009657_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ ロシアの物流施設など攻撃 えん戦気分拡大ねらいか",
+      "text": "ロシアへの長距離攻撃にイギリス供与の無人機使用 英紙報道",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 19:58:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44393/20260816de44393_E0000009797_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 05:27:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44425/20260816de44425_E0000009873_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ハンガリーでポーランド人観光客乗せたバス 横転事故 12人死亡",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 00:13:35 +0900"
+      "time": "Mon, 17 Aug 2026 00:13:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "競泳 19歳の今福和志が男子1500ｍ自由形で日本新記録",
+      "text": "インドネシア東部地震で53人死亡 食料・水の確保が課題に",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 18:59:00 +0900"
+      "time": "Sun, 16 Aug 2026 20:45:21 +0900"
     }
   ]
 }
