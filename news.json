@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 05:46",
+  "updated_at": "2026-08-17 06:16",
   "has_alert": false,
   "items": [
     {
@@ -7,7 +7,7 @@
       "label": "ニュース",
       "text": "千葉豪雨 死者10人 千葉市で車約2500台が路上に残る",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 02:39:36 +0900",
+      "time": "Mon, 17 Aug 2026 02:39:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009866_1_l.jpg"
     },
     {
@@ -21,18 +21,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 17日も熱中症対策を 最大震度5弱程度以上の地震注意",
+      "text": "熊本地震 地震活動と暑さに注意 できるかぎりの熱中症対策を",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 19:28:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44323/20260815de44323_E0000009657_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 05:48:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44421/20260816de44421_E0000009881_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア ウクライナ 双方が首都を攻撃 応酬激しさ増す",
+      "text": "車いす利用者 送迎車での死亡事故7年で30件 消費者事故調",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 20:31:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44402/20260816de44402_E0000009822_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 05:56:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44410/20260816de44410_E0000009827_1_l.jpg"
     },
     {
       "category": "news",
