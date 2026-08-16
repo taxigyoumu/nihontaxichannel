@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-08-16 19:48",
+  "updated_at": "2026-08-16 20:16",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１６日１８時０５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-16T09:08:53Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-16T10:51:41Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-16T10:51:41Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-16T10:51:38Z"
     },
     {
       "category": "news",
@@ -20,10 +34,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 17日も熱中症対策を 最大震度5弱程度以上の地震注意",
+      "text": "お盆のUターンラッシュ 新幹線と空の便がピークに",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 19:28:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44323/20260815de44323_E0000009657_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 18:41:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44364/20260816de44364_E0000009710_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,10 +50,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー元日本代表巻さん 地元の熊本 宇城市の被災地で夏祭り",
+      "text": "熊本地震 17日も熱中症対策を 最大震度5弱程度以上の地震注意",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 18:25:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44395/20260816de44395_E0000009767_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 19:28:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44323/20260815de44323_E0000009657_1_l.jpg"
     },
     {
       "category": "news",
