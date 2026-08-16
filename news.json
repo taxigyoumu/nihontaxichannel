@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 12:44",
+  "updated_at": "2026-08-16 13:31",
   "has_alert": true,
   "items": [
     {
@@ -28,7 +28,7 @@
       "label": "ニュース",
       "text": "お盆のUターンラッシュ 新幹線と空の便がピークに",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 12:00:00 +0900",
+      "time": "Sun, 16 Aug 2026 13:08:14 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44364/20260816de44364_E0000009710_1_l.jpg"
     },
     {
@@ -36,7 +36,7 @@
       "label": "ニュース",
       "text": "【千葉豪雨】死者9人 夜にかけ雨のおそれ 土砂災害に注意を",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 12:41:48 +0900",
+      "time": "Sun, 16 Aug 2026 13:28:21 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009672_1_l.jpg"
     },
     {
@@ -58,24 +58,24 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "上野動物園のパンダ舎 あすから解体 多くの人が最後の別れ",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 13:26:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44365/20260816de44365_E0000009704_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース 大谷翔平 タイムリースリーベースもチームは敗れる",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 12:56:52 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "高校野球 有明が東日大昌平に勝ち準々決勝進出",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 12:40:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44367/20260816de44367_E0000009703_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "憲法改正 与党“緊急事態条項の条文化を”野党は賛否分かれる",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 10:17:01 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ウクライナがロシアのロケット製造拠点など攻撃",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 10:39:54 +0900"
+      "time": "Sun, 16 Aug 2026 12:40:20 +0900"
     }
   ]
 }
