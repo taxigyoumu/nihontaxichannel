@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-16 22:27",
+  "updated_at": "2026-08-16 22:53",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１６日２２時４９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-16T13:52:04Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -21,8 +28,8 @@
       "label": "ニュース",
       "text": "死者10人に 浸水被害は約1500棟 千葉市で車両約2500台が路上に",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 21:54:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009747_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 22:44:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009855_1_l.jpg"
     },
     {
       "category": "news",
