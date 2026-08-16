@@ -1,22 +1,14 @@
 {
-  "updated_at": "2026-08-17 02:16",
+  "updated_at": "2026-08-17 02:43",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "お盆のUターンラッシュ 新幹線と空の便がピークに",
+      "text": "千葉豪雨 死者10人 千葉市で車約2500台が路上に残る",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 18:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44364/20260816de44364_E0000009803_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "死者10人に 浸水被害は約1500棟 千葉市で車両約2500台が路上に",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 22:44:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009855_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 02:39:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009866_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 天草 お盆の帰省にあわせ二十歳のつどい",
+      "text": "インドネシア東部地震で53人死亡 食料・水の確保が課題に",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 19:27:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44391/20260816de44391_E0000009755_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ハンガリーでポーランド人観光客乗せたバス 横転事故 12人死亡",
-      "source": "NHK",
-      "time": "Mon, 17 Aug 2026 00:13:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44416/20260816de44416_E0000009834_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 20:45:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260816de44411/20260816de44411_E0000009820_3_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ロシア ウクライナ 双方が首都を攻撃 応酬激しさ増す",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 20:31:47 +0900"
+      "time": "Sun, 16 Aug 2026 20:31:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44402/20260816de44402_E0000009822_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インドネシア東部地震で53人死亡 食料・水の確保が課題に",
+      "text": "ウクライナ ロシアの物流施設など攻撃 えん戦気分拡大ねらいか",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 20:45:21 +0900"
+      "time": "Sun, 16 Aug 2026 19:58:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44393/20260816de44393_E0000009797_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ハンガリーでポーランド人観光客乗せたバス 横転事故 12人死亡",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 00:13:35 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "競泳 19歳の今福和志が男子1500ｍ自由形で日本新記録",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 18:59:00 +0900"
     }
   ]
 }
