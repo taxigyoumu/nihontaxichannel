@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-08-17 07:45",
-  "has_alert": true,
+  "updated_at": "2026-08-17 08:16",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１７日０６時３７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-16T21:41:12Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう１７日０６時３７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-16T21:40:21Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】１７日０６時３７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-16T21:38:52Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -37,7 +16,7 @@
       "text": "千葉豪雨 死者10人 千葉市で車約2500台が路上に残る",
       "source": "NHK",
       "time": "Mon, 17 Aug 2026 02:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009866_1_l.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009889_1_l.jpg"
     },
     {
       "category": "news",
