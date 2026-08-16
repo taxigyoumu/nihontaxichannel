@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-16 21:32",
+  "updated_at": "2026-08-16 22:27",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１６日２１時４２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-16T12:45:13Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -12,18 +19,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "お盆のUターンラッシュ 新幹線と空の便がピークに",
+      "text": "死者10人に 浸水被害は約1500棟 千葉市で車両約2500台が路上に",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 18:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44364/20260816de44364_E0000009803_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 21:54:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009747_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【千葉豪雨】死者10人に 浸水被害は約1500棟 片づけや給水続く",
+      "text": "お盆のUターンラッシュ 新幹線と空の便がピークに",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 19:40:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009747_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 18:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44364/20260816de44364_E0000009803_1_l.jpg"
     },
     {
       "category": "news",
