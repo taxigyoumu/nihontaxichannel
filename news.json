@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-16 15:33",
+  "updated_at": "2026-08-16 16:27",
   "has_alert": true,
   "items": [
     {
@@ -19,6 +19,22 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "【千葉豪雨】死者9人 夜にかけ雨のおそれ 土砂災害に注意を",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 13:28:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009672_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“交渉期限”迫る イラン「停戦存在せず」 米も対決姿勢",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 15:40:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44371/20260816de44371_E0000009751_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "お盆のUターンラッシュ 新幹線と空の便がピークに",
       "source": "NHK",
       "time": "Sun, 16 Aug 2026 13:08:14 +0900",
@@ -27,10 +43,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【千葉豪雨】死者9人 夜にかけ雨のおそれ 土砂災害に注意を",
+      "text": "高校野球 花巻東が英明に勝利 3年ぶりベスト8 機動力生かす",
       "source": "NHK",
-      "time": "Sun, 16 Aug 2026 13:28:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44322/20260815de44322_E0000009672_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 16:10:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44380/20260816de44380_E0000009742_1_l.jpg"
     },
     {
       "category": "news",
@@ -43,32 +59,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "上野動物園のパンダ舎 あすから解体 多くの人が最後の別れ",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 13:26:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44365/20260816de44365_E0000009704_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "女子ゴルフ米ツアー第3R 原英莉花と勝みなみ 首位と4打差の5位",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 13:41:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44374/20260816de44374_E0000009727_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高校野球 花巻東が英明に勝ち準々決勝進出",
-      "source": "NHK",
-      "time": "Sun, 16 Aug 2026 15:05:45 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "熊本地震 「くまモン」が活動再開 被害受けた小学校を訪問",
       "source": "NHK",
       "time": "Sun, 16 Aug 2026 12:39:19 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "上野動物園のパンダ舎 あすから解体 多くの人が最後の別れ",
+      "source": "NHK",
+      "time": "Sun, 16 Aug 2026 13:26:04 +0900"
     }
   ]
 }
