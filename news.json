@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-08-16 08:43",
+  "updated_at": "2026-08-16 10:05",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-15T21:27:32Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-15T21:27:32Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】飛騨地方では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-15T21:27:23Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１６日０９時３０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-16T00:33:30Z"
     },
     {
       "category": "news",
@@ -42,10 +28,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 長良川で水難事故相次ぐ 23歳の男性 計2人が溺れて死亡",
+      "text": "ホワイトソックス 村上宗隆 ツーベースヒット チームは2連勝",
       "source": "NHK",
-      "time": "Sat, 15 Aug 2026 23:48:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260815de44296/20260815de44296_E0000009611_1_l.jpg"
+      "time": "Sun, 16 Aug 2026 09:44:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44353/20260816de44353_E0000009682_1_l.jpg"
     },
     {
       "category": "news",
