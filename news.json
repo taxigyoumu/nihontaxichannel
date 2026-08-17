@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-17 19:28",
+  "updated_at": "2026-08-17 19:57",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１７日１９時３６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-17T10:40:41Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -20,18 +27,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 議長の辞職勧告決議案 採決行われず",
+      "text": "福岡県議会 議長の辞職勧告決議案 採決行われず 中止動議受け",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 17:07:00 +0900",
+      "time": "Mon, 17 Aug 2026 19:57:03 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44547/20260817de44547_E0000010440_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "4-6月のGDP 3期連続のプラスも「個人消費」はマイナスに",
-      "source": "NHK",
-      "time": "Mon, 17 Aug 2026 17:35:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44453/20260817de44453_E0000003649_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,6 +43,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "【動画】停電続く総合病院 電気設備がある地下に水が",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 19:33:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44640/20260817de44640_E0000010757_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "高市首相 都内の病院で手の検査など受ける",
       "source": "NHK",
       "time": "Mon, 17 Aug 2026 18:29:49 +0900",
@@ -52,16 +59,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ANAとJAL 国内線維持で協調へ 初のダイヤ調整",
+      "text": "東京高検検事長に松本裕氏が就任「フェアに捜査する姿勢を」",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 15:09:00 +0900"
+      "time": "Mon, 17 Aug 2026 19:51:44 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 大雨影響で放射性廃液漏れ出したか“環境への影響なし”",
+      "text": "ANAとJAL 国内線維持で協調へ 初のダイヤ調整",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 16:09:00 +0900"
+      "time": "Mon, 17 Aug 2026 15:09:00 +0900"
     }
   ]
 }
