@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 07:20",
+  "updated_at": "2026-08-18 07:49",
   "has_alert": true,
   "items": [
     {
@@ -23,6 +23,14 @@
       "source": "NHK",
       "time": "Tue, 18 Aug 2026 04:56:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44662/20260817de44662_E0000010830_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領 “北朝鮮 対話呼びかけに対し非常に前向き”",
+      "source": "NHK",
+      "time": "Tue, 18 Aug 2026 07:30:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44677/20260818de44677_E0000010847_1_l.jpg"
     },
     {
       "category": "news",
@@ -53,8 +61,7 @@
       "label": "ニュース",
       "text": "米大統領「急いでいない」イラン高官“不履行なら攻撃開始”",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 06:32:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44667/20260817de44667_E0000010836_1_l.jpg"
+      "time": "Tue, 18 Aug 2026 06:32:00 +0900"
     },
     {
       "category": "news",
@@ -62,13 +69,6 @@
       "text": "ガザ地区の和平計画 イスラエル首相がアメリカ側と協議",
       "source": "NHK",
       "time": "Tue, 18 Aug 2026 06:48:14 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "楽天グループ 迎撃ドローン開発手がけるドイツ新興企業と提携",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 06:41:13 +0900"
     }
   ]
 }
