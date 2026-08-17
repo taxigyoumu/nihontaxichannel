@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 06:22",
+  "updated_at": "2026-08-18 06:49",
   "has_alert": true,
   "items": [
     {
@@ -21,16 +21,8 @@
       "label": "ニュース",
       "text": "熊本地震から3週間 3000人以上避難所に 避難所以外支援も課題",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 04:56:13 +0900",
+      "time": "Tue, 18 Aug 2026 04:56:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44662/20260817de44662_E0000010830_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉豪雨 被災店舗の再開や農業被害対応など 生活再建が課題",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 04:51:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44659/20260817de44659_E0000010825_1_l.jpg"
     },
     {
       "category": "news",
@@ -43,32 +35,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネット証券各社 米取引時間拡大受け 米国株売買対応広げる方針",
+      "text": "ロシア外相“駐ロ日本大使呼び出し” 日本側“18日に応じる”",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 05:52:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44650/20260817de44650_E0000010821_1_l.jpg"
+      "time": "Tue, 18 Aug 2026 06:21:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44664/20260817de44664_E0000010837_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 活発な地震活動続く 猛烈な暑さも 熱中症対策を",
+      "text": "千葉豪雨 被災店舗の再開や農業被害対応など 生活再建が課題",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 06:13:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44675/20260818de44675_E0000010843_1_l.jpg"
+      "time": "Tue, 18 Aug 2026 04:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44659/20260817de44659_E0000010825_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 南九州道 八代南IC-田浦IC 18日朝から通行止め解除",
+      "text": "米大統領「急いでいない」イラン高官“不履行なら攻撃開始”",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 20:54:22 +0900"
+      "time": "Tue, 18 Aug 2026 06:32:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44667/20260817de44667_E0000010836_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 議長の辞職勧告決議案 採決行われず 中止動議受け",
+      "text": "米30年債利回り19年ぶり高水準 インフレ再加速へ警戒感",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 20:36:34 +0900"
+      "time": "Tue, 18 Aug 2026 06:29:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "楽天グループ 迎撃ドローン開発手がけるドイツ新興企業と提携",
+      "source": "NHK",
+      "time": "Tue, 18 Aug 2026 06:41:13 +0900"
     }
   ]
 }
