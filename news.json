@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-08-17 19:57",
-  "has_alert": true,
+  "updated_at": "2026-08-17 20:29",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１７日１９時３６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-17T10:40:41Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１７日１７時３４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-17T08:37:16Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉豪雨 死者10人 2人行方不明 千葉市で車約2500台路上に残る",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 19:09:45 +0900",
+      "time": "Mon, 17 Aug 2026 20:25:05 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009998_1_l.jpg"
     },
     {
@@ -59,9 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京高検検事長に松本裕氏が就任「フェアに捜査する姿勢を」",
+      "text": "熊本地震 自宅や車中での避難者 実態を県が自治体と把握へ",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 19:51:44 +0900"
+      "time": "Mon, 17 Aug 2026 20:08:43 +0900"
     },
     {
       "category": "news",
