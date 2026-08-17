@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-17 13:37",
-  "has_alert": true,
+  "updated_at": "2026-08-17 14:31",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１７日１２時０６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-17T03:11:44Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -16,14 +9,6 @@
       "source": "NHK",
       "time": "Mon, 17 Aug 2026 13:18:24 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009998_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 大網白里 豪雨で銀行も浸水被害 臨時のATM搭載車が対応",
-      "source": "NHK",
-      "time": "Mon, 17 Aug 2026 12:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44492/20260817de44492_E0000009995_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,6 +21,22 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "アメリカとイランの覚書形骸化 事態打開の糸口見いだせず",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 13:35:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44493/20260817de44493_E0000010094_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "4-6月のGDP 年率プラス1.1％ 3期連続のプラス",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 13:00:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44453/20260817de44453_E0000003649_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "長期金利 2.93％に上昇 インフレ加速の見方 背景に",
       "source": "NHK",
       "time": "Mon, 17 Aug 2026 12:56:22 +0900",
@@ -44,17 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 売り買い交錯で小幅な値動き",
+      "text": "熊本 氷川町 保育園・幼稚園 1日通した子どもの預かり一部再開",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 13:10:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44497/20260817de44497_E0000010015_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ大統領 米韓合同軍事演習“縮小を指示”",
-      "source": "NHK",
-      "time": "Mon, 17 Aug 2026 10:01:53 +0900"
+      "time": "Mon, 17 Aug 2026 13:11:12 +0900"
     },
     {
       "category": "news",
