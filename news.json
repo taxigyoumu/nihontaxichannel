@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 15:47",
+  "updated_at": "2026-08-17 16:50",
   "has_alert": true,
   "items": [
     {
@@ -26,14 +26,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本県 熊本地方で震度3 津波の心配なし",
-      "source": "NHK",
-      "time": "Mon, 17 Aug 2026 15:43:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44508/20260817de44508_E0000010331_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "千葉豪雨 死者10人 2人行方不明 千葉市で車約2500台路上に残る",
       "source": "NHK",
       "time": "Mon, 17 Aug 2026 15:44:42 +0900",
@@ -42,10 +34,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 各地で厳しい暑さ熱中症対策を 地震活動に引き続き注意",
+      "text": "千葉 大雨影響で放射性廃液漏れ出したか“環境への影響なし”",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 11:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44421/20260816de44421_E0000009881_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 16:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44556/20260817de44556_E0000010367_1_l.jpg"
     },
     {
       "category": "news",
@@ -58,10 +50,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 豪雨で浸水の被害の大網白里で災害ボランティア活動開始",
+      "text": "熊本 各地で厳しい暑さ熱中症対策を 地震活動に引き続き注意",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 15:11:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44492/20260817de44492_E0000010270_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 11:58:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44421/20260816de44421_E0000009881_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】熊本県八代市で震度3 津波の心配なし",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 15:53:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44508/20260817de44508_E0000010331_1_l.jpg"
     },
     {
       "category": "news",
