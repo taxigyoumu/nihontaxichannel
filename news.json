@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 06:49",
+  "updated_at": "2026-08-18 07:20",
   "has_alert": true,
   "items": [
     {
@@ -27,18 +27,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 夏の甲子園【大会13日目 準々決勝の見どころ】",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 04:44:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44652/20260817de44652_E0000010807_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "ロシア外相“駐ロ日本大使呼び出し” 日本側“18日に応じる”",
       "source": "NHK",
       "time": "Tue, 18 Aug 2026 06:21:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44664/20260817de44664_E0000010837_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高校野球 夏の甲子園【大会13日目 準々決勝の見どころ】",
+      "source": "NHK",
+      "time": "Tue, 18 Aug 2026 04:44:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44652/20260817de44652_E0000010807_1_l.jpg"
     },
     {
       "category": "news",
@@ -59,9 +59,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米30年債利回り19年ぶり高水準 インフレ再加速へ警戒感",
+      "text": "ガザ地区の和平計画 イスラエル首相がアメリカ側と協議",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 06:29:00 +0900"
+      "time": "Tue, 18 Aug 2026 06:48:14 +0900"
     },
     {
       "category": "news",
