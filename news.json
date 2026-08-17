@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-17 22:36",
+  "updated_at": "2026-08-17 23:23",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１７日２１時０７分ころ、地震がありました。",
+      "text": "【震源・震度情報】１７日２３時０９分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-17T12:09:45Z"
+      "time": "2026-08-17T14:11:59Z"
     },
     {
       "category": "news",
@@ -36,25 +36,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】停電続く総合病院 電気設備がある地下に水が",
+      "text": "東急世田谷線 遮断機が上がったまま列車が通過 けが人なし",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 19:33:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44640/20260817de44640_E0000010757_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 22:04:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44656/20260817de44656_E0000010816_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "インドネシア東部地震 独立記念日の式典で犠牲者に祈り",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 20:52:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44646/20260817de44646_E0000010806_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 20:52:02 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 自宅や車中での避難者 実態を県が自治体と把握へ",
+      "text": "韓国与党「共に民主党」代表にイ大統領の側近選出",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 20:08:43 +0900"
+      "time": "Mon, 17 Aug 2026 22:29:34 +0900"
     },
     {
       "category": "news",
