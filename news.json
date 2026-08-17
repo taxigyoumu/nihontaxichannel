@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-08-17 20:52",
-  "has_alert": false,
+  "updated_at": "2026-08-17 21:36",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１７日２１時０７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-17T12:09:45Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉豪雨 死者10人 2人行方不明 千葉市で車約2500台路上に残る",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 20:25:05 +0900",
+      "time": "Mon, 17 Aug 2026 21:31:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009998_1_l.jpg"
     },
     {
@@ -37,10 +44,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 都内の病院で手の検査など受ける",
+      "text": "インドネシア東部地震 独立記念日の式典で犠牲者に祈り",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 18:29:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44609/20260817de44609_E0000010620_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 20:52:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44646/20260817de44646_E0000010806_1_l.jpg"
     },
     {
       "category": "news",
