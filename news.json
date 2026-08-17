@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-17 20:29",
+  "updated_at": "2026-08-17 20:52",
   "has_alert": false,
   "items": [
     {
@@ -15,7 +15,7 @@
       "label": "ニュース",
       "text": "福岡県議会 議長の辞職勧告決議案 採決行われず 中止動議受け",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 19:57:03 +0900",
+      "time": "Mon, 17 Aug 2026 20:36:34 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44547/20260817de44547_E0000010440_1_l.jpg"
     },
     {
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ANAとJAL 国内線維持で協調へ 初のダイヤ調整",
+      "text": "ANAとJAL 国内線維持で協調へ 初のダイヤ調整 【Ｑ＆Ａ】",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 15:09:00 +0900"
+      "time": "Mon, 17 Aug 2026 20:50:07 +0900"
     }
   ]
 }
