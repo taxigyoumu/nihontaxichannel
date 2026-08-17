@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-08-17 14:31",
-  "has_alert": false,
+  "updated_at": "2026-08-17 15:47",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１７日１５時３９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-17T06:43:09Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう１７日１５時３９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-17T06:41:21Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１７日１５時３９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-17T06:40:40Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】熊本県 熊本地方で震度3 津波の心配なし",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 15:43:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44508/20260817de44508_E0000010331_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉豪雨 死者10人 2人行方不明 千葉市で車約2500台路上に残る",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 13:18:24 +0900",
+      "time": "Mon, 17 Aug 2026 15:44:42 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44428/20260816de44428_E0000009998_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 八代 緊急の「公費解体」開始 2次被害のおそれある建物",
+      "text": "熊本 各地で厳しい暑さ熱中症対策を 地震活動に引き続き注意",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 12:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44500/20260817de44500_E0000010064_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 11:58:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260816de44421/20260816de44421_E0000009881_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカとイランの覚書形骸化 事態打開の糸口見いだせず",
+      "text": "ANAとJAL 国内線維持で協調へ 初のダイヤ調整",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 13:35:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44493/20260817de44493_E0000010094_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 15:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44528/20260817de44528_E0000010228_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 豪雨で浸水の被害の大網白里で災害ボランティア活動開始",
+      "source": "NHK",
+      "time": "Mon, 17 Aug 2026 15:11:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44492/20260817de44492_E0000010270_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "4-6月のGDP 年率プラス1.1％ 3期連続のプラス",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 13:00:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44453/20260817de44453_E0000003649_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 13:00:17 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長期金利 2.93％に上昇 インフレ加速の見方 背景に",
+      "text": "トランプ大統領 米韓合同軍事演習“縮小を指示”",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 12:56:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44469/20260817de44469_E0000009950_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本 氷川町 保育園・幼稚園 1日通した子どもの預かり一部再開",
-      "source": "NHK",
-      "time": "Mon, 17 Aug 2026 13:11:12 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "九州道復旧受け 高速バス通常ルートで運行再開 熊本",
-      "source": "NHK",
-      "time": "Mon, 17 Aug 2026 13:15:08 +0900"
+      "time": "Mon, 17 Aug 2026 14:35:39 +0900"
     }
   ]
 }
