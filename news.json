@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 03:33",
+  "updated_at": "2026-08-18 04:25",
   "has_alert": false,
   "items": [
     {
@@ -29,10 +29,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東急世田谷線 遮断機が上がったまま列車が通過 けが人なし",
+      "text": "熊本地震 自宅や車中での避難者 実態を県が自治体と把握へ",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 22:04:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44656/20260817de44656_E0000010816_1_l.jpg"
+      "time": "Mon, 17 Aug 2026 20:08:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44611/20260817de44611_E0000010762_1_l.jpg"
     },
     {
       "category": "news",
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ANAとJAL 国内線維持で協調へ 初のダイヤ調整 【Ｑ＆Ａ】",
+      "text": "熊本 南九州道 八代南IC-田浦IC 18日朝から通行止め解除",
       "source": "NHK",
-      "time": "Mon, 17 Aug 2026 20:50:07 +0900"
+      "time": "Mon, 17 Aug 2026 20:54:22 +0900"
     }
   ]
 }
