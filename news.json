@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-08-18 13:31",
-  "has_alert": true,
+  "updated_at": "2026-08-18 14:24",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日１２時４２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-18T03:45:40Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "自衛隊の戦闘機 那覇空港滑走路上で停止 機体トラブルか",
+      "source": "NHK",
+      "time": "Tue, 18 Aug 2026 13:50:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44743/20260818de44743_E0000011159_1_l.jpg"
     },
     {
       "category": "news",
@@ -22,39 +23,31 @@
       "label": "ニュース",
       "text": "千葉豪雨 新たに1人の死亡確認 死者11人に 浸水被害は2140棟",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 12:53:36 +0900",
+      "time": "Tue, 18 Aug 2026 13:53:49 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44659/20260817de44659_E0000010825_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 天理が完封勝利でベスト4一番乗り",
+      "text": "【動画】ドジャース大谷2打席連続HR 6年連続30号にあと1本",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 12:24:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44680/20260818de44680_E0000010852_1_l.jpg"
+      "time": "Tue, 18 Aug 2026 14:01:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44698/20260818de44698_E0000010899_2_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高校野球 智弁和歌山が仙台育英をリード 5回終了時",
+      "source": "NHK",
+      "time": "Tue, 18 Aug 2026 13:34:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44681/20260818de44681_E0000010853_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ふるさと納税の牛肉産地不適正表示疑い 畜産会社元取締役逮捕",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 12:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44689/20260818de44689_E0000010866_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米クシュナー氏が中東訪問 ハマスの武装解除 早期進展に期待",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 12:32:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44683/20260818de44683_E0000010906_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース 大谷翔平 2打席連続HR 6年連続30号にあと1本",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 13:14:47 +0900"
+      "time": "Tue, 18 Aug 2026 12:06:00 +0900"
     },
     {
       "category": "news",
