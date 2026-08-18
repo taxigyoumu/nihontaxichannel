@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-18 18:28",
+  "updated_at": "2026-08-18 18:59",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１８日１８時３６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-18T09:38:32Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -27,10 +34,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "太平洋のクロマグロ漁獲枠 来年から2年間 大型魚25％増で合意",
+      "text": "高市首相 熊本地震で知事らと会談 地元の要望踏まえ支援策",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 17:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44751/20260818de44751_E0000011237_1_l.jpg"
+      "time": "Tue, 18 Aug 2026 15:57:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44728/20260818de44728_E0000011311_1_l.jpg"
     },
     {
       "category": "news",
@@ -43,9 +50,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 横浜が花巻東に勝利 ベスト4進出",
+      "text": "高校野球 横浜が花巻東に勝利 ベスト4へ エース織田翔希が完封",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 16:51:16 +0900",
+      "time": "Tue, 18 Aug 2026 18:32:50 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44767/20260818de44767_E0000011249_1_l.jpg"
     },
     {
