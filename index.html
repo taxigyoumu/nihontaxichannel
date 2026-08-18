@@ -13,20 +13,24 @@
     *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
 
     :root {
-      --bg-base:        #0D1117;
-      --bg-panel:       #161B27;
-      --bg-panel-hover: #1C2333;
-      --accent:         #F0B429;
-      --accent-dim:     #B98A1C;
-      --text-primary:   #E2E8F0;
-      --text-secondary: #94A3B8;
-      --border:         #2D3748;
+      --bg-base:        #D9E7F2;
+      --bg-panel:       #FFFFFF;
+      --bg-panel-hover: #EEF5FA;
+      --accent:         #C2660C;
+      --accent-dim:     #F3CC8F;
+      --text-primary:   #1E293B;
+      --text-secondary: #5B6B7C;
+      --border:         #B9CEE0;
       --header-h:       72px;
       --gap:            10px;
       --panel-radius:   10px;
       /* 年金支給日カラー */
-      --nenkin:         #10B981;
-      --nenkin-dim:     #065F46;
+      --nenkin:         #15803D;
+      --nenkin-dim:     #DCF3E4;
+      /* 明るいテーマ用の共通アクセント */
+      --info-blue:      #1453C4;
+      --danger-red:     #C81E2B;
+      --warn-gold:      #92600A;
     }
 
     html, body { width: 100vw; height: 100vh; overflow: hidden; background-color: var(--bg-base); font-family: 'Noto Sans JP', 'Hiragino Kaku Gothic Pro', sans-serif; color: var(--text-primary); }
@@ -35,13 +39,15 @@
 
     /* ヘッダー */
     #header {
-      flex-shrink: 0; height: var(--header-h); background: var(--bg-panel); border-radius: var(--panel-radius); border: 1px solid var(--border); display: flex; align-items: center; justify-content: space-between; padding: 0 24px; position: relative; overflow: hidden;
+      flex-shrink: 0; height: var(--header-h); background: var(--bg-panel); border-radius: var(--panel-radius); border: 2px solid var(--border); display: flex; align-items: center; justify-content: space-between; padding: 0 24px; position: relative; overflow: hidden; box-shadow: 0 1px 4px rgba(30,58,95,.08);
     }
-    #header::after { content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 3px; background: linear-gradient(90deg, transparent 0%, var(--accent-dim) 10%, var(--accent) 40%, var(--accent) 60%, var(--accent-dim) 90%, transparent 100%); }
+    #header::after { content: ''; position: absolute; bottom: 0; left: 0; width: 100%; height: 4px; background: linear-gradient(90deg, transparent 0%, var(--accent-dim) 8%, var(--accent) 35%, var(--info-blue) 65%, var(--accent-dim) 92%, transparent 100%); }
 
     .header-left { display: flex; align-items: center; gap: 14px; }
     .taxi-icon { font-size: 28px; line-height: 1; }
-    .header-title { font-size: 16px; font-weight: 500; color: var(--text-secondary); letter-spacing: 0.08em; }
+    .header-title-group { display: flex; flex-direction: column; gap: 2px; }
+    .header-tag { font-size: 10px; font-weight: 800; letter-spacing: 0.22em; color: var(--accent); }
+    .header-title { font-size: 19px; font-weight: 900; letter-spacing: 0.01em; color: var(--text-primary); line-height: 1.15; }
 
     #datetime-display { display: flex; align-items: baseline; gap: 16px; }
     #clock-date { font-size: 20px; font-weight: 400; color: var(--text-secondary); letter-spacing: 0.04em; }
@@ -63,29 +69,35 @@
     }
     @keyframes blink { 50% { opacity: 0; } }
     .nenkin-label { font-size: 13px; font-weight: 900; color: var(--nenkin); letter-spacing: 0.06em; }
-    .nenkin-sub   { font-size: 11px; color: #6EE7B7; }
+    .nenkin-sub   { font-size: 11px; color: var(--nenkin); }
 
     /* グリッド */
     #grid { flex: 1; display: grid; grid-template-columns: 1fr 1fr; grid-template-rows: 1fr 1fr; gap: var(--gap); min-height: 0; }
 
     /* 共通パネル */
-    .panel { background: var(--bg-panel); border: 1px solid var(--border); border-radius: var(--panel-radius); display: flex; flex-direction: column; overflow: hidden; position: relative; }
-    .panel-header { flex-shrink: 0; display: flex; align-items: center; gap: 10px; padding: 10px 16px; border-bottom: 1px solid var(--border); background: var(--bg-panel-hover); }
+    .panel { background: var(--bg-panel); border: 2px solid var(--border); border-radius: var(--panel-radius); display: flex; flex-direction: column; overflow: hidden; position: relative; box-shadow: 0 1px 4px rgba(30,58,95,.08); }
+    .panel-header { flex-shrink: 0; display: flex; align-items: center; gap: 10px; padding: 10px 16px; border-bottom: 3px solid var(--border); background: var(--bg-panel-hover); }
     .panel-icon { font-size: 18px; line-height: 1; }
     .panel-title { font-size: 14px; font-weight: 700; letter-spacing: 0.06em; color: var(--text-primary); }
     .panel-subtitle { font-size: 11px; color: var(--text-secondary); margin-left: auto; }
-    .panel-header::before { content: ''; display: block; width: 3px; height: 18px; background: var(--accent); border-radius: 2px; flex-shrink: 0; }
+    .panel-header::before { content: ''; display: block; width: 4px; height: 18px; background: var(--accent); border-radius: 2px; flex-shrink: 0; }
     .panel-body { flex: 1; position: relative; overflow: hidden; }
     .panel-body iframe { width: 100%; height: 100%; border: none; display: block; background: var(--bg-panel-hover); }
 
     /* 各パネルカラー */
-    #panel-weather .panel-header { border-bottom-color: #2A5A8A; }
-    #panel-weather .panel-header::before { background: #4A9EDB; }
-    #panel-traffic .panel-header { border-bottom-color: #3A5A2A; }
+    #panel-weather .panel-header { border-bottom-color: #2C7BC7; }
+    #panel-weather .panel-header::before { background: #2C7BC7; }
+    #panel-weather { border-color: #2C7BC7; }
+    #panel-traffic .panel-header { border-bottom-color: #D8ECD0; }
     #panel-traffic .panel-header::before { background: #6AB547; }
-    #panel-transit .panel-header { border-bottom-color: #0a4a32; }
+    #panel-news .panel-header { border-bottom-color: var(--info-blue); }
+    #panel-news .panel-header::before { background: var(--info-blue); }
+    #panel-news { border-color: var(--info-blue); }
+    #panel-transit .panel-header { border-bottom-color: var(--nenkin); }
     #panel-transit .panel-header::before { background: var(--nenkin); }
-    #panel-events .panel-header { border-bottom-color: #6A4A2A; }
+    #panel-transit { border-color: var(--nenkin); }
+    #panel-events .panel-header { border-bottom-color: var(--accent); }
+    #panel-events { border-color: var(--accent); }
     #panel-events .panel-header::before { background: var(--accent); }
 
     /* 左下：営業情報パネル内スタイル */
@@ -105,7 +117,7 @@
     .nenkin-panel-icon { font-size: 28px; flex-shrink: 0; }
     .nenkin-panel-text { flex: 1; }
     .nenkin-panel-title { font-size: 15px; font-weight: 900; color: var(--nenkin); letter-spacing: 0.06em; margin-bottom: 2px; }
-    .nenkin-panel-body  { font-size: 12px; color: #6EE7B7; line-height: 1.5; }
+    .nenkin-panel-body  { font-size: 12px; color: var(--nenkin); line-height: 1.5; }
 
     /* 需要スポットカード */
     .spot-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 6px; margin-bottom: 8px; }
@@ -115,7 +127,7 @@
     }
     .spot-label { font-size: 10px; color: var(--text-secondary); margin-bottom: 2px; }
     .spot-name  { font-size: 12px; font-weight: 700; color: var(--text-primary); }
-    .spot-note  { font-size: 10px; color: #6EE7B7; margin-top: 2px; }
+    .spot-note  { font-size: 10px; color: var(--nenkin); margin-top: 2px; }
 
     .info-card {
       background: var(--bg-panel-hover); border-radius: 6px; padding: 8px 12px; margin-bottom: 6px;
@@ -124,14 +136,14 @@
     .info-body  { font-size: 13px; line-height: 1.5; }
 
     .sales-card {
-      background: rgba(15,160,104,.1); border: 1px solid #0fa068; border-radius: 6px;
+      background: rgba(21,128,61,.08); border: 1px solid #0fa068; border-radius: 6px;
       padding: 8px 12px; margin-bottom: 6px;
     }
-    .sales-label { font-size: 11px; color: #40e0a8; font-weight: 700; margin-bottom: 2px; }
-    .sales-body  { font-size: 14px; font-weight: 700; line-height: 1.5; color: #fff; }
+    .sales-label { font-size: 11px; color: var(--nenkin); font-weight: 700; margin-bottom: 2px; }
+    .sales-body  { font-size: 14px; font-weight: 700; line-height: 1.5; color: var(--text-primary); }
 
     .ukai-card {
-      background: var(--bg-panel-hover); border-left: 4px solid #20d49c;
+      background: var(--bg-panel-hover); border-left: 4px solid #0fa068;
       border-radius: 6px; padding: 8px 12px; margin-bottom: 6px;
     }
     .ukai-label { font-size: 10px; color: var(--text-secondary); margin-bottom: 2px; }
@@ -144,8 +156,8 @@
     .zoom-btn:hover { background: var(--accent); color: #000; border-color: var(--accent); }
     /* 鉄道運行情報ボタン（赤系統で区別） */
     .train-btn {
-      background: rgba(220,60,60,0.12); border: 1px solid #c84444; border-radius: 8px;
-      color: #ffb0b0; font-size: 14px; font-weight: 700; padding: 10px;
+      background: rgba(220,60,60,0.08); border: 1px solid #c84444; border-radius: 8px;
+      color: var(--danger-red); font-size: 14px; font-weight: 700; padding: 10px;
       cursor: pointer; transition: all .2s; white-space: nowrap; font-family: inherit;
     }
     .train-btn:hover { background: #c84444; color: #fff; border-color: #c84444; }
@@ -171,7 +183,10 @@
   <header id="header">
     <div class="header-left">
       <span class="taxi-icon">🚕</span>
-      <span class="header-title">岐阜エリア ドライバー情報ダッシュボード</span>
+      <div class="header-title-group">
+        <span class="header-tag">GIFU AREA</span>
+        <span class="header-title">ドライバー情報ダッシュボード</span>
+      </div>
     </div>
 
     <!-- 年金支給日／イベント バナー（ヘッダー中央・日付連動） -->
@@ -219,7 +234,7 @@
         <div id="weather-qr" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;display:flex;flex-direction:column;align-items:center;justify-content:center;background:var(--bg-panel);padding:20px;gap:14px;">
           <div id="weather-qr-canvas" style="width:200px;height:200px;background:#fff;padding:10px;border-radius:12px;box-shadow:0 0 20px rgba(74,158,219,0.4);display:flex;align-items:center;justify-content:center;"></div>
           <div style="text-align:center;">
-            <div style="font-size:16px;font-weight:900;color:#4A9EDB;margin-bottom:10px;letter-spacing:0.04em;">📱 スマホでご覧いただけます</div>
+            <div style="font-size:16px;font-weight:900;color:var(--info-blue);margin-bottom:10px;letter-spacing:0.04em;">📱 スマホでご覧いただけます</div>
             <div style="font-size:13px;color:var(--text-primary);line-height:2;background:var(--bg-panel-hover);border-radius:8px;padding:10px 18px;border:1px solid var(--border);">
               QRコードを読み込んで下さい。<br>
               スマホで見ることができます。<br>
@@ -240,9 +255,9 @@
       <div class="panel-body" style="display:flex;flex-direction:column;overflow:hidden;">
 
         <!-- 警報ステータスバー -->
-        <div id="news-status" style="flex-shrink:0;padding:10px 16px;font-size:15px;font-weight:700;display:flex;align-items:center;gap:10px;background:rgba(32,212,156,.12);border-bottom:1px solid var(--border);">
+        <div id="news-status" style="flex-shrink:0;padding:10px 16px;font-size:15px;font-weight:700;display:flex;align-items:center;gap:10px;background:rgba(21,128,61,.08);border-bottom:1px solid var(--border);">
           <span id="news-status-icon" style="font-size:20px;">✅</span>
-          <span id="news-status-text" style="color:#40e0a8;">情報を読み込んでいます…</span>
+          <span id="news-status-text" style="color:var(--nenkin);">情報を読み込んでいます…</span>
         </div>
 
         <!-- メインニュース大表示（1件をフォーカス表示） -->
@@ -291,7 +306,7 @@
              style="position:absolute;inset:0;padding:12px;opacity:1;transition:opacity .5s ease;display:flex;flex-direction:column;">
 
           <!-- 現在時刻＋時間帯メッセージ -->
-          <div id="guide-nowbar" style="display:flex;align-items:center;gap:12px;background:linear-gradient(135deg,#0a4a32 0%,#20d49c 100%);border-radius:10px;padding:11px 16px;margin-bottom:10px;flex-shrink:0;">
+          <div id="guide-nowbar" style="display:flex;align-items:center;gap:12px;background:linear-gradient(135deg,#0F9D58 0%,#22B573 100%);border-radius:10px;padding:11px 16px;margin-bottom:10px;flex-shrink:0;">
             <div>
               <div id="guide-time" style="font-size:28px;font-weight:900;color:#fff;line-height:1;font-variant-numeric:tabular-nums;">--:--</div>
               <div id="guide-band" style="font-size:12px;color:#c8ffe8;font-weight:700;margin-top:3px;">時間帯を判定中…</div>
@@ -325,7 +340,7 @@
         <!-- ▼ ページ2：施設の人が出る時間 一覧 -->
         <div class="tr-page" data-icon="🕐" data-title="主要施設 人が出る時間" data-sub="②時間マップ ／ 自動切替"
              style="position:absolute;inset:0;padding:12px;overflow-y:auto;opacity:0;transition:opacity .5s ease;pointer-events:none;">
-          <div style="font-size:13px;color:#9ecbff;font-weight:900;margin-bottom:8px;letter-spacing:0.04em;">🕐 主要施設「人が出る時間」一覧</div>
+          <div style="font-size:13px;color:var(--info-blue);font-weight:900;margin-bottom:8px;letter-spacing:0.04em;">🕐 主要施設「人が出る時間」一覧</div>
           <div style="display:flex;flex-direction:column;gap:7px;">
             <div style="display:flex;align-items:center;gap:10px;background:var(--bg-panel-hover);border-radius:7px;padding:8px 12px;">
               <span style="font-size:18px;flex-shrink:0;">🏥</span>
@@ -374,9 +389,9 @@
           </div>
 
           <div class="sw-bar" style="margin-top:10px;">
-            <span id="sw-am" style="background:rgba(30,109,181,.25);color:#9ecbff;padding:3px 12px;border-radius:14px;font-size:13px;">読み込み中...</span>
-            <span id="sw-pm" style="background:rgba(30,109,181,.12);color:#6aa5d4;padding:3px 12px;border-radius:14px;font-size:13px;"></span>
-            <span id="sw-warn" style="display:none;background:rgba(230,0,18,.18);color:#ff9090;padding:3px 10px;border-radius:5px;font-size:12px;font-weight:700;">スリップ注意</span>
+            <span id="sw-am" style="background:rgba(20,83,196,.12);color:var(--info-blue);padding:3px 12px;border-radius:14px;font-size:13px;">読み込み中...</span>
+            <span id="sw-pm" style="background:rgba(20,83,196,.08);color:var(--info-blue);padding:3px 12px;border-radius:14px;font-size:13px;"></span>
+            <span id="sw-warn" style="display:none;background:rgba(200,30,43,.12);color:var(--danger-red);padding:3px 10px;border-radius:5px;font-size:12px;font-weight:700;">スリップ注意</span>
             <span id="sw-temp" style="margin-left:auto;color:var(--accent);font-size:15px;font-weight:700;"></span>
           </div>
 
@@ -396,7 +411,7 @@
 
           <div id="sw-ukai-wrap" class="ukai-card" style="margin-top:10px;">
             <div class="ukai-label">🎣 長良川鵜飼（5/11〜10/15）</div>
-            <div id="sw-ukai" style="font-size:13px;line-height:1.5;color:#7ee8c8;"></div>
+            <div id="sw-ukai" style="font-size:13px;line-height:1.5;color:var(--nenkin);"></div>
           </div>
         </div>
 
@@ -426,21 +441,21 @@
           <div style="display:grid;grid-template-columns:1fr 1fr 1fr;gap:7px;margin-bottom:8px;">
             <div style="background:var(--bg-panel-hover);border-radius:8px;padding:9px 12px;border-top:3px solid #E5342E;text-align:center;">
               <div style="font-size:10px;color:var(--text-secondary);margin-bottom:4px;">📅 日にち</div>
-              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;">6月21日<br><span style="font-size:12px;color:#ff9090;">（日曜日）</span></div>
+              <div style="font-size:15px;font-weight:900;color:var(--text-primary);line-height:1.3;">6月21日<br><span style="font-size:12px;color:var(--danger-red);">（日曜日）</span></div>
             </div>
             <div style="background:var(--bg-panel-hover);border-radius:8px;padding:9px 12px;border-top:3px solid var(--accent);text-align:center;">
               <div style="font-size:10px;color:var(--text-secondary);margin-bottom:4px;">⏰ 時 間</div>
-              <div style="font-size:13px;font-weight:900;color:#fff;line-height:1.5;">8:30 〜 17:00</div>
+              <div style="font-size:13px;font-weight:900;color:var(--text-primary);line-height:1.5;">8:30 〜 17:00</div>
             </div>
             <div style="background:var(--bg-panel-hover);border-radius:8px;padding:9px 12px;border-top:3px solid #4A9EDB;text-align:center;">
               <div style="font-size:10px;color:var(--text-secondary);margin-bottom:4px;">📍 場 所</div>
-              <div style="font-size:13px;font-weight:900;color:#fff;line-height:1.5;">東柳ヶ瀬<br>営業所</div>
+              <div style="font-size:13px;font-weight:900;color:var(--text-primary);line-height:1.5;">東柳ヶ瀬<br>営業所</div>
             </div>
           </div>
 
           <!-- 注意事項 -->
-          <div style="background:rgba(229,52,46,.12);border:1.5px solid #E5342E;border-radius:8px;padding:9px 14px;font-size:12.5px;line-height:1.7;color:var(--text-primary);">
-            ⚠️ <b style="color:#ff9090;">上記の時間帯は、東柳ヶ瀬営業所での待機・駐車はご遠慮ください。</b><br>
+          <div style="background:rgba(229,52,46,.10);border:1.5px solid #E5342E;border-radius:8px;padding:9px 14px;font-size:12.5px;line-height:1.7;color:var(--text-primary);">
+            ⚠️ <b style="color:var(--danger-red);">上記の時間帯は、東柳ヶ瀬営業所での待機・駐車はご遠慮ください。</b><br>
             ご不便をおかけしますが、ご協力をお願いいたします🙇‍♂️
           </div>
 
@@ -611,7 +626,7 @@ for(var i=0;i<65;i++){
               </tr>
               <tr style="border-top:1px solid var(--border);border-bottom:1px solid var(--border);">
                 <td style="padding:7px 10px;color:var(--accent);font-weight:700;vertical-align:top;">出発タイミング</td>
-                <td style="padding:7px 10px;color:var(--text-primary);">現場確認が済み次第、各車両は出発可。<strong style="color:#ff6b6b;">確認が取れないまま出発してはならない。</strong></td>
+                <td style="padding:7px 10px;color:var(--text-primary);">現場確認が済み次第、各車両は出発可。<strong style="color:var(--danger-red);">確認が取れないまま出発してはならない。</strong></td>
               </tr>
             </tbody>
           </table>
@@ -699,10 +714,10 @@ for(var i=0;i<65;i++){
         <!-- ⑥-1 8月度 事故多発 厳重注意（期間限定 2026/8/13〜8/18） -->
         <div class="ev-slot" id="ev-cau1" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 28px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:14px;">
           <span style="background:#e52020;color:#fff;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.06em;animation:blink 1.4s step-start infinite;">緊急注意喚起</span>
-          <div style="background:rgba(229,52,46,.14);border:2px solid #E5342E;border-radius:12px;padding:16px 40px;">
+          <div style="background:rgba(229,52,46,.1);border:2px solid #E5342E;border-radius:12px;padding:16px 40px;">
             <div style="font-size:13px;color:var(--text-secondary);">8月度 自責事故（7/21〜8/13）</div>
-            <div style="font-size:48px;font-weight:900;color:#ff5555;line-height:1.25;">13件</div>
-            <div style="font-size:14px;color:#ff9090;font-weight:700;">ものすごくハイペースです</div>
+            <div style="font-size:48px;font-weight:900;color:var(--danger-red);line-height:1.25;">13件</div>
+            <div style="font-size:14px;color:var(--danger-red);font-weight:700;">ものすごくハイペースです</div>
           </div>
           <div style="font-size:15px;font-weight:700;line-height:1.6;color:var(--text-primary);max-width:90%;">
             本当に注意して運転願います
@@ -713,12 +728,12 @@ for(var i=0;i<65;i++){
         <div class="ev-slot" id="ev-cau2" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;gap:12px;">
           <div style="display:flex;align-items:center;gap:8px;">
             <span style="background:#e5a600;color:#1a1200;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.04em;">岐阜県 警報発令中</span>
-            <span style="font-size:15px;color:#ffd966;font-weight:700;">交通死亡事故多発県内警報</span>
+            <span style="font-size:15px;color:var(--warn-gold);font-weight:700;">交通死亡事故多発県内警報</span>
           </div>
           <div style="font-size:14px;line-height:1.85;color:var(--text-primary);">
-            岐阜県交通安全対策協議会（会長：岐阜県知事）が発令（交協第10号・令和8年8月12日）。<b style="color:#ffd966;">7月12日〜8月10日の間に県内で交通死亡事故が10件10人発生</b>したことによるものです。
+            岐阜県交通安全対策協議会（会長：岐阜県知事）が発令（交協第10号・令和8年8月12日）。<b style="color:var(--warn-gold);">7月12日〜8月10日の間に県内で交通死亡事故が10件10人発生</b>したことによるものです。
           </div>
-          <div style="font-size:14px;color:var(--text-primary);">期間：<b style="color:#ffd966;">8月12日(水)〜8月26日(水)の15日間</b></div>
+          <div style="font-size:14px;color:var(--text-primary);">期間：<b style="color:var(--warn-gold);">8月12日(水)〜8月26日(水)の15日間</b></div>
           <div style="display:flex;gap:8px;">
             <div style="flex:1;background:var(--bg-panel-hover);border-radius:8px;padding:9px 6px;text-align:center;font-size:12.5px;color:var(--text-primary);">①高齢者の<br>事故防止</div>
             <div style="flex:1;background:var(--bg-panel-hover);border-radius:8px;padding:9px 6px;text-align:center;font-size:12.5px;color:var(--text-primary);">②歩行者・自転車の<br>事故防止</div>
@@ -728,7 +743,7 @@ for(var i=0;i<65;i++){
 
         <!-- ⑥-3 増える出歩き、増えるリスク -->
         <div class="ev-slot" id="ev-cau3" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;gap:16px;">
-          <div style="font-size:15px;font-weight:700;color:#ff9090;">人が多く出歩く時期です</div>
+          <div style="font-size:15px;font-weight:700;color:var(--danger-red);">人が多く出歩く時期です</div>
           <div style="display:grid;grid-template-columns:1fr 1fr;gap:10px;">
             <div style="background:var(--bg-panel-hover);border-radius:8px;padding:12px;text-align:center;">
               <div style="font-size:22px;">🏮</div>
@@ -742,23 +757,23 @@ for(var i=0;i<65;i++){
               <div style="font-size:22px;">🏖️</div>
               <div style="font-size:13px;font-weight:700;color:var(--text-primary);margin-top:4px;">子供が夏休み</div>
             </div>
-            <div style="background:rgba(16,185,129,.14);border:1px solid var(--nenkin);border-radius:8px;padding:12px;text-align:center;">
+            <div style="background:rgba(21,128,61,.1);border:1px solid var(--nenkin);border-radius:8px;padding:12px;text-align:center;">
               <div style="font-size:22px;">💰</div>
-              <div style="font-size:13px;font-weight:700;color:#6EE7B7;margin-top:4px;">8/14 年金支給日</div>
+              <div style="font-size:13px;font-weight:700;color:var(--nenkin);margin-top:4px;">8/14 年金支給日</div>
             </div>
           </div>
-          <div style="font-size:13.5px;line-height:1.7;color:var(--text-primary);"><b style="color:#9ecbff;">運収を見込めるチャンス</b>である一方、<b style="color:#ff9090;">事故のリスクも同じだけ高まっています。</b></div>
+          <div style="font-size:13.5px;line-height:1.7;color:var(--text-primary);"><b style="color:var(--info-blue);">運収を見込めるチャンス</b>である一方、<b style="color:var(--danger-red);">事故のリスクも同じだけ高まっています。</b></div>
         </div>
 
         <!-- ⑥-4 任意保険料について -->
         <div class="ev-slot" id="ev-cau4" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;align-items:center;text-align:center;gap:14px;">
-          <span style="font-size:15px;font-weight:700;color:#ffd966;">任意保険料について</span>
+          <span style="font-size:15px;font-weight:700;color:var(--warn-gold);">任意保険料について</span>
           <div style="font-size:14.5px;line-height:1.85;color:var(--text-primary);max-width:92%;">
             8月1日より、来年度の任意保険の算定期間に入りました。今年度は割引率が下がり、保険料が
           </div>
-          <div style="font-size:34px;font-weight:900;color:#ff5555;">3,000万円以上</div>
+          <div style="font-size:34px;font-weight:900;color:var(--danger-red);">3,000万円以上</div>
           <div style="font-size:14.5px;line-height:1.85;color:var(--text-primary);max-width:92%;">
-            増加することが決まっています。<b style="color:#ffd966;">事故を減らし割引率を取り戻すために大切な期間です。</b>
+            増加することが決まっています。<b style="color:var(--warn-gold);">事故を減らし割引率を取り戻すために大切な期間です。</b>
           </div>
         </div>
 
@@ -766,20 +781,20 @@ for(var i=0;i<65;i++){
         <div class="ev-slot" id="ev-jiko1" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;gap:14px;">
           <div style="display:flex;align-items:center;gap:8px;">
             <span style="background:#e52020;color:#fff;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.06em;">実際の事故</span>
-            <span style="font-size:14px;color:#ff9090;font-weight:700;">8月12日 岐阜市古市場</span>
+            <span style="font-size:14px;color:var(--danger-red);font-weight:700;">8月12日 岐阜市古市場</span>
           </div>
           <div style="font-size:20px;font-weight:900;color:var(--text-primary);">出会い頭の衝突事故</div>
           <div style="font-size:14.5px;line-height:1.9;color:var(--text-primary);">
-            相手方は<b style="color:#ffd966;">92歳の運転手</b>と<b style="color:#ffd966;">助手席の85歳の方</b>で、お二人とも救急搬送されました。
+            相手方は<b style="color:var(--warn-gold);">92歳の運転手</b>と<b style="color:var(--warn-gold);">助手席の85歳の方</b>で、お二人とも救急搬送されました。
           </div>
-          <div style="font-size:15px;font-weight:700;color:#ff9090;">相手の動きに不審な点が多い事故ですが、決して他人事ではありません。十分に注意してください。</div>
+          <div style="font-size:15px;font-weight:700;color:var(--danger-red);">相手の動きに不審な点が多い事故ですが、決して他人事ではありません。十分に注意してください。</div>
         </div>
 
         <!-- ⑦-2 事故現場の写真 -->
         <div class="ev-slot" id="ev-jiko2" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:16px 20px;display:flex;flex-direction:column;gap:8px;">
           <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
             <span style="background:#e52020;color:#fff;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.06em;">現場写真</span>
-            <span style="font-size:13px;color:#ff9090;font-weight:700;">8月12日 岐阜市古市場の事故</span>
+            <span style="font-size:13px;color:var(--danger-red);font-weight:700;">8月12日 岐阜市古市場の事故</span>
           </div>
           <div style="display:grid;grid-template-columns:repeat(3,1fr);gap:8px;flex:1;min-height:0;">
             <img src="jiko0812_1.jpg" alt="8月12日事故 現場写真1" style="width:100%;height:100%;object-fit:cover;border-radius:8px;border:1px solid var(--border);">
@@ -790,9 +805,9 @@ for(var i=0;i<65;i++){
 
         <!-- ⑦-3 ドライブレコーダー点検のお願い -->
         <div class="ev-slot" id="ev-jiko3" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:22px 30px;display:flex;flex-direction:column;justify-content:center;gap:14px;">
-          <div style="font-size:15px;font-weight:700;color:#ff9090;">🎥 ドライブレコーダーの点検をお願いします</div>
+          <div style="font-size:15px;font-weight:700;color:var(--danger-red);">🎥 ドライブレコーダーの点検をお願いします</div>
           <div style="font-size:14px;line-height:1.85;color:var(--text-primary);">
-            今回の事故では<b style="color:#ff9090;">ドライブレコーダーの映像が抽出できませんでした。</b>各所長へ点検の通達を行っています。各ドライバーも下記を点検してください。
+            今回の事故では<b style="color:var(--danger-red);">ドライブレコーダーの映像が抽出できませんでした。</b>各所長へ点検の通達を行っています。各ドライバーも下記を点検してください。
           </div>
           <div style="display:flex;flex-direction:column;gap:10px;">
             <div style="background:var(--bg-panel-hover);border-radius:8px;padding:11px 14px;font-size:13.5px;color:var(--text-primary);border-left:3px solid var(--accent);">異常ランプが点灯（転倒表示）していないか</div>
@@ -805,18 +820,18 @@ for(var i=0;i<65;i++){
           <div style="flex:1.15;min-width:0;display:flex;flex-direction:column;gap:10px;overflow-y:auto;">
             <div style="display:flex;align-items:center;gap:8px;flex-shrink:0;">
               <span style="background:#e5a600;color:#1a1200;font-size:12px;font-weight:900;padding:4px 12px;border-radius:4px;letter-spacing:.04em;">注意喚起</span>
-              <span style="font-size:14px;color:#ffd966;font-weight:700;">道路交通法令違反通知書</span>
+              <span style="font-size:14px;color:var(--warn-gold);font-weight:700;">道路交通法令違反通知書</span>
             </div>
             <div style="font-size:13px;line-height:1.85;color:var(--text-primary);">
-              皆さんが違反を犯すと、岐阜中警察署から会社宛に通知書が届くことがあります。違反件数の節目で発送されているようですが、警察署からは<b style="color:#ffd966;">「日タクさん、最近違反件数が多いですよ」</b>と直接ご指摘を受けました。
+              皆さんが違反を犯すと、岐阜中警察署から会社宛に通知書が届くことがあります。違反件数の節目で発送されているようですが、警察署からは<b style="color:var(--warn-gold);">「日タクさん、最近違反件数が多いですよ」</b>と直接ご指摘を受けました。
             </div>
             <div style="font-size:13px;line-height:1.85;color:var(--text-primary);">
-              交通違反は皆さん個人に行政処分がいきますが、<b style="color:#ffd966;">運行管理の上で会社も把握することが法令で義務付けられています。</b>違反をしたら必ず報告してください。
+              交通違反は皆さん個人に行政処分がいきますが、<b style="color:var(--warn-gold);">運行管理の上で会社も把握することが法令で義務付けられています。</b>違反をしたら必ず報告してください。
             </div>
-            <div style="background:rgba(229,166,0,.14);border-left:3px solid #e5a600;border-radius:0 8px 8px 0;padding:10px 14px;font-size:13.5px;font-weight:700;line-height:1.8;color:#fff;">
+            <div style="background:rgba(229,166,0,.14);border-left:3px solid #e5a600;border-radius:0 8px 8px 0;padding:10px 14px;font-size:13.5px;font-weight:700;line-height:1.8;color:var(--text-primary);">
               「これくらいは」「たいしたことないだろう」<br>この油断が、大きな事故に発展します。
             </div>
-            <div style="font-size:13.5px;font-weight:700;color:#ff9090;">交通ルールを守ることと、事故防止は密接な関係にあります。気を引き締めてお願いします。</div>
+            <div style="font-size:13.5px;font-weight:700;color:var(--danger-red);">交通ルールを守ることと、事故防止は密接な関係にあります。気を引き締めてお願いします。</div>
           </div>
           <div style="flex:0.85;min-width:0;display:flex;flex-direction:column;align-items:center;justify-content:center;gap:6px;">
             <img src="ihan_tsuchi_202607.jpg" alt="道路交通法令違反通知書（氏名・住所は伏せています）"
@@ -934,22 +949,22 @@ for(var i=0;i<65;i++){
       if (_isPension) {
         // ===== 年金支給日モード =====
         document.getElementById("sw-am-desc").innerHTML = hasRain
-          ? '☔ 雨天でも<b style="color:#10B981">年金支給日の外出需要は底堅い</b>。銀行・郵便局への送迎が中心。迎車・予約対応を優先して'
-          : '<b style="color:#10B981">年金受け取り後の買い物・通院</b>が集中する時間帯。岐阜市民病院・十六銀行・ゆうちょ周辺を重点巡回';
+          ? '☔ 雨天でも<b style="color:var(--nenkin)">年金支給日の外出需要は底堅い</b>。銀行・郵便局への送迎が中心。迎車・予約対応を優先して'
+          : '<b style="color:var(--nenkin)">年金受け取り後の買い物・通院</b>が集中する時間帯。岐阜市民病院・十六銀行・ゆうちょ周辺を重点巡回';
         document.getElementById("sw-pm-desc").innerHTML = hasRain
-          ? '💧 雨天＋年金支給日の相乗効果で<b style="color:var(--accent)">夕方の迎車需要が急増</b>の可能性。<b style="color:#ff9090">路面スリップに警戒！</b>'
-          : '<b style="color:#10B981">外食・夕食の買い出し需要</b>が加わる夕方帯を狙う。柳ヶ瀬・マーサ21周辺でのスタンバイを推奨';
+          ? '💧 雨天＋年金支給日の相乗効果で<b style="color:var(--accent)">夕方の迎車需要が急増</b>の可能性。<b style="color:var(--danger-red)">路面スリップに警戒！</b>'
+          : '<b style="color:var(--nenkin)">外食・夕食の買い出し需要</b>が加わる夕方帯を狙う。柳ヶ瀬・マーサ21周辺でのスタンバイを推奨';
         document.getElementById("sw-sales").textContent = hasRain
           ? "「今日は年金日＋雨天のダブル需要！お足元が悪い日こそ、お年寄りのそばに寄り添う営業を」"
           : "「年金日は高齢者の足になるチャンス。急がず安全運転で、また乗ってもらえる信頼を築こう！」";
       } else {
         // ===== 通常モード =====
         document.getElementById("sw-am-desc").innerHTML = hasRain
-          ? '☔ 雨天は迎車需要が増加。<b style="color:#9ecbff">通院・買い物の送迎</b>が中心。岐阜市民病院・主要商業施設周辺に注目'
-          : '通院・買い物の通常需要が中心。<b style="color:#9ecbff">岐阜市民病院・メモリアルセンター周辺</b>を巡回';
+          ? '☔ 雨天は迎車需要が増加。<b style="color:var(--info-blue)">通院・買い物の送迎</b>が中心。岐阜市民病院・主要商業施設周辺に注目'
+          : '通院・買い物の通常需要が中心。<b style="color:var(--info-blue)">岐阜市民病院・メモリアルセンター周辺</b>を巡回';
         document.getElementById("sw-pm-desc").innerHTML = hasRain
-          ? '💧 雨天で<b style="color:var(--accent)">夕方の迎車需要が増加</b>の可能性。<b style="color:#ff9090">路面スリップに警戒！</b>'
-          : '夕方の通勤・買い物帰り需要に備えて、<b style="color:#9ecbff">マーサ21・柳ヶ瀬</b>周辺の主要待機所でスタンバイを';
+          ? '💧 雨天で<b style="color:var(--accent)">夕方の迎車需要が増加</b>の可能性。<b style="color:var(--danger-red)">路面スリップに警戒！</b>'
+          : '夕方の通勤・買い物帰り需要に備えて、<b style="color:var(--info-blue)">マーサ21・柳ヶ瀬</b>周辺の主要待機所でスタンバイを';
         document.getElementById("sw-sales").textContent = hasRain
           ? "「雨の日こそ、丁寧な接客が次の予約につながります。安全運転で今日も一期一会を」"
           : "「笑顔の挨拶が次の予約につながります。今日も一期一会の接客を！」";
@@ -1250,8 +1265,8 @@ for(var i=0;i<65;i++){
 
   var RANK_STYLE = {
     hot:    { label:'🔥 今の狙い目', bg:'rgba(229,52,46,.08)',  border:'#E5342E', rankBg:'#E5342E', rankColor:'#fff' },
-    good:   { label:'◎ 好機',        bg:'rgba(32,212,156,.08)', border:'#20d49c', rankBg:'#20d49c', rankColor:'#06281d' },
-    normal: { label:'○ 通常で狙う',  bg:'var(--bg-panel-hover)',border:'#2D3748', rankBg:'#475569', rankColor:'#fff' }
+    good:   { label:'◎ 好機',        bg:'rgba(15,157,88,.08)',  border:'#0F9D58', rankBg:'#0F9D58', rankColor:'#fff' },
+    normal: { label:'○ 通常で狙う',  bg:'var(--bg-panel-hover)',border:'#CBD9E3', rankBg:'#5B6B7C', rankColor:'#fff' }
   };
 
   function currentBand(){
@@ -1323,12 +1338,12 @@ for(var i=0;i<65;i++){
       if(banner){ banner.style.background='linear-gradient(135deg, rgba(16,185,129,0.18) 0%, rgba(16,185,129,0.06) 100%)'; banner.style.borderColor='var(--nenkin)'; }
       if(icon)  icon.textContent = '💴';
       if(title){ title.textContent = '🏦 本日は年金支給日（偶数月15日）'; title.style.color='var(--nenkin)'; }
-      if(body)  body.innerHTML = '<strong style="color:#fff;">2か月分</strong>がまとめて支給される日。手元資金に余裕が出るため、銀行・郵便局・スーパー周辺で<strong style="color:#fff;">終日の需要増</strong>を予測。<br>特に <strong style="color:#fff;">9〜12時・14〜17時</strong> の高齢者の外出が集中。少し遠方の買い物・通院・外食の足にも積極営業を！';
+      if(body)  body.innerHTML = '<strong style="color:var(--nenkin);">2か月分</strong>がまとめて支給される日。手元資金に余裕が出るため、銀行・郵便局・スーパー周辺で<strong style="color:var(--nenkin);">終日の需要増</strong>を予測。<br>特に <strong style="color:var(--nenkin);">9〜12時・14〜17時</strong> の高齢者の外出が集中。少し遠方の買い物・通院・外食の足にも積極営業を！';
       if(spotTitle) spotTitle.textContent = '📍 年金支給日 重点エリア（時間帯別）';
     } else {
       if(banner){ banner.style.background='linear-gradient(135deg, rgba(74,158,219,0.16) 0%, rgba(74,158,219,0.05) 100%)'; banner.style.borderColor='#4A9EDB'; }
       if(icon)  icon.textContent = '🚕';
-      if(title){ title.textContent = '本日の営業情報'; title.style.color='#9ecbff'; }
+      if(title){ title.textContent = '本日の営業情報'; title.style.color='var(--info-blue)'; }
       if(body)  body.innerHTML = '通院・買い物・通勤の通常需要が中心。<br>天気と時間帯に応じて、主要待機所でこまめにスタンバイを。';
       if(spotTitle) spotTitle.textContent = '📍 主要 需要エリア（時間帯別）';
     }
@@ -1347,14 +1362,14 @@ for(var i=0;i<65;i++){
       badge.style.borderColor = 'var(--nenkin)';
       if(bIcon) bIcon.textContent = '💴';
       if(bTitle){ bTitle.textContent = '🏦 年金支給日'; bTitle.style.color = 'var(--nenkin)'; }
-      if(bSub){ bSub.textContent = '2か月分支給・需要増 → 積極営業'; bSub.style.color = '#6EE7B7'; }
+      if(bSub){ bSub.textContent = '2か月分支給・需要増 → 積極営業'; bSub.style.color = 'var(--nenkin)'; }
     } else if(hasEvent){
       badge.style.display = 'flex';
-      badge.style.background = 'linear-gradient(135deg, rgba(20,83,196,0.25) 0%, rgba(200,16,46,0.18) 100%)';
+      badge.style.background = 'linear-gradient(135deg, rgba(20,83,196,0.14) 0%, rgba(200,16,46,0.1) 100%)';
       badge.style.borderColor = '#E5342E';
       if(bIcon) bIcon.textContent = '📣';
-      if(bTitle){ bTitle.textContent = eventTitle || 'イベント開催'; bTitle.style.color = '#ffd966'; }
-      if(bSub){ bSub.textContent = eventSpot ? (eventSpot + 'をご利用ください') : '需要増 → 積極営業推奨'; bSub.style.color = '#cfe0ff'; }
+      if(bTitle){ bTitle.textContent = eventTitle || 'イベント開催'; bTitle.style.color = 'var(--warn-gold)'; }
+      if(bSub){ bSub.textContent = eventSpot ? (eventSpot + 'をご利用ください') : '需要増 → 積極営業推奨'; bSub.style.color = 'var(--info-blue)'; }
     } else {
       badge.style.display = 'none';
     }
@@ -1388,22 +1403,22 @@ for(var i=0;i<65;i++){
 
     // 乗り場変更の警告（前半 or 全部）
     if(ev.taxiChange && showFront){
-      html += '<div style="background:rgba(229,52,46,.14);border:2px solid #E5342E;border-radius:10px;padding:14px 16px;margin-top:10px;">';
-      html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;"><span style="font-size:22px;">🚕</span><span style="font-size:16px;font-weight:900;color:#ff9090;letter-spacing:0.04em;">⚠ タクシー乗り場が変更になります</span></div>';
+      html += '<div style="background:rgba(229,52,46,.08);border:2px solid #E5342E;border-radius:10px;padding:14px 16px;margin-top:10px;">';
+      html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:8px;"><span style="font-size:22px;">🚕</span><span style="font-size:16px;font-weight:900;color:var(--danger-red);letter-spacing:0.04em;">⚠ タクシー乗り場が変更になります</span></div>';
       html += '<div style="display:flex;align-items:center;gap:14px;justify-content:center;padding:6px 0;">';
       html += '<div style="text-align:center;opacity:0.6;"><div style="font-size:11px;color:var(--text-secondary);">通常</div><div style="font-size:17px;font-weight:900;color:var(--text-secondary);text-decoration:line-through;">'+(ev.normalSpot||'通常乗り場')+'</div></div>';
       html += '<div style="font-size:26px;color:var(--accent);">➡</div>';
-      html += '<div style="text-align:center;"><div style="font-size:11px;color:#ffd966;font-weight:700;">本日</div><div style="font-size:22px;font-weight:900;color:#fff;background:#E5342E;padding:4px 16px;border-radius:8px;">'+(ev.specialSpot||'臨時乗り場')+'</div></div>';
+      html += '<div style="text-align:center;"><div style="font-size:11px;color:var(--warn-gold);font-weight:700;">本日</div><div style="font-size:22px;font-weight:900;color:#fff;background:#E5342E;padding:4px 16px;border-radius:8px;">'+(ev.specialSpot||'臨時乗り場')+'</div></div>';
       html += '</div>';
-      html += '<div style="font-size:12.5px;color:#ffd0ce;line-height:1.5;margin-top:8px;text-align:center;">本日は<strong style="color:#fff;">'+(ev.specialSpot||'臨時乗り場')+'</strong>をご利用ください。'+(ev.normalSpot||'通常乗り場')+'は使用しません。</div>';
+      html += '<div style="font-size:12.5px;color:var(--danger-red);line-height:1.5;margin-top:8px;text-align:center;">本日は<strong style="color:var(--danger-red);">'+(ev.specialSpot||'臨時乗り場')+'</strong>をご利用ください。'+(ev.normalSpot||'通常乗り場')+'は使用しません。</div>';
       html += '</div>';
     }
 
     // GOアプリ 注意事項（後半 or 全部）
     if(ev.goWarning && showBack){
-      html += '<div style="background:rgba(240,180,41,.14);border:2px solid var(--accent);border-radius:10px;padding:12px 16px;margin-top:10px;">';
+      html += '<div style="background:rgba(240,180,41,.1);border:2px solid var(--accent);border-radius:10px;padding:12px 16px;margin-top:10px;">';
       html += '<div style="display:flex;align-items:center;gap:8px;margin-bottom:6px;"><span style="font-size:20px;">📱</span><span style="font-size:15px;font-weight:900;color:var(--accent);letter-spacing:0.03em;">⚠ GOアプリ 配車にご注意</span></div>';
-      html += '<div style="font-size:12.5px;color:#ffe6b0;line-height:1.6;">'+ev.goWarning+'</div>';
+      html += '<div style="font-size:12.5px;color:var(--warn-gold);line-height:1.6;">'+ev.goWarning+'</div>';
       html += '</div>';
     }
 
@@ -1591,24 +1606,24 @@ for(var i=0;i<65;i++){
 
   // カテゴリ別の色・ラベル
   var STYLE = {
-    weather: { color:'#F0B429', bg:'rgba(240,180,41,.15)', text:'#F0B429', label:'⚠ 気象警報', icon:'⚠️' },
-    quake:   { color:'#F87171', bg:'rgba(239,68,68,.15)',  text:'#F87171', label:'🔴 地震情報', icon:'🔴' },
-    news:    { color:'#4A9EDB', bg:'rgba(74,158,219,.12)', text:'#9ecbff', label:'ニュース',    icon:'📰' },
-    info:    { color:'#94A3B8', bg:'rgba(148,163,184,.1)', text:'#94A3B8', label:'情報',        icon:'📰' }
+    weather: { color:'#F0B429', bg:'rgba(240,180,41,.15)', text:'#92600A', label:'⚠ 気象警報', icon:'⚠️' },
+    quake:   { color:'#F87171', bg:'rgba(239,68,68,.15)',  text:'#C81E2B', label:'🔴 地震情報', icon:'🔴' },
+    news:    { color:'#1453C4', bg:'rgba(20,83,196,.1)',   text:'#1453C4', label:'ニュース',    icon:'📰' },
+    info:    { color:'#5B6B7C', bg:'rgba(91,107,124,.1)',  text:'#5B6B7C', label:'情報',        icon:'📰' }
   };
 
   function applyStatus(data){
     if(data.has_alert){
       // 警報あり → 赤系で強調
-      elStatus.style.background = 'rgba(239,68,68,.18)';
+      elStatus.style.background = 'rgba(239,68,68,.1)';
       elStatusIcon.textContent = '🚨';
       elStatusText.textContent = '発表中の警報・注意報があります';
-      elStatusText.style.color = '#ff9090';
+      elStatusText.style.color = '#C81E2B';
     } else {
-      elStatus.style.background = 'rgba(32,212,156,.12)';
+      elStatus.style.background = 'rgba(21,128,61,.08)';
       elStatusIcon.textContent = '✅';
       elStatusText.textContent = '岐阜県内に発表中の気象警報・地震情報はありません';
-      elStatusText.style.color = '#40e0a8';
+      elStatusText.style.color = '#15803D';
     }
   }
 
@@ -1657,7 +1672,7 @@ for(var i=0;i<65;i++){
       .catch(function(e){
         elStatusIcon.textContent = '⚠️';
         elStatusText.textContent = 'ニュース情報を取得できませんでした';
-        elStatusText.style.color = '#94A3B8';
+        elStatusText.style.color = 'var(--text-secondary)';
         items = [{ category:'info', text:'news.json を読み込めません。GitHubのActionsが実行済みかご確認ください。', source:'', category:'info' }];
         showItem(0);
       });
