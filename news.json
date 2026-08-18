@@ -1,13 +1,29 @@
 {
-  "updated_at": "2026-08-19 05:48",
+  "updated_at": "2026-08-19 06:20",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "西日本中心に気温上昇 危険な暑さに 東北は土砂災害など注意",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 06:16:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44906/20260818de44906_E0000011929_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 19日は熊本市で38度危険な暑さに 地震活動にも注意を",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 06:09:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44909/20260818de44909_E0000011920_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "千葉豪雨 死者13人 浸水2300棟超 路上の車両きょう移動完了へ",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 05:11:08 +0900",
+      "time": "Wed, 19 Aug 2026 05:11:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44911/20260818de44911_E0000011896_1_l.jpg"
     },
     {
@@ -21,33 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 八代市 7月28日の地震直後から出していた避難指示を解除",
+      "text": "トランプ大統領「協議行われていない」イランも強気姿勢を維持",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 21:01:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44879/20260818de44879_E0000004035_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震受け 全国の工場など煙突の状況を調査開始 金子国交相",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 21:50:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44895/20260818de44895_E0000011865_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 06:08:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44908/20260818de44908_E0000011914_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "秋篠宮ご夫妻 パラグアイに向けて出発",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 22:43:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44900/20260818de44900_E0000011874_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 局所的に今の耐震基準でも倒壊するほどの揺れか",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 19:14:00 +0900"
+      "time": "Tue, 18 Aug 2026 22:43:36 +0900"
     },
     {
       "category": "news",
