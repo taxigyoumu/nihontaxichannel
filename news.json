@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-18 17:32",
+  "updated_at": "2026-08-18 18:28",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１８日１７時５６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-18T08:59:45Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -14,16 +21,16 @@
       "label": "ニュース",
       "text": "千葉豪雨 新たに2人の死亡確認 死者13人に 浸水被害は2314棟",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 17:17:15 +0900",
+      "time": "Tue, 18 Aug 2026 18:13:07 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44659/20260817de44659_E0000011297_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ANAとJALが初のダイヤ調整を正式発表",
+      "text": "太平洋のクロマグロ漁獲枠 来年から2年間 大型魚25％増で合意",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 16:12:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44794/20260818de44794_E0000010228_1_l.jpg"
+      "time": "Tue, 18 Aug 2026 17:37:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44751/20260818de44751_E0000011237_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,10 +51,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "作曲家 久石譲さんの公演 3つの「ギネス世界記録」に認定",
+      "text": "千葉豪雨で乗客死亡 国交省が全国のタクシー会社などに通知",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 17:07:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44723/20260818de44723_E0000011102_1_l.jpg"
+      "time": "Tue, 18 Aug 2026 17:34:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44818/20260818de44818_E0000011516_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米国産ジャガイモ輸入解禁“容認できず”JA北海道中央会",
+      "source": "NHK",
+      "time": "Tue, 18 Aug 2026 17:48:00 +0900"
     },
     {
       "category": "news",
@@ -55,13 +69,6 @@
       "text": "お笑い 「四千頭身」メンバー 迷惑防止条例違反などで書類送検",
       "source": "NHK",
       "time": "Tue, 18 Aug 2026 17:24:43 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【動画】ドジャース大谷2打席連続HR 6年連続30号にあと1本",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 17:27:03 +0900"
     }
   ]
 }
