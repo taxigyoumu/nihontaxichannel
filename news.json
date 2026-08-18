@@ -1,7 +1,57 @@
 {
-  "updated_at": "2026-08-19 06:46",
-  "has_alert": false,
+  "updated_at": "2026-08-19 07:18",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-18T22:14:55Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-18T22:14:55Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】飛騨地方では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-18T22:14:45Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１９日０７時１０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-18T22:14:32Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう１９日０７時１０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-18T22:13:17Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１９日０７時１０分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-18T22:12:19Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】熊本で震度3",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 07:14:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44913/20260818de44913_E0000011934_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -39,8 +89,7 @@
       "label": "ニュース",
       "text": "米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 02:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44920/20260819de44920_E0000011902_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 02:46:00 +0900"
     },
     {
       "category": "news",
@@ -48,13 +97,6 @@
       "text": "秋篠宮ご夫妻 パラグアイに向けて出発",
       "source": "NHK",
       "time": "Tue, 18 Aug 2026 22:43:36 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高市首相 熊本地震で知事らと会談 地元の要望踏まえ支援策",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 21:28:20 +0900"
     }
   ]
 }
