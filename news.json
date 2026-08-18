@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-08-18 10:01",
-  "has_alert": true,
+  "updated_at": "2026-08-18 11:34",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日０９時５４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-18T00:57:01Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日０８時２１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-17T23:24:08Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本地震から3週間 3000人以上避難所に 避難所以外支援も課題",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 04:56:00 +0900",
+      "time": "Tue, 18 Aug 2026 11:10:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44662/20260817de44662_E0000010830_1_l.jpg"
     },
     {
@@ -66,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "楽天グループ 迎撃ドローン開発手がけるドイツ新興企業と提携",
+      "text": "高校野球 天理が三重に勝利 ベスト4進出",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 06:41:13 +0900"
+      "time": "Tue, 18 Aug 2026 09:31:00 +0900"
     }
   ]
 }
