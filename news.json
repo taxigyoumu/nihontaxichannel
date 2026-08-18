@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 18:59",
+  "updated_at": "2026-08-18 19:36",
   "has_alert": true,
   "items": [
     {
@@ -28,8 +28,16 @@
       "label": "ニュース",
       "text": "千葉豪雨 新たに2人の死亡確認 死者13人に 浸水被害は2314棟",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 18:13:07 +0900",
+      "time": "Tue, 18 Aug 2026 19:04:47 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260817de44659/20260817de44659_E0000011297_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 局所的に今の耐震基準でも倒壊するほどの揺れか",
+      "source": "NHK",
+      "time": "Tue, 18 Aug 2026 19:14:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44700/20260818de44700_E0000011722_1_l.jpg"
     },
     {
       "category": "news",
@@ -42,6 +50,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "ロシア外務省が日本大使に抗議 日本大使館「立場 適切に説明」",
+      "source": "NHK",
+      "time": "Tue, 18 Aug 2026 19:23:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44873/20260818de44873_E0000011771_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "自衛隊の戦闘機 那覇空港滑走路上で停止 トラブルか",
       "source": "NHK",
       "time": "Tue, 18 Aug 2026 16:27:02 +0900",
@@ -50,32 +66,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 横浜が花巻東に勝利 ベスト4へ エース織田翔希が完封",
+      "text": "高校野球 健大高崎が有明に延長の末サヨナラ勝ち 初のベスト4",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 18:32:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44767/20260818de44767_E0000011249_1_l.jpg"
+      "time": "Tue, 18 Aug 2026 19:23:14 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉豪雨で乗客死亡 国交省が全国のタクシー会社などに通知",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 17:34:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44818/20260818de44818_E0000011516_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米国産ジャガイモ輸入解禁“容認できず”JA北海道中央会",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 17:48:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "お笑い 「四千頭身」メンバー 迷惑防止条例違反などで書類送検",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 17:24:43 +0900"
+      "time": "Tue, 18 Aug 2026 17:34:49 +0900"
     }
   ]
 }
