@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 20:21",
+  "updated_at": "2026-08-18 20:50",
   "has_alert": false,
   "items": [
     {
@@ -21,9 +21,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自衛隊の戦闘機 那覇空港滑走路上で停止 トラブルか",
+      "text": "那覇空港 自衛隊戦闘機が着陸時に機体トラブル 旅客機40便影響",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 16:27:02 +0900",
+      "time": "Tue, 18 Aug 2026 20:31:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44743/20260818de44743_E0000011159_1_l.jpg"
     },
     {
@@ -31,7 +31,7 @@
       "label": "ニュース",
       "text": "高市首相 熊本地震で知事らと会談 地元の要望踏まえ支援策",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 15:57:05 +0900",
+      "time": "Tue, 18 Aug 2026 20:22:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44728/20260818de44728_E0000011311_1_l.jpg"
     },
     {
