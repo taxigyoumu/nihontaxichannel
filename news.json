@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 07:18",
+  "updated_at": "2026-08-19 07:49",
   "has_alert": true,
   "items": [
     {
@@ -47,14 +47,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本で震度3",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 07:14:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44913/20260818de44913_E0000011934_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "西日本中心に気温上昇 危険な暑さに 東北は土砂災害など注意",
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 06:16:55 +0900",
@@ -89,7 +81,15 @@
       "label": "ニュース",
       "text": "米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 02:46:00 +0900"
+      "time": "Wed, 19 Aug 2026 02:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44920/20260819de44920_E0000011902_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】熊本で震度3 津波の心配なし",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 07:14:00 +0900"
     },
     {
       "category": "news",
