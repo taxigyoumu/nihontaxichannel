@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-18 15:37",
+  "updated_at": "2026-08-18 16:34",
   "has_alert": true,
   "items": [
     {
@@ -26,9 +26,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ライブ】自衛隊の戦闘機 那覇空港滑走路上で停止 トラブルか",
+      "text": "自衛隊の戦闘機 那覇空港滑走路上で停止 トラブルか",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 13:50:00 +0900",
+      "time": "Tue, 18 Aug 2026 16:27:02 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44743/20260818de44743_E0000011159_1_l.jpg"
     },
     {
@@ -50,10 +50,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 智弁和歌山が仙台育英をリード 5回終了時",
+      "text": "高校野球 横浜が花巻東をリード 5回終了時",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 13:34:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44681/20260818de44681_E0000010853_1_l.jpg"
+      "time": "Tue, 18 Aug 2026 15:42:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44767/20260818de44767_E0000011249_1_l.jpg"
     },
     {
       "category": "news",
@@ -73,9 +73,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "コロンビア地震“経済損失1.5兆円余”シャキーラさん支援表明",
+      "text": "【動画】ドジャース大谷2打席連続HR 6年連続30号にあと1本",
       "source": "NHK",
-      "time": "Tue, 18 Aug 2026 15:28:13 +0900"
+      "time": "Tue, 18 Aug 2026 14:01:43 +0900"
     }
   ]
 }
