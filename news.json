@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-08-20 04:49",
-  "has_alert": true,
+  "updated_at": "2026-08-20 05:22",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２０日０４時２９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-19T19:32:01Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 05:05:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45169/20260819de45169_E0000012989_1_l.jpg"
     },
     {
       "category": "news",
@@ -40,14 +41,6 @@
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 20:14:18 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44985/20260819de44985_E0000012578_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "防衛省 令和9年度予算案 過去最大 約9兆円要求の方向で調整",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 22:30:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45165/20260819de45165_E0000012963_1_l.jpg"
     },
     {
       "category": "news",
