@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-08-20 08:19",
-  "has_alert": false,
+  "updated_at": "2026-08-20 08:45",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２０日０８時３８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-19T23:41:24Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】高校野球 夏の甲子園 準決勝 智弁和歌山×横浜",
+      "text": "【速報中】高校野球 準決勝 横浜が先制 智弁和歌山をリード",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 08:11:13 +0900",
+      "time": "Thu, 20 Aug 2026 08:30:36 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45038/20260819de45038_E0000012398_1_l.jpg"
     },
     {
