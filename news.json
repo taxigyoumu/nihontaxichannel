@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-08-19 19:00",
+  "updated_at": "2026-08-19 19:54",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "避難所の7割がエアコンなし 専門家「真夏は生死に関わる問題」",
+      "text": "千葉豪雨 死者13人 浸水 約2700棟 路上の車両きょう移動完了へ",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 16:12:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44948/20260819de44948_E0000012440_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 19:31:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44911/20260818de44911_E0000011896_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,40 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "宮崎 小林 眼科医院の駐車場で車突っ込む 女性死亡",
+      "text": "福岡県議会 藏内議長「しかるべき時 議長辞職」議員辞職は否定",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 18:18:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45067/20260819de45067_E0000012551_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 19:50:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45123/20260819de45123_E0000012915_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "天皇皇后両陛下 アジア大会開会式出席で9月に愛知県へ",
+      "text": "東京 江東区新木場 都営バスとトレーラーが衝突 7人けがの情報",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 18:50:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45073/20260819de45073_E0000012608_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 19:25:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45125/20260819de45125_E0000012902_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本代表GK 鈴木彩艶がプレミアリーグ アストンビラに移籍へ",
+      "text": "避難所の7割がエアコンなし 専門家「真夏は生死に関わる問題」",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 18:26:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45104/20260819de45104_E0000012755_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "解約後も請求続く服レンタル業者 国民生活センターが注意喚起",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 18:35:55 +0900"
+      "time": "Wed, 19 Aug 2026 16:12:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44948/20260819de44948_E0000012440_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "俳優の岸惠子さん死去 93歳 映画「君の名は」など出演",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 17:50:30 +0900"
+      "time": "Wed, 19 Aug 2026 19:36:43 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "宮崎 小林 眼科医院の駐車場で車突っ込む 女性死亡",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 18:18:46 +0900"
     }
   ]
 }
