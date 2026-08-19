@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-08-19 08:45",
+  "updated_at": "2026-08-19 10:02",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-18T22:14:55Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-18T22:14:55Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】飛騨地方では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-18T22:14:45Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１９日０９時４２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-19T00:45:11Z"
     },
     {
       "category": "news",
@@ -38,6 +24,14 @@
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 05:11:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44911/20260818de44911_E0000011896_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "株価 一時2000円超値下がり",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 09:26:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44933/20260819de44933_E0000011948_1_l.jpg"
     },
     {
       "category": "news",
@@ -60,8 +54,7 @@
       "label": "ニュース",
       "text": "米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 02:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44920/20260819de44920_E0000011902_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 02:46:00 +0900"
     },
     {
       "category": "news",
@@ -69,13 +62,6 @@
       "text": "コンゴ民主共和国でエボラ出血熱死者2300人超 WHOが緊急委員会",
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 07:56:38 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋篠宮ご夫妻 パラグアイに向けて出発",
-      "source": "NHK",
-      "time": "Tue, 18 Aug 2026 22:43:36 +0900"
     }
   ]
 }
