@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-19 10:02",
-  "has_alert": true,
+  "updated_at": "2026-08-19 11:36",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１９日０９時４２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-19T00:45:11Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -16,6 +9,22 @@
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 06:16:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44906/20260818de44906_E0000011929_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース 大谷翔平 6年連続となる30号ホームラン",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 10:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44941/20260819de44941_E0000011983_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "株価 一時2100円超値下がり 半導体関連銘柄中心に売り注文",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 10:28:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44933/20260819de44933_E0000011948_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,26 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 一時2000円超値下がり",
+      "text": "「米韓合同軍事演習 規模を大幅縮小へ」韓国メディア",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 09:26:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44933/20260819de44933_E0000011948_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 09:14:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44919/20260819de44919_E0000011893_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領「協議行われていない」イランも強気姿勢を維持",
+      "text": "米ABCテレビが提訴“政権が放送免許更新の審査前倒しで報復”",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 06:08:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44908/20260818de44908_E0000011914_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 19日は熊本市で38度危険な暑さに 地震活動にも注意を",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 06:09:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44909/20260818de44909_E0000011920_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 09:22:54 +0900"
     },
     {
       "category": "news",
@@ -55,13 +55,6 @@
       "text": "米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に",
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 02:46:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "コンゴ民主共和国でエボラ出血熱死者2300人超 WHOが緊急委員会",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 07:56:38 +0900"
     }
   ]
 }
