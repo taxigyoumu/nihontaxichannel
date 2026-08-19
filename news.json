@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-20 05:22",
+  "updated_at": "2026-08-20 05:53",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "神戸 女性殺害事件1年「面識ない」ストーカー相談 兵庫で増加",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 05:18:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45161/20260819de45161_E0000012951_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,6 +17,14 @@
       "source": "NHK",
       "time": "Thu, 20 Aug 2026 05:05:24 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45169/20260819de45169_E0000012989_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "秋篠宮ご夫妻パラグアイに到着",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 05:31:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45170/20260819de45170_E0000012976_1_l.jpg"
     },
     {
       "category": "news",
@@ -31,30 +47,14 @@
       "label": "ニュース",
       "text": "59歳 カズ 三浦知良 サッカー天皇杯で2得点 福島ユナイテッド",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 22:42:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45160/20260819de45160_E0000012947_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 22:42:24 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "車水没 ドラレコに記録 「このまま行けると思ったが…」",
+      "text": "経産省 来年度予算案の概算要求 7兆7千億円規模で調整",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 20:14:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44985/20260819de44985_E0000012578_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "個人情報保護委 KDDIに行政指導 メールアドレスなど流出で",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 22:50:24 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「OTC類似薬」追加負担めぐり 患者など団体が会見",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 23:03:33 +0900"
+      "time": "Thu, 20 Aug 2026 05:25:53 +0900"
     }
   ]
 }
