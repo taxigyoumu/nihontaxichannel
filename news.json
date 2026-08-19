@@ -1,22 +1,14 @@
 {
-  "updated_at": "2026-08-20 02:23",
+  "updated_at": "2026-08-20 02:49",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "防衛省 令和9年度予算案 過去最大 約9兆円要求の方向で調整",
+      "text": "米財務省が国債買い戻し倍増 長期金利上昇を押さえるねらい",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 22:30:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45165/20260819de45165_E0000012963_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "59歳 カズ 三浦知良 サッカー天皇杯で2得点 福島ユナイテッド",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 22:42:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45160/20260819de45160_E0000012947_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 02:04:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45184/20260820de45184_E0000003533_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,6 +21,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "59歳 カズ 三浦知良 サッカー天皇杯で2得点 福島ユナイテッド",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 22:42:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45160/20260819de45160_E0000012947_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "車水没 ドラレコに記録 「このまま行けると思ったが…」",
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 20:14:18 +0900",
@@ -37,10 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "防衛省 令和9年度予算案 過去最大 約9兆円要求の方向で調整",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 22:30:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45165/20260819de45165_E0000012963_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "個人情報保護委 KDDIに行政指導 メールアドレスなど流出で",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 22:50:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45162/20260819de45162_E0000012952_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 22:50:24 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "「OTC類似薬」追加負担めぐり 患者など団体が会見",
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 23:03:33 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風18号発生 非常に強い勢力に発達見込み 影響出るおそれも",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 19:34:00 +0900"
     }
   ]
 }
