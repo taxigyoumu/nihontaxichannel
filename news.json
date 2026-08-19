@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-08-19 13:33",
+  "updated_at": "2026-08-19 14:25",
   "has_alert": false,
   "items": [
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "俳優の岸惠子さん死去 93歳 映画「君の名は」など出演",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 12:35:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44980/20260819de44980_E0000012078_1_l.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -17,6 +9,22 @@
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 12:03:52 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44906/20260818de44906_E0000012003_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "俳優の岸惠子さん死去 93歳 映画「君の名は」など出演",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 12:35:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44980/20260819de44980_E0000012078_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "AI学習データの公表要請の基本原則案 今秋にも適用へ",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 13:50:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44968/20260819de44968_E0000003844_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 大谷翔平 6年連続となる30号ホームラン",
+      "text": "世田谷ストーカー殺人事件 韓国籍被告の初公判 殺人は無罪主張",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 10:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44941/20260819de44941_E0000011983_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 13:38:19 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "レッドソックス吉田 けがは「深刻」 復帰は早くても今季終盤か",
+      "text": "ドジャース大谷 6年連続30号ホームラン チームは2連勝",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 11:55:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米ABCテレビが提訴“政権が放送免許更新の審査前倒しで報復”",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 09:22:54 +0900"
+      "time": "Wed, 19 Aug 2026 14:06:20 +0900"
     }
   ]
 }
