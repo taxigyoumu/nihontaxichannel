@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 23:29",
+  "updated_at": "2026-08-20 00:03",
   "has_alert": false,
   "items": [
     {
@@ -17,6 +17,14 @@
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 22:42:24 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45160/20260819de45160_E0000012947_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉豪雨 浸水面積31平方キロ 山手線内側の半分ほどに達したか",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 20:56:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45129/20260819de45129_E0000012941_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,8 +47,7 @@
       "label": "ニュース",
       "text": "「OTC類似薬」追加負担めぐり 患者など団体が会見",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 23:03:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45168/20260819de45168_E0000012964_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 23:03:33 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "台風18号発生 非常に強い勢力に発達見込み 影響出るおそれも",
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 19:34:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ大統領 米朝首脳会談模索の見方 その思惑は",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 22:11:45 +0900"
     }
   ]
 }
