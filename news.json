@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 14:55",
+  "updated_at": "2026-08-19 15:39",
   "has_alert": false,
   "items": [
     {
@@ -15,16 +15,24 @@
       "label": "ニュース",
       "text": "俳優の岸惠子さん死去 93歳 映画「君の名は」など出演",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 12:35:00 +0900",
+      "time": "Wed, 19 Aug 2026 15:29:49 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44980/20260819de44980_E0000012078_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "AI学習データの公表要請の基本原則案 今秋にも適用へ",
+      "text": "オープンAIが18歳未満対象にChatGPTの対策強化へ",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 13:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44968/20260819de44968_E0000003844_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 14:53:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44976/20260819de44976_E0000012073_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "万博工事費水増しし自宅改修か 竹中工務店社員 背任容疑で逮捕",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 14:58:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44943/20260819de44943_E0000012001_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,15 +47,7 @@
       "label": "ニュース",
       "text": "株価 一時2100円超値下がり 半導体関連銘柄中心に売り注文",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 13:17:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44933/20260819de44933_E0000011948_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "世田谷ストーカー殺人事件 韓国籍被告の初公判 殺人は無罪主張",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 13:38:19 +0900"
+      "time": "Wed, 19 Aug 2026 13:17:57 +0900"
     },
     {
       "category": "news",
