@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 06:21",
+  "updated_at": "2026-08-20 06:49",
   "has_alert": true,
   "items": [
     {
@@ -26,6 +26,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 05:05:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45169/20260819de45169_E0000012989_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "神戸 女性殺害事件1年「面識ない」ストーカー相談 兵庫で増加",
       "source": "NHK",
       "time": "Thu, 20 Aug 2026 05:18:45 +0900",
@@ -34,10 +42,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
+      "text": "トランプ大統領 北朝鮮キム総書記との年内会談に意欲",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 05:05:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45169/20260819de45169_E0000012989_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 06:22:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45193/20260820de45193_E0000013001_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高校野球 夏の甲子園 準決勝 智弁和歌山×横浜【速報予定】",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 06:36:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45038/20260819de45038_E0000012403_1_l.jpg"
     },
     {
       "category": "news",
@@ -50,25 +66,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米財務省が国債買い戻し倍増 長期金利上昇を抑えるねらい",
+      "text": "フェルメール代表作「真珠の耳飾りの少女」14年ぶり来日公開へ",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 02:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45184/20260820de45184_E0000003533_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉豪雨 浸水面積31平方キロ 山手線内側の半分ほどに達したか",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 20:56:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45129/20260819de45129_E0000012941_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "59歳 カズ 三浦知良 サッカー天皇杯で2得点 福島ユナイテッド",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 22:42:24 +0900"
+      "time": "Thu, 20 Aug 2026 06:30:07 +0900"
     },
     {
       "category": "news",
