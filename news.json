@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 18:30",
+  "updated_at": "2026-08-19 19:00",
   "has_alert": false,
   "items": [
     {
@@ -13,9 +13,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本など九州北部で危険な暑さ予想 熱中症対策の徹底を",
+      "text": "20日も西日本中心に猛烈な暑さ予想 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 12:03:52 +0900",
+      "time": "Wed, 19 Aug 2026 18:58:05 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44906/20260818de44906_E0000012003_1_l.jpg"
     },
     {
@@ -29,18 +29,25 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨 停電続くマンション 住民“一日も早い復旧を”",
+      "text": "天皇皇后両陛下 アジア大会開会式出席で9月に愛知県へ",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 18:20:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44981/20260819de44981_E0000012074_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 18:50:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45073/20260819de45073_E0000012608_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大飯原発3号機の発電機停止 原因は 調査で運転再開時期は未定",
+      "text": "日本代表GK 鈴木彩艶がプレミアリーグ アストンビラに移籍へ",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 18:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45037/20260819de45037_E0000012686_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 18:26:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45104/20260819de45104_E0000012755_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "解約後も請求続く服レンタル業者 国民生活センターが注意喚起",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 18:35:55 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "俳優の岸惠子さん死去 93歳 映画「君の名は」など出演",
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 17:50:30 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "佳子さま 沖縄の「豆記者」と懇談",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 18:15:08 +0900"
     }
   ]
 }
