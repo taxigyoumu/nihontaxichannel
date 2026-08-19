@@ -1,13 +1,34 @@
 {
-  "updated_at": "2026-08-19 19:54",
-  "has_alert": false,
+  "updated_at": "2026-08-19 20:21",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-19T11:01:51Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-19T11:01:51Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-19T11:01:46Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉豪雨 死者13人 浸水 約2700棟 路上の車両きょう移動完了へ",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 19:31:32 +0900",
+      "time": "Wed, 19 Aug 2026 20:11:47 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44911/20260818de44911_E0000011896_1_l.jpg"
     },
     {
@@ -17,6 +38,14 @@
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 18:58:05 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260818de44906/20260818de44906_E0000012003_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風18号発生 非常に強い勢力に発達見込み 影響出るおそれも",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 19:34:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45027/20260819de45027_E0000012914_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,10 +66,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "避難所の7割がエアコンなし 専門家「真夏は生死に関わる問題」",
+      "text": "プーチン大統領の択捉島訪問受け元島民団体などが外務省に要請",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 16:12:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44948/20260819de44948_E0000012440_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 19:44:29 +0900"
     },
     {
       "category": "news",
@@ -48,13 +76,6 @@
       "text": "俳優の岸惠子さん死去 93歳 映画「君の名は」など出演",
       "source": "NHK",
       "time": "Wed, 19 Aug 2026 19:36:43 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "宮崎 小林 眼科医院の駐車場で車突っ込む 女性死亡",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 18:18:46 +0900"
     }
   ]
 }
