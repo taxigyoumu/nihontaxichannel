@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 06:49",
+  "updated_at": "2026-08-20 07:20",
   "has_alert": true,
   "items": [
     {
@@ -8,20 +8,6 @@
       "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
       "source": "岐阜地方気象台",
       "time": "2026-08-19T21:12:59Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-19T21:12:59Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-19T21:12:48Z"
     },
     {
       "category": "news",
@@ -34,18 +20,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神戸 女性殺害事件1年「面識ない」ストーカー相談 兵庫で増加",
+      "text": "米大統領“海峡掌握”イラン 欧州の米軍関連施設攻撃も視野か",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 05:18:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45161/20260819de45161_E0000012951_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 07:02:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45195/20260820de45195_E0000013002_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 北朝鮮キム総書記との年内会談に意欲",
+      "text": "神戸 女性殺害事件1年「面識ない」ストーカー相談 兵庫で増加",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 06:22:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45193/20260820de45193_E0000013001_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 05:18:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45161/20260819de45161_E0000012951_1_l.jpg"
     },
     {
       "category": "news",
@@ -73,9 +59,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ 国民から高評価の前国防相が大統領選挙実施を要求",
+      "text": "FRB 7月の会合議事録“利上げ必要の可能性高い”",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 05:47:09 +0900"
+      "time": "Thu, 20 Aug 2026 07:06:42 +0900"
     }
   ]
 }
