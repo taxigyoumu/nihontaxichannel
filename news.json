@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-19 17:32",
+  "updated_at": "2026-08-19 18:30",
   "has_alert": false,
   "items": [
     {
@@ -21,40 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨 冠水道路で死亡の男性 知人「地域のために働く人」",
+      "text": "宮崎 小林 眼科医院の駐車場で車突っ込む 女性死亡",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 15:34:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45028/20260819de45028_E0000012246_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 18:18:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45067/20260819de45067_E0000012551_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号発生 日本のはるか南東 今後の情報に注意を",
+      "text": "千葉豪雨 停電続くマンション 住民“一日も早い復旧を”",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 15:28:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45027/20260819de45027_E0000012250_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 18:20:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44981/20260819de44981_E0000012074_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大飯原発3号機の発電機停止 原因は 調査で運転再開時期は未定",
+      "source": "NHK",
+      "time": "Wed, 19 Aug 2026 18:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45037/20260819de45037_E0000012686_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "俳優の岸惠子さん死去 93歳 映画「君の名は」など出演",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 15:29:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de44980/20260819de44980_E0000012078_1_l.jpg"
+      "time": "Wed, 19 Aug 2026 17:50:30 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 大谷翔平 6年連続30号ホームラン チームは2連勝",
+      "text": "佳子さま 沖縄の「豆記者」と懇談",
       "source": "NHK",
-      "time": "Wed, 19 Aug 2026 16:18:26 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホワイトソックス村上宗隆 29号ホームラン シーズン30号に王手",
-      "source": "NHK",
-      "time": "Wed, 19 Aug 2026 16:29:39 +0900"
+      "time": "Wed, 19 Aug 2026 18:15:08 +0900"
     }
   ]
 }
