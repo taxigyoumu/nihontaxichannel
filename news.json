@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-08-20 07:20",
-  "has_alert": true,
+  "updated_at": "2026-08-20 07:49",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-19T21:12:59Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 05:05:24 +0900",
+      "time": "Thu, 20 Aug 2026 05:05:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45169/20260819de45169_E0000012989_1_l.jpg"
     },
     {
@@ -44,10 +37,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "秋篠宮ご夫妻パラグアイに到着",
+      "text": "熊本地震 熱中症対策を 最大震度5弱程度以上の地震にも注意",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 05:31:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45170/20260819de45170_E0000012976_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 07:23:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45198/20260820de45198_E0000013009_1_l.jpg"
     },
     {
       "category": "news",
