@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 20:26",
+  "updated_at": "2026-08-20 20:53",
   "has_alert": false,
   "items": [
     {
@@ -13,18 +13,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨 死者13人 浸水3501棟 農林水産業の被害19億円",
+      "text": "千葉豪雨 夜の消防通報2200件超 緊迫の音声記録も",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 18:14:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45350/20260820de45350_E0000013778_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大気不安定 福島県で猛烈な雨 北日本東日本中心にあすも雨注意",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 19:22:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45196/20260820de45196_E0000013567_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 20:39:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45321/20260820de45321_E0000013779_1_l.jpg"
     },
     {
       "category": "news",
@@ -33,6 +25,14 @@
       "source": "NHK",
       "time": "Thu, 20 Aug 2026 20:09:06 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45364/20260820de45364_E0000013976_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大気不安定 福島県で猛烈な雨 北日本東日本中心にあすも雨注意",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 19:22:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45196/20260820de45196_E0000013567_1_l.jpg"
     },
     {
       "category": "news",
