@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 14:56",
+  "updated_at": "2026-08-20 15:45",
   "has_alert": true,
   "items": [
     {
@@ -28,32 +28,16 @@
       "label": "ニュース",
       "text": "栃木 東武日光線の駅で特急と接触の作業員4人全員の死亡を確認",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 14:15:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45242/20260820de45242_E0000013417_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 15:26:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45242/20260820de45242_E0000013308_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 健大高崎が初の決勝進出 天理に競り勝つ【詳報】",
+      "text": "岩手で猛烈な雨か 危険警報の発表も 土砂災害など厳重警戒",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 13:33:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45039/20260819de45039_E0000012384_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉豪雨から1週間 ボランティア本格化 園児受け入れの動きも",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 12:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45235/20260820de45235_E0000013251_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "西日本中心に午前中から猛暑日も 熱中症対策の徹底を",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 11:56:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45196/20260820de45196_E0000013174_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 15:37:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45196/20260820de45196_E0000013567_1_l.jpg"
     },
     {
       "category": "news",
@@ -66,16 +50,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領“大規模経済制裁科す”イランは湾岸諸国に警告",
+      "text": "千葉豪雨から1週間 ボランティア本格化 園児受け入れの動きも",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 12:25:01 +0900"
+      "time": "Thu, 20 Aug 2026 12:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45235/20260820de45235_E0000013251_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】茨城県北部で震度3",
+      "text": "トランプ大統領“大規模経済制裁科す”イランは湾岸諸国に警告",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 14:31:00 +0900"
+      "time": "Thu, 20 Aug 2026 12:25:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45217/20260820de45217_E0000013150_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高校野球 健大高崎が初の決勝進出 天理に競り勝つ【詳報】",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 15:00:21 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“ハリー王子 家族とイギリスに帰国へ”英メディア報道",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 12:14:00 +0900"
     }
   ]
 }
