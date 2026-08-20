@@ -1,60 +1,74 @@
 {
-  "updated_at": "2026-08-20 11:35",
-  "has_alert": false,
+  "updated_at": "2026-08-20 12:42",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２０日１２時０４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-20T03:08:07Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２０日１１時４０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-20T02:43:02Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】高校野球 準決勝 健大高崎が先制 天理をリード",
+      "text": "栃木 東武日光線の駅で特急が作業中の4人に接触 意識ない状態",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 11:33:00 +0900",
+      "time": "Thu, 20 Aug 2026 12:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45242/20260820de45242_E0000013188_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【速報中】高校野球 準決勝 健大高崎と天理 接戦で終盤へ",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 12:38:14 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45039/20260819de45039_E0000012387_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西日本中心に猛烈な暑さに 熱中症対策の徹底を",
+      "text": "千葉豪雨から1週間 ボランティアの活動が本格化",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 11:03:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45196/20260820de45196_E0000013015_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 12:04:16 +0900",
+      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "7月の貿易収支 6345億円の赤字 3か月連続の赤字",
+      "text": "西日本中心に午前中から猛暑日も 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 09:15:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45202/20260820de45202_E0000013050_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 11:56:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45196/20260820de45196_E0000013174_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イスラエル軍ガザ地区攻撃で10人死亡の報道 和平実現 見通せず",
+      "text": "熊本地震 被災地は午前中から猛烈な暑さ 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 08:40:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45200/20260820de45200_E0000013017_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 11:58:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45198/20260820de45198_E0000013146_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米大統領“海峡掌握”イラン 欧州の米軍関連施設攻撃も視野か",
+      "text": "トランプ大統領“大規模経済制裁科す”イランは湾岸諸国に警告",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 07:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45195/20260820de45195_E0000013002_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 12:25:01 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
+      "text": "広島土砂災害12年 安佐南区で追悼行事 遺族も出席し犠牲者悼む",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 05:05:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フェルメール代表作「真珠の耳飾りの少女」14年ぶり来日公開へ",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 06:30:00 +0900"
+      "time": "Thu, 20 Aug 2026 12:12:39 +0900"
     }
   ]
 }
