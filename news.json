@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-08-20 20:53",
+  "updated_at": "2026-08-20 21:40",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 東武日光線の駅で作業員4人が特急と接触し死亡【会見中】",
+      "text": "栃木 東武日光線の駅で作業員4人が特急と接触し死亡",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 19:54:20 +0900",
+      "time": "Thu, 20 Aug 2026 20:54:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45242/20260820de45242_E0000013308_1_l.jpg"
     },
     {
@@ -23,7 +23,7 @@
       "label": "ニュース",
       "text": "千葉豪雨 幹線道路の車両移動は完了も水没車両の対応続く",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 20:09:06 +0900",
+      "time": "Thu, 20 Aug 2026 20:09:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45364/20260820de45364_E0000013976_1_l.jpg"
     },
     {
