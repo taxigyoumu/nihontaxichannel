@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 18:30",
+  "updated_at": "2026-08-20 19:25",
   "has_alert": true,
   "items": [
     {
@@ -14,16 +14,8 @@
       "label": "ニュース",
       "text": "栃木 東武日光線の駅で作業員4人が特急と接触し死亡【会見中】",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 18:22:43 +0900",
+      "time": "Thu, 20 Aug 2026 19:01:29 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45242/20260820de45242_E0000013308_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福島 北塩原村付近で記録的大雨 災害の危険迫る",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 18:06:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45356/20260820de45356_E0000013780_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,32 +28,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 被災地は午前中から猛烈な暑さ 熱中症対策の徹底を",
+      "text": "熊本地震 あすも被災地は猛烈な暑さに 午後は局地的な雨に注意",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 14:06:09 +0900",
+      "time": "Thu, 20 Aug 2026 19:08:21 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45198/20260820de45198_E0000013146_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本製紙八代工場 地震で先端損傷の煙突 来月中旬めど撤去へ",
+      "text": "熊本 住宅狙う空き巣対策でパトロール強化【被災地の動き】",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 18:03:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45326/20260820de45326_E0000013701_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 19:02:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45231/20260820de45231_E0000013283_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "円相場 値上がり 米の長期金利低下でドル売り円買い進む",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 18:21:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45355/20260820de45355_E0000013810_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 18:13:41 +0900"
+      "time": "Thu, 20 Aug 2026 18:51:04 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "首都圏新築マンション平均価格 7月は約1億6500万円 過去最高に",
+      "text": "熊本地震 環境省 災害廃棄物対策の支援プログラム発表",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 17:59:52 +0900"
+      "time": "Thu, 20 Aug 2026 19:07:28 +0900"
     }
   ]
 }
