@@ -1,42 +1,22 @@
 {
-  "updated_at": "2026-08-20 10:02",
-  "has_alert": true,
+  "updated_at": "2026-08-20 11:35",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２０日０９時４５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-20T00:49:20Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２０日０９時０６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-20T00:09:14Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２０日０８時４８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-19T23:51:39Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２０日０８時３８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-19T23:41:24Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【速報中】高校野球 準決勝 健大高崎が先制 天理をリード",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 11:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45039/20260819de45039_E0000012387_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】高校野球 智弁和歌山が横浜をリードし終盤",
+      "text": "西日本中心に猛烈な暑さに 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 09:55:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45038/20260819de45038_E0000012398_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 11:03:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45196/20260820de45196_E0000013015_1_l.jpg"
     },
     {
       "category": "news",
@@ -49,18 +29,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
+      "text": "イスラエル軍ガザ地区攻撃で10人死亡の報道 和平実現 見通せず",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 05:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45169/20260819de45169_E0000012989_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "西日本中心に猛烈な暑さ予想 熱中症対策の徹底を",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 07:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45196/20260820de45196_E0000013015_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 08:40:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45200/20260820de45200_E0000013017_1_l.jpg"
     },
     {
       "category": "news",
@@ -73,16 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フェルメール代表作「真珠の耳飾りの少女」14年ぶり来日公開へ",
+      "text": "鎌倉時代の「元寇の矢」見つかる 元が南宋から接収し転用か",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 06:30:07 +0900"
+      "time": "Thu, 20 Aug 2026 05:05:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イスラエル軍ガザ地区攻撃で10人死亡の報道 和平実現 見通せず",
+      "text": "フェルメール代表作「真珠の耳飾りの少女」14年ぶり来日公開へ",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 08:40:59 +0900"
+      "time": "Thu, 20 Aug 2026 06:30:00 +0900"
     }
   ]
 }
