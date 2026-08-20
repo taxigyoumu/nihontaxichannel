@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-20 23:32",
+  "updated_at": "2026-08-21 00:29",
   "has_alert": false,
   "items": [
     {
@@ -29,14 +29,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民 「役職希望アンケート」配付 内閣改造の見方広がる",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 22:45:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45381/20260820de45381_E0000013971_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "小泉防衛相 インドと通信アンテナ早期移転へ新協議体設置合意",
       "source": "NHK",
       "time": "Thu, 20 Aug 2026 19:43:00 +0900",
@@ -45,9 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡 天神 女性殺害事件 退勤5時間後に女性いないと知人が通報",
+      "text": "柏崎刈羽原発で運転員が他人のIDカードで不適切に退室",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 20:55:00 +0900"
+      "time": "Thu, 20 Aug 2026 22:07:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45408/20260820de45408_E0000014006_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日オマーン外相 “ホルムズ海峡 国際社会で議論が不可欠”",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 00:01:00 +0900"
     },
     {
       "category": "news",
