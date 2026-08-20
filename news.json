@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 06:28",
+  "updated_at": "2026-08-21 06:55",
   "has_alert": true,
   "items": [
     {
@@ -20,6 +20,30 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "千葉豪雨 生活やなりわいの再建が課題に",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 06:38:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45417/20260820de45417_E0000014029_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震 被災地はきょうも猛烈な暑さ 熱中症対策継続を",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 06:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45435/20260821de45435_E0000014057_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "政府 来週にも熊本地震で支援パッケージ 観光振興「応援割」も",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 06:40:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45425/20260821de45425_E0000014044_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "台風18号 23日には非常に強い勢力に発達か 今後の情報に注意を",
       "source": "NHK",
       "time": "Thu, 20 Aug 2026 19:41:00 +0900",
@@ -28,33 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨 幹線道路の車両移動は完了も水没車両の対応続く",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 20:09:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45364/20260820de45364_E0000013976_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "秋篠宮ご夫妻 パラグアイ大統領を表敬訪問",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 06:21:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45430/20260821de45430_E0000014050_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米「史上最大規模の制裁」へ イランは「経済テロ」と反発",
-      "source": "NHK",
-      "time": "Fri, 21 Aug 2026 06:16:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45432/20260821de45432_E0000014051_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "キム・ヨジョン氏 “米韓は主従関係”米と対話の可能性示唆か",
-      "source": "NHK",
-      "time": "Fri, 21 Aug 2026 04:48:22 +0900"
+      "time": "Fri, 21 Aug 2026 06:21:56 +0900"
     },
     {
       "category": "news",
