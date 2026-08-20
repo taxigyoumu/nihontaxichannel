@@ -1,35 +1,21 @@
 {
-  "updated_at": "2026-08-20 13:33",
-  "has_alert": true,
+  "updated_at": "2026-08-20 14:26",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２０日１２時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-20T03:08:07Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２０日１１時４０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-20T02:43:02Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "栃木 東武日光線の駅で特急と接触の作業員4人全員の死亡を確認",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 14:15:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45242/20260820de45242_E0000013417_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 東武日光線の駅で特急が作業中の4人に接触 意識ない状態",
+      "text": "高校野球 健大高崎が初の決勝進出 天理に競り勝つ【詳報】",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 13:22:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45242/20260820de45242_E0000013220_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【速報中】高校野球 健大高崎が初の決勝進出 天理に競り勝つ",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 13:21:18 +0900",
+      "time": "Thu, 20 Aug 2026 13:33:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260819de45039/20260819de45039_E0000012384_1_l.jpg"
     },
     {
@@ -53,7 +39,7 @@
       "label": "ニュース",
       "text": "熊本地震 被災地は午前中から猛烈な暑さ 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 11:58:01 +0900",
+      "time": "Thu, 20 Aug 2026 14:06:09 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45198/20260820de45198_E0000013146_1_l.jpg"
     },
     {
