@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-21 02:37",
-  "has_alert": false,
+  "updated_at": "2026-08-21 03:33",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２１日０３時２３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-20T18:27:19Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２１日０３時１５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-20T18:18:22Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -37,17 +51,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "柏崎刈羽原発で運転員が他人のIDカードで不適切に退室",
+      "text": "ロシアによる攻撃 キーウなどで16人死亡 46人けが",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 22:07:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45408/20260820de45408_E0000014006_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 03:16:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45383/20260820de45383_E0000013975_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日オマーン外相 “ホルムズ海峡 国際社会で議論が不可欠”",
+      "text": "非上場企業の株式 新たな評価方式の案を公表 国税庁",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 00:01:00 +0900"
+      "time": "Fri, 21 Aug 2026 02:46:40 +0900"
     },
     {
       "category": "news",
