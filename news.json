@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-20 19:25",
+  "updated_at": "2026-08-20 19:56",
   "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-20T10:30:00Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-20T10:30:00Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-20T10:29:47Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -14,16 +35,24 @@
       "label": "ニュース",
       "text": "栃木 東武日光線の駅で作業員4人が特急と接触し死亡【会見中】",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 19:01:29 +0900",
+      "time": "Thu, 20 Aug 2026 19:54:20 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45242/20260820de45242_E0000013308_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨から1週間 ボランティア本格化 園児受け入れの動きも",
+      "text": "千葉豪雨 死者13人 浸水3501棟 農林水産業の被害19億円",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 12:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45235/20260820de45235_E0000013251_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 18:14:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45350/20260820de45350_E0000013778_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉豪雨 車が水没し女性が死亡 あの時、何が起きていたのか",
+      "source": "NHK",
+      "time": "Thu, 20 Aug 2026 19:24:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45344/20260820de45344_E0000013926_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,18 +65,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 住宅狙う空き巣対策でパトロール強化【被災地の動き】",
+      "text": "熊本地震 車中泊などで死亡は災害関連死か 自治体に相談相次ぐ",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 19:02:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45231/20260820de45231_E0000013283_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 19:35:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45347/20260820de45347_E0000013943_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場 値上がり 米の長期金利低下でドル売り円買い進む",
+      "text": "大気不安定 福島県で猛烈な雨 北日本東日本中心にあすも雨注意",
       "source": "NHK",
-      "time": "Thu, 20 Aug 2026 18:21:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45355/20260820de45355_E0000013810_1_l.jpg"
+      "time": "Thu, 20 Aug 2026 19:22:00 +0900"
     },
     {
       "category": "news",
@@ -55,13 +83,6 @@
       "text": "北朝鮮の弾道ミサイルの可能性あるもの 日本のEEZ外に落下か",
       "source": "NHK",
       "time": "Thu, 20 Aug 2026 18:51:04 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 環境省 災害廃棄物対策の支援プログラム発表",
-      "source": "NHK",
-      "time": "Thu, 20 Aug 2026 19:07:28 +0900"
     }
   ]
 }
