@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-21 11:42",
+  "updated_at": "2026-08-21 12:47",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪パチンコ店放火5人死亡事件 放火殺人の死刑囚に死刑執行",
+      "text": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 11:23:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 12:21:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木4人死亡列車事故 見張り役情報共有できていなかった可能性",
+      "text": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 06:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014047_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 12:23:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "7月消費者物価 生鮮除き1.8％上昇 上昇率は拡大",
+      "text": "静岡 清水区 建造中の船から出火し1人死亡 9人搬送",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 09:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45440/20260821de45440_E0000003932_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 12:35:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45473/20260821de45473_E0000014165_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "クールジャパン機構 概算要求見送り 廃止含めて検討 経産省",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 11:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45462/20260821de45462_E0000014129_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉豪雨 生活やなりわいの再建が課題に",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 06:38:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45417/20260820de45417_E0000014029_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 06:38:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 被災地はきょうも猛烈な暑さ 熱中症対策継続を",
+      "text": "北陸で非常に激しい雨 西日本中心に猛烈な暑さ 熱中症対策を",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 06:33:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "西日本中心に猛烈な暑さ 熱中症対策を 局地的に非常に激しい雨",
-      "source": "NHK",
-      "time": "Fri, 21 Aug 2026 06:34:00 +0900"
+      "time": "Fri, 21 Aug 2026 12:17:49 +0900"
     }
   ]
 }
