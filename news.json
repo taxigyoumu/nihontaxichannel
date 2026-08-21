@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-21 16:49",
+  "updated_at": "2026-08-21 17:35",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "埼玉県で「記録的短時間大雨」発表 中国地方などでも雨雲発達",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 17:33:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45437/20260821de45437_E0000014531_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -15,7 +23,7 @@
       "label": "ニュース",
       "text": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 16:35:20 +0900",
+      "time": "Fri, 21 Aug 2026 17:11:34 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_l.jpg"
     },
     {
@@ -23,16 +31,8 @@
       "label": "ニュース",
       "text": "台風18号 今後の情報に注意を",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 11:23:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014109_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "企業の法務業務へのAI活用で新指針 法務省",
-      "source": "NHK",
-      "time": "Fri, 21 Aug 2026 16:06:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45505/20260821de45505_E0000003805_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 17:22:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014533_1_l.jpg"
     },
     {
       "category": "news",
@@ -45,16 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行",
+      "text": "中野サンプラザ再開発 中野区が新たな事業計画の骨子を示す",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 12:23:30 +0900"
+      "time": "Fri, 21 Aug 2026 16:18:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "クールジャパン機構 概算要求見送り 廃止含めて検討 経産省",
+      "text": "パワハラ認定の横浜 山中竹春市長 国際会議の参加見送り",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 11:51:00 +0900"
+      "time": "Fri, 21 Aug 2026 17:25:00 +0900"
     }
   ]
 }
