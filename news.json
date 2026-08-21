@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 02:55",
+  "updated_at": "2026-08-22 03:32",
   "has_alert": true,
   "items": [
     {
@@ -50,14 +50,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "第175回 芥川賞・直木賞の贈呈式",
-      "source": "NHK",
-      "time": "Fri, 21 Aug 2026 20:59:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45589/20260821de45589_E0000014718_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "中国 南部の大規模洪水で死者159人に 各地で大雨被害",
       "source": "NHK",
       "time": "Fri, 21 Aug 2026 22:16:48 +0900",
@@ -66,16 +58,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナとロシア 21日にかけても攻撃の応酬続く",
+      "text": "日本学術会議 新会員125人を公表 10月の特殊法人移行を前に",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 20:52:34 +0900"
+      "time": "Fri, 21 Aug 2026 23:46:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45512/20260821de45512_E0000014532_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大量の食パンが大山に 「不法投棄にあたる」警察に相談 鳥取",
+      "text": "2週間予報など長期予報充実 2030年までに実現目指す 気象庁",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 15:35:00 +0900"
+      "time": "Fri, 21 Aug 2026 23:34:03 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "第175回 芥川賞・直木賞の贈呈式",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 20:59:42 +0900"
     }
   ]
 }
