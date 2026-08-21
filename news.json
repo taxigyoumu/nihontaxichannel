@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-08-21 14:59",
+  "updated_at": "2026-08-21 15:59",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
+      "text": "大量の食パンが大山に 「不法投棄にあたる」警察に相談 鳥取",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 12:21:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 15:35:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45513/20260821de45513_E0000014433_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "パワハラ認定の横浜 山中竹春市長 国際会議の参加見送り",
+      "text": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 14:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45494/20260821de45494_E0000014319_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 15:48:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_l.jpg"
     },
     {
       "category": "news",
@@ -25,6 +25,14 @@
       "source": "NHK",
       "time": "Fri, 21 Aug 2026 11:23:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014109_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ホルムズ海峡で“シャトル船”が原油輸送 日本にも 専門家",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 15:37:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45517/20260821de45517_E0000014438_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,8 +47,7 @@
       "label": "ニュース",
       "text": "クールジャパン機構 概算要求見送り 廃止含めて検討 経産省",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 11:51:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45462/20260821de45462_E0000014129_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 11:51:00 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "静岡 清水区 建造中の船から出火し1人死亡 9人搬送",
       "source": "NHK",
       "time": "Fri, 21 Aug 2026 12:35:28 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉豪雨で大雨警報等の基準引き下げ 千葉市と八千代市で",
-      "source": "NHK",
-      "time": "Fri, 21 Aug 2026 14:16:47 +0900"
     }
   ]
 }
