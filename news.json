@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 07:20",
+  "updated_at": "2026-08-22 07:49",
   "has_alert": true,
   "items": [
     {
@@ -34,6 +34,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "ICC赤根智子所長「『法の支配』の終えんの始まりとさせない」",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 07:26:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45623/20260822de45623_E0000014784_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "内閣改造と党役員人事 来月の見方広がる 鈴木幹事長の続投焦点",
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 05:11:29 +0900",
@@ -58,14 +66,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "秋篠宮ご夫妻 日本人のパラグアイ移住90周年記念式典に",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 05:50:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45603/20260821de45603_E0000014776_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 05:01:26 +0900"
@@ -73,9 +73,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“ロシア軍兵士の死者は24万人以上”英BBCなどが調査し報じる",
+      "text": "秋篠宮ご夫妻 日本人のパラグアイ移住90周年記念式典に",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 06:07:35 +0900"
+      "time": "Sat, 22 Aug 2026 05:50:26 +0900"
     }
   ]
 }
