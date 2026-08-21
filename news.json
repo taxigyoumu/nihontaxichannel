@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 13:34",
+  "updated_at": "2026-08-21 14:28",
   "has_alert": false,
   "items": [
     {
@@ -13,10 +13,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行",
+      "text": "パワハラ認定の横浜 山中竹春市長 国際会議の参加見送り",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 12:23:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 14:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45494/20260821de45494_E0000014319_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,10 +29,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "静岡 清水区 建造中の船から出火し1人死亡 9人搬送",
+      "text": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 12:35:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45473/20260821de45473_E0000014165_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 12:23:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_l.jpg"
     },
     {
       "category": "news",
@@ -45,16 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "立民 水岡代表 労働組合の幹部と協議 3党合流めぐり",
+      "text": "静岡 清水区 建造中の船から出火し1人死亡 9人搬送",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 13:00:52 +0900"
+      "time": "Fri, 21 Aug 2026 12:35:28 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 小幅に値下がり 長期金利再び上昇で企業業績に懸念",
+      "text": "千葉豪雨で大雨警報等の基準引き下げ 千葉市と八千代市で",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 12:18:45 +0900"
+      "time": "Fri, 21 Aug 2026 14:16:47 +0900"
     }
   ]
 }
