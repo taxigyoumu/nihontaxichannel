@@ -1,44 +1,38 @@
 {
-  "updated_at": "2026-08-21 18:32",
-  "has_alert": true,
+  "updated_at": "2026-08-21 19:26",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、土砂災害に注意してください。岐阜県では、低い土地の浸水や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-21T09:11:40Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、土砂災害に注意してください。岐阜県では、低い土地の浸水や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-21T09:11:40Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "佐賀 長崎道鳥栖IC付近 部活バスを含む多重事故 3人重傷か",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 18:57:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45571/20260821de45571_E0000014626_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "東武日光線 4人死亡列車事故 ホーム下に緊急避難スペースなし",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 18:21:55 +0900",
+      "time": "Fri, 21 Aug 2026 18:40:14 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014112_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "関東運輸局 東海汽船の事業停止処分検討で聴聞を実施",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 19:04:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45556/20260821de45556_E0000014572_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "埼玉県で「記録的短時間大雨」発表 中国地方などでも雨雲発達",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 17:33:17 +0900",
+      "time": "Fri, 21 Aug 2026 18:44:19 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45437/20260821de45437_E0000014531_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大量の食パンが大山に 「不法投棄にあたる」警察に相談 鳥取",
-      "source": "NHK",
-      "time": "Fri, 21 Aug 2026 15:35:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45513/20260821de45513_E0000014433_1_l.jpg"
     },
     {
       "category": "news",
@@ -51,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小学校で児童11人ハチに刺され軽いけが 広島 庄原市",
+      "text": "大量の食パンが大山に 「不法投棄にあたる」警察に相談 鳥取",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 18:28:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45534/20260821de45534_E0000014529_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 15:35:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スーパーのコメ平均価格 5キロ3191円 2週ぶり値下がり",
+      "text": "千葉豪雨 普通交付税約87億円 繰り上げて交付 総務省",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 17:52:10 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "パワハラ認定の横浜 山中竹春市長 国際会議の参加見送り",
-      "source": "NHK",
-      "time": "Fri, 21 Aug 2026 17:25:00 +0900"
+      "time": "Fri, 21 Aug 2026 18:58:49 +0900"
     }
   ]
 }
