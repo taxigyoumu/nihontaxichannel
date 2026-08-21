@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 21:39",
+  "updated_at": "2026-08-21 22:41",
   "has_alert": true,
   "items": [
     {
@@ -26,17 +26,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】伊豆諸島の三宅島 御蔵島で震度3 津波の心配なし",
+      "text": "千葉豪雨 死者13人 浸水被害約3600棟 農業被害28億円",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 21:29:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45592/20260821de45592_E0000014722_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 19:55:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45579/20260821de45579_E0000014681_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "佐賀 長崎道鳥栖IC付近 部活バスを含む多重事故 3人重傷か",
+      "text": "佐賀 長崎道鳥栖IC付近 部活バス含む車6台関係の事故 10人搬送",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 21:09:55 +0900",
+      "time": "Fri, 21 Aug 2026 22:36:18 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45571/20260821de45571_E0000014626_1_l.jpg"
     },
     {
@@ -50,18 +50,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北日本～西日本 あすにかけ大気が非常に不安定 各地で雨雲発達",
+      "text": "熊本地震 個人の井戸復旧を災害救助費で支援可能に 高市首相",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 21:03:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45437/20260821de45437_E0000014673_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 19:52:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45559/20260821de45559_E0000014575_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 今後の情報に注意を",
+      "text": "第175回 芥川賞・直木賞の贈呈式",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 19:48:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014533_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 20:59:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45589/20260821de45589_E0000014718_1_l.jpg"
     },
     {
       "category": "news",
