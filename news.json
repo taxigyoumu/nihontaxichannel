@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-21 15:59",
+  "updated_at": "2026-08-21 16:49",
   "has_alert": false,
   "items": [
     {
@@ -15,7 +15,7 @@
       "label": "ニュース",
       "text": "東武日光線 作業員4人死亡の列車事故 見張り役などから聴取",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 15:48:34 +0900",
+      "time": "Fri, 21 Aug 2026 16:35:20 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45429/20260821de45429_E0000014110_1_l.jpg"
     },
     {
@@ -25,6 +25,14 @@
       "source": "NHK",
       "time": "Fri, 21 Aug 2026 11:23:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45459/20260821de45459_E0000014109_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "企業の法務業務へのAI活用で新指針 法務省",
+      "source": "NHK",
+      "time": "Fri, 21 Aug 2026 16:06:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45505/20260821de45505_E0000003805_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,8 +47,7 @@
       "label": "ニュース",
       "text": "大阪パチンコ店放火殺人事件 高見素直死刑囚に死刑執行",
       "source": "NHK",
-      "time": "Fri, 21 Aug 2026 12:23:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45451/20260821de45451_E0000014101_1_l.jpg"
+      "time": "Fri, 21 Aug 2026 12:23:30 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "クールジャパン機構 概算要求見送り 廃止含めて検討 経産省",
       "source": "NHK",
       "time": "Fri, 21 Aug 2026 11:51:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "静岡 清水区 建造中の船から出火し1人死亡 9人搬送",
-      "source": "NHK",
-      "time": "Fri, 21 Aug 2026 12:35:28 +0900"
     }
   ]
 }
