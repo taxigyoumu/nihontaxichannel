@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 03:24",
+  "updated_at": "2026-08-23 03:57",
   "has_alert": true,
   "items": [
     {
@@ -42,54 +42,54 @@
       "label": "ニュース",
       "text": "【地震速報】茨城 埼玉 千葉 東京 震度5弱 津波の心配なし",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 03:16:40 +0900",
+      "time": "Sun, 23 Aug 2026 03:44:49 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45738/20260823de45738_E0000015157_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東海第二原発 福島第一・第二原発　いずれも異常確認されず",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 03:09:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45757/20260823de45757_E0000003972_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "都内複数の場所で一時エレベーター停止閉じ込めもすでに解消",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 03:11:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45756/20260823de45756_E0000004054_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【地震】川崎市で2人けがの情報",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 03:20:05 +0900",
+      "time": "Sun, 23 Aug 2026 03:20:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45762/20260823de45762_E0000004054_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震】千葉 市川「広尾防災公園で水あふれ出している」通報",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 03:27:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45764/20260823de45764_E0000003897_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "都内複数の場所で一時エレベーター停止閉じ込めもすでに解消",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 03:28:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45756/20260823de45756_E0000004054_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震】震度5弱 埼玉 川口市 「家から出られない」消防に通報",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 03:24:25 +0900",
       "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京消防庁 江東区で水道管破裂の通報",
+      "text": "【地震】東京消防庁 江東区で水道管破裂の通報",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 02:32:37 +0900",
-      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+      "time": "Sun, 23 Aug 2026 02:32:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR情報収集中 午前4時半ごろまでに始発からの運行判断",
+      "text": "【地震】埼玉 浦和区「マンホールから水あふれた」複数通報",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 03:19:16 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【地震】携帯各社 通話・通信への影響確認されず（2:30）",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 03:04:25 +0900"
+      "time": "Sun, 23 Aug 2026 03:51:03 +0900"
     }
   ]
 }
