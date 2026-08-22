@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 08:16",
+  "updated_at": "2026-08-23 08:44",
   "has_alert": false,
   "items": [
     {
@@ -37,10 +37,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "地震による交通機関への影響",
+      "text": "栃木4人死亡列車事故 安全確認後の警笛2回中1回しか確認されず",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 07:11:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45760/20260823de45760_E0000003971_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 08:24:53 +0900",
+      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
     },
     {
       "category": "news",
