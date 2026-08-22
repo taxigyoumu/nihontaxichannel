@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-22 18:27",
+  "updated_at": "2026-08-22 18:51",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日１８時３７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T09:40:44Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日１８時３２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T09:35:05Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -14,8 +28,8 @@
       "label": "ニュース",
       "text": "関東南部で猛烈な雨 浸水や川の氾濫に厳重警戒を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 18:21:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000014994_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 18:47:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000015004_1_l.jpg"
     },
     {
       "category": "news",
