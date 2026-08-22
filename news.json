@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 04:23",
+  "updated_at": "2026-08-23 04:45",
   "has_alert": true,
   "items": [
     {
@@ -61,9 +61,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】茨城 東京 埼玉 千葉 震度5弱 津波の心配なし",
+      "text": "【地震情報】茨城 東京 埼玉 千葉 震度5弱 津波なし",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 04:05:23 +0900",
+      "time": "Sun, 23 Aug 2026 04:23:43 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45738/20260823de45738_E0000015157_1_l.jpg"
     },
     {
@@ -85,18 +85,25 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "都内複数の場所で一時エレベーター停止閉じ込めもすでに解消",
+      "text": "【震度5弱】茨城 取手の住宅で本棚倒れる",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 03:56:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45756/20260823de45756_E0000004054_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 04:31:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260823de45775/20260823de45775_E0000015183_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震】東京消防庁 江東区で水道管破裂の通報",
+      "text": "【地震】東京 足立区でけが人の情報 断水の情報も",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 02:32:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45743/20260823de45743_E0000015182_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 04:13:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45776/20260823de45776_E0000003895_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震】東京 江東区“水道管が破裂”道路に水があふれ出す",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 02:32:00 +0900"
     },
     {
       "category": "news",
@@ -104,13 +111,6 @@
       "text": "【地震】埼玉 浦和区「マンホールから水あふれた」複数通報",
       "source": "NHK",
       "time": "Sun, 23 Aug 2026 03:51:03 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "地震による鉄道の運行への影響",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 04:14:14 +0900"
     }
   ]
 }
