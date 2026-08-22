@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 00:17",
+  "updated_at": "2026-08-23 00:44",
   "has_alert": false,
   "items": [
     {
@@ -17,6 +17,14 @@
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 21:52:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45716/20260822de45716_E0000015112_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "沖縄 石垣市と竹富町に避難指示",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 00:33:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45732/20260823de45732_E0000004036_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,15 +47,7 @@
       "label": "ニュース",
       "text": "千葉豪雨 死者13人 浸水被害約3900棟 外房線あす全線運転再開",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 19:11:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45677/20260822de45677_E0000015028_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "滋賀 野洲 化学工場で男性作業員2人が意識不明",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 22:26:40 +0900"
+      "time": "Sat, 22 Aug 2026 19:11:48 +0900"
     },
     {
       "category": "news",
