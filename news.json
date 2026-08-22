@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 13:28",
+  "updated_at": "2026-08-22 14:00",
   "has_alert": true,
   "items": [
     {
@@ -14,7 +14,7 @@
       "label": "ニュース",
       "text": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 13:27:30 +0900",
+      "time": "Sat, 22 Aug 2026 13:53:35 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000014855_1_l.jpg"
     },
     {
@@ -22,7 +22,7 @@
       "label": "ニュース",
       "text": "国民民主党 代表選挙が告示 玉木氏と橋本氏が立候補",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:10:00 +0900",
+      "time": "Sat, 22 Aug 2026 13:59:52 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45640/20260822de45640_E0000014843_1_l.jpg"
     },
     {
@@ -59,9 +59,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アジア大会 トーチ掲げリレースタート 名古屋",
+      "text": "トランプ大統領 経済制裁強化しイラン側の対応見極める考え",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:25:35 +0900"
+      "time": "Sat, 22 Aug 2026 13:31:50 +0900"
     }
   ]
 }
