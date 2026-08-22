@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 02:17",
+  "updated_at": "2026-08-23 02:44",
   "has_alert": true,
   "items": [
     {
@@ -40,56 +40,56 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】茨城 埼玉 千葉 東京 震度5弱 津波心配なし",
+      "text": "【地震速報】茨城 埼玉 千葉 東京 震度5弱 津波の心配なし",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 02:04:00 +0900",
+      "time": "Sun, 23 Aug 2026 02:34:23 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45738/20260823de45738_E0000015157_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東南部で一時 猛烈な雨 低地の浸水や川の増水に警戒を",
+      "text": "東海第二原発 異常ないか確認中 長期間運転を停止中",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 21:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000014994_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 02:25:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45742/20260823de45742_E0000003972_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京駅近くで信号機が地面に沈む 工事中 大雨が原因の可能性",
+      "text": "福島第一原発 新たな異常は確認されておらず",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 21:52:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45716/20260822de45716_E0000015112_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 02:34:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45745/20260823de45745_E0000003972_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄 石垣市と竹富町に避難指示",
+      "text": "東京消防庁 江東区で水道管破裂の通報",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 00:33:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45732/20260823de45732_E0000004036_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 02:32:37 +0900",
+      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風20号の影響 沖縄 八重山地方で23日に線状降水帯発生おそれ",
+      "text": "茨城県警「被害状況を確認中」 神奈川県警「被害の情報なし」",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 23:02:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45693/20260822de45693_E0000015006_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 02:39:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45744/20260823de45744_E0000003973_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木4人死亡列車事故 運転士200メートル手前で進入許可認識か",
+      "text": "茨城県古河市管轄の警察署「30秒ほどの横揺れ続いた」",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 18:51:00 +0900"
+      "time": "Sun, 23 Aug 2026 02:25:18 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
+      "text": "震度5弱の注意点は",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 19:34:00 +0900"
+      "time": "Sun, 23 Aug 2026 02:29:42 +0900"
     }
   ]
 }
