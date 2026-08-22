@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 15:33",
+  "updated_at": "2026-08-22 16:28",
   "has_alert": false,
   "items": [
     {
@@ -7,7 +7,7 @@
       "label": "ニュース",
       "text": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 14:28:22 +0900",
+      "time": "Sat, 22 Aug 2026 16:17:37 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000014855_1_l.jpg"
     },
     {
@@ -15,32 +15,39 @@
       "label": "ニュース",
       "text": "台風20号が発生 先島諸島では土砂災害に警戒を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 14:32:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45655/20260822de45655_E0000014905_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 14:32:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45655/20260822de45655_E0000014947_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 10:47:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45618/20260822de45618_E0000014796_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 10:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45618/20260822de45618_E0000014945_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風19号が発生 日本への直接の影響ない見込み",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 11:17:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45635/20260822de45635_E0000014815_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 11:17:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45635/20260822de45635_E0000014950_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "TikTok 米司法省に4億ドル支払いで和解",
+      "text": "ドジャース4連勝 山本由伸好投も13勝目ならず 大谷翔平1安打",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 15:00:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45652/20260822de45652_E0000014887_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 15:51:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45660/20260822de45660_E0000014927_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ政権 カナダ産乳製品やワインなどに50％追加関税発動",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 15:45:19 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "国民民主党 代表選挙が告示 玉木氏と橋本氏が立候補",
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 13:59:52 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 路上の車両の所有者への引き渡し 警察などに協力求める",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:27:49 +0900"
     }
   ]
 }
