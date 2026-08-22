@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 12:38",
+  "updated_at": "2026-08-22 13:28",
   "has_alert": true,
   "items": [
     {
@@ -12,34 +12,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】高校野球 智弁和歌山が優勝 5年ぶり4回目",
+      "text": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:19:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000013994_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "午前中から猛暑日 酷暑日予想も広く大気不安定 台風にも注意を",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45604/20260821de45604_E0000014840_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉豪雨 被害住宅の応急修理支援する制度 受け付け順次始まる",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:30:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45641/20260822de45641_E0000014839_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 路上の車両の所有者への引き渡し 警察などに協力求める",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:27:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45615/20260822de45615_E0000014773_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 13:27:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000014855_1_l.jpg"
     },
     {
       "category": "news",
@@ -52,16 +28,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 SNSで政策発信強化 理解広めるねらいも",
+      "text": "千葉 路上の車両の所有者への引き渡し 警察などに協力求める",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:00:21 +0900"
+      "time": "Sat, 22 Aug 2026 12:27:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45615/20260822de45615_E0000014773_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本県 きょうも猛烈な暑さに 熱中症対策を 地震にも注意",
+      "text": "千葉豪雨 被害住宅の応急修理支援する制度 受け付け順次始まる",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:13:58 +0900"
+      "time": "Sat, 22 Aug 2026 12:30:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45641/20260822de45641_E0000014839_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高市首相 SNSで政策発信強化 理解広めるねらいも",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 12:00:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45638/20260822de45638_E0000014831_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "午前中から猛暑日 酷暑日予想も広く大気不安定 台風にも注意を",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 12:21:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アジア大会 トーチ掲げリレースタート 名古屋",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 12:25:35 +0900"
     }
   ]
 }
