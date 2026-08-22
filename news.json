@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-22 19:19",
+  "updated_at": "2026-08-22 19:48",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日１９時３０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T10:33:21Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -28,16 +35,8 @@
       "label": "ニュース",
       "text": "関東南部で猛烈な雨 浸水や川の氾濫に厳重警戒を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 19:00:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000015004_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 18:53:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45693/20260822de45693_E0000015006_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 19:27:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000014994_1_l.jpg"
     },
     {
       "category": "news",
@@ -46,6 +45,14 @@
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 19:06:52 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45700/20260822de45700_E0000004027_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 18:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45693/20260822de45693_E0000015006_1_l.jpg"
     },
     {
       "category": "news",
@@ -68,7 +75,7 @@
       "label": "ニュース",
       "text": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 19:07:27 +0900"
+      "time": "Sat, 22 Aug 2026 19:34:15 +0900"
     },
     {
       "category": "news",
