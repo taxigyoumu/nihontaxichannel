@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 18:51",
+  "updated_at": "2026-08-22 19:19",
   "has_alert": true,
   "items": [
     {
@@ -28,54 +28,54 @@
       "label": "ニュース",
       "text": "関東南部で猛烈な雨 浸水や川の氾濫に厳重警戒を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 18:47:44 +0900",
+      "time": "Sat, 22 Aug 2026 19:00:27 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000015004_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 神田川にレベル4氾濫危険警報",
+      "text": "【台風】18号 来週南西諸島に接近か 19号と20号も相次いで発生",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 18:00:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45694/20260822de45694_E0000003987_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 18:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45693/20260822de45693_E0000015006_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 善福寺川にレベル4氾濫危険警報",
+      "text": "東京 白子川 一時「氾濫発生水位」上回る",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 17:42:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45690/20260822de45690_E0000003987_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 19:06:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45700/20260822de45700_E0000004027_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 北区と板橋区付近 埼玉 戸田市付近で記録的な大雨",
+      "text": "栃木4人死亡列車事故 運転士200メートル手前で進入許可認識か",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 17:51:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45671/20260822de45671_E0000014983_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 18:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45675/20260822de45675_E0000014984_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京23区 レベル4大雨危険警報 中央区・荒川区・台東区にも",
+      "text": "千葉豪雨 死者13人 浸水被害約3900棟 外房線あす全線運転再開",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 17:46:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45669/20260822de45669_E0000003986_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 19:11:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45677/20260822de45677_E0000015028_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 17:18:12 +0900"
+      "time": "Sat, 22 Aug 2026 19:07:27 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風20号が発生 先島諸島では土砂災害に警戒を",
+      "text": "国民民主党 代表選挙が告示 玉木氏と橋本氏が立候補",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 14:32:00 +0900"
+      "time": "Sat, 22 Aug 2026 13:59:52 +0900"
     }
   ]
 }
