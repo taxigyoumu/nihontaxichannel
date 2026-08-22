@@ -1,20 +1,13 @@
 {
-  "updated_at": "2026-08-22 14:00",
-  "has_alert": true,
+  "updated_at": "2026-08-22 14:51",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日１１時３５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-22T02:38:34Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 13:53:35 +0900",
+      "time": "Sat, 22 Aug 2026 14:28:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000014855_1_l.jpg"
     },
     {
@@ -44,10 +37,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 SNSで政策発信強化 理解広めるねらいも",
+      "text": "熊本地震支援 「応援割」念頭に観光需要喚起策 木原官房長官",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 12:00:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45638/20260822de45638_E0000014831_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 14:36:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45656/20260822de45656_E0000014044_1_l.jpg"
     },
     {
       "category": "news",
@@ -59,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 経済制裁強化しイラン側の対応見極める考え",
+      "text": "台風20号が発生 先島諸島では土砂災害に警戒を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 13:31:50 +0900"
+      "time": "Sat, 22 Aug 2026 14:32:14 +0900"
     }
   ]
 }
