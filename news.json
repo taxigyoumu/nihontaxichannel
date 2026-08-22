@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-22 20:17",
-  "has_alert": false,
+  "updated_at": "2026-08-22 20:44",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-22T11:32:19Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-22T11:32:19Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】美濃地方では、低い土地の浸水や河川の増水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-22T11:32:08Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,6 +30,14 @@
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 20:10:39 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000014994_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "横浜市 港北区・鶴見区に避難指示",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 20:22:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45709/20260822de45709_E0000004036_1_l.jpg"
     },
     {
       "category": "news",
@@ -25,14 +54,6 @@
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 18:51:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45675/20260822de45675_E0000014984_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 白子川 一時「氾濫発生水位」上回る",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 19:06:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45700/20260822de45700_E0000004027_1_l.jpg"
     },
     {
       "category": "news",
