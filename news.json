@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-08-22 11:33",
-  "has_alert": false,
+  "updated_at": "2026-08-22 12:38",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日１１時３５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T02:38:34Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】高校野球 健大高崎が1点差に 智弁和歌山との決勝",
+      "text": "【速報中】高校野球 智弁和歌山が優勝 5年ぶり4回目",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 11:22:07 +0900",
+      "time": "Sat, 22 Aug 2026 12:19:05 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000013994_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
+      "text": "午前中から猛暑日 酷暑日予想も広く大気不安定 台風にも注意を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 10:47:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45618/20260822de45618_E0000014796_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 12:21:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45604/20260821de45604_E0000014840_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風19号が発生 日本への直接の影響ない見込み",
+      "text": "千葉豪雨 被害住宅の応急修理支援する制度 受け付け順次始まる",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 11:17:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45635/20260822de45635_E0000014815_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ICC赤根智子所長「『法の支配』の終えんの始まりとさせない」",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 07:26:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45623/20260822de45623_E0000014784_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "栃木4人死亡事故 運転士「急ブレーキかけたが間に合わず」",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 05:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45613/20260822de45613_E0000014770_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 12:30:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45641/20260822de45641_E0000014839_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉 路上の車両の所有者への引き渡し 警察などに協力求める",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 06:15:00 +0900"
+      "time": "Sat, 22 Aug 2026 12:27:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45615/20260822de45615_E0000014773_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "内閣改造と党役員人事 来月の見方広がる 鈴木幹事長の続投焦点",
+      "text": "国民民主党 代表選挙が告示 玉木氏と橋本氏が立候補",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 05:11:00 +0900"
+      "time": "Sat, 22 Aug 2026 12:10:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45640/20260822de45640_E0000014843_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高市首相 SNSで政策発信強化 理解広めるねらいも",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 12:00:21 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本県 きょうも猛烈な暑さに 熱中症対策を 地震にも注意",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 12:13:58 +0900"
     }
   ]
 }
