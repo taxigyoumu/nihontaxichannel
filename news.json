@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-08-22 10:02",
+  "updated_at": "2026-08-22 11:33",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校野球 決勝 智弁和歌山×健大高崎【速報予定10時】先発発表",
+      "text": "【速報中】高校野球 健大高崎が1点差に 智弁和歌山との決勝",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 09:55:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000013995_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 11:22:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000013994_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東海から九州中心に気温上昇 酷暑日予想も 広範囲で大気不安定",
+      "text": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 06:50:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45604/20260821de45604_E0000014777_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 10:47:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45618/20260822de45618_E0000014796_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風19号が発生 日本への直接の影響ない見込み",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 11:17:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45635/20260822de45635_E0000014815_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "内閣改造と党役員人事 来月の見方広がる 鈴木幹事長の続投焦点",
+      "text": "栃木4人死亡事故 運転士「急ブレーキかけたが間に合わず」",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 05:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260821de45600/20260821de45600_E0000014756_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 05:12:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45613/20260822de45613_E0000014770_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "千葉 路上の車両の所有者への引き渡し 警察などに協力求める",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 06:15:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45615/20260822de45615_E0000014773_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 06:15:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木4人死亡事故 運転士「急ブレーキかけたが間に合わず」",
+      "text": "内閣改造と党役員人事 来月の見方広がる 鈴木幹事長の続投焦点",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 05:12:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 08:24:30 +0900"
+      "time": "Sat, 22 Aug 2026 05:11:00 +0900"
     }
   ]
 }
