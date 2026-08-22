@@ -1,21 +1,51 @@
 {
-  "updated_at": "2026-08-23 06:44",
-  "has_alert": false,
+  "updated_at": "2026-08-23 07:18",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２３日０７時０７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T22:12:20Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２３日０６時４５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T21:51:35Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 05:47:39 +0900",
+      "time": "Sun, 23 Aug 2026 07:14:45 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45738/20260823de45738_E0000015157_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 06:06:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45798/20260823de45798_E0000015197_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大分では40度の酷暑日予想 熊本も危険な暑さに 大気不安定注意",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 06:53:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45805/20260823de45805_E0000015214_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【被害情報まとめ】地震 埼玉県や神奈川県で複数のけが人",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 05:44:00 +0900",
+      "time": "Sun, 23 Aug 2026 07:12:05 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45744/20260823de45744_E0000003973_1_l.jpg"
     },
     {
@@ -31,23 +61,7 @@
       "label": "ニュース",
       "text": "【地震】東京 江東区“水道管が破裂”道路に水があふれ出す",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 02:32:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45743/20260823de45743_E0000015182_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【地震】茨城 牛久市役所で天井の一部落ちる",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 06:42:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45803/20260823de45803_E0000015213_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 06:06:15 +0900"
+      "time": "Sun, 23 Aug 2026 02:32:00 +0900"
     },
     {
       "category": "news",
