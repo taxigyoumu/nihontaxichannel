@@ -1,7 +1,50 @@
 {
-  "updated_at": "2026-08-23 01:48",
-  "has_alert": false,
+  "updated_at": "2026-08-23 02:17",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２３日０２時００分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T17:12:15Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【長周期地震動に関する観測情報】２３日０２時００分ころの地震により、長周期地震動階級２を観測した地域があります。",
+      "source": "気象庁",
+      "time": "2026-08-22T17:11:51Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２３日０２時００分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T17:06:35Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】２３日０２時００分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-08-22T17:04:06Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう２３日０２時００分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T17:03:46Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】茨城 埼玉 千葉 東京 震度5弱 津波心配なし",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 02:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45738/20260823de45738_E0000015157_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -39,8 +82,7 @@
       "label": "ニュース",
       "text": "栃木4人死亡列車事故 運転士200メートル手前で進入許可認識か",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 18:51:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45675/20260822de45675_E0000014984_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 18:51:00 +0900"
     },
     {
       "category": "news",
@@ -48,13 +90,6 @@
       "text": "高校野球 智弁和歌山が優勝 5年ぶり4回目 健大高崎に逆転勝ち",
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 19:34:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "JR外房線 きょう始発から全線で運転再開へ",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 01:34:29 +0900"
     }
   ]
 }
