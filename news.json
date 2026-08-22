@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-22 21:31",
+  "updated_at": "2026-08-22 22:28",
   "has_alert": false,
   "items": [
     {
@@ -9,6 +9,14 @@
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 21:13:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000014994_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京駅近くで信号機が地面に沈む 工事中 大雨が原因の可能性",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 21:52:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45716/20260822de45716_E0000015112_1_l.jpg"
     },
     {
       "category": "news",
@@ -33,14 +41,6 @@
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 19:11:48 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45677/20260822de45677_E0000015028_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "横浜市 港北区・鶴見区の避難指示解除",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 20:57:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45713/20260822de45713_E0000004035_1_l.jpg"
     },
     {
       "category": "news",
