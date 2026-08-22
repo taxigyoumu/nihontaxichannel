@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-22 08:47",
+  "updated_at": "2026-08-22 10:02",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高校野球 決勝 智弁和歌山×健大高崎【速報予定10時】先発発表",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 09:55:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260820de45392/20260820de45392_E0000013995_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -39,8 +47,7 @@
       "label": "ニュース",
       "text": "栃木4人死亡事故 運転士「急ブレーキかけたが間に合わず」",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 05:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45613/20260822de45613_E0000014770_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 05:12:00 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 08:24:30 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋篠宮ご夫妻 日本人のパラグアイ移住90周年記念式典に",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 05:50:26 +0900"
     }
   ]
 }
