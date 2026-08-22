@@ -1,50 +1,14 @@
 {
-  "updated_at": "2026-08-22 19:48",
-  "has_alert": true,
+  "updated_at": "2026-08-22 20:17",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日１９時３０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-22T10:33:21Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日１８時３７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-22T09:40:44Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日１８時３２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-22T09:35:05Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日１７時３７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-22T08:40:44Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "関東南部で猛烈な雨 浸水や川の氾濫に厳重警戒を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 19:27:14 +0900",
+      "time": "Sat, 22 Aug 2026 20:10:39 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45682/20260822de45682_E0000014994_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 白子川 一時「氾濫発生水位」上回る",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 19:06:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45700/20260822de45700_E0000004027_1_l.jpg"
     },
     {
       "category": "news",
@@ -61,6 +25,14 @@
       "source": "NHK",
       "time": "Sat, 22 Aug 2026 18:51:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45675/20260822de45675_E0000014984_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 白子川 一時「氾濫発生水位」上回る",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 19:06:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45700/20260822de45700_E0000004027_1_l.jpg"
     },
     {
       "category": "news",
@@ -82,7 +54,7 @@
       "label": "ニュース",
       "text": "国民民主党 代表選挙が告示 玉木氏と橋本氏が立候補",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 13:59:52 +0900"
+      "time": "Sat, 22 Aug 2026 20:14:42 +0900"
     }
   ]
 }
