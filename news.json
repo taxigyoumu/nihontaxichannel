@@ -1,22 +1,45 @@
 {
-  "updated_at": "2026-08-22 17:26",
-  "has_alert": false,
+  "updated_at": "2026-08-22 17:56",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日１７時３７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-22T08:40:44Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 善福寺川にレベル4氾濫危険警報",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 17:42:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45690/20260822de45690_E0000003987_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "東京 北区と板橋区付近 埼玉 戸田市付近で記録的な大雨",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 17:20:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45671/20260822de45671_E0000003981_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 17:51:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45671/20260822de45671_E0000014983_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 練馬区にレベル4大雨危険警報 新宿区・文京区なども",
+      "text": "東京23区 レベル4大雨危険警報 中央区・荒川区・台東区にも",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 17:23:47 +0900",
+      "time": "Sat, 22 Aug 2026 17:46:12 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45669/20260822de45669_E0000003986_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "関東南部で猛烈な雨 浸水や川の氾濫に厳重警戒を",
+      "source": "NHK",
+      "time": "Sat, 22 Aug 2026 17:49:50 +0900",
+      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
     },
     {
       "category": "news",
@@ -31,30 +54,14 @@
       "label": "ニュース",
       "text": "台風20号が発生 先島諸島では土砂災害に警戒を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 14:32:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45655/20260822de45655_E0000014947_1_l.jpg"
+      "time": "Sat, 22 Aug 2026 14:32:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風18号 来週 南西諸島に近づくおそれ 今後の情報に注意を",
       "source": "NHK",
-      "time": "Sat, 22 Aug 2026 10:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260822de45618/20260822de45618_E0000014945_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風19号が発生 日本への直接の影響ない見込み",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 11:17:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース4連勝 山本由伸好投も13勝目ならず 大谷翔平1安打",
-      "source": "NHK",
-      "time": "Sat, 22 Aug 2026 15:51:32 +0900"
+      "time": "Sat, 22 Aug 2026 10:47:00 +0900"
     }
   ]
 }
