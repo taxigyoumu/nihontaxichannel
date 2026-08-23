@@ -1,49 +1,14 @@
 {
-  "updated_at": "2026-08-23 14:54",
-  "has_alert": true,
+  "updated_at": "2026-08-23 15:34",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、低い土地の浸水に警戒してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T05:46:31Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、低い土地の浸水に警戒してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T05:46:31Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、低い土地の浸水に警戒してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T05:43:19Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、低い土地の浸水に警戒してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T05:43:19Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】飛騨地方では、低い土地の浸水や河川の増水に警戒してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T05:43:08Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ建国250年記念し自動車レース トランプ氏が開催推進",
+      "text": "広島や大分で39度超え 熊本も危険な暑さに 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 14:03:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45833/20260823de45833_E0000015303_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 15:23:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45805/20260823de45805_E0000015316_1_l.jpg"
     },
     {
       "category": "news",
@@ -56,10 +21,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大分では40度の酷暑日予想 熊本も危険な暑さに",
+      "text": "アメリカ建国250年記念し自動車レース トランプ氏が開催推進",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 14:48:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45805/20260823de45805_E0000015316_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 14:03:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45833/20260823de45833_E0000015303_1_l.jpg"
     },
     {
       "category": "news",
