@@ -1,14 +1,13 @@
 {
-  "updated_at": "2026-08-24 01:20",
-  "has_alert": false,
+  "updated_at": "2026-08-24 01:50",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【地震情報】北海道函館市などで震度4 津波の心配なし",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 23:36:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45914/20260823de45914_E0000015456_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日０１時３６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-23T16:39:11Z"
     },
     {
       "category": "news",
@@ -25,6 +24,14 @@
       "source": "NHK",
       "time": "Sun, 23 Aug 2026 21:13:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45798/20260823de45798_E0000015454_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】北海道函館市などで震度4 津波の心配なし",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 23:36:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45914/20260823de45914_E0000015456_1_l.jpg"
     },
     {
       "category": "news",
