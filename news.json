@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 04:21",
+  "updated_at": "2026-08-24 04:44",
   "has_alert": true,
   "items": [
     {
@@ -47,7 +47,7 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本県宇城市で震度3 津波の心配なし",
+      "text": "【地震情報】熊本県宇城市で震度3 津波の心配なし",
       "source": "NHK",
       "time": "Mon, 24 Aug 2026 04:11:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45925/20260824de45925_E0000015481_1_l.jpg"
