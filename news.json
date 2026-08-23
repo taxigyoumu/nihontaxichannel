@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 05:47",
+  "updated_at": "2026-08-24 06:17",
   "has_alert": false,
   "items": [
     {
@@ -13,10 +13,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ",
+      "text": "台風18号 あす以降 沖縄・奄美に接近へ 早めに備えを",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 21:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45798/20260823de45798_E0000015454_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 05:50:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45899/20260823de45899_E0000015487_1_l.jpg"
     },
     {
       "category": "news",
@@ -45,16 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "茨城県南部の地震 最大震度5弱程度の地震に注意を",
+      "text": "秋篠宮ご夫妻 イグアスで移住者ねぎらう",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 05:23:18 +0900"
+      "time": "Mon, 24 Aug 2026 05:38:50 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ ゼレンスキー大統領 ロシアのミサイル増産に警戒",
+      "text": "SNSの子どもへの影響 IT大手で被害未然防止の取り組み広がる",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 05:30:05 +0900"
+      "time": "Mon, 24 Aug 2026 05:26:06 +0900"
     }
   ]
 }
