@@ -1,22 +1,14 @@
 {
-  "updated_at": "2026-08-24 05:18",
+  "updated_at": "2026-08-24 05:47",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本県宇城市で震度3 津波の心配なし",
+      "text": "東武鉄道4人死亡事故 複数のミス重なった疑い 警察 経緯解明へ",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 04:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45925/20260824de45925_E0000015481_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東武鉄道4人死亡事故 事故当日3本の列車は問題なく通過か",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 18:59:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45877/20260823de45877_E0000015365_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 05:20:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45906/20260823de45906_E0000015486_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,6 +21,22 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "経産省など 家事支援・ベビーシッター利用の税制優遇を要望へ",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 05:26:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45888/20260823de45888_E0000015429_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "24日は大分で40度予想 西・東日本で猛烈な暑さか 熱中症対策を",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 21:03:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45805/20260823de45805_E0000015419_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所",
       "source": "NHK",
       "time": "Mon, 24 Aug 2026 05:10:35 +0900",
@@ -37,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "裁判官3人で審理の事件 1人で審理のミス さいたま地裁熊谷支部",
+      "text": "茨城県南部の地震 最大震度5弱程度の地震に注意を",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 23:31:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45915/20260823de45915_E0000015459_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 05:23:18 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "24日は大分で40度予想 西・東日本で猛烈な暑さか 熱中症対策を",
+      "text": "ウクライナ ゼレンスキー大統領 ロシアのミサイル増産に警戒",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 21:03:22 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 18:57:00 +0900"
+      "time": "Mon, 24 Aug 2026 05:30:05 +0900"
     }
   ]
 }
