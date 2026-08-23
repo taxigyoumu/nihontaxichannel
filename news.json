@@ -1,49 +1,7 @@
 {
-  "updated_at": "2026-08-24 04:44",
-  "has_alert": true,
+  "updated_at": "2026-08-24 05:18",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T19:14:13Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T19:14:13Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県土砂災害警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T19:14:03Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日０４時０５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-23T19:09:39Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう２４日０４時０５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-23T19:08:30Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】２４日０４時０５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-08-23T19:06:51Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -71,10 +29,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】北海道函館市などで震度4 津波の心配なし",
+      "text": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 23:36:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45914/20260823de45914_E0000015456_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 05:10:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45895/20260823de45895_E0000015446_1_l.jpg"
     },
     {
       "category": "news",
