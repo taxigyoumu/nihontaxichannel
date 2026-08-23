@@ -1,13 +1,21 @@
 {
-  "updated_at": "2026-08-23 08:44",
+  "updated_at": "2026-08-23 10:07",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "東武鉄道子会社を業務上過失致死容疑で捜索 4人死亡事故 警察",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 09:53:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45737/20260823de45737_E0000015242_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "りくりゅう 三浦さんと木原さん婚約 フィギュアペアで五輪金",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 08:03:00 +0900",
+      "time": "Sun, 23 Aug 2026 09:33:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45815/20260823de45815_E0000015222_1_l.jpg"
     },
     {
@@ -37,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木4人死亡列車事故 安全確認後の警笛2回中1回しか確認されず",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 08:24:53 +0900",
-      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 06:06:15 +0900"
+      "time": "Sun, 23 Aug 2026 06:06:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 杉並 道路が冠水し看板が水に流される【22日・映像】",
+      "text": "JR山手線で人身事故 全線で運転見合わせ",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 05:50:59 +0900"
+      "time": "Sun, 23 Aug 2026 09:56:00 +0900"
     }
   ]
 }
