@@ -1,74 +1,60 @@
 {
-  "updated_at": "2026-08-23 11:43",
-  "has_alert": true,
+  "updated_at": "2026-08-23 12:46",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T01:57:49Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T01:57:49Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "JR山手線 内回りのみ運転を再開",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 12:39:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45829/20260823de45829_E0000003960_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "東武鉄道子会社を業務上過失致死容疑で捜索 4人死亡事故 警察",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 10:49:07 +0900",
+      "time": "Sun, 23 Aug 2026 12:19:12 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45737/20260823de45737_E0000015242_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風20号の影響 沖縄 八重山地方で線状降水帯発生のおそれ",
+      "text": "台風20号 沖縄 先島諸島で大雨 線状降水帯発生のおそれ",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 06:06:00 +0900",
+      "time": "Sun, 23 Aug 2026 11:51:57 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45798/20260823de45798_E0000015197_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR山手線で人身事故 全線で運転見合わせ",
+      "text": "大分では40度の酷暑日予想 熊本も危険な暑さに",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 11:39:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45829/20260823de45829_E0000015251_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 12:22:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45805/20260823de45805_E0000015284_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ICC赤根所長「存続確保に力を」と日本への期待示す",
+      "text": "米は制裁で圧力強化へ イラン“米に協力した国は敵と見なす”",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 08:17:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45804/20260823de45804_E0000015215_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "りくりゅう 三浦さんと木原さん婚約 フィギュアペアで五輪金",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 09:33:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45815/20260823de45815_E0000015222_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本 宇城 被災地で外国人支援へ 仮設シャワー設置に向け調査",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 08:28:16 +0900"
+      "time": "Sun, 23 Aug 2026 11:44:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45821/20260823de45821_E0000015264_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 07:14:45 +0900"
+      "time": "Sun, 23 Aug 2026 07:14:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【被害情報まとめ】地震 埼玉県や神奈川県などで複数のけが人",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 12:24:39 +0900"
     }
   ]
 }
