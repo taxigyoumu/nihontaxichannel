@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-23 21:32",
+  "updated_at": "2026-08-23 22:29",
   "has_alert": false,
   "items": [
     {
@@ -15,8 +15,8 @@
       "label": "ニュース",
       "text": "台風20号 先島諸島で大雨 台風18号 25日から沖縄 奄美に接近へ",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 21:13:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45798/20260823de45798_E0000015450_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 21:13:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45798/20260823de45798_E0000015454_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,10 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「シベリア抑留」追悼式 元抑留者や遺族“実態解明を”",
+      "text": "専門家 “関東の地下にある「地震の巣」で発生 備え確認を”",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 18:29:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45875/20260823de45875_E0000015362_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 18:57:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45881/20260823de45881_E0000015361_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉豪雨 水につかった車多数 JAFにレッカー対応依頼相次ぐ",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 21:02:11 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "報道写真家の石川文洋さん死去 ベトナム戦争など最前線で取材",
       "source": "NHK",
       "time": "Sun, 23 Aug 2026 18:13:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アメリカ建国250年記念し自動車レース トランプ氏が開催推進",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 14:03:40 +0900"
     }
   ]
 }
