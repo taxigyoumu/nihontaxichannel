@@ -1,22 +1,14 @@
 {
-  "updated_at": "2026-08-23 18:51",
+  "updated_at": "2026-08-23 19:19",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東武鉄道子会社を業務上過失致死容疑で捜索 4人死亡事故 警察",
+      "text": "東武鉄道4人死亡事故 事故当日3本の列車は問題なく通過か",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 13:29:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45737/20260823de45737_E0000015242_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "報道写真家の石川文洋さん死去 ベトナム戦争など最前線で取材",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 18:13:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45876/20260823de45876_E0000015357_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 18:59:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45877/20260823de45877_E0000015365_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "「シベリア抑留」追悼式 元抑留者や遺族“実態解明を”",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 18:29:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45875/20260823de45875_E0000015362_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "報道写真家の石川文洋さん死去 ベトナム戦争など最前線で取材",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 18:13:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45876/20260823de45876_E0000015357_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "千葉豪雨 浸水被害多数の大網白里市でNPOが住宅片づけの説明会",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 16:29:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45871/20260823de45871_E0000015333_1_l.jpg"
+      "time": "Sun, 23 Aug 2026 16:29:56 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "茨城 東京 埼玉 千葉で震度5弱 気象庁“今後1週間程度は注意”",
+      "text": "アメリカ建国250年記念し自動車レース トランプ氏が開催推進",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 07:14:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【被害情報まとめ】地震 埼玉県や神奈川県などで複数のけが人",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 17:47:20 +0900"
+      "time": "Sun, 23 Aug 2026 14:03:40 +0900"
     }
   ]
 }
