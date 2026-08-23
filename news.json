@@ -1,14 +1,35 @@
 {
-  "updated_at": "2026-08-24 06:17",
-  "has_alert": false,
+  "updated_at": "2026-08-24 06:45",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-23T21:31:05Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-23T21:31:05Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-23T21:30:40Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東武鉄道4人死亡事故 複数のミス重なった疑い 警察 経緯解明へ",
+      "text": "大分で39度予想 熊本も危険な暑さに 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 05:20:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45906/20260823de45906_E0000015486_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 06:18:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45898/20260823de45898_E0000015491_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,18 +42,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "経産省など 家事支援・ベビーシッター利用の税制優遇を要望へ",
+      "text": "東武鉄道4人死亡事故 複数のミス重なった疑い 警察 経緯解明へ",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 05:26:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45888/20260823de45888_E0000015429_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 05:20:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45906/20260823de45906_E0000015486_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "24日は大分で40度予想 西・東日本で猛烈な暑さか 熱中症対策を",
+      "text": "経産省など 家事支援・ベビーシッター利用の税制優遇を要望へ",
       "source": "NHK",
-      "time": "Sun, 23 Aug 2026 21:03:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45805/20260823de45805_E0000015419_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 05:26:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45888/20260823de45888_E0000015429_1_l.jpg"
     },
     {
       "category": "news",
