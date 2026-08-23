@@ -1,35 +1,7 @@
 {
-  "updated_at": "2026-08-23 16:30",
+  "updated_at": "2026-08-23 16:57",
   "has_alert": true,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。飛騨地方では、低い土地の浸水に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T07:28:19Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や竜巻などの激しい突風、落雷に注意してください。飛騨地方では、低い土地の浸水に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T07:28:19Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】飛騨地方では、低い土地の浸水や河川の増水に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T07:28:16Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県土砂災害警報・注意報】岐阜県では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-23T07:28:16Z"
-    },
     {
       "category": "quake",
       "label": "地震",
@@ -64,18 +36,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ建国250年記念し自動車レース トランプ氏が開催推進",
-      "source": "NHK",
-      "time": "Sun, 23 Aug 2026 14:03:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45833/20260823de45833_E0000015303_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "ウクライナがロシア物流施設など攻撃 ロシアは攻撃強化を強調",
       "source": "NHK",
       "time": "Sun, 23 Aug 2026 14:17:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45733/20260823de45733_E0000015268_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉豪雨 浸水被害多数の大網白里市でNPOが住宅片づけの説明会",
+      "source": "NHK",
+      "time": "Sun, 23 Aug 2026 16:29:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45871/20260823de45871_E0000015333_1_l.jpg"
     },
     {
       "category": "news",
