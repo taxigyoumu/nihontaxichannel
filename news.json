@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-24 21:42",
+  "updated_at": "2026-08-24 22:48",
   "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T12:59:32Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T12:59:32Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T12:59:20Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -42,10 +63,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 藏内勇夫議長が議員辞職願を提出",
+      "text": "多摩川の河口付近で「船が座礁」通報 複数人がけが",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 18:30:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45934/20260824de45934_E0000015503_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 19:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46068/20260824de46068_E0000016030_1_l.jpg"
     },
     {
       "category": "news",
