@@ -1,21 +1,22 @@
 {
-  "updated_at": "2026-08-24 13:40",
-  "has_alert": true,
+  "updated_at": "2026-08-24 14:34",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日１２時５４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-24T03:57:23Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "売春めぐり相手方も規制を 法務省検討会が報告書案",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 12:39:48 +0900",
+      "time": "Mon, 24 Aug 2026 14:24:24 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45962/20260824de45962_E0000015599_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "スズキ 軽乗用車のEV公開 参入相次ぎ普及なるか",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 14:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45955/20260824de45955_E0000015631_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,40 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "綿貫民輔 元衆院議長が死去 99歳",
+      "text": "熊本地震 氷川町 断水解消で豆腐店が営業再開",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 12:43:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45968/20260824de45968_E0000015598_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡県議会 藏内勇夫議長 議員辞職する意向を表明",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 12:17:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45934/20260824de45934_E0000015503_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "相模原 高校生死亡 暴行加えられたようなあと 事件とみて捜査",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 13:33:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45952/20260824de45952_E0000015550_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 13:35:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45954/20260824de45954_E0000015581_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "イラン革命防衛隊報道官「米が軍事面での敗北認めたに等しい」",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 12:32:34 +0900"
+      "time": "Mon, 24 Aug 2026 14:30:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45942/20260824de45942_E0000015532_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨 災害で出た廃棄物の戸別回収が始まる",
+      "text": "福岡県議会 藏内勇夫議長 議員辞職する意向を表明",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 12:02:19 +0900"
+      "time": "Mon, 24 Aug 2026 14:17:50 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "相模原 高校生死亡 暴行加えられたようなあと 事件とみて捜査",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 13:33:44 +0900"
     }
   ]
 }
