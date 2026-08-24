@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-24 08:44",
+  "updated_at": "2026-08-24 10:04",
   "has_alert": true,
   "items": [
     {
@@ -8,6 +8,14 @@
       "text": "【震源・震度情報】２４日０８時１２分ころ、地震がありました。",
       "source": "気象庁",
       "time": "2026-08-23T23:15:50Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福岡県議会 藏内勇夫議長 議員辞職する意向を表明",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 09:15:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45934/20260824de45934_E0000015505_1_l.jpg"
     },
     {
       "category": "news",
@@ -46,8 +54,7 @@
       "label": "ニュース",
       "text": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 05:10:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45895/20260823de45895_E0000015446_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 05:10:35 +0900"
     },
     {
       "category": "news",
@@ -55,13 +62,6 @@
       "text": "秋篠宮ご夫妻 イグアスで移住者ねぎらう",
       "source": "NHK",
       "time": "Mon, 24 Aug 2026 05:38:50 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ブルージェイズ 岡本和真 9試合連続ヒット チームは敗戦",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 08:26:55 +0900"
     }
   ]
 }
