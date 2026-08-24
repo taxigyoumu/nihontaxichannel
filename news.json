@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-25 02:58",
+  "updated_at": "2026-08-25 03:48",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２５日０３時０７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-24T18:10:40Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -16,6 +23,14 @@
       "source": "NHK",
       "time": "Tue, 25 Aug 2026 01:01:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46093/20260825de46093_E0000016069_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米財務長官“イランと取り引きある企業などに大規模経済制裁”",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 03:16:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46098/20260825de46098_E0000016071_1_l.jpg"
     },
     {
       "category": "news",
@@ -40,14 +55,6 @@
       "source": "NHK",
       "time": "Mon, 24 Aug 2026 23:35:25 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46042/20260824de46042_E0000016043_2_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "EUがウクライナ支援1兆円承認 英は巡航ミサイル部品の機密開示",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 21:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46076/20260824de46076_E0000016049_1_l.jpg"
     },
     {
       "category": "news",
