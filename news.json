@@ -1,27 +1,13 @@
 {
-  "updated_at": "2026-08-24 20:53",
+  "updated_at": "2026-08-24 21:42",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-24T11:40:21Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-24T11:40:21Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-24T11:40:09Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日２１時２８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-24T12:31:31Z"
     },
     {
       "category": "quake",
@@ -36,14 +22,6 @@
       "text": "【震源・震度情報】２４日２０時３２分ころ、地震がありました。",
       "source": "気象庁",
       "time": "2026-08-24T11:35:25Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "羽田空港の沖合で船が座礁か 警察などが確認進める",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 19:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46068/20260824de46068_E0000016030_1_l.jpg"
     },
     {
       "category": "news",
@@ -72,17 +50,25 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "損保ジャパン 自動車保険料を来年1月に平均5％引き上げ",
+      "text": "ウクライナ 侵攻から4年半の独立記念日 大統領“戦い続ける”",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 19:37:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46045/20260824de46045_E0000015986_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 20:57:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46042/20260824de46042_E0000016043_2_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "EUがウクライナ支援1兆円承認 英は巡航ミサイル部品の機密開示",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 21:06:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46076/20260824de46076_E0000016049_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "近畿で39度超 25日は熊本・大分など「酷暑日」に 熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 20:35:08 +0900"
+      "time": "Mon, 24 Aug 2026 21:17:59 +0900"
     },
     {
       "category": "news",
