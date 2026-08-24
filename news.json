@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-24 16:54",
-  "has_alert": false,
+  "updated_at": "2026-08-24 17:43",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T08:41:25Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、低い土地の浸水に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T08:41:25Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】美濃地方では、低い土地の浸水や河川の増水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T08:41:14Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,6 +30,14 @@
       "source": "NHK",
       "time": "Mon, 24 Aug 2026 16:50:20 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45934/20260824de45934_E0000015503_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "群馬 沼田市・川場村にレベル４大雨土砂災害危険警報",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 17:40:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46027/20260824de46027_E0000004051_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,10 +50,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "SNSチャット勧誘にもクーリング・オフ拡大案 消費者庁検討会",
+      "text": "台風18号 あす以降 沖縄・奄美に接近 猛烈な風のおそれ 備えを",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 16:36:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46006/20260824de46006_E0000015820_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 17:17:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45899/20260823de45899_E0000015879_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,10 +66,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "木原官房長官 内閣改造・自民党役員人事「高市首相が決める」",
+      "text": "サッカー日本代表 小川航基 FC町田ゼルビアに移籍で合意",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 15:27:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45982/20260824de45982_E0000015661_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 17:15:19 +0900"
     },
     {
       "category": "news",
@@ -48,13 +76,6 @@
       "text": "売春めぐり相手方も規制を 法務省検討会が報告書案",
       "source": "NHK",
       "time": "Mon, 24 Aug 2026 14:24:24 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "茂木外相“ICC所長赤根氏は日本の国際司法 役割強化の表れ”",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 16:17:02 +0900"
     }
   ]
 }
