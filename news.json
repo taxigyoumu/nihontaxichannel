@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-24 14:34",
+  "updated_at": "2026-08-24 15:51",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "近畿で39度超 熊本も猛烈な暑さに 熱中症対策の徹底を",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 15:08:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45898/20260823de45898_E0000015491_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,34 +21,33 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スズキ 軽乗用車のEV公開 参入相次ぎ普及なるか",
+      "text": "木原官房長官 北朝鮮対応でアメリカ政府などと緊密連携",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 14:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45955/20260824de45955_E0000015631_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 15:18:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45974/20260824de45974_E0000015630_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大分で39度予想 熊本も危険な暑さに 熱中症対策の徹底を",
+      "text": "北朝鮮国営メディア 高市首相の靖国神社へのよう拝など非難",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 12:21:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45898/20260823de45898_E0000015491_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 15:10:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45996/20260824de45996_E0000015769_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 氷川町 断水解消で豆腐店が営業再開",
+      "text": "相模原 男子高校生死亡 暴行加えられたか 事件とみて捜査",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 13:35:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45954/20260824de45954_E0000015581_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 15:04:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45952/20260824de45952_E0000015550_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イラン革命防衛隊報道官「米が軍事面での敗北認めたに等しい」",
+      "text": "小野田大臣“サイバー攻撃事案など踏まえ必要な予算確保を”",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 14:30:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45942/20260824de45942_E0000015532_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 15:24:10 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "福岡県議会 藏内勇夫議長 議員辞職する意向を表明",
       "source": "NHK",
       "time": "Mon, 24 Aug 2026 14:17:50 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "相模原 高校生死亡 暴行加えられたようなあと 事件とみて捜査",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 13:33:44 +0900"
     }
   ]
 }
