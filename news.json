@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-25 05:58",
-  "has_alert": false,
+  "updated_at": "2026-08-25 06:35",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T21:08:01Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T21:08:01Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T21:07:47Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -29,10 +50,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "近畿で39度超 25日は熊本・大分など「酷暑日」に 熱中症対策を",
+      "text": "熊本 大分など「酷暑日」予想 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 22:52:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45898/20260823de45898_E0000015865_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 06:23:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46075/20260824de46075_E0000016067_1_l.jpg"
     },
     {
       "category": "news",
