@@ -1,21 +1,30 @@
 {
-  "updated_at": "2026-08-24 10:04",
-  "has_alert": true,
+  "updated_at": "2026-08-24 11:43",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日０８時１２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-23T23:15:50Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "相模原 17歳男子高校生が死亡 繰り返し殴られたような跡",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 11:14:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45952/20260824de45952_E0000015554_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "福岡県議会 藏内勇夫議長 議員辞職する意向を表明",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 09:15:00 +0900",
+      "time": "Mon, 24 Aug 2026 10:58:57 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45934/20260824de45934_E0000015505_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中古マンション価格 東京23区は2か月連続下落 都心は頭打ちか?",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 11:00:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45945/20260824de45945_E0000015539_1_l.jpg"
     },
     {
       "category": "news",
@@ -38,30 +47,14 @@
       "label": "ニュース",
       "text": "東武鉄道4人死亡事故 複数のミス重なった疑い 警察 経緯解明へ",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 05:20:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45906/20260823de45906_E0000015486_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 05:20:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 大谷翔平 盗塁決め先制点につなげる チーム6連勝",
+      "text": "女子ゴルフ 米ツアー最終ラウンド 山下美夢有が優勝 今季2勝目",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 08:32:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45904/20260823de45904_E0000003503_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "新方式で国産初の量子コンピューター稼働開始 分子科学研究所",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 05:10:35 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋篠宮ご夫妻 イグアスで移住者ねぎらう",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 05:38:50 +0900"
+      "time": "Mon, 24 Aug 2026 11:02:22 +0900"
     }
   ]
 }
