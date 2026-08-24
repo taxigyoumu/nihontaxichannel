@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-24 23:37",
-  "has_alert": false,
+  "updated_at": "2026-08-25 00:35",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日２３時４７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-24T14:50:09Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -21,9 +28,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "多摩川の河口付近で「船が座礁」通報 複数人がけが",
+      "text": "多摩川の河口付近で「クルーザーが座礁」9人けが　うち2人重傷",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 19:47:00 +0900",
+      "time": "Mon, 24 Aug 2026 23:51:32 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46068/20260824de46068_E0000016030_1_l.jpg"
     },
     {
@@ -52,9 +59,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 あす以降 沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+      "text": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 17:17:01 +0900"
+      "time": "Tue, 25 Aug 2026 00:12:54 +0900"
     }
   ]
 }
