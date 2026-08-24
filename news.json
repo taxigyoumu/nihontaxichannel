@@ -1,22 +1,41 @@
 {
-  "updated_at": "2026-08-24 20:24",
-  "has_alert": false,
+  "updated_at": "2026-08-24 20:53",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "相模原 男子高校生死亡 直前に車に追いかけられたか捜査",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 19:31:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46033/20260824de46033_E0000015936_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T11:40:21Z"
     },
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "近畿で39度超 25日は熊本・大分など「酷暑日」に 熱中症対策を",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 19:03:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45898/20260823de45898_E0000015865_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T11:40:21Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-24T11:40:09Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日２０時３３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-24T11:37:54Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日２０時３２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-24T11:35:25Z"
     },
     {
       "category": "news",
@@ -29,10 +48,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "おせち商戦 デパート各社 物価高で価格抑えた商品販売にも力",
+      "text": "相模原 男子高校生死亡 直前に車に追いかけられたか捜査",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 19:41:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46001/20260824de46001_E0000015869_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 19:31:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46033/20260824de46033_E0000015936_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "静岡 田久保前市長側が無罪主張へ「卒業証書は第三者が作成」",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 19:53:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46051/20260824de46051_E0000016016_1_l.jpg"
     },
     {
       "category": "news",
@@ -45,16 +72,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 あす以降 沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+      "text": "損保ジャパン 自動車保険料を来年1月に平均5％引き上げ",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 17:17:01 +0900"
+      "time": "Mon, 24 Aug 2026 19:37:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46045/20260824de46045_E0000015986_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "群馬 沼田市・川場村にレベル４大雨土砂災害危険警報",
+      "text": "近畿で39度超 25日は熊本・大分など「酷暑日」に 熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 17:40:00 +0900"
+      "time": "Mon, 24 Aug 2026 20:35:08 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風18号 あす以降 沖縄・奄美に接近 猛烈な風のおそれ 備えを",
+      "source": "NHK",
+      "time": "Mon, 24 Aug 2026 17:17:01 +0900"
     }
   ]
 }
