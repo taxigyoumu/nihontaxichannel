@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 00:35",
+  "updated_at": "2026-08-25 01:32",
   "has_alert": true,
   "items": [
     {
@@ -8,6 +8,14 @@
       "text": "【震源・震度情報】２４日２３時４７分ころ、地震がありました。",
       "source": "気象庁",
       "time": "2026-08-24T14:50:09Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イオンモール爆発事故 雑貨店運営会社 遺族に事実と異なる説明",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 01:01:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46093/20260825de46093_E0000016069_1_l.jpg"
     },
     {
       "category": "news",
@@ -24,14 +32,6 @@
       "source": "NHK",
       "time": "Mon, 24 Aug 2026 19:53:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46051/20260824de46051_E0000016016_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "多摩川の河口付近で「クルーザーが座礁」9人けが　うち2人重傷",
-      "source": "NHK",
-      "time": "Mon, 24 Aug 2026 23:51:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46068/20260824de46068_E0000016030_1_l.jpg"
     },
     {
       "category": "news",
