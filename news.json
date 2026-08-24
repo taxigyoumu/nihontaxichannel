@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-08-25 06:35",
-  "has_alert": true,
+  "updated_at": "2026-08-25 07:22",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-24T21:08:01Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-24T21:08:01Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-24T21:07:47Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -30,6 +9,30 @@
       "source": "NHK",
       "time": "Tue, 25 Aug 2026 01:01:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46093/20260825de46093_E0000016069_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "岐阜 大野町 住宅で成人とみられる3人の遺体見つかる",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 06:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46099/20260825de46099_E0000016079_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "新潟 阿賀野 巨大な灯籠押し合う催しで男子高校生が挟まれ死亡",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 07:02:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46103/20260825de46103_E0000016078_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米財務長官“イランと取り引きある企業などに大規模経済制裁”",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 07:19:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46098/20260825de46098_E0000016071_1_l.jpg"
     },
     {
       "category": "news",
@@ -42,40 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米財務長官“イランと取り引きある企業などに大規模経済制裁”",
+      "text": "台風18号 沖縄の大東島地方が暴風域に 暴風や高波に厳重警戒",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 05:00:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46098/20260825de46098_E0000016071_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 05:42:29 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本 大分など「酷暑日」予想 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 06:23:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46075/20260824de46075_E0000016067_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風18号 25日以降沖縄・奄美に接近 猛烈な風のおそれ 備えを",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 00:12:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260823de45899/20260823de45899_E0000015879_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "除染土再生利用 さいたま市と仙台市の国の出先機関でも 都外初",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 05:08:10 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡県議会 藏内議長25日辞職の見通し 会派離脱の議員も",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 05:26:44 +0900"
+      "time": "Tue, 25 Aug 2026 06:23:04 +0900"
     }
   ]
 }
