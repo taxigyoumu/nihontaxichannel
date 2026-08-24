@@ -1,49 +1,7 @@
 {
-  "updated_at": "2026-08-24 22:48",
-  "has_alert": true,
+  "updated_at": "2026-08-24 23:37",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-24T12:59:32Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-24T12:59:32Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県土砂災害警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-24T12:59:20Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日２１時２８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-24T12:31:31Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日２０時３３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-24T11:37:54Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日２０時３２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-24T11:35:25Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -55,9 +13,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "静岡 田久保前市長側が無罪主張へ「卒業証書は第三者が作成」",
+      "text": "田久保前伊東市長側が無罪主張へ「卒業証書は第三者が作成」",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 19:53:20 +0900",
+      "time": "Mon, 24 Aug 2026 19:53:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46051/20260824de46051_E0000016016_1_l.jpg"
     },
     {
@@ -73,7 +31,7 @@
       "label": "ニュース",
       "text": "ウクライナ 侵攻から4年半の独立記念日 大統領“戦い続ける”",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 20:57:13 +0900",
+      "time": "Mon, 24 Aug 2026 23:35:25 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46042/20260824de46042_E0000016043_2_l.jpg"
     },
     {
@@ -89,7 +47,7 @@
       "label": "ニュース",
       "text": "近畿で39度超 25日は熊本・大分など「酷暑日」に 熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 21:17:59 +0900"
+      "time": "Mon, 24 Aug 2026 22:52:18 +0900"
     },
     {
       "category": "news",
