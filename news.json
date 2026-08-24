@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-24 12:51",
-  "has_alert": false,
+  "updated_at": "2026-08-24 13:40",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日１２時５４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-24T03:57:23Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -37,10 +44,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "相模原 17歳男子高校生が死亡 繰り返し殴られたような跡",
+      "text": "相模原 高校生死亡 暴行加えられたようなあと 事件とみて捜査",
       "source": "NHK",
-      "time": "Mon, 24 Aug 2026 11:14:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45952/20260824de45952_E0000015554_1_l.jpg"
+      "time": "Mon, 24 Aug 2026 13:33:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de45952/20260824de45952_E0000015550_1_l.jpg"
     },
     {
       "category": "news",
