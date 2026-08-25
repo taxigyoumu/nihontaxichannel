@@ -1,49 +1,35 @@
 {
-  "updated_at": "2026-08-26 04:56",
+  "updated_at": "2026-08-26 05:27",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日０４時４６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-25T19:49:34Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日０４時０９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-25T19:11:50Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日０３時２０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-25T18:23:16Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象解説情報（落雷・突風）】岐阜県では、２６日昼過ぎから２７日夜遅くにかけて、竜巻などの激しい突風、落雷、急な強い雨に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-25T20:16:38Z"
     },
     {
       "category": "quake",
       "label": "地震",
       "text": "【遠地地震に関する情報】２５日１８時４０分ころ、海外で規模の大きな地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-25T17:30:08Z"
+      "time": "2026-08-25T20:00:08Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 鹿児島県や沖縄本島に最接近 奄美では線状降水帯発生",
+      "text": "台風18号 鹿児島 奄美や沖縄本島を暴風域に巻き込んで西へ",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 03:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000016980_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 05:23:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000016982_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "南太平洋 バヌアツ諸島で大規模噴火 目立った潮位変化なし",
+      "text": "南太平洋 バヌアツ諸島で火山噴火 津波の心配なし",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 00:09:00 +0900",
+      "time": "Wed, 26 Aug 2026 05:25:48 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46314/20260825de46314_E0000004023_1_l.jpg"
     },
     {
@@ -57,18 +43,25 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ支援有志連合の首脳会合 防空支援強化で一致",
+      "text": "「百日せき」患者増の2か月前に下水調査で流行の兆し 阪大など",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 22:13:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46077/20260824de46077_E0000016083_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 04:48:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46306/20260825de46306_E0000016938_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "政府 エネルギー安定確保で新計画 代替パイプライン建設支援",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 05:06:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46331/20260826de46331_E0000016978_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 19:31:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46130/20260825de46130_E0000016321_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 19:31:55 +0900"
     },
     {
       "category": "news",
@@ -76,13 +69,6 @@
       "text": "来年度予算案で国債費を過去最大36兆円要求へ 財務省",
       "source": "NHK",
       "time": "Tue, 25 Aug 2026 22:27:09 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "農水副大臣がAPEC会合で中国閣僚とことば交わす",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 22:01:59 +0900"
     }
   ]
 }
