@@ -1,7 +1,21 @@
 {
-  "updated_at": "2026-08-25 23:41",
-  "has_alert": false,
+  "updated_at": "2026-08-26 00:38",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【遠地地震に関する情報】２５日１８時４０分ころ、海外で規模の大きな地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-25T15:00:04Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２５日２３時４４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-25T14:47:02Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,10 +27,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 鹿児島 奄美地方や沖縄本島地方に最接近 厳重警戒を",
+      "text": "台風18号 鹿児島 奄美地方や沖縄本島に最接近 線状降水帯発生",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 22:51:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016802_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 23:58:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016970_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "南太平洋 バヌアツ諸島で大規模噴火 目立った潮位変化なし",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 00:09:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46314/20260825de46314_E0000004023_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,8 +61,7 @@
       "label": "ニュース",
       "text": "【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 19:31:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46130/20260825de46130_E0000016321_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 19:31:55 +0900"
     },
     {
       "category": "news",
@@ -48,13 +69,6 @@
       "text": "来年度予算案で国債費を過去最大36兆円要求へ 財務省",
       "source": "NHK",
       "time": "Tue, 25 Aug 2026 22:27:09 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "南太平洋 バヌアツ諸島で大規模噴火 日本への津波の有無調査",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 23:40:12 +0900"
     }
   ]
 }
