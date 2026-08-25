@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 18:31",
+  "updated_at": "2026-08-25 19:27",
   "has_alert": true,
   "items": [
     {
@@ -26,56 +26,56 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【震度速報】 北海道で震度3",
+      "text": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近 厳重警戒を",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 18:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46272/20260825de46272_E0000016738_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 19:12:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016802_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近へ 厳重警戒を",
+      "text": "西日本では39度超の危険な暑さに 夜間も熱中症対策を",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 17:30:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016630_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "西日本では39度超 危険な暑さに 北海道では大雨",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 17:46:46 +0900",
+      "time": "Tue, 25 Aug 2026 19:24:42 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46075/20260824de46075_E0000016512_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 激甚災害対象追加見込み 災害公営住宅建設など支援へ",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 16:39:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46206/20260825de46206_E0000016466_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉豪雨 千葉市長が激甚災害早期指定含め財政負担軽減を要請",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 16:24:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46204/20260825de46204_E0000016453_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 17:16:56 +0900"
+      "time": "Tue, 25 Aug 2026 18:47:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46130/20260825de46130_E0000016321_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 藏内議長の議員辞職願を許可 きょう付けの辞職決定",
+      "text": "熊本 宇城 ラグビー五郎丸さんが子どもと交流【被災地の動き】",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 16:58:33 +0900"
+      "time": "Tue, 25 Aug 2026 18:54:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46129/20260825de46129_E0000016779_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ことしの新米の「概算金」 大幅引き下げ相次ぐ 値下がり傾向か",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 19:09:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46183/20260825de46183_E0000016688_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "正岡子規 未発表の2句見つかる 新年の心情込めた俳句など",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 19:06:14 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "文科省 来年度予算案の概算要求で過去最大の8兆8000億円",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 18:36:18 +0900"
     }
   ]
 }
