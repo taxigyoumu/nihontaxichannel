@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-26 08:21",
-  "has_alert": false,
+  "updated_at": "2026-08-26 08:48",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日０８時３３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-25T23:36:00Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
