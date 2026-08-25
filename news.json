@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 08:45",
+  "updated_at": "2026-08-25 10:03",
   "has_alert": true,
   "items": [
     {
@@ -14,7 +14,7 @@
       "label": "ニュース",
       "text": "イオンモール爆発事故 雑貨店運営会社 遺族に事実と異なる説明",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 01:01:44 +0900",
+      "time": "Tue, 25 Aug 2026 01:01:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46093/20260825de46093_E0000016069_1_l.jpg"
     },
     {
@@ -22,7 +22,7 @@
       "label": "ニュース",
       "text": "相模原 高校生死亡 車に追われ農道逃げ込んだあと暴行受けたか",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 07:56:35 +0900",
+      "time": "Tue, 25 Aug 2026 07:56:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46081/20260824de46081_E0000016057_1_l.jpg"
     },
     {
@@ -38,7 +38,7 @@
       "label": "ニュース",
       "text": "米財務長官“イランと取り引きある企業などに大規模経済制裁”",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 07:19:29 +0900",
+      "time": "Tue, 25 Aug 2026 09:23:54 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46098/20260825de46098_E0000016071_1_l.jpg"
     },
     {
@@ -46,22 +46,22 @@
       "label": "ニュース",
       "text": "トランプ大統領 カナダの自動車などへの追加関税を50％に",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 07:23:49 +0900",
+      "time": "Tue, 25 Aug 2026 09:24:56 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46101/20260825de46101_E0000016075_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 沖縄の大東島地方が暴風域に 暴風や高波に厳重警戒",
+      "text": "台風18号 沖縄の大東島地方に最接近 厳重警戒",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 07:58:54 +0900"
+      "time": "Tue, 25 Aug 2026 09:17:36 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本 大分など「酷暑日」予想 熱中症対策の徹底を",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 08:34:35 +0900"
+      "time": "Tue, 25 Aug 2026 09:26:21 +0900"
     }
   ]
 }
