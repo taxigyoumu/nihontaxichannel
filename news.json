@@ -1,14 +1,28 @@
 {
-  "updated_at": "2026-08-25 14:27",
-  "has_alert": false,
+  "updated_at": "2026-08-25 14:58",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２５日１４時５０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-25T05:53:14Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２５日１４時２９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-25T05:32:37Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
       "source": "NHK",
       "time": "Tue, 25 Aug 2026 13:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000016401_1_l.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000004046_1_l.jpg"
     },
     {
       "category": "news",
