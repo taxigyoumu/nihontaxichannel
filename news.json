@@ -1,44 +1,14 @@
 {
-  "updated_at": "2026-08-25 16:45",
-  "has_alert": true,
+  "updated_at": "2026-08-25 17:37",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２５日１４時５０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-25T05:53:14Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２５日１４時２９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-25T05:32:37Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本 災害対策本部の会議【午後4時からライブ配信】",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 15:45:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46198/20260825de46198_E0000016432_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 16:29:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000016460_1_l.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近へ 厳重警戒を",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 15:54:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016463_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 17:30:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016630_1_l.jpg"
     },
     {
       "category": "news",
@@ -51,6 +21,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "熊本地震 激甚災害対象追加見込み 災害公営住宅建設など支援へ",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 16:39:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46206/20260825de46206_E0000016466_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "千葉豪雨 千葉市長が激甚災害早期指定含め財政負担軽減を要請",
       "source": "NHK",
       "time": "Tue, 25 Aug 2026 16:24:23 +0900",
@@ -59,16 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民税調 消費税1％へ議論開始 9月半ばまでに税制改正大綱",
+      "text": "【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 15:51:52 +0900"
+      "time": "Tue, 25 Aug 2026 17:16:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46130/20260825de46130_E0000016321_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ホワイトソックス 村上宗隆 2試合ぶりヒットもチームは敗れる",
+      "text": "福岡県議会 藏内議長の議員辞職願を許可 きょう付けの辞職決定",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 15:16:31 +0900"
+      "time": "Tue, 25 Aug 2026 16:58:33 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "川崎市の製鉄所高炉などの跡地で冷凍食品保管施設建設へ",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 17:01:08 +0900"
     }
   ]
 }
