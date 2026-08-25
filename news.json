@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-25 20:35",
+  "updated_at": "2026-08-25 22:46",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【遠地地震に関する情報】２５日１８時４０分ころ、海外で規模の大きな地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-25T11:35:07Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -12,18 +19,26 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
+      "text": "台風18号 鹿児島 奄美地方や沖縄本島地方に最接近 厳重警戒を",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 19:37:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000016909_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 22:29:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016802_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近 厳重警戒を",
+      "text": "鹿児島 奄美地方に線状降水帯発生のおそれ 直前予測を発表",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 20:28:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016802_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 21:34:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46317/20260825de46317_E0000003982_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 20:42:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000016909_1_l.jpg"
     },
     {
       "category": "news",
@@ -32,14 +47,6 @@
       "source": "NHK",
       "time": "Tue, 25 Aug 2026 19:29:48 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46075/20260824de46075_E0000016512_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本 宇城 ラグビー五郎丸さんが子どもと交流【被災地の動き】",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 18:54:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46129/20260825de46129_E0000016779_1_l.jpg"
     },
     {
       "category": "news",
@@ -59,9 +66,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "正岡子規 未発表の2句見つかる 新年の心情込めた俳句など",
+      "text": "南太平洋 バヌアツ諸島で大規模噴火 日本への津波の有無調査",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 19:06:14 +0900"
+      "time": "Tue, 25 Aug 2026 20:56:00 +0900"
     }
   ]
 }
