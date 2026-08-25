@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-25 14:58",
+  "updated_at": "2026-08-25 15:57",
   "has_alert": true,
   "items": [
     {
@@ -21,24 +21,32 @@
       "label": "ニュース",
       "text": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 13:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000004046_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 15:13:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000016460_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 沖縄の大東島地方が暴風域に 厳重警戒を",
+      "text": "台風18号 鹿児島 奄美地方や沖縄本島地方に接近へ 厳重警戒を",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 13:29:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016331_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 15:54:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46074/20260824de46074_E0000016463_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 藏内議長「本日議員辞職する」理由説明せず",
+      "text": "西日本では38度超 危険な暑さに 熱中症対策徹底を",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 12:52:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46168/20260825de46168_E0000016293_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 15:08:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46075/20260824de46075_E0000016147_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "赤澤経産相“イオンモール爆発”めぐり 事故調査委員会設置へ",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 15:29:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46181/20260825de46181_E0000016359_1_l.jpg"
     },
     {
       "category": "news",
@@ -51,24 +59,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "各地で猛烈な暑さ 九州「酷暑日」予想も 熱中症対策徹底を",
+      "text": "新「マイナアプリ」提供開始 行政手続きを簡素化 デジタル庁",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 12:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46075/20260824de46075_E0000016147_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 15:34:27 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税 「総額表示」に特例検討へ 事業者負担軽減で",
+      "text": "ホワイトソックス 村上宗隆 2試合ぶりヒットもチームは敗れる",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 12:14:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "政府 外国人の在留許可手数料 10月から引き上げ決定",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 14:03:30 +0900"
+      "time": "Tue, 25 Aug 2026 15:16:31 +0900"
     }
   ]
 }
