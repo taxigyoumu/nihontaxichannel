@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-26 03:41",
+  "updated_at": "2026-08-26 04:28",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日０４時０９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-25T19:11:50Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -21,8 +28,8 @@
       "label": "ニュース",
       "text": "台風18号 鹿児島県や沖縄本島に最接近 奄美では線状降水帯発生",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 03:13:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000016979_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 03:13:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000016980_1_l.jpg"
     },
     {
       "category": "news",
