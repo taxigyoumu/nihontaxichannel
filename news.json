@@ -1,28 +1,14 @@
 {
-  "updated_at": "2026-08-26 07:54",
-  "has_alert": true,
+  "updated_at": "2026-08-26 08:21",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日０５時２３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-25T20:27:15Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【遠地地震に関する情報】２５日１８時４０分ころ、海外で規模の大きな地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-25T20:00:08Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風18号 鹿児島 奄美や沖縄本島を暴風域に巻き込んで西へ",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 07:25:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000016993_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 08:08:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000016996_1_l.jpg"
     },
     {
       "category": "news",
@@ -43,18 +29,25 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "南太平洋 バヌアツ諸島で火山噴火 津波の心配なし",
+      "text": "トランプ大統領 オンタリオ湖の改称検討 カナダとの対立激化",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 05:25:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46314/20260825de46314_E0000004023_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 07:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46334/20260826de46334_E0000016981_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か 中国河北省",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 07:44:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46332/20260826de46332_E0000004049_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "妊娠中期に暑い中を過ごすと「早産」リスク高まる",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 06:09:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46320/20260825de46320_E0000016966_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 06:09:00 +0900"
     },
     {
       "category": "news",
@@ -62,13 +55,6 @@
       "text": "「百日せき」患者増の2か月前に下水調査で流行の兆し 阪大など",
       "source": "NHK",
       "time": "Wed, 26 Aug 2026 04:48:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自民 福岡県連から28日に聴き取り 早期に事態の収拾を図る",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 05:55:00 +0900"
     }
   ]
 }
