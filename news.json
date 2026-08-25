@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-08-26 02:28",
-  "has_alert": false,
+  "updated_at": "2026-08-26 02:57",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【遠地地震に関する情報】２５日１８時４０分ころ、海外で規模の大きな地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-25T17:30:08Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
