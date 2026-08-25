@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 05:56",
+  "updated_at": "2026-08-26 07:54",
   "has_alert": true,
   "items": [
     {
@@ -21,8 +21,24 @@
       "label": "ニュース",
       "text": "台風18号 鹿児島 奄美や沖縄本島を暴風域に巻き込んで西へ",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 05:28:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000016982_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 07:25:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000016993_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "西・東日本で危険な暑さ予想 午後は大気の状態不安定に",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 06:52:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000016990_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高級時計窃盗事件 駅方向に逃走か 2人組の行方捜査 警視庁",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 06:19:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46322/20260825de46322_E0000016969_1_l.jpg"
     },
     {
       "category": "news",
@@ -35,40 +51,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
+      "text": "妊娠中期に暑い中を過ごすと「早産」リスク高まる",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 20:42:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000016909_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 06:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46320/20260825de46320_E0000016966_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "「百日せき」患者増の2か月前に下水調査で流行の兆し 阪大など",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 04:48:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46306/20260825de46306_E0000016938_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 04:48:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府 エネルギー安定確保で新計画 代替パイプライン建設支援",
+      "text": "自民 福岡県連から28日に聴き取り 早期に事態の収拾を図る",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 05:06:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46331/20260826de46331_E0000016978_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 19:31:55 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "来年度予算案で国債費を過去最大36兆円要求へ 財務省",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 22:27:09 +0900"
+      "time": "Wed, 26 Aug 2026 05:55:00 +0900"
     }
   ]
 }
