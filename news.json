@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-08-25 13:35",
+  "updated_at": "2026-08-25 14:27",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中野ブロードウェイの店舗で高級時計盗まれる 被害2億円相当か",
+      "source": "NHK",
+      "time": "Tue, 25 Aug 2026 13:58:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46187/20260825de46187_E0000016401_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -39,22 +47,14 @@
       "label": "ニュース",
       "text": "消費税減税 「総額表示」に特例検討へ 事業者負担軽減で",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 12:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260824de46071/20260824de46071_E0000016045_1_l.jpg"
+      "time": "Tue, 25 Aug 2026 12:14:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨 大網白里市で車の無償貸し出し始まる",
+      "text": "政府 外国人の在留許可手数料 10月から引き上げ決定",
       "source": "NHK",
-      "time": "Tue, 25 Aug 2026 12:07:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "鹿児島 与論町 町内全域の2640世帯4873人に避難指示",
-      "source": "NHK",
-      "time": "Tue, 25 Aug 2026 10:17:56 +0900"
+      "time": "Tue, 25 Aug 2026 14:03:30 +0900"
     }
   ]
 }
