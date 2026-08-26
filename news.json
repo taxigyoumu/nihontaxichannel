@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 20:26",
+  "updated_at": "2026-08-26 20:55",
   "has_alert": true,
   "items": [
     {
@@ -44,17 +44,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 被災地で極端に雨の少ない状況 レンコンやイチゴに影響",
+      "text": "赤字続く郵便事業 持続可能なサービスのあり方検討へ 初会合",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 19:10:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46396/20260826de46396_E0000017387_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡県議会 自民県議団 藏内氏後任議長候補 9月2日絞り込みへ",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 19:04:57 +0900"
+      "time": "Wed, 26 Aug 2026 20:36:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46414/20260826de46414_E0000017510_1_l.jpg"
     },
     {
       "category": "news",
@@ -62,6 +55,13 @@
       "text": "イラン国営メディア トランプ大統領息子の命脅かす映像 米報道",
       "source": "NHK",
       "time": "Wed, 26 Aug 2026 13:06:35 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "自民 税調 消費税減税で議論 政府“農家 漁業者に給付金検討”",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 20:33:49 +0900"
     }
   ]
 }
