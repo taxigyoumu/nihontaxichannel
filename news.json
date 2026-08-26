@@ -1,88 +1,67 @@
 {
-  "updated_at": "2026-08-26 18:36",
+  "updated_at": "2026-08-26 20:26",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害や低い土地の浸水に注意してください。岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-26T09:33:32Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害や低い土地の浸水に注意してください。岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-26T09:33:32Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県土砂災害警報・注意報】美濃地方では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-26T09:33:24Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】美濃地方では、低い土地の浸水や河川の増水に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-26T09:33:24Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日２０時０４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-26T11:06:55Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ICC赤根所長トランプ政権の制裁発表後 初の会見",
+      "text": "中部電力 浜岡原発めぐり新たな不適切事案判明",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 18:11:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46462/20260826de46462_E0000017457_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 19:57:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46523/20260826de46523_E0000004046_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県で40度以上「酷暑日」に 各地で危険な暑さ 熱中症対策を",
+      "text": "ネパールで洪水 380人以上の観光客が行方不明か",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 16:27:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000017303_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 20:06:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46535/20260826de46535_E0000004046_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福岡県で40度以上の「酷暑日」に 広い範囲で熱帯夜の見込み",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 19:20:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000017577_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ政権から制裁のICC赤根所長“日本政府の役割に期待”",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 19:39:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46462/20260826de46462_E0000017520_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本 被災地で極端に雨の少ない状況 レンコンやイチゴに影響",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 19:10:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46396/20260826de46396_E0000017387_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福岡県議会 自民県議団 藏内氏後任議長候補 9月2日絞り込みへ",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 19:04:57 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "イラン国営メディア トランプ大統領息子の命脅かす映像 米報道",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 13:06:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46398/20260826de46398_E0000017116_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 16:22:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017368_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "CIA長官がモスクワ訪問か ロシアに警告の見方も",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 13:22:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46411/20260826de46411_E0000017162_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "政府 「副首都」構想で10月下旬めどに指定要件など決める方針",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 17:15:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "AI関連の展示会「フィジカルAI」に注目集まる 約100社が出展",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 13:04:23 +0900"
+      "time": "Wed, 26 Aug 2026 13:06:35 +0900"
     }
   ]
 }
