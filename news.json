@@ -1,7 +1,22 @@
 {
-  "updated_at": "2026-08-26 23:40",
-  "has_alert": false,
+  "updated_at": "2026-08-27 03:12",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２７日０２時５１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-26T17:53:48Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ネパール・中国の国境地帯で土石流 両国で98人死亡740人余不明",
+      "source": "NHK",
+      "time": "Thu, 27 Aug 2026 00:50:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46535/20260826de46535_E0000017620_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -37,24 +52,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパールで洪水 380人以上の観光客が行方不明",
+      "text": "高知 物部川でアユ大量死 猛暑や少雨で水温上昇が原因か",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 21:49:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46535/20260826de46535_E0000017620_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 00:28:55 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "相模原 男子高校生は頭部に強い衝撃で死亡か",
+      "text": "中道の立民出身議員 立民の結論踏まえ対応検討 3党合流めぐり",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 21:13:40 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ政権から制裁のICC赤根所長“日本政府の役割に期待”",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 19:39:47 +0900"
+      "time": "Wed, 26 Aug 2026 23:20:38 +0900"
     }
   ]
 }
