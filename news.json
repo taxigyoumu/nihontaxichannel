@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-08-27 03:12",
-  "has_alert": true,
+  "updated_at": "2026-08-27 05:31",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２７日０２時５１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-26T17:53:48Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "富山 東部・西部と石川 能登に「線状降水帯直前予測」",
+      "source": "NHK",
+      "time": "Thu, 27 Aug 2026 04:59:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46586/20260827de46586_E0000003982_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール・中国の国境地帯で土石流 両国で98人死亡740人余不明",
+      "text": "【地震情報】熊本 上天草で震度3 津波の心配なし",
       "source": "NHK",
-      "time": "Thu, 27 Aug 2026 00:50:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46535/20260826de46535_E0000017620_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 04:51:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46583/20260827de46583_E0000017660_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中部電力 浜岡原発の廃炉作業めぐり新たな不適切事案判明",
+      "text": "ネパール・中国の国境地帯で土石流“日本人5人と連絡取れず”",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 21:33:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46523/20260826de46523_E0000017587_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 05:05:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46576/20260827de46576_E0000004045_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県で40度以上の「酷暑日」に 広い範囲で大気不安定",
+      "text": "石川 宝達志水町 町内全域に避難指示",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 22:55:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000017577_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 04:31:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46584/20260827de46584_E0000004037_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震支援パッケージ案 観光振興で「応援割」盛り込む",
+      "text": "石川 加賀 能登で線状降水帯発生 厳重警戒を",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 23:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46561/20260826de46561_E0000017642_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 03:37:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46577/20260827de46577_E0000004033_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨から2週間 高齢者施設で復旧遅れ続く",
+      "text": "中部電力 浜岡原発の廃炉めぐる不適切事案 きょう公表へ",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 20:17:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46485/20260826de46485_E0000017471_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 04:37:25 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高知 物部川でアユ大量死 猛暑や少雨で水温上昇が原因か",
+      "text": "政府の備蓄米 9月中に買い戻しの方針 農水省が最終調整",
       "source": "NHK",
-      "time": "Thu, 27 Aug 2026 00:28:55 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中道の立民出身議員 立民の結論踏まえ対応検討 3党合流めぐり",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 23:20:38 +0900"
+      "time": "Thu, 27 Aug 2026 01:31:00 +0900"
     }
   ]
 }
