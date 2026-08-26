@@ -1,52 +1,14 @@
 {
-  "updated_at": "2026-08-26 13:35",
-  "has_alert": true,
+  "updated_at": "2026-08-26 15:41",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日１３時１３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-26T04:15:58Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日１１時３３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-26T02:36:35Z"
-    },
-    {
       "category": "news",
       "label": "ニュース",
-      "text": "西日本中心に35度以上の猛烈な暑さに 急な激しい雨にも注意を",
+      "text": "福岡県で40度以上「酷暑日」に 各地で危険な暑さ 熱中症対策を",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 12:30:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000017055_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "AI関連の展示会「フィジカルAI」に注目集まる 約100社が出展",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 13:04:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46402/20260826de46402_E0000017137_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 13:13:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017232_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース大谷 3試合ぶり安打 チーム競り負け6連勝でストップ",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 13:03:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46409/20260826de46409_E0000017121_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 15:12:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000017303_1_l.jpg"
     },
     {
       "category": "news",
@@ -59,16 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米「カントリー音楽の女王」ドリー・パートンさん死去",
+      "text": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 11:11:00 +0900"
+      "time": "Wed, 26 Aug 2026 13:13:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017232_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 JR宇土～八代で代行バス運行開始【被災地の動き】",
+      "text": "CIA長官がモスクワ訪問か ロシアに警告の見方も",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 12:46:00 +0900"
+      "time": "Wed, 26 Aug 2026 13:22:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46411/20260826de46411_E0000017162_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "木原官房長官 日中関係 “懸案と課題があるからこそ対話重要”",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 13:25:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46419/20260826de46419_E0000017210_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "AI関連の展示会「フィジカルAI」に注目集まる 約100社が出展",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 13:04:23 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース大谷 3試合ぶり安打 チーム競り負け6連勝でストップ",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 13:52:07 +0900"
     }
   ]
 }
