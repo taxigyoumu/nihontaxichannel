@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 20:55",
+  "updated_at": "2026-08-26 21:47",
   "has_alert": true,
   "items": [
     {
@@ -12,18 +12,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中部電力 浜岡原発めぐり新たな不適切事案判明",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 19:57:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46523/20260826de46523_E0000004046_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "ネパールで洪水 380人以上の観光客が行方不明か",
       "source": "NHK",
       "time": "Wed, 26 Aug 2026 20:06:38 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46535/20260826de46535_E0000004046_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中部電力 浜岡原発の廃炉作業めぐり新たな不適切事案判明",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 21:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46523/20260826de46523_E0000017587_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,17 +44,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "赤字続く郵便事業 持続可能なサービスのあり方検討へ 初会合",
+      "text": "千葉豪雨から2週間 高齢者施設で復旧遅れ続く",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 20:36:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46414/20260826de46414_E0000017510_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イラン国営メディア トランプ大統領息子の命脅かす映像 米報道",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 13:06:35 +0900"
+      "time": "Wed, 26 Aug 2026 20:17:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46485/20260826de46485_E0000017471_1_l.jpg"
     },
     {
       "category": "news",
@@ -62,6 +55,13 @@
       "text": "自民 税調 消費税減税で議論 政府“農家 漁業者に給付金検討”",
       "source": "NHK",
       "time": "Wed, 26 Aug 2026 20:33:49 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "AI開発での個人情報取得規制緩和 運用ルールづくり進める",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 21:25:54 +0900"
     }
   ]
 }
