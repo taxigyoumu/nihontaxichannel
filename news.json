@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-08-26 16:42",
-  "has_alert": true,
+  "updated_at": "2026-08-26 17:38",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日１６時３２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-26T07:36:21Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【ライブ中】ICC赤根所長トランプ政権の制裁発表後 初の会見",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 17:27:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46462/20260826de46462_E0000017453_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,10 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "法務省 概算要求で外国人在留の適正管理に807億円余",
+      "text": "政府 「副首都」構想で10月下旬めどに指定要件など決める方針",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 16:03:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46460/20260826de46460_E0000003805_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 17:15:04 +0900"
     },
     {
       "category": "news",
@@ -55,13 +55,6 @@
       "text": "AI関連の展示会「フィジカルAI」に注目集まる 約100社が出展",
       "source": "NHK",
       "time": "Wed, 26 Aug 2026 13:04:23 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース大谷 3試合ぶり安打 チーム競り負け6連勝でストップ",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 13:52:07 +0900"
     }
   ]
 }
