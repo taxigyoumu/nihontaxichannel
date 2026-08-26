@@ -1,21 +1,20 @@
 {
-  "updated_at": "2026-08-26 12:51",
+  "updated_at": "2026-08-26 13:35",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日１３時１３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-26T04:15:58Z"
+    },
     {
       "category": "quake",
       "label": "地震",
       "text": "【震源・震度情報】２６日１１時３３分ころ、地震がありました。",
       "source": "気象庁",
       "time": "2026-08-26T02:36:35Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 12:23:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017113_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,40 +27,48 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高級時計窃盗事件 2人組の男 現場にハンマー残し逃走か",
+      "text": "AI関連の展示会「フィジカルAI」に注目集まる 約100社が出展",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 11:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46385/20260826de46385_E0000017076_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 13:04:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46402/20260826de46402_E0000017137_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 オンタリオ湖の改称検討 カナダとの対立激化",
+      "text": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 07:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46334/20260826de46334_E0000016981_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 13:13:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017232_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米ルビオ長官“当面新たな攻撃なし”同盟国などに伝達 米報道",
+      "text": "ドジャース大谷 3試合ぶり安打 チーム競り負け6連勝でストップ",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 11:33:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46380/20260826de46380_E0000017039_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 13:03:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46409/20260826de46409_E0000017121_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イラン国営メディア トランプ大統領息子の命脅かす映像 米報道",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 13:06:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46398/20260826de46398_E0000017116_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "米「カントリー音楽の女王」ドリー・パートンさん死去",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 11:11:15 +0900"
+      "time": "Wed, 26 Aug 2026 11:11:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 農林水産業の被害 約1102億円に（8月25日時点）",
+      "text": "熊本地震 JR宇土～八代で代行バス運行開始【被災地の動き】",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 12:30:26 +0900"
+      "time": "Wed, 26 Aug 2026 12:46:00 +0900"
     }
   ]
 }
