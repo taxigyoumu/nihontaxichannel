@@ -1,58 +1,37 @@
 {
-  "updated_at": "2026-08-26 10:05",
+  "updated_at": "2026-08-26 12:51",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２６日０９時４２分ころ、地震がありました。",
+      "text": "【震源・震度情報】２６日１１時３３分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-26T00:45:48Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日０９時３５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-26T00:38:17Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日０８時５２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-25T23:58:05Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日０８時３３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-25T23:36:00Z"
+      "time": "2026-08-26T02:36:35Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風18号 鹿児島 奄美や沖縄本島を暴風域に巻き込んで西へ",
+      "text": "台風18号 奄美や沖縄本島から遠ざかるも土砂災害に厳重警戒を",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 09:32:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017004_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 12:23:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017113_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西・東日本で危険な暑さ予想 午後は大気の状態不安定に",
+      "text": "西日本中心に35度以上の猛烈な暑さに 急な激しい雨にも注意を",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 06:52:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000016990_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 12:30:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000017055_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高級時計窃盗事件 駅方向に逃走か 2人組の行方捜査 警視庁",
+      "text": "高級時計窃盗事件 2人組の男 現場にハンマー残し逃走か",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 06:19:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260825de46322/20260825de46322_E0000016969_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 11:49:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46385/20260826de46385_E0000017076_1_l.jpg"
     },
     {
       "category": "news",
@@ -65,24 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "発がん性指摘の化学物質含む溶液に白菜浸し出荷か 中国河北省",
+      "text": "米ルビオ長官“当面新たな攻撃なし”同盟国などに伝達 米報道",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 07:44:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46332/20260826de46332_E0000004049_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 11:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46380/20260826de46380_E0000017039_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "妊娠中期に暑い中を過ごすと「早産」リスク高まる",
+      "text": "米「カントリー音楽の女王」ドリー・パートンさん死去",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 06:09:00 +0900"
+      "time": "Wed, 26 Aug 2026 11:11:15 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「百日せき」患者増の2か月前に下水調査で流行の兆し 阪大など",
+      "text": "熊本地震 農林水産業の被害 約1102億円に（8月25日時点）",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 04:48:00 +0900"
+      "time": "Wed, 26 Aug 2026 12:30:26 +0900"
     }
   ]
 }
