@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-08-26 21:47",
+  "updated_at": "2026-08-26 22:53",
   "has_alert": true,
   "items": [
     {
@@ -8,14 +8,6 @@
       "text": "【震源・震度情報】２６日２０時０４分ころ、地震がありました。",
       "source": "気象庁",
       "time": "2026-08-26T11:06:55Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネパールで洪水 380人以上の観光客が行方不明か",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 20:06:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46535/20260826de46535_E0000004046_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,6 +36,14 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "相模原 男子高校生は頭部に強い衝撃で死亡か",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 21:13:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46504/20260826de46504_E0000017564_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "千葉豪雨から2週間 高齢者施設で復旧遅れ続く",
       "source": "NHK",
       "time": "Wed, 26 Aug 2026 20:17:16 +0900",
@@ -52,16 +52,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民 税調 消費税減税で議論 政府“農家 漁業者に給付金検討”",
+      "text": "ネパールで洪水 380人以上の観光客が行方不明",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 20:33:49 +0900"
+      "time": "Wed, 26 Aug 2026 21:49:39 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "AI開発での個人情報取得規制緩和 運用ルールづくり進める",
+      "text": "自民 税調 消費税減税で議論 政府“農家 漁業者に給付金検討”",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 21:25:54 +0900"
+      "time": "Wed, 26 Aug 2026 20:33:49 +0900"
     }
   ]
 }
