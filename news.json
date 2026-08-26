@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-08-26 08:48",
+  "updated_at": "2026-08-26 10:05",
   "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日０９時４２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-26T00:45:48Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日０９時３５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-26T00:38:17Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日０８時５２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-25T23:58:05Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -14,8 +35,8 @@
       "label": "ニュース",
       "text": "台風18号 鹿児島 奄美や沖縄本島を暴風域に巻き込んで西へ",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 08:08:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000016996_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 09:32:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46333/20260826de46333_E0000017004_1_l.jpg"
     },
     {
       "category": "news",
