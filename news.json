@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-08-26 22:53",
-  "has_alert": true,
+  "updated_at": "2026-08-26 23:40",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日２０時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-26T11:06:55Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -20,26 +13,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県で40度以上の「酷暑日」に 広い範囲で熱帯夜の見込み",
+      "text": "福岡県で40度以上の「酷暑日」に 広い範囲で大気不安定",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 19:20:53 +0900",
+      "time": "Wed, 26 Aug 2026 22:55:45 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46337/20260826de46337_E0000017577_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ政権から制裁のICC赤根所長“日本政府の役割に期待”",
+      "text": "熊本地震支援パッケージ案 観光振興で「応援割」盛り込む",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 19:39:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46462/20260826de46462_E0000017520_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "相模原 男子高校生は頭部に強い衝撃で死亡か",
-      "source": "NHK",
-      "time": "Wed, 26 Aug 2026 21:13:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46504/20260826de46504_E0000017564_1_l.jpg"
+      "time": "Wed, 26 Aug 2026 23:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46561/20260826de46561_E0000017642_1_l.jpg"
     },
     {
       "category": "news",
@@ -54,14 +39,22 @@
       "label": "ニュース",
       "text": "ネパールで洪水 380人以上の観光客が行方不明",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 21:49:39 +0900"
+      "time": "Wed, 26 Aug 2026 21:49:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46535/20260826de46535_E0000017620_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民 税調 消費税減税で議論 政府“農家 漁業者に給付金検討”",
+      "text": "相模原 男子高校生は頭部に強い衝撃で死亡か",
       "source": "NHK",
-      "time": "Wed, 26 Aug 2026 20:33:49 +0900"
+      "time": "Wed, 26 Aug 2026 21:13:40 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ政権から制裁のICC赤根所長“日本政府の役割に期待”",
+      "source": "NHK",
+      "time": "Wed, 26 Aug 2026 19:39:47 +0900"
     }
   ]
 }
