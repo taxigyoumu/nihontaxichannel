@@ -1,60 +1,88 @@
 {
-  "updated_at": "2026-08-27 05:31",
-  "has_alert": false,
+  "updated_at": "2026-08-27 09:25",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "富山 東部・西部と石川 能登に「線状降水帯直前予測」",
-      "source": "NHK",
-      "time": "Thu, 27 Aug 2026 04:59:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46586/20260827de46586_E0000003982_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、土砂災害や低い土地の浸水に注意してください。岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-26T23:28:24Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、土砂災害や低い土地の浸水に注意してください。岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-26T23:28:24Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、土砂災害や低い土地の浸水に注意してください。岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-26T23:24:02Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２７日０８時５７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-27T00:00:38Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本 上天草で震度3 津波の心配なし",
+      "text": "石川 富山にレベル5大雨特別警報 最大級の警戒を",
       "source": "NHK",
-      "time": "Thu, 27 Aug 2026 04:51:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46583/20260827de46583_E0000017660_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 09:05:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46591/20260827de46591_E0000017679_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール・中国の国境地帯で土石流“日本人5人と連絡取れず”",
+      "text": "気象庁と国土交通省が会見「命の危険迫る 身の安全の確保を」",
       "source": "NHK",
-      "time": "Thu, 27 Aug 2026 05:05:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46576/20260827de46576_E0000004045_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 08:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46593/20260827de46593_E0000017682_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "石川 宝達志水町 町内全域に避難指示",
+      "text": "石川 加賀で線状降水帯発生 厳重警戒",
       "source": "NHK",
-      "time": "Thu, 27 Aug 2026 04:31:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46584/20260827de46584_E0000004037_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 09:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46617/20260827de46617_E0000004033_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "石川 加賀 能登で線状降水帯発生 厳重警戒を",
+      "text": "【動画】石川県と富山県に大雨特別警報 各地の状況は",
       "source": "NHK",
-      "time": "Thu, 27 Aug 2026 03:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46577/20260827de46577_E0000004033_1_l.jpg"
+      "time": "Thu, 27 Aug 2026 09:00:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46608/20260827de46608_E0000017692_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中部電力 浜岡原発の廃炉めぐる不適切事案 きょう公表へ",
+      "text": "【映像】富山 氷見で複数の車が水につかる",
       "source": "NHK",
-      "time": "Thu, 27 Aug 2026 04:37:25 +0900"
+      "time": "Thu, 27 Aug 2026 08:34:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46609/20260827de46609_E0000017680_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府の備蓄米 9月中に買い戻しの方針 農水省が最終調整",
+      "text": "【映像】氷見で斜面崩れる",
       "source": "NHK",
-      "time": "Thu, 27 Aug 2026 01:31:00 +0900"
+      "time": "Thu, 27 Aug 2026 08:32:38 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "石川 羽咋 飯山川 飯山橋付近で水が堤防の高さ超えあふれる",
+      "source": "NHK",
+      "time": "Thu, 27 Aug 2026 07:17:00 +0900"
     }
   ]
 }
