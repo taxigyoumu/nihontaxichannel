@@ -264,7 +264,7 @@
   <!-- 4分割グリッド -->
   <main id="grid">
 
-    <!-- 左上：雨雲レーダー / QRコード 20秒切替 -->
+    <!-- 左上：雨雲レーダー（20秒） / QRコード（5秒） 交互切替 -->
     <section class="panel" id="panel-weather">
       <div class="panel-header">
         <span class="panel-icon" id="weather-panel-icon">🌤</span>
@@ -1834,10 +1834,11 @@ for(var i=0;i<65;i++){
   }
 </script>
 
-<!-- 左上パネル 雨雲レーダー / QRコード 20秒切替 -->
+<!-- 左上パネル 雨雲レーダー（20秒） / QRコード（5秒） 交互切替 -->
 <script>
 (function(){
-  var INTERVAL = 20000;
+  var RADAR_MS = 20000;   // 雨雲レーダーの表示時間
+  var QR_MS    = 5000;     // QRコードの表示時間
   var TICK = 250;
   var showRadar = true;
   var elapsed = 0;
@@ -1868,15 +1869,16 @@ for(var i=0;i<65;i++){
     if (qrEl)    { qrEl.style.opacity    = isRadar ? '0' : '1'; qrEl.style.pointerEvents    = isRadar ? 'none' : 'auto'; }
     if (iconEl)     iconEl.textContent     = isRadar ? '🌤' : '📱';
     if (titleEl)    titleEl.textContent    = isRadar ? '雨雲レーダー（岐阜市周辺）' : 'スマホでも見れます！';
-    if (subtitleEl) subtitleEl.textContent = isRadar ? '実況・リアルタイム' : '20秒ごと自動切替';
+    if (subtitleEl) subtitleEl.textContent = isRadar ? '実況・リアルタイム' : '自動で切り替わります';
     if (barEl) barEl.style.background = isRadar ? '#4A9EDB' : 'var(--accent)';
   }
 
   setInterval(function() {
     elapsed += TICK;
-    var pct = Math.min(100, (elapsed / INTERVAL) * 100);
+    var dur = showRadar ? RADAR_MS : QR_MS;
+    var pct = Math.min(100, (elapsed / dur) * 100);
     if (barEl) barEl.style.width = pct + '%';
-    if (elapsed >= INTERVAL) {
+    if (elapsed >= dur) {
       elapsed = 0;
       show(!showRadar);
       if (barEl) barEl.style.width = '0%';
