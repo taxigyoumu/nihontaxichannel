@@ -1941,6 +1941,8 @@ for(var i=0;i<65;i++){
 (function(){
   var el = document.getElementById('ml-takeover');
   if (!el) return;
+  // 動作確認用：URLに #slot= が付いているときは冒頭のミーティング動画スライドを出さない
+  if (/(^|#).*slot=/.test(location.hash)) { el.style.display = 'none'; return; }
   var SHOW_MS = 30000; // 30秒間表示してからダッシュボードへ戻る（ページは10分ごとに自動再読込されるため、実質10分に1回表示される）
   setTimeout(function(){
     el.style.opacity = '0';
