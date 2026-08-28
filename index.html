@@ -1137,12 +1137,18 @@ for(var i=0;i<65;i++){
   var elapsed = 0;
   var currentIdx = 0;
 
-  // 動作確認用：URL末尾に #slot=ev-accident 等を付けると、そのスロットから表示を開始する
+  // 動作確認用：URL末尾に #slot=ev-accident でそのスロットから開始。
+  // #slot=ev-accident,3 のように番号を付けると連続再生の3本目から開始（movie8の確認用）。
+  var _seqStart = 0;
   try {
-    var _hm = (location.hash || '').replace(/^#/, '').match(/^slot=(.+)$/);
+    var _hm = (location.hash || '').replace(/^#/, '').match(/^slot=([^,]+)(?:,(\d+))?/);
     if(_hm){
       for(var _si = 0; _si < views.length; _si++){
-        if(views[_si].slot === _hm[1]){ idx = _si; currentIdx = _si; break; }
+        if(views[_si].slot === _hm[1]){
+          idx = _si; currentIdx = _si;
+          if(_hm[2]){ _seqStart = parseInt(_hm[2], 10) - 1; }
+          break;
+        }
       }
     }
   } catch(e){}
@@ -1228,15 +1234,17 @@ for(var i=0;i<65;i++){
     });
     var v = views[i];
     if(v.sequence){
-      // シーケンス動画：常に1本目から再生し直し、以降は非表示・停止
+      // シーケンス動画：先頭（動作確認時は_seqStart本目）から再生し直し、以降は非表示・停止
       var seqEls = v.sequence.map(function(id){ return document.getElementById(id); });
-      allVideoTags.forEach(function(tag){ if(tag && tag !== seqEls[0]) { try { tag.pause(); } catch(e){} } });
+      var startK = (_seqStart > 0 && _seqStart < seqEls.length) ? _seqStart : 0;
+      _seqStart = 0;
+      allVideoTags.forEach(function(tag){ if(tag && tag !== seqEls[startK]) { try { tag.pause(); } catch(e){} } });
       seqEls.forEach(function(tag, k){
         if(!tag) return;
-        if(k === 0){ tag.style.opacity = '1'; try { tag.currentTime = 0; } catch(e){} tryPlay(tag); }
+        if(k === startK){ tag.style.opacity = '1'; try { tag.currentTime = 0; } catch(e){} tryPlay(tag); }
         else { tag.style.opacity = '0'; try { tag.pause(); tag.currentTime = 0; } catch(e){} }
       });
-      updateAccidentTelop(seqEls[0]);
+      updateAccidentTelop(seqEls[startK]);
     } else {
       // 動画制御：表示中スロットの動画は先頭から再生し、最後まで見せてから次へ切替（ended イベント）。
       // 他の動画は一時停止。
