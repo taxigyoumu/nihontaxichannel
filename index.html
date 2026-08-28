@@ -1137,6 +1137,16 @@ for(var i=0;i<65;i++){
   var elapsed = 0;
   var currentIdx = 0;
 
+  // 動作確認用：URL末尾に #slot=ev-accident 等を付けると、そのスロットから表示を開始する
+  try {
+    var _hm = (location.hash || '').replace(/^#/, '').match(/^slot=(.+)$/);
+    if(_hm){
+      for(var _si = 0; _si < views.length; _si++){
+        if(views[_si].slot === _hm[1]){ idx = _si; currentIdx = _si; break; }
+      }
+    }
+  } catch(e){}
+
   var iconEl   = document.getElementById('ev-icon');
   var titleEl  = document.getElementById('ev-title');
   var subEl    = document.getElementById('ev-sub');
