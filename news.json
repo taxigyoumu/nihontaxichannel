@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-08-28 05:39",
-  "has_alert": true,
+  "updated_at": "2026-08-28 14:05",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象解説情報（大雨・落雷・突風）】岐阜県では、２８日昼前にかけて土砂災害に厳重に警戒し、２８日朝にかけて低い土地の浸水、河川の増水や氾濫に警戒してください。落雷や竜巻などの激しい突風、降ひょうにも注意してください。また、線状降水帯が発生して大雨災害発生の危険度が急激に高まる可能性があります。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-27T20:28:23Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "横浜 山中市長 支援者に辞意伝える 重大なパワハラ行為認定で",
+      "source": "NHK",
+      "time": "Fri, 28 Aug 2026 13:51:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46874/20260828de46874_E0000018765_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 浜中町付近で記録的な大雨 災害の危険迫る",
+      "text": "全国的に大気不安定 北陸再び雨強まる見込み 土砂災害に警戒",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 05:35:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46846/20260828de46846_E0000018493_1_l.jpg"
+      "time": "Fri, 28 Aug 2026 12:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46810/20260827de46810_E0000018688_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 釧路地方で線状降水帯が発生 厳重警戒を",
+      "text": "石川県 道路に土砂 周囲と行き来できない地域相次ぐ",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 04:46:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46841/20260828de46841_E0000004033_1_l.jpg"
+      "time": "Fri, 28 Aug 2026 13:24:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46876/20260828de46876_E0000018667_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 根室地方で線状降水帯発生のおそれ 厳重警戒を",
+      "text": "熊本地震1か月 イオンモール熊本に献花台も 犠牲者を追悼",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 05:08:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46844/20260828de46844_E0000003982_1_l.jpg"
+      "time": "Fri, 28 Aug 2026 12:28:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46910/20260828de46910_E0000018738_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "富山県東部 線状降水帯発生のおそれ 直前予測を発表",
+      "text": "熊本地震1か月 揺れへの備え継続を 猛烈な暑さも続く",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 04:37:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46840/20260828de46840_E0000003982_1_l.jpg"
+      "time": "Fri, 28 Aug 2026 12:36:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46824/20260827de46824_E0000018503_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール・中国の国境地帯で土石流 ネパール側の死者359人",
+      "text": "ネパール土石流 362人死亡確認 日本人5人と連絡取れず",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 02:45:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46576/20260827de46576_E0000017724_1_l.jpg"
+      "time": "Fri, 28 Aug 2026 05:53:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 中野 高級時計窃盗事件でチリ国籍の男の容疑者2人逮捕",
+      "text": "高級時計窃盗事件 2日前に容疑者とみられる人物来店 下見か",
       "source": "NHK",
-      "time": "Thu, 27 Aug 2026 23:00:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中部電力 浜岡原発廃炉めぐり報告書を不正に改ざん",
-      "source": "NHK",
-      "time": "Thu, 27 Aug 2026 20:30:11 +0900"
+      "time": "Fri, 28 Aug 2026 12:59:09 +0900"
     }
   ]
 }
