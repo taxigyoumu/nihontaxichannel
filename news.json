@@ -1,60 +1,88 @@
 {
-  "updated_at": "2026-08-29 17:07",
-  "has_alert": false,
+  "updated_at": "2026-08-29 22:55",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "鹿児島 いちき串木野市の水難事故 沖合で新たに1人見つかる",
-      "source": "NHK",
-      "time": "Sat, 29 Aug 2026 16:32:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47141/20260829de47141_E0000019357_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や低い土地の浸水、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-29T13:35:38Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や低い土地の浸水、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-29T13:35:38Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】岐阜県では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-29T13:35:25Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２９日２２時４３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-29T13:46:34Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール土石流 586人が死亡 国連は支援を拡大する方針",
+      "text": "東京 中野 高級時計窃盗事件 わずか6秒間のうちに盗んだか",
       "source": "NHK",
-      "time": "Sat, 29 Aug 2026 17:00:22 +0900",
+      "time": "Sat, 29 Aug 2026 19:52:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47164/20260829de47164_E0000019492_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ネパール土石流 633人が死亡 二次災害のリスクを警戒",
+      "source": "NHK",
+      "time": "Sat, 29 Aug 2026 19:57:08 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47121/20260829de47121_E0000019320_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領“ベネズエラ石油資源の過半数の支配権を確保”",
+      "text": "鹿児島 いちき串木野市の水難事故 沖合で発見の中高生3人死亡",
       "source": "NHK",
-      "time": "Sat, 29 Aug 2026 15:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47161/20260829de47161_E0000019438_1_l.jpg"
+      "time": "Sat, 29 Aug 2026 19:51:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47141/20260829de47141_E0000019468_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "AIと人間が協力の「ペア碁」新たなeスポーツ目指す",
+      "text": "前線で大気の状態不安定 石川県と福井県にレベル4危険警報",
       "source": "NHK",
-      "time": "Sat, 29 Aug 2026 16:22:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47163/20260829de47163_E0000019434_1_l.jpg"
+      "time": "Sat, 29 Aug 2026 22:34:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47108/20260828de47108_E0000019499_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "石川県で「熱中症警戒アラート」誤発表 原因は気温観測に誤り",
+      "text": "福井 勝山市 約8300世帯に避難指示",
       "source": "NHK",
-      "time": "Sat, 29 Aug 2026 15:57:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47154/20260829de47154_E0000019414_1_l.jpg"
+      "time": "Sat, 29 Aug 2026 21:49:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47180/20260829de47180_E0000004037_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大気の状態非常に不安定 北陸で再び大雨のおそれ",
+      "text": "熊本地震 400人余を病院間搬送 緊急事態で生かされたことは…",
       "source": "NHK",
-      "time": "Sat, 29 Aug 2026 12:16:00 +0900"
+      "time": "Sat, 29 Aug 2026 17:29:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "マレーシアの空港 東京発の航空機の車輪格納部から遺体",
+      "text": "【プロ野球結果】阪神に優勝へのマジックナンバー23が点灯",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 22:41:00 +0900"
+      "time": "Sat, 29 Aug 2026 22:31:48 +0900"
     }
   ]
 }
