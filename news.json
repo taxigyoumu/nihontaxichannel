@@ -1,30 +1,28 @@
 {
-  "updated_at": "2026-08-29 02:35",
-  "has_alert": false,
+  "updated_at": "2026-08-29 10:26",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネパール土石流552人死亡 連絡取れない日本人か 5人氏名公表",
-      "source": "NHK",
-      "time": "Fri, 28 Aug 2026 22:32:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260827de46815/20260827de46815_E0000018495_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２９日０８時１４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-28T23:17:32Z"
     },
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "FRBウォーシュ議長 “利上げの可能性を排除しない考え”示唆",
-      "source": "NHK",
-      "time": "Sat, 29 Aug 2026 02:23:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47112/20260828de47112_E0000019306_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２９日０８時１０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-08-28T23:14:43Z"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "マレーシアの空港 東京発の航空機の車輪格納部から遺体",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 22:41:02 +0900",
-      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+      "time": "Fri, 28 Aug 2026 22:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47107/20260828de47107_E0000019342_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +35,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "パワハラ認定の山中 横浜市長が辞職届「けじめつけるべき」",
+      "text": "消せるボールペン 特許侵害で韓国メーカーの販売差し止め",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 20:54:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46874/20260828de46874_E0000019005_1_l.jpg"
+      "time": "Sat, 29 Aug 2026 05:08:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47105/20260828de47105_E0000019302_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震1か月 住宅被害は5万棟超 災害関連死を防ぎ生活再建へ",
+      "text": "大気の状態非常に不安定 北陸で再び大雨のおそれ",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 19:58:02 +0900"
+      "time": "Sat, 29 Aug 2026 10:24:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47108/20260828de47108_E0000019343_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鹿児島 いちき串木野 中高生4人海で溺れ1人救助 3人を捜索",
+      "text": "土石流５８６人死亡 ネパール側の行方不明者１９００人超に",
       "source": "NHK",
-      "time": "Fri, 28 Aug 2026 21:32:17 +0900"
+      "time": "Sat, 29 Aug 2026 05:15:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260829de47121/20260829de47121_E0000019320_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "FRBウォーシュ議長 “利上げの可能性を排除しない考え”示唆",
+      "source": "NHK",
+      "time": "Sat, 29 Aug 2026 04:43:09 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "鹿児島 いちき串木野市の海岸で流された中高生3人の捜索続く",
+      "source": "NHK",
+      "time": "Sat, 29 Aug 2026 06:30:09 +0900"
     }
   ]
 }
