@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-08-30 04:57",
+  "updated_at": "2026-08-30 07:29",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福井県に大雨特別警報を発表",
+      "text": "福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 04:38:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47200/20260830de47200_E0000003995_1_l.jpg"
+      "time": "Sun, 30 Aug 2026 06:52:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47200/20260830de47200_E0000019571_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福井県大野市に緊急安全確保 命が助かる可能性の高い行動を",
+      "text": "福井 大野 勝山の3市に緊急安全確保 命助かる可能性高い行動を",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 04:55:29 +0900",
+      "time": "Sun, 30 Aug 2026 06:16:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47199/20260830de47199_E0000004042_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "レベル4氾濫危険警報 福井県 九頭竜川水系 竹田川",
+      "text": "気象庁と国交省が会見“身の安全確保を”福井県に大雨特別警報",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 04:34:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47204/20260830de47204_E0000004034_1_l.jpg"
+      "time": "Sun, 30 Aug 2026 06:24:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47205/20260830de47205_E0000019565_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福井県に大雨特別警報 気象庁と国交省 午前5時半から会見へ",
+      "text": "【動画】福井市大宮町の国道が冠水 茶色い水が激しく流れる",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 04:48:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47205/20260830de47205_E0000003831_1_l.jpg"
+      "time": "Sun, 30 Aug 2026 06:33:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47218/20260830de47218_E0000019567_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】茨城県で震度4 津波の心配なし",
+      "text": "【被害まとめ】福井県内で道路冠水や住宅浸水相次ぐ",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 00:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de46854/20260828de46854_E0000019544_1_l.jpg"
+      "time": "Sun, 30 Aug 2026 07:02:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47209/20260830de47209_E0000019569_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 中野 高級時計窃盗事件 わずか6秒間のうちに盗んだか",
+      "text": "福井 坂井 道路が冠水して車が立ち往生との情報",
       "source": "NHK",
-      "time": "Sat, 29 Aug 2026 19:52:26 +0900"
+      "time": "Sun, 30 Aug 2026 06:49:18 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "バレーボール日本女子 アジア選手権 ロス五輪出場権獲得ならず",
+      "text": "【河川カメラの映像】福井県 各地の河川状況",
       "source": "NHK",
-      "time": "Sat, 29 Aug 2026 22:53:37 +0900"
+      "time": "Sun, 30 Aug 2026 05:42:00 +0900"
     }
   ]
 }
