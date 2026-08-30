@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-08-30 09:35",
+  "updated_at": "2026-08-30 15:12",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】３０日０９時１４分ころ、地震がありました。",
+      "text": "【震源・震度情報】３０日１４時１０分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-08-30T00:17:38Z"
+      "time": "2026-08-30T05:13:06Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象",
+      "text": "福井県3市 大雨危険警報に 土砂災害など引き続き厳重に警戒を",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 08:39:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47200/20260830de47200_E0000019571_1_l.jpg"
+      "time": "Sun, 30 Aug 2026 14:55:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47200/20260830de47200_E0000019659_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福井 大野 勝山の3市に緊急安全確保 命助かる可能性高い行動を",
+      "text": "【大雨被害 動画】福井県内の上空からの映像",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 06:16:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47199/20260830de47199_E0000004042_1_l.jpg"
+      "time": "Sun, 30 Aug 2026 11:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47264/20260830de47264_E0000019662_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【被害まとめ】福井県内で道路冠水や住宅浸水相次ぐ",
+      "text": "ネパール土石流 750人死亡 3000人以上が行方不明",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 07:37:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47209/20260830de47209_E0000019569_1_l.jpg"
+      "time": "Sun, 30 Aug 2026 14:20:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47268/20260830de47268_E0000019556_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】大雨 福井県 各地の状況は",
+      "text": "【動画】福井 勝山市 えちぜん鉄道の線路に大量の水が流れ込む",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 09:19:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47235/20260830de47235_E0000019567_1_l.jpg"
+      "time": "Sun, 30 Aug 2026 12:15:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47265/20260830de47265_E0000019657_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】福井市町屋の住宅街で道路が冠水",
+      "text": "【被害まとめ】福井県内 道路冠水や住宅浸水の情報相次ぐ",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 09:22:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47242/20260830de47242_E0000019600_2_l.jpg"
+      "time": "Sun, 30 Aug 2026 13:58:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47209/20260830de47209_E0000019668_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福井市 芳野川で越水 県福井土木事務所",
+      "text": "海自イージス艦が佐世保基地に帰港 トマホーク発射の改修終え",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 09:12:27 +0900"
+      "time": "Sun, 30 Aug 2026 14:01:10 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【河川カメラの映像】福井県 各地の河川状況",
+      "text": "福井県内の緊急安全確保はすべて避難指示に切り替え",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 05:42:00 +0900"
+      "time": "Sun, 30 Aug 2026 13:03:15 +0900"
     }
   ]
 }
