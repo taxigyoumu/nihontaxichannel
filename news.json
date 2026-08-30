@@ -1,29 +1,21 @@
 {
-  "updated_at": "2026-08-30 21:06",
+  "updated_at": "2026-08-31 01:53",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福井県で記録的な大雨 土砂災害に引き続き厳重に警戒を",
+      "text": "福井県で記録的な大雨 土砂災害に引き続き十分注意を",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 19:58:14 +0900",
+      "time": "Sun, 30 Aug 2026 22:33:52 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47200/20260830de47200_E0000019757_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【選挙速報】香川県知事選 現職の池田豊人氏 2回目の当選確実",
-      "source": "NHK",
-      "time": "Sun, 30 Aug 2026 20:57:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46506/20260826de46506_E0000019815_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ネパール土石流 768人死亡 3000人以上不明 6歳女児を救出",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 20:04:27 +0900",
+      "time": "Sun, 30 Aug 2026 21:44:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47292/20260830de47292_E0000019782_1_l.jpg"
     },
     {
@@ -37,24 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄 読谷村 ダムで中学生含む2人が溺れる 搬送時意識なし",
+      "text": "【選挙結果】香川県知事選挙 現職の池田豊人氏 2回目の当選",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 19:46:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47302/20260830de47302_E0000019750_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 00:24:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46506/20260826de46506_E0000019815_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "名古屋 アトラクションのドア開かず 11人が約30分間閉じ込め",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 18:53:00 +0900"
+      "time": "Sun, 30 Aug 2026 18:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47296/20260830de47296_E0000019742_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "31日 北陸は猛暑日予想のところも 熱中症に厳重に警戒 対策を",
+      "text": "西武 栗山巧 引退試合最後の打席はセンター前ヒット 2152安打",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 18:55:52 +0900"
+      "time": "Mon, 31 Aug 2026 01:11:26 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ディズニーランドで客のモバイルバッテリーから煙 けが人なし",
+      "source": "NHK",
+      "time": "Sun, 30 Aug 2026 21:10:08 +0900"
     }
   ]
 }
