@@ -1,67 +1,81 @@
 {
-  "updated_at": "2026-08-31 04:37",
+  "updated_at": "2026-08-31 07:22",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日０３時２９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-08-30T18:32:21Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-30T21:10:08Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-30T21:10:08Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-30T21:10:00Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "核のごみ最終処分地 近く茨城・常陸大宮市に文献調査申し入れ",
+      "source": "NHK",
+      "time": "Mon, 31 Aug 2026 07:19:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47318/20260830de47318_E0000019867_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "滋賀 乗用車とトラックが正面衝突 3人死亡 3人重軽傷",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 03:59:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47327/20260831de47327_E0000003884_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 05:33:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47327/20260831de47327_E0000019861_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福井県で記録的な大雨 土砂災害に引き続き十分注意を",
+      "text": "中道 立民 公明 きょう再び党首会談へ「分党」やむなしの意見",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 22:33:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47200/20260830de47200_E0000019757_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 04:53:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47325/20260831de47325_E0000019853_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール土石流 768人死亡 3000人以上不明 6歳女児を救出",
+      "text": "千葉豪雨 走行中のタクシー浸水被害100台超 協会が緊急会合へ",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 21:44:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47292/20260830de47292_E0000019782_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 05:38:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47321/20260830de47321_E0000019837_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール土石流 当時滞在の日本人研究者“出発遅れていたら”",
+      "text": "ネパール土石流 797人死亡 住民孤立 支援態勢の構築が急務に",
       "source": "NHK",
-      "time": "Sun, 30 Aug 2026 20:05:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47305/20260830de47305_E0000019769_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 05:47:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260831de47329/20260831de47329_E0000019858_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "西日本～東日本で猛暑日予想 大雨被害の福井も 熱中症対策を",
+      "source": "NHK",
+      "time": "Mon, 31 Aug 2026 06:24:50 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【選挙結果】香川県知事選挙 現職の池田豊人氏 2回目の当選",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 00:24:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260826de46506/20260826de46506_E0000019815_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "名古屋 アトラクションのドア開かず 11人が約30分間閉じ込め",
-      "source": "NHK",
-      "time": "Sun, 30 Aug 2026 18:53:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "西武 栗山巧 引退試合最後の打席はセンター前ヒット 2152安打",
-      "source": "NHK",
-      "time": "Mon, 31 Aug 2026 01:11:26 +0900"
+      "time": "Mon, 31 Aug 2026 05:21:23 +0900"
     }
   ]
 }
