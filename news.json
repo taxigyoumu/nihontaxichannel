@@ -1,102 +1,60 @@
 {
-  "updated_at": "2026-08-31 15:37",
-  "has_alert": true,
+  "updated_at": "2026-08-31 23:48",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-31T06:05:10Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-31T06:05:10Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県土砂災害警報・注意報】岐阜県では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-31T06:04:55Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-31T05:35:53Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-31T05:35:53Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県土砂災害警報・注意報】美濃地方では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-31T05:35:47Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "北陸は土砂災害など十分注意 熱帯低気圧あす台風に発達か",
+      "source": "NHK",
+      "time": "Mon, 31 Aug 2026 20:04:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47330/20260831de47330_E0000020806_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "核のごみ最終処分地 近く茨城 常陸大宮市に文献調査申し入れへ",
+      "text": "核のごみ最終処分地の文献調査 茨城 常陸大宮市に申し入れ",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 15:16:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47363/20260831de47363_E0000020017_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 20:21:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47363/20260831de47363_E0000020318_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "旧統一教会トップのハン・ハクチャ総裁に懲役2年の判決",
+      "text": "住宅ローン変動金利 大手2行が9月からの引き上げを発表",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 15:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47413/20260831de47413_E0000020275_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 22:47:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47487/20260831de47487_E0000020820_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北陸で雨雲発達 富山は土砂災害に厳重警戒 各地で熱中症対策を",
+      "text": "マグサイサイ賞にミャンマー人権団体創設者など選出",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 15:23:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47330/20260831de47330_E0000020300_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 22:33:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47499/20260831de47499_E0000020854_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "9月の食品値上げは4900品目超　ことし最多",
+      "source": "NHK",
+      "time": "Mon, 31 Aug 2026 21:17:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47374/20260831de47374_E0000020083_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ネパール土石流 919人死亡確認 4793人行方不明",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 15:06:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47364/20260831de47364_E0000020061_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 20:52:41 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米財務長官 G20前に「植田総裁は正しいことをする」",
+      "text": "ネパール土石流 行方不明の日本人5人 大阪市在住か 市教委説明",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 13:53:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47376/20260831de47376_E0000020136_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中国の製造業景況感　2か月連続景気判断の節目「50」下回る",
-      "source": "NHK",
-      "time": "Mon, 31 Aug 2026 14:51:07 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "丈夫な骨の維持には「感覚神経」の働きが重要 東京科学大など",
-      "source": "NHK",
-      "time": "Mon, 31 Aug 2026 13:08:14 +0900"
+      "time": "Mon, 31 Aug 2026 20:27:45 +0900"
     }
   ]
 }
