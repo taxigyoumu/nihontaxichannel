@@ -1,60 +1,102 @@
 {
-  "updated_at": "2026-08-31 09:44",
-  "has_alert": false,
+  "updated_at": "2026-08-31 15:37",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "核のごみ最終処分地 近く茨城・常陸大宮市に文献調査申し入れ",
-      "source": "NHK",
-      "time": "Mon, 31 Aug 2026 07:19:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47318/20260830de47318_E0000019867_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-31T06:05:10Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-31T06:05:10Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】岐阜県では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-31T06:04:55Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-31T05:35:53Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-31T05:35:53Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】美濃地方では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-08-31T05:35:47Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "滋賀 乗用車とトラックが正面衝突 3人死亡 3人重軽傷",
+      "text": "核のごみ最終処分地 近く茨城 常陸大宮市に文献調査申し入れへ",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 05:33:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47327/20260831de47327_E0000019861_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 15:16:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47363/20260831de47363_E0000020017_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中道 立民 公明 きょう再び党首会談へ「分党」やむなしの意見",
+      "text": "旧統一教会トップのハン・ハクチャ総裁に懲役2年の判決",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 04:53:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47325/20260831de47325_E0000019853_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 15:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47413/20260831de47413_E0000020275_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨 走行中のタクシー浸水被害100台超 協会が緊急会合へ",
+      "text": "北陸で雨雲発達 富山は土砂災害に厳重警戒 各地で熱中症対策を",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 05:38:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260830de47321/20260830de47321_E0000019837_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 15:23:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47330/20260831de47330_E0000020300_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベルギー国防相“新たに駐在武官配置し日本と連携強化”",
+      "text": "ネパール土石流 919人死亡確認 4793人行方不明",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 05:42:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47075/20260828de47075_E0000019270_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 15:06:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47364/20260831de47364_E0000020061_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール土石流 797人死亡 住民孤立 支援態勢の構築が急務に",
+      "text": "米財務長官 G20前に「植田総裁は正しいことをする」",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 05:47:25 +0900"
+      "time": "Mon, 31 Aug 2026 13:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47376/20260831de47376_E0000020136_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西日本～東日本で猛暑日予想 大雨被害の福井も 熱中症対策を",
+      "text": "中国の製造業景況感　2か月連続景気判断の節目「50」下回る",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 06:24:50 +0900"
+      "time": "Mon, 31 Aug 2026 14:51:07 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "丈夫な骨の維持には「感覚神経」の働きが重要 東京科学大など",
+      "source": "NHK",
+      "time": "Mon, 31 Aug 2026 13:08:14 +0900"
     }
   ]
 }
