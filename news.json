@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-08-31 07:22",
-  "has_alert": true,
+  "updated_at": "2026-08-31 09:44",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-30T21:10:08Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-30T21:10:08Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-08-30T21:10:00Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -58,10 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "ベルギー国防相“新たに駐在武官配置し日本と連携強化”",
+      "source": "NHK",
+      "time": "Mon, 31 Aug 2026 05:42:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260828de47075/20260828de47075_E0000019270_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "ネパール土石流 797人死亡 住民孤立 支援態勢の構築が急務に",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 05:47:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20260831de47329/20260831de47329_E0000019858_1_l.jpg"
+      "time": "Mon, 31 Aug 2026 05:47:25 +0900"
     },
     {
       "category": "news",
@@ -69,13 +55,6 @@
       "text": "西日本～東日本で猛暑日予想 大雨被害の福井も 熱中症対策を",
       "source": "NHK",
       "time": "Mon, 31 Aug 2026 06:24:50 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【選挙結果】香川県知事選挙 現職の池田豊人氏 2回目の当選",
-      "source": "NHK",
-      "time": "Mon, 31 Aug 2026 05:21:23 +0900"
     }
   ]
 }
