@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-09-01 14:26",
-  "has_alert": false,
+  "updated_at": "2026-09-01 19:20",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日１８時４４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-01T09:47:27Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長期金利 3%に上昇 約30年ぶり 日銀の早期利上げ観測など背景",
+      "text": "長期金利3%超 約30年ぶり 日銀の早期利上げ観測など背景",
       "source": "NHK",
-      "time": "Tue, 01 Sep 2026 13:05:41 +0900",
+      "time": "Tue, 01 Sep 2026 19:17:41 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47546/20260901de47546_E0000020973_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鈴木農相 政府備蓄米21万トン買い戻しを表明 価格への影響焦点",
+      "text": "ネパール土石流死者1000人超 国連「6万5000人が支援必要」",
       "source": "NHK",
-      "time": "Tue, 01 Sep 2026 12:34:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47556/20260901de47556_E0000020987_1_l.jpg"
+      "time": "Tue, 01 Sep 2026 18:45:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47575/20260901de47575_E0000021354_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日本人初の宇宙飛行 秋山豊寛さん死去 元TBS記者 84歳",
+      "source": "NHK",
+      "time": "Tue, 01 Sep 2026 19:00:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47618/20260901de47618_E0000021249_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "住宅ローン「フラット35」 長期金利上昇で過去最高",
       "source": "NHK",
-      "time": "Tue, 01 Sep 2026 14:11:30 +0900",
+      "time": "Tue, 01 Sep 2026 14:11:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47606/20260901de47606_E0000021190_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉豪雨 男性死亡のアンダーパス「レベル4」で通行止め",
+      "source": "NHK",
+      "time": "Tue, 01 Sep 2026 16:39:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47630/20260901de47630_E0000021342_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "「生活道路」法定速度30キロ初日 違反を警戒",
       "source": "NHK",
-      "time": "Tue, 01 Sep 2026 14:03:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47504/20260831de47504_E0000021032_1_l.jpg"
+      "time": "Tue, 01 Sep 2026 14:03:53 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米陸軍長官が辞表提出 米メディア報道 4月には海軍長官も退任",
+      "text": "大阪地検元検事正からの性被害訴える女性検事が退職「悔しい」",
       "source": "NHK",
-      "time": "Tue, 01 Sep 2026 12:14:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47572/20260901de47572_E0000021051_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "西日本や東日本で猛暑日 熱中症に警戒を 大気の状態も不安定",
-      "source": "NHK",
-      "time": "Tue, 01 Sep 2026 12:31:49 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風24号発生 南西諸島に近づくおそれ 今後の情報に注意",
-      "source": "NHK",
-      "time": "Tue, 01 Sep 2026 13:18:56 +0900"
+      "time": "Tue, 01 Sep 2026 17:56:00 +0900"
     }
   ]
 }
