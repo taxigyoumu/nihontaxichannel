@@ -1,14 +1,21 @@
 {
-  "updated_at": "2026-09-02 06:34",
-  "has_alert": false,
+  "updated_at": "2026-09-02 08:46",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　２日０８時２４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-01T23:27:42Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北日本で大雨 青森で線状降水帯が発生 厳重に警戒を",
+      "text": "北日本で大雨 青森で線状降水帯発生 青森・秋田では厳重警戒を",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 05:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47704/20260901de47704_E0000021721_1_l.jpg"
+      "time": "Wed, 02 Sep 2026 07:17:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47704/20260901de47704_E0000021733_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,10 +28,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア財務相がアメリカでのG20参加で欧州側は反発",
+      "text": "伊勢神宮近くの商店街火災 鎮火に向け消火活動続く",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 06:26:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47720/20260902de47720_E0000021731_1_l.jpg"
+      "time": "Wed, 02 Sep 2026 07:12:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47708/20260901de47708_E0000021723_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "G20は2日目の議論に 声明とりまとめに向けた調整も続く",
+      "source": "NHK",
+      "time": "Wed, 02 Sep 2026 06:31:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47719/20260902de47719_E0000021727_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +52,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "上海協力機構の首脳会議が閉幕 イランに連帯示す",
+      "text": "ロシア外務省報道官、日米豪共同訓練に「対抗措置とる」と警告",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 05:54:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47715/20260902de47715_E0000021722_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "伊勢神宮近くの商店街火災 鎮火に向け消火活動続く",
-      "source": "NHK",
-      "time": "Wed, 02 Sep 2026 06:19:45 +0900"
+      "time": "Wed, 02 Sep 2026 07:24:03 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "アメリカ中央軍 革命防衛隊への攻撃を開始と発表",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 03:56:00 +0900"
+      "time": "Wed, 02 Sep 2026 06:50:32 +0900"
     }
   ]
 }
