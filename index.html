@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>タクシードライバー情報ダッシュボード</title>
-  <!-- 自動リロード：通常は10分ごと。ただし2026/9/1〜9/6は全画面のスピード違反動画（約14分）を最後まで流すため停止する -->
+  <!-- 自動リロード：通常は10分ごと。ただし2026/9/1〜9/6は全画面のスピード違反動画（約9分）を最後まで流すため停止する -->
   <script>
     (function(){
       var n = new Date();
@@ -1981,8 +1981,8 @@ for(var i=0;i<65;i++){
   el.addEventListener('click', enableSound);
   el.addEventListener('touchstart', enableSound);
 
-  // 保険：動画長（約14分）＋余裕で自動的に閉じる
-  setTimeout(dismiss, 960000);
+  // 保険：動画長（約9分）＋余裕で自動的に閉じる
+  setTimeout(dismiss, 660000);
 })();
 </script>
 
