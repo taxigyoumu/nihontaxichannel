@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-01 05:38",
+  "updated_at": "2026-09-01 09:21",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "いったん熱帯低気圧に変わった台風18号が再び台風に",
+      "text": "西日本や北陸で猛暑日予想 熱中症対策を 大気の状態も不安定に",
       "source": "NHK",
-      "time": "Tue, 01 Sep 2026 05:22:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47537/20260901de47537_E0000020936_1_l.jpg"
+      "time": "Tue, 01 Sep 2026 06:03:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47540/20260901de47540_E0000020951_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新学習指導要領 授業時数を学校判断で調整可能に",
+      "text": "長期金利 2.955％に上昇 約29年11か月ぶりの水準",
       "source": "NHK",
-      "time": "Tue, 01 Sep 2026 05:30:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47505/20260831de47505_E0000020934_1_l.jpg"
+      "time": "Tue, 01 Sep 2026 09:07:58 +0900",
+      "image": "https://imgu.web.nhk/common/news/eyecatch/nhk-one-news_eyecatch-1280x720.png"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "防災の日 政府の総合防災訓練 日本海溝・千島海溝巨大地震想定",
+      "source": "NHK",
+      "time": "Tue, 01 Sep 2026 07:32:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47514/20260831de47514_E0000020892_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米ベッセント財務長官と日銀総裁や片山財務相が相次ぎ会談",
+      "source": "NHK",
+      "time": "Tue, 01 Sep 2026 07:12:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47542/20260901de47542_E0000020957_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "サッカー メッシ アルゼンチン代表を引退 SNSで表明",
       "source": "NHK",
-      "time": "Tue, 01 Sep 2026 01:47:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47526/20260901de47526_E0000020910_1_l.jpg"
+      "time": "Tue, 01 Sep 2026 01:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47526/20260901de47526_E0000020948_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税「総額表示」特例具体案 前後2か月変更前税率表示も",
+      "text": "核のごみ最終処分地の文献調査 住民との丁寧な対話が課題に",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 23:10:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47511/20260831de47511_E0000020886_1_l.jpg"
+      "time": "Tue, 01 Sep 2026 05:41:44 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ホンダと日産「SDV」で協業 一部部品や基本ソフト共同開発",
+      "text": "ネパール土石流 死者は955人に 土砂撤去が課題",
       "source": "NHK",
-      "time": "Mon, 31 Aug 2026 22:56:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260831de47503/20260831de47503_E0000020864_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネパール土石流 919人死亡確認 4793人行方不明",
-      "source": "NHK",
-      "time": "Mon, 31 Aug 2026 20:52:41 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネパール土石流 行方不明の日本人5人 大阪市在住か 市教委説明",
-      "source": "NHK",
-      "time": "Mon, 31 Aug 2026 20:27:45 +0900"
+      "time": "Tue, 01 Sep 2026 05:50:46 +0900"
     }
   ]
 }
