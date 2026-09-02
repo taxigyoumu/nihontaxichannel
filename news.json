@@ -1,45 +1,14 @@
 {
-  "updated_at": "2026-09-02 08:46",
-  "has_alert": true,
+  "updated_at": "2026-09-02 11:45",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　２日０８時２４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-01T23:27:42Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "北日本で大雨 青森で線状降水帯発生 青森・秋田では厳重警戒を",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 07:17:55 +0900",
+      "time": "Wed, 02 Sep 2026 11:05:18 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47704/20260901de47704_E0000021733_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "長期金利3％超 日銀の金融政策や財政めぐる動きが焦点",
-      "source": "NHK",
-      "time": "Wed, 02 Sep 2026 02:02:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47702/20260901de47702_E0000021709_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "伊勢神宮近くの商店街火災 鎮火に向け消火活動続く",
-      "source": "NHK",
-      "time": "Wed, 02 Sep 2026 07:12:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47708/20260901de47708_E0000021723_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "G20は2日目の議論に 声明とりまとめに向けた調整も続く",
-      "source": "NHK",
-      "time": "Wed, 02 Sep 2026 06:31:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47719/20260902de47719_E0000021727_1_l.jpg"
     },
     {
       "category": "news",
@@ -52,16 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア外務省報道官、日米豪共同訓練に「対抗措置とる」と警告",
+      "text": "長期金利3.015％に一時上昇 イラン情勢緊迫化でインフレ懸念",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 07:24:03 +0900"
+      "time": "Wed, 02 Sep 2026 11:18:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47751/20260902de47751_E0000004050_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ中央軍 革命防衛隊への攻撃を開始と発表",
+      "text": "長期金利3％超え　片山財務相「緊張感を持って対応」",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 06:50:32 +0900"
+      "time": "Wed, 02 Sep 2026 11:20:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47749/20260902de47749_E0000004050_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風24号 北上中 4日ごろにかけて沖縄・奄美に近づく見込み",
+      "source": "NHK",
+      "time": "Wed, 02 Sep 2026 10:52:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47743/20260902de47743_E0000021775_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカはイランの目標を攻撃 イランは“報復”",
+      "source": "NHK",
+      "time": "Wed, 02 Sep 2026 10:30:10 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "プーチン大統領 日ロ関係悪化の責任 “100%日本にある”",
+      "source": "NHK",
+      "time": "Wed, 02 Sep 2026 11:32:44 +0900"
     }
   ]
 }
