@@ -1,7 +1,37 @@
 {
-  "updated_at": "2026-09-03 01:58",
-  "has_alert": false,
+  "updated_at": "2026-09-03 04:39",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-02T19:37:43Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-02T19:37:43Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風と前線影響 西・東日本は3日から大雨に 長引くおそれも",
+      "source": "NHK",
+      "time": "Thu, 03 Sep 2026 02:17:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47704/20260901de47704_E0000022269_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "青森市 一部地域に緊急安全確保 瀬戸子川で氾濫発生",
+      "source": "NHK",
+      "time": "Thu, 03 Sep 2026 02:36:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47882/20260903de47882_E0000004042_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,14 +39,6 @@
       "source": "NHK",
       "time": "Wed, 02 Sep 2026 23:11:51 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47873/20260902de47873_E0000003981_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "青森市 一部地域に避難指示 大雨で土砂災害のおそれ",
-      "source": "NHK",
-      "time": "Thu, 03 Sep 2026 00:21:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47875/20260903de47875_E0000004037_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,18 +51,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風と前線影響 西・東日本は3日から大雨に 長引くおそれも",
+      "text": "円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 01:03:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47704/20260901de47704_E0000022269_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 03:15:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47883/20260903de47883_E0000003668_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 22:23:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47705/20260901de47705_E0000021773_1_l.jpg"
+      "time": "Wed, 02 Sep 2026 22:23:55 +0900"
     },
     {
       "category": "news",
@@ -48,13 +69,6 @@
       "text": "陸自が侵攻相手対処の攻撃用小型無人機を初めて公開",
       "source": "NHK",
       "time": "Wed, 02 Sep 2026 20:18:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "パジェロ新型モデル公開 自動車各社 人気車種で国際競争に備え",
-      "source": "NHK",
-      "time": "Wed, 02 Sep 2026 19:35:18 +0900"
     }
   ]
 }
