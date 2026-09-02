@@ -1,28 +1,44 @@
 {
-  "updated_at": "2026-09-03 04:39",
+  "updated_at": "2026-09-03 07:19",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-02T19:37:43Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　３日０６時３９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-02T21:46:17Z"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、竜巻などの激しい突風や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-02T19:37:43Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　３日０５時５４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-02T20:56:55Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風と前線影響 西・東日本は3日から大雨に 長引くおそれも",
+      "text": "前線活発化 秋田で非常に激しい雨 広い範囲で大雨続くおそれ",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 02:17:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47704/20260901de47704_E0000022269_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 06:59:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000022354_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "青森 五所川原 一部地域に緊急安全確保 川の堤防決壊のおそれ",
+      "source": "NHK",
+      "time": "Thu, 03 Sep 2026 07:03:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47892/20260903de47892_E0000004042_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【大雨】青森市やむつ市 県道で土砂崩れや住宅浸水の被害",
+      "source": "NHK",
+      "time": "Thu, 03 Sep 2026 06:35:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47889/20260903de47889_E0000004028_1_l.jpg"
     },
     {
       "category": "news",
@@ -35,40 +51,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "青森 鰺ヶ沢町付近で記録的大雨 災害の危険迫る",
+      "text": "高市首相 党役員人事と内閣改造 再来週にも踏み切るとの見方も",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 23:11:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47873/20260902de47873_E0000003981_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 04:53:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47879/20260903de47879_E0000003844_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "上皇さまの意向受け 将来の葬儀の規模大幅縮小へ",
+      "text": "ネパール土石流 1200人以上死亡 首相は気候変動対策を訴え",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 19:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47735/20260902de47735_E0000021927_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 05:29:46 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中",
+      "text": "アメリカ中間選挙まで2か月 共和・民主の選挙戦さらに激しく",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 03:15:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47883/20260903de47883_E0000003668_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に",
-      "source": "NHK",
-      "time": "Wed, 02 Sep 2026 22:23:55 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "陸自が侵攻相手対処の攻撃用小型無人機を初めて公開",
-      "source": "NHK",
-      "time": "Wed, 02 Sep 2026 20:18:00 +0900"
+      "time": "Thu, 03 Sep 2026 05:40:03 +0900"
     }
   ]
 }
