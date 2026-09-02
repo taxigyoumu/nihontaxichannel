@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-09-02 16:35",
-  "has_alert": true,
+  "updated_at": "2026-09-02 21:30",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　２日１４時２４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-02T05:27:32Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "上皇さまの意向受け 将来の葬儀の規模大幅縮小へ",
+      "source": "NHK",
+      "time": "Wed, 02 Sep 2026 19:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47735/20260902de47735_E0000021927_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール土石流 発生から1週間 エネルギー施設にも深刻な影響",
+      "text": "台風と前線影響 西・東日本は3日から大雨に 長引くおそれも",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 15:14:25 +0900",
+      "time": "Wed, 02 Sep 2026 21:26:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47704/20260901de47704_E0000022269_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に",
+      "source": "NHK",
+      "time": "Wed, 02 Sep 2026 18:52:04 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47705/20260901de47705_E0000021773_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風と前線の影響で西・東日本では3日から大雨のおそれ",
+      "text": "日銀 植田総裁 利上げは9月会合含め毎回会合で議論",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 12:29:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260901de47704/20260901de47704_E0000021873_1_l.jpg"
+      "time": "Wed, 02 Sep 2026 14:57:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47787/20260902de47787_E0000021978_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 一時1900円超の値下がり 原油先物価格と長期金利の上昇で",
+      "text": "陸上自衛隊 攻撃用の小型無人機 初めて公開",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 16:25:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47733/20260902de47733_E0000022069_1_l.jpg"
+      "time": "Wed, 02 Sep 2026 20:18:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47796/20260902de47796_E0000022065_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長期金利3.015％に一時上昇 イラン情勢緊迫化でインフレ懸念",
+      "text": "パジェロ新型モデル公開 自動車各社 人気車種で国際競争に備え",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 11:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47751/20260902de47751_E0000021937_1_l.jpg"
+      "time": "Wed, 02 Sep 2026 19:35:18 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日銀 高田審議委員 “機動的に利上げを進めるべき”",
+      "text": "日本郵便 フリーランス保護の法律に違反 公正取引委員会が勧告",
       "source": "NHK",
-      "time": "Wed, 02 Sep 2026 15:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260902de47789/20260902de47789_E0000021985_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震 宇城市の事業者被害262億円 10年前の10倍",
-      "source": "NHK",
-      "time": "Wed, 02 Sep 2026 14:51:35 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "漫画家の車田正美さん代表の会社 横領被害で28億円余求め提訴",
-      "source": "NHK",
-      "time": "Wed, 02 Sep 2026 16:18:54 +0900"
+      "time": "Wed, 02 Sep 2026 18:43:18 +0900"
     }
   ]
 }
