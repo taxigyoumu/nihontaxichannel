@@ -804,6 +804,11 @@ for(var i=0;i<65;i++){
             style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
             <source src="movie8.mp4" type="video/mp4">
           </video>
+          <video id="ev-accident-v4-el"
+            muted playsinline preload="auto"
+            style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
+            <source src="movie9.mp4" type="video/mp4">
+          </video>
           <!-- テロップ①：movie4/5（周囲確認の徹底） -->
           <div id="ev-accident-telop-1" style="position:absolute;left:0;right:0;bottom:0;z-index:10;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.93) 0%,rgba(0,0,0,.65) 75%,transparent 100%);transition:opacity .3s ease;">
             <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
@@ -822,6 +827,16 @@ for(var i=0;i<65;i++){
             <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.25;text-shadow:0 2px 8px rgba(0,0,0,.9);">シートベルト未着用のお客様が転倒し、救急車で搬送されました</div>
             <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.18);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;letter-spacing:.02em;">シートベルトさえしていれば防げた事故です</div>
             <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;line-height:1.55;">車内事故の多くがこのケースです。後部座席も2008年から一般道・高速を問わず着用が法律で義務化されています。<b style="color:#fff;">乗車時、お客様へシートベルト着用のお声かけを徹底してください。</b></div>
+          </div>
+          <!-- テロップ③：movie9（シートベルト未着用の事故がまた発生） -->
+          <div id="ev-accident-telop-3" style="position:absolute;left:0;right:0;bottom:0;z-index:10;opacity:0;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.96) 0%,rgba(0,0,0,.75) 80%,transparent 100%);transition:opacity .3s ease;">
+            <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
+              <span style="background:#e52020;color:#fff;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;animation:blink 1.4s step-start infinite;">実際の事故映像</span>
+              <span style="font-size:11px;color:#ffb0b0;">2026.09.01　シートベルト未着用　車内人身事故</span>
+            </div>
+            <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.25;text-shadow:0 2px 8px rgba(0,0,0,.9);"><span style="color:#ff5a5a;">またしても</span>、シートベルト未着用のお客様が衝突時にケガをされました</div>
+            <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.22);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;letter-spacing:.02em;">前回（8/27）に続き、同じ原因の事故が繰り返されています</div>
+            <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;line-height:1.55;">お客様の命と身体を守れるのは、乗せた乗務員だけです。<b style="color:#fff;">全てのお客様に、発車前のシートベルト着用のお声かけを必ず実施してください。</b></div>
           </div>
         </div>
 
@@ -1163,7 +1178,7 @@ for(var i=0;i<65;i++){
     { slot:'ev-video3',  icon:'🎬', title:'業務連絡 動画',        sub:'スライドドアの確認',         dur:30000, video:'ev-video3-el' },
     { slot:'ev-nyanshi-tokubetsu', icon:'📖', title:'業務連絡 特別編', sub:'にゃん氏物語 ─ 進路変更の油断', dur:NYANSHI_TOTAL_MS, video:null },
     { slot:'ev-video4',  icon:'🚨', title:'業務連絡 動画',        sub:'重大事故について',           dur:60000, sequence:['ev-video4-el','ev-video7-el'] },
-    { slot:'ev-accident', icon:'🚨', title:'業務連絡 動画',       sub:'事故映像 ─ 周囲確認・シートベルト',  dur:180000, sequence:['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el'] }
+    { slot:'ev-accident', icon:'🚨', title:'業務連絡 動画',       sub:'事故映像 ─ 周囲確認・シートベルト',  dur:250000, sequence:['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el','ev-accident-v4-el'] }
   ];
 
   var campaignViews = [
@@ -1249,10 +1264,14 @@ for(var i=0;i<65;i++){
   function updateAccidentTelop(activeTag){
     var t1 = document.getElementById('ev-accident-telop-1');
     var t2 = document.getElementById('ev-accident-telop-2');
-    if(!t1 || !t2) return;
-    var showT2 = !!(activeTag && activeTag.id === 'ev-accident-v3-el');
-    t1.style.opacity = showT2 ? '0' : '1';
+    var t3 = document.getElementById('ev-accident-telop-3');
+    if(!t1 || !t2 || !t3) return;
+    var id = activeTag ? activeTag.id : '';
+    var showT2 = (id === 'ev-accident-v3-el');
+    var showT3 = (id === 'ev-accident-v4-el');
+    t1.style.opacity = (showT2 || showT3) ? '0' : '1';
     t2.style.opacity = showT2 ? '1' : '0';
+    t3.style.opacity = showT3 ? '1' : '0';
   }
   sequenceVideoTags.forEach(function(seq){
     seq.forEach(function(tag, k){
