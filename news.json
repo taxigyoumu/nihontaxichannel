@@ -1,74 +1,67 @@
 {
-  "updated_at": "2026-09-03 09:28",
+  "updated_at": "2026-09-03 13:54",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　３日０８時４４分ころ、地震がありました。",
+      "text": "【震源・震度情報】　３日１１時５５分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-02T23:47:06Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　３日０８時２２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-02T23:24:47Z"
+      "time": "2026-09-03T02:57:47Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "前線活発化 東北～北陸に発達した雨雲 広い範囲で大雨のおそれ",
+      "text": "「まんじゅうや」は無効票 東京高裁 神栖市長の訴え退ける",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 08:43:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000022365_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 12:50:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47905/20260903de47905_E0000022399_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【大雨】青森市やむつ市 県道で土砂崩れや住宅浸水の被害",
+      "text": "台風と前線の影響 広い範囲で大雨に 線状降水帯のおそれも",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 08:50:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47889/20260903de47889_E0000004028_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 12:48:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000022450_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】気象予報士解説 広い範囲で大雨続くおそれ",
+      "text": "宮崎 イセエビ漁の漁船が不明と通報 船長ら3人死亡 海上保安部",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 08:36:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47893/20260903de47893_E0000022357_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 13:44:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47914/20260903de47914_E0000022499_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 党役員人事と内閣改造 再来週にも踏み切るとの見方も",
+      "text": "世界文化遺産の国内候補に「彦根城」の推薦を決定",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 04:53:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47879/20260903de47879_E0000003844_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 12:58:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47931/20260903de47931_E0000022515_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール土石流 1200人以上死亡 首相は気候変動対策を訴え",
+      "text": "被爆の記録映画 フィルムに未知の広範囲シーン確認",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 05:29:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47884/20260903de47884_E0000022336_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 13:04:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47922/20260903de47922_E0000022512_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ中間選挙まで2か月 共和・民主の選挙戦さらに激しく",
+      "text": "結婚式4人死亡 イラン“戦争犯罪” 米“攻撃準備できている”",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 05:40:03 +0900"
+      "time": "Thu, 03 Sep 2026 09:27:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東北新幹線 運転を再開",
+      "text": "「スター・ウォーズ」監督 ロサンゼルスに美術館創設し内覧会",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 08:56:30 +0900"
+      "time": "Thu, 03 Sep 2026 12:02:00 +0900"
     }
   ]
 }
