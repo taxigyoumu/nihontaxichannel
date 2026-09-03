@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-04 05:04",
+  "updated_at": "2026-09-04 07:43",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風と前線 各地に発達した雨雲 奄美で「線状降水帯直前予測」",
+      "text": "台風と前線で西日本中心に発達した雨雲 線状降水帯のおそれも",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 04:47:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000023714_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 07:11:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000023733_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "京都舞鶴 住宅で見つかったクマ2頭を緊急銃猟で駆除",
+      "text": "日本製紙八代工場 解体中の煙突火事 きょう現場検証",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 01:44:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48046/20260903de48046_E0000023646_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 05:10:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48063/20260904de48063_E0000023712_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 日本製紙八代工場 地震損傷で解体中の煙突火事 鎮圧",
+      "text": "ネパール土石流　閉じこめの水力発電所に生存者か",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 00:00:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48019/20260903de48019_E0000023648_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イグ・ノーベル賞で日本「鼻のかみ方」研究が医学賞を受賞",
-      "source": "NHK",
-      "time": "Fri, 04 Sep 2026 03:09:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48062/20260904de48062_E0000023701_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "WMO「エルニーニョ来年2月まで 洪水などリスク高まる」",
-      "source": "NHK",
-      "time": "Fri, 04 Sep 2026 03:26:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48061/20260904de48061_E0000023694_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "世界文化遺産の国内候補に「彦根城」推薦決定 文化庁の審議会",
-      "source": "NHK",
-      "time": "Thu, 03 Sep 2026 20:44:40 +0900"
+      "time": "Fri, 04 Sep 2026 05:53:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48070/20260904de48070_E0000023727_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "最低賃金引き上げ 国は中小企業などへの支援進める",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 03:45:39 +0900"
+      "time": "Fri, 04 Sep 2026 03:45:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48045/20260903de48045_E0000023673_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イグ・ノーベル賞で日本「鼻のかみ方」研究が医学賞を受賞",
+      "source": "NHK",
+      "time": "Fri, 04 Sep 2026 03:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48062/20260904de48062_E0000023701_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ゼレンスキー大統領「ロシア上空危険」 プーチン大統領が批判",
+      "source": "NHK",
+      "time": "Fri, 04 Sep 2026 06:21:02 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロンドン初の自動運転タクシー 東京でも年内に試験運行へ",
+      "source": "NHK",
+      "time": "Fri, 04 Sep 2026 05:16:50 +0900"
     }
   ]
 }
