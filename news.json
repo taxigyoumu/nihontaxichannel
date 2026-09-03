@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-09-03 22:45",
-  "has_alert": true,
+  "updated_at": "2026-09-04 02:29",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　３日２２時３４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-03T13:37:35Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "鹿児島県奄美地方で「線状降水帯直前予測」",
+      "source": "NHK",
+      "time": "Fri, 04 Sep 2026 00:41:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48060/20260904de48060_E0000003982_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 八代 日本製紙八代工場の火事 ほぼ消し止められる",
+      "text": "京都舞鶴 住宅で見つかったクマ2頭を緊急銃猟で駆除",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 22:00:00 +0900",
+      "time": "Fri, 04 Sep 2026 01:44:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48046/20260903de48046_E0000023646_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本 日本製紙八代工場 地震損傷で解体中の煙突火事 鎮圧",
+      "source": "NHK",
+      "time": "Fri, 04 Sep 2026 00:00:37 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48019/20260903de48019_E0000023648_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "各地に発達した雨雲 鹿児島 宮崎 大分 高知で線状降水帯おそれ",
-      "source": "NHK",
-      "time": "Thu, 03 Sep 2026 22:07:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000023611_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,32 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "京都 舞鶴 住宅の軒下でクマ２頭見つかる 緊急銃猟実施へ",
+      "text": "世界文化遺産の国内候補に「彦根城」推薦決定 文化庁の審議会",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 20:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48046/20260903de48046_E0000023653_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 20:44:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47931/20260903de47931_E0000022515_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ノーベル化学賞 受賞者 白川英樹さん死去 90歳",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 20:37:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47974/20260903de47974_E0000023437_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 20:37:56 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "世界文化遺産の国内候補に「彦根城」推薦決定 文化庁の審議会",
+      "text": "円相場 一時 1ドル＝155円台前半に 1か月ぶり高値",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 20:44:40 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "青森市 市内の一部に出していた緊急安全確保や避難指示を解除",
-      "source": "NHK",
-      "time": "Thu, 03 Sep 2026 21:43:53 +0900"
+      "time": "Fri, 04 Sep 2026 00:11:58 +0900"
     }
   ]
 }
