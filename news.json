@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-09-03 13:54",
-  "has_alert": true,
+  "updated_at": "2026-09-03 18:25",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　３日１１時５５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-03T02:57:47Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風と前線 広範囲で大雨に 九州南部で線状降水帯のおそれも",
+      "source": "NHK",
+      "time": "Thu, 03 Sep 2026 17:39:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000023459_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「まんじゅうや」は無効票 東京高裁 神栖市長の訴え退ける",
+      "text": "千葉豪雨から3週間 ボランティアが浸水した住宅の後片づけ急ぐ",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 12:50:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47905/20260903de47905_E0000022399_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 17:44:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47912/20260903de47912_E0000022453_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風と前線の影響 広い範囲で大雨に 線状降水帯のおそれも",
+      "text": "ノーベル化学賞 受賞者 白川英樹さん死去 90歳",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 12:48:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47887/20260903de47887_E0000022450_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 17:46:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47974/20260903de47974_E0000023437_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "宮崎 イセエビ漁の漁船が不明と通報 船長ら3人死亡 海上保安部",
+      "text": "詳報「まんじゅうや」は無効票 東京高裁 神栖市長の訴え退ける",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 13:44:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47914/20260903de47914_E0000022499_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 17:25:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47905/20260903de47905_E0000023508_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "世界文化遺産の国内候補に「彦根城」の推薦を決定",
+      "text": "木原官房長官 上皇さまの将来の葬儀 宮内庁で必要な検討",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 12:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47931/20260903de47931_E0000022515_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 15:05:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47970/20260903de47970_E0000023403_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "被爆の記録映画 フィルムに未知の広範囲シーン確認",
+      "text": "プーチン大統領 北方領土の税制優遇措置などで投資活発と主張",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 13:04:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de47922/20260903de47922_E0000022512_1_l.jpg"
+      "time": "Thu, 03 Sep 2026 17:38:41 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "結婚式4人死亡 イラン“戦争犯罪” 米“攻撃準備できている”",
+      "text": "ロシア極東で「対日戦勝」式典",
       "source": "NHK",
-      "time": "Thu, 03 Sep 2026 09:27:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「スター・ウォーズ」監督 ロサンゼルスに美術館創設し内覧会",
-      "source": "NHK",
-      "time": "Thu, 03 Sep 2026 12:02:00 +0900"
+      "time": "Thu, 03 Sep 2026 16:49:49 +0900"
     }
   ]
 }
