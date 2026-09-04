@@ -1,14 +1,22 @@
 {
-  "updated_at": "2026-09-05 02:30",
+  "updated_at": "2026-09-05 05:14",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鹿児島 種子島・屋久島地方 「線状降水帯直前予測」発表",
+      "text": "インドネシア付近で大規模噴火 日本への津波の有無調査 気象庁",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 02:16:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48007/20260903de48007_E0000003982_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 04:15:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48261/20260905de48261_E0000004023_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "鹿児島 種子島・屋久島地方で再び線状降水帯発生 厳重警戒",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 05:00:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000004033_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,8 +47,7 @@
       "label": "ニュース",
       "text": "インフルエンザ患者数 前週比1.6倍に増加“基本的な対策を”",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 19:54:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48171/20260904de48171_E0000023976_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 19:54:54 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "ネパール土石流 633人が死亡 二次災害のリスクを警戒",
       "source": "NHK",
       "time": "Fri, 04 Sep 2026 22:22:14 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【動画】ネパール土石流 2人救助 発災から9日後 その瞬間",
-      "source": "NHK",
-      "time": "Fri, 04 Sep 2026 21:59:27 +0900"
     }
   ]
 }
