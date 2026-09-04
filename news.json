@@ -1,29 +1,52 @@
 {
-  "updated_at": "2026-09-05 05:14",
-  "has_alert": false,
+  "updated_at": "2026-09-05 07:26",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "インドネシア付近で大規模噴火 日本への津波の有無調査 気象庁",
-      "source": "NHK",
-      "time": "Sat, 05 Sep 2026 04:15:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48261/20260905de48261_E0000004023_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【遠地地震に関する情報】　５日０２時５０分ころ、海外で規模の大きな地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-04T21:30:15Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鹿児島 種子島・屋久島地方で再び線状降水帯発生 厳重警戒",
+      "text": "鹿児島 屋久島町にレベル5土砂災害特別警報 命が助かる行動を",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 05:00:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000004033_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 06:57:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48258/20260905de48258_E0000024994_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】鹿児島 屋久島町で横殴りの激しい雨",
+      "text": "台風24号と秋雨前線の影響で大気不安定 今後の進路 見通しは",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 23:57:38 +0900",
+      "time": "Sat, 05 Sep 2026 06:25:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025001_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "インドネシア大規模噴火 現時点で目立った潮位変化観測されず",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 07:21:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48261/20260905de48261_E0000024999_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【特別警報】気象庁が記者会見「直ちに身の安全確保して」",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 07:18:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48264/20260905de48264_E0000025003_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【動画】鹿児島 屋久島町 横殴りの激しい雨",
+      "source": "NHK",
+      "time": "Fri, 04 Sep 2026 23:57:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48238/20260904de48238_E0000024573_1_l.jpg"
     },
     {
@@ -31,30 +54,14 @@
       "label": "ニュース",
       "text": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 21:06:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48221/20260904de48221_E0000024560_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 21:06:33 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【気象予報士解説】今後の大雨の見通しは？",
+      "text": "ネパール土石流 発電所で2人救助 政府は優先的に捜索の考え",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 19:31:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48213/20260904de48213_E0000024484_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "インフルエンザ患者数 前週比1.6倍に増加“基本的な対策を”",
-      "source": "NHK",
-      "time": "Fri, 04 Sep 2026 19:54:54 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネパール土石流 633人が死亡 二次災害のリスクを警戒",
-      "source": "NHK",
-      "time": "Fri, 04 Sep 2026 22:22:14 +0900"
+      "time": "Sat, 05 Sep 2026 06:46:05 +0900"
     }
   ]
 }
