@@ -1,67 +1,74 @@
 {
-  "updated_at": "2026-09-04 18:51",
+  "updated_at": "2026-09-04 22:58",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　４日１８時２３分ころ、地震がありました。",
+      "text": "【震源・震度情報】　４日２１時１０分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-04T09:26:17Z"
+      "time": "2026-09-04T12:12:56Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日２０時４０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-04T11:43:30Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風や前線 宮崎など九州南部は大雨 関東ほか7日にかけ大雨か",
+      "text": "鹿児島 種子島・屋久島地方で線状降水帯発生 厳重警戒【中継】",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 18:32:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000024034_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 22:44:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000024514_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "秋の連休 新幹線の混雑ピーク 下り19日・上り22日の見通し",
+      "text": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 18:41:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48193/20260904de48193_E0000024444_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 21:06:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48221/20260904de48221_E0000024560_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インフルエンザ 厚労省 定期接種の前倒し可能を自治体に周知",
+      "text": "【気象予報士解説】今後の大雨の見通しは？",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 17:36:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48189/20260904de48189_E0000024031_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 19:31:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48213/20260904de48213_E0000024484_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ライブ】ニデック 品質不正で調査委員会が報告書 会社が会見",
+      "text": "米雇用統計 8月の就業者は前月比増加 市場予想を大きく上回る",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 18:10:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48126/20260904de48126_E0000024032_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 22:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48240/20260904de48240_E0000024577_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "インフルエンザ患者数 前週比1.6倍に増加“基本的な対策を”",
+      "source": "NHK",
+      "time": "Fri, 04 Sep 2026 19:54:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48171/20260904de48171_E0000023976_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ネパール土石流 633人が死亡 二次災害のリスクを警戒",
+      "source": "NHK",
+      "time": "Fri, 04 Sep 2026 22:22:14 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【動画】ネパール土石流 2人救助 発災から9日後 その瞬間",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 18:43:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48070/20260904de48070_E0000023903_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "全東信 2017年度決算「適正か判断できず」趣旨の監査報告書も",
-      "source": "NHK",
-      "time": "Fri, 04 Sep 2026 18:00:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "小野田経済安保相 公選法違反疑い報道で “指摘あたらず”",
-      "source": "NHK",
-      "time": "Fri, 04 Sep 2026 15:45:45 +0900"
+      "time": "Fri, 04 Sep 2026 21:59:27 +0900"
     }
   ]
 }
