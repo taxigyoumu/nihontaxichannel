@@ -1,28 +1,22 @@
 {
-  "updated_at": "2026-09-04 22:58",
-  "has_alert": true,
+  "updated_at": "2026-09-05 02:30",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　４日２１時１０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-04T12:12:56Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　４日２０時４０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-04T11:43:30Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "鹿児島 種子島・屋久島地方 「線状降水帯直前予測」発表",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 02:16:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48007/20260903de48007_E0000003982_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鹿児島 種子島・屋久島地方で線状降水帯発生 厳重警戒【中継】",
+      "text": "【動画】鹿児島 屋久島町で横殴りの激しい雨",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 22:44:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000024514_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 23:57:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48238/20260904de48238_E0000024573_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,14 +33,6 @@
       "source": "NHK",
       "time": "Fri, 04 Sep 2026 19:31:59 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48213/20260904de48213_E0000024484_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米雇用統計 8月の就業者は前月比増加 市場予想を大きく上回る",
-      "source": "NHK",
-      "time": "Fri, 04 Sep 2026 22:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48240/20260904de48240_E0000024577_1_l.jpg"
     },
     {
       "category": "news",
