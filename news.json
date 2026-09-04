@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-04 09:43",
+  "updated_at": "2026-09-04 14:27",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風と前線で西日本中心に発達した雨雲 線状降水帯のおそれも",
+      "text": "宮崎県に「線状降水帯直前予測」鹿児島 大分 高知でも厳重警戒",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 09:07:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000023741_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 13:48:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48057/20260903de48057_E0000023827_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本製紙八代工場 解体中の煙突火事 きょう現場検証",
+      "text": "ネパール土石流 水力発電所トンネルから2人救出",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 05:10:00 +0900",
+      "time": "Fri, 04 Sep 2026 13:59:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48129/20260904de48129_E0000023902_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本 日本製紙八代工場の火事 煙突囲う鉄柱切断中に出火か",
+      "source": "NHK",
+      "time": "Fri, 04 Sep 2026 12:35:26 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48063/20260904de48063_E0000023712_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール土石流　閉じこめの水力発電所に生存者か",
+      "text": "円高さらに加速 1ドル＝155円台前半に",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 05:53:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48070/20260904de48070_E0000023727_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 12:47:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48124/20260904de48124_E0000023859_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "最低賃金引き上げ 国は中小企業などへの支援進める",
+      "text": "最低賃金引き上げ 国は中小企業などへの支援進める方針",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 03:45:39 +0900",
+      "time": "Fri, 04 Sep 2026 12:23:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260903de48045/20260903de48045_E0000023673_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イグ・ノーベル賞で日本「鼻のかみ方」研究が医学賞を受賞",
+      "text": "来年度予算案の概算要求 過去最大に 総額143兆656億円",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 03:09:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48062/20260904de48062_E0000023701_1_l.jpg"
+      "time": "Fri, 04 Sep 2026 12:24:05 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ゼレンスキー大統領「ロシア上空危険」 プーチン大統領が批判",
+      "text": "秋篠宮ご夫妻 ノルウェー前国王の葬儀参列へ",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 06:21:02 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロンドン初の自動運転タクシー 東京でも年内に試験運行へ",
-      "source": "NHK",
-      "time": "Fri, 04 Sep 2026 05:16:50 +0900"
+      "time": "Fri, 04 Sep 2026 11:45:45 +0900"
     }
   ]
 }
