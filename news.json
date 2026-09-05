@@ -1,20 +1,28 @@
 {
-  "updated_at": "2026-09-05 13:47",
+  "updated_at": "2026-09-05 17:47",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【遠地地震に関する情報】　５日０２時５０分ころ、海外で規模の大きな地震がありました。",
+      "text": "【震源・震度情報】　５日１７時２６分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-05T03:30:08Z"
+      "time": "2026-09-05T08:29:01Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風24号と秋雨前線の影響で大気不安定 今後の進路 見通しは",
+      "text": "ネパール土石流 外国人1人を救助 軍がSNS投稿 発災から10日",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 12:59:43 +0900",
+      "time": "Sat, 05 Sep 2026 17:34:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48334/20260905de48334_E0000004049_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 15:00:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025075_1_l.jpg"
     },
     {
@@ -22,46 +30,38 @@
       "label": "ニュース",
       "text": "鹿児島 屋久島町 レベル5土砂災害特別警報 危険警報に切り替え",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 12:26:25 +0900",
+      "time": "Sat, 05 Sep 2026 15:05:50 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48287/20260905de48287_E0000003985_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "文化祭の高校でスプレー噴射 教員2人けが 盗撮行為していたか",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 17:23:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48332/20260905de48332_E0000025129_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領 ロシアとウクライナに特使ら派遣へ",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 17:17:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48327/20260905de48327_E0000025159_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "インドネシア 大規模噴火 日本への津波の心配なし 気象庁",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 12:41:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48261/20260905de48261_E0000025098_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 12:41:49 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "星新一さん自筆のSFみつかる 初期の未発表作品か",
+      "text": "いのち 山本代表 党大会で党勢拡大図る決意示す",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 12:31:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48277/20260905de48277_E0000025043_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ベネチア国際映画祭 塚本晋也監督の映画が公式上映",
-      "source": "NHK",
-      "time": "Sat, 05 Sep 2026 12:45:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48291/20260905de48291_E0000025067_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホワイトソックス村上 2試合連続無安打 チームは連敗ストップ",
-      "source": "NHK",
-      "time": "Sat, 05 Sep 2026 12:52:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネパール土石流 発電所で2人救助 政府は優先的に捜索の考え",
-      "source": "NHK",
-      "time": "Sat, 05 Sep 2026 06:46:00 +0900"
+      "time": "Sat, 05 Sep 2026 16:17:00 +0900"
     }
   ]
 }
