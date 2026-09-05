@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 09:16",
+  "updated_at": "2026-09-05 13:47",
   "has_alert": true,
   "items": [
     {
@@ -7,54 +7,54 @@
       "label": "地震",
       "text": "【遠地地震に関する情報】　５日０２時５０分ころ、海外で規模の大きな地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-04T23:30:11Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "鹿児島 屋久島町にレベル5土砂災害特別警報 命が助かる行動を",
-      "source": "NHK",
-      "time": "Sat, 05 Sep 2026 08:58:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48258/20260905de48258_E0000024994_1_l.jpg"
+      "time": "2026-09-05T03:30:08Z"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風24号と秋雨前線の影響で大気不安定 今後の進路 見通しは",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 07:33:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025006_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 12:59:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025075_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インドネシア大規模噴火 現時点で目立った潮位変化観測されず",
+      "text": "鹿児島 屋久島町 レベル5土砂災害特別警報 危険警報に切り替え",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 07:21:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48261/20260905de48261_E0000024999_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 12:26:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48287/20260905de48287_E0000003985_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【特別警報】気象庁が記者会見「直ちに身の安全確保して」",
+      "text": "インドネシア 大規模噴火 日本への津波の心配なし 気象庁",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 07:18:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48264/20260905de48264_E0000025003_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 12:41:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48261/20260905de48261_E0000025098_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場 荒い値動き続く FRB 日銀の利上げ観測や介入警戒で",
+      "text": "星新一さん自筆のSFみつかる 初期の未発表作品か",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 07:35:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48256/20260905de48256_E0000003668_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 12:31:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48277/20260905de48277_E0000025043_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府 消費税減税 地方減収分は特例交付金で全額補てん検討",
+      "text": "ベネチア国際映画祭 塚本晋也監督の映画が公式上映",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 06:25:00 +0900"
+      "time": "Sat, 05 Sep 2026 12:45:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48291/20260905de48291_E0000025067_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ホワイトソックス村上 2試合連続無安打 チームは連敗ストップ",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 12:52:00 +0900"
     },
     {
       "category": "news",
