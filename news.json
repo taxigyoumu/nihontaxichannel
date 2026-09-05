@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-05 07:26",
+  "updated_at": "2026-09-05 09:16",
   "has_alert": true,
   "items": [
     {
@@ -7,14 +7,14 @@
       "label": "地震",
       "text": "【遠地地震に関する情報】　５日０２時５０分ころ、海外で規模の大きな地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-04T21:30:15Z"
+      "time": "2026-09-04T23:30:11Z"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "鹿児島 屋久島町にレベル5土砂災害特別警報 命が助かる行動を",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 06:57:59 +0900",
+      "time": "Sat, 05 Sep 2026 08:58:50 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48258/20260905de48258_E0000024994_1_l.jpg"
     },
     {
@@ -22,8 +22,8 @@
       "label": "ニュース",
       "text": "台風24号と秋雨前線の影響で大気不安定 今後の進路 見通しは",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 06:25:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025001_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 07:33:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025006_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,24 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】鹿児島 屋久島町 横殴りの激しい雨",
+      "text": "円相場 荒い値動き続く FRB 日銀の利上げ観測や介入警戒で",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 23:57:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48238/20260904de48238_E0000024573_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 07:35:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48256/20260905de48256_E0000003668_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
+      "text": "政府 消費税減税 地方減収分は特例交付金で全額補てん検討",
       "source": "NHK",
-      "time": "Fri, 04 Sep 2026 21:06:33 +0900"
+      "time": "Sat, 05 Sep 2026 06:25:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ネパール土石流 発電所で2人救助 政府は優先的に捜索の考え",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 06:46:05 +0900"
+      "time": "Sat, 05 Sep 2026 06:46:00 +0900"
     }
   ]
 }
