@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-09-06 06:28",
+  "updated_at": "2026-09-06 08:10",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州～東北の太平洋側中心に大雨 10日まで続くおそれも",
+      "text": "西日本～東北の太平洋側中心に大雨 10日まで続くおそれも",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 05:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025301_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 07:33:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025311_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 伊豆諸島南部に「線状降水帯直前予測」",
+      "source": "NHK",
+      "time": "Sun, 06 Sep 2026 07:17:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48395/20260906de48395_E0000003982_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 八丈町に記録的短時間大雨の気象防災速報",
+      "source": "NHK",
+      "time": "Sun, 06 Sep 2026 07:13:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48392/20260906de48392_E0000025310_1_l.jpg"
     },
     {
       "category": "news",
@@ -31,30 +47,14 @@
       "label": "ニュース",
       "text": "悠仁さま 20歳の誕生日",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 00:00:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48356/20260905de48356_E0000025244_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 00:00:40 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国民民主党代表選 6日 投開票 新代表を選出へ",
+      "text": "ネパール土石流 トンネルから新たに1人が救助 さらなる捜索へ",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 05:33:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48378/20260906de48378_E0000025271_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドイツ州議会選挙投票へ 「極右」政党が第1党か 抗議デモも",
-      "source": "NHK",
-      "time": "Sun, 06 Sep 2026 06:06:50 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "内閣改造 片山財務相 茂木外相 小泉防衛相 留任の方向で調整",
-      "source": "NHK",
-      "time": "Sat, 05 Sep 2026 21:17:34 +0900"
+      "time": "Sun, 06 Sep 2026 06:41:36 +0900"
     }
   ]
 }
