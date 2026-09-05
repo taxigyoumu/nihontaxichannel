@@ -1,14 +1,14 @@
 {
-  "updated_at": "2026-09-05 21:20",
+  "updated_at": "2026-09-06 00:25",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄 本島北部に「線状降水帯直前予測」",
+      "text": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 20:40:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48359/20260905de48359_E0000003982_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 23:00:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025241_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,10 +21,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
+      "text": "悠仁さま 20歳の誕生日",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 21:10:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025241_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 00:00:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48356/20260905de48356_E0000025244_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,15 +39,8 @@
       "label": "ニュース",
       "text": "ネパール土石流 トンネルからさらに1人救助 住宅から女性1人も",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 19:34:21 +0900",
+      "time": "Sat, 05 Sep 2026 22:23:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48334/20260905de48334_E0000025216_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自民党福岡県連 松本会長が辞意表明 県連で金銭授受調査へ",
-      "source": "NHK",
-      "time": "Sat, 05 Sep 2026 19:14:23 +0900"
     },
     {
       "category": "news",
@@ -55,6 +48,13 @@
       "text": "長期金利上昇 私たちの暮らしや経済への影響は",
       "source": "NHK",
       "time": "Sat, 05 Sep 2026 20:09:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "自民党福岡県連 松本会長が辞意表明 県連で金銭授受調査へ",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 19:14:23 +0900"
     }
   ]
 }
