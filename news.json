@@ -1,22 +1,14 @@
 {
-  "updated_at": "2026-09-06 00:25",
+  "updated_at": "2026-09-06 02:27",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
+      "text": "台風24号 鹿児島 奄美地方で線状降水帯 6日以降は広範囲で大雨",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 23:00:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025241_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "鹿児島 奄美地方「線状降水帯発生」気象庁発表",
-      "source": "NHK",
-      "time": "Sat, 05 Sep 2026 20:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48347/20260905de48347_E0000004033_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 00:51:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025266_1_l.jpg"
     },
     {
       "category": "news",
@@ -33,6 +25,14 @@
       "source": "NHK",
       "time": "Sat, 05 Sep 2026 21:17:34 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48338/20260905de48338_E0000025250_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "鹿児島 奄美地方「線状降水帯発生」気象庁発表",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 20:06:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48347/20260905de48347_E0000004033_1_l.jpg"
     },
     {
       "category": "news",
