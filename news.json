@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-09-05 17:47",
-  "has_alert": true,
+  "updated_at": "2026-09-05 21:20",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日１７時２６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-05T08:29:01Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "沖縄 本島北部に「線状降水帯直前予測」",
+      "source": "NHK",
+      "time": "Sat, 05 Sep 2026 20:40:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48359/20260905de48359_E0000003982_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール土石流 外国人1人を救助 軍がSNS投稿 発災から10日",
+      "text": "鹿児島 奄美地方「線状降水帯発生」気象庁発表",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 17:34:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48334/20260905de48334_E0000004049_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 20:06:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48347/20260905de48347_E0000004033_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 15:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025075_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 21:10:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025241_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "鹿児島 屋久島町 レベル5土砂災害特別警報 危険警報に切り替え",
+      "text": "内閣改造 片山財務相 茂木外相 小泉防衛相 留任の方向で調整",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 15:05:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48287/20260905de48287_E0000003985_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 21:17:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48338/20260905de48338_E0000025250_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "文化祭の高校でスプレー噴射 教員2人けが 盗撮行為していたか",
+      "text": "ネパール土石流 トンネルからさらに1人救助 住宅から女性1人も",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 17:23:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48332/20260905de48332_E0000025129_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 19:34:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48334/20260905de48334_E0000025216_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 ロシアとウクライナに特使ら派遣へ",
+      "text": "自民党福岡県連 松本会長が辞意表明 県連で金銭授受調査へ",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 17:17:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48327/20260905de48327_E0000025159_1_l.jpg"
+      "time": "Sat, 05 Sep 2026 19:14:23 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インドネシア 大規模噴火 日本への津波の心配なし 気象庁",
+      "text": "長期金利上昇 私たちの暮らしや経済への影響は",
       "source": "NHK",
-      "time": "Sat, 05 Sep 2026 12:41:49 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "いのち 山本代表 党大会で党勢拡大図る決意示す",
-      "source": "NHK",
-      "time": "Sat, 05 Sep 2026 16:17:00 +0900"
+      "time": "Sat, 05 Sep 2026 20:09:00 +0900"
     }
   ]
 }
