@@ -1,36 +1,45 @@
 {
-  "updated_at": "2026-09-06 15:16",
-  "has_alert": true,
+  "updated_at": "2026-09-06 20:12",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　６日１４時１５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-06T05:20:06Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を",
+      "source": "NHK",
+      "time": "Sun, 06 Sep 2026 18:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025506_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東南部と東海 線状降水帯発生の可能性 今夜からあすにかけて",
+      "text": "【随時更新】大雨交通影響 7日は山手線など本数減 運休区間も",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 15:14:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025409_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 19:20:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48452/20260906de48452_E0000025397_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
+      "text": "岐阜 洋菓子店火事3人死亡「人が刺されガソリンまかれた」通報",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 05:31:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48221/20260904de48221_E0000025366_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 19:32:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48427/20260906de48427_E0000025361_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など",
+      "source": "NHK",
+      "time": "Sun, 06 Sep 2026 19:35:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48469/20260906de48469_E0000025490_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "悠仁さま 20歳の誕生日 天皇皇后両陛下にあいさつ",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 13:40:20 +0900",
+      "time": "Sun, 06 Sep 2026 13:40:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48437/20260906de48437_E0000025375_1_l.jpg"
     },
     {
@@ -38,30 +47,14 @@
       "label": "ニュース",
       "text": "国民民主党 代表選挙 玉木代表が再選",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 14:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48450/20260906de48450_E0000025389_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "岐阜 洋菓子店で火事 3人死亡2人搬送「ガソリンまかれた」通報",
-      "source": "NHK",
-      "time": "Sun, 06 Sep 2026 13:46:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48427/20260906de48427_E0000025361_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 19:35:28 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "村上宗隆 今季30号ホームラン 大リーグ1年目の日本選手で初",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 14:33:53 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "全米オープンテニス 大坂なおみが4回戦に進出",
-      "source": "NHK",
-      "time": "Sun, 06 Sep 2026 14:59:05 +0900"
+      "time": "Sun, 06 Sep 2026 19:47:26 +0900"
     }
   ]
 }
