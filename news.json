@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-07 02:13",
+  "updated_at": "2026-09-07 04:23",
   "has_alert": true,
   "items": [
     {
@@ -12,56 +12,56 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を",
+      "text": "東京 新島村に土砂災害特別警報 命が助かる可能性高い行動を",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 02:07:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025551_1_l.jpg"
+      "time": "Mon, 07 Sep 2026 04:17:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48639/20260907de48639_E0000003994_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 善福寺川にレベル4氾濫危険警報",
+      "text": "関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 00:01:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48552/20260906de48552_E0000003987_1_l.jpg"
+      "time": "Mon, 07 Sep 2026 04:14:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025563_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "大雨交通影響 7日は山手線など本数減 運休区間も",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 23:55:00 +0900",
+      "time": "Mon, 07 Sep 2026 03:00:40 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48452/20260906de48452_E0000025397_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 洋菓子店火事3人死亡「人が刺されガソリンまかれた」通報",
+      "text": "3人死亡火事は同級生の集まりで発生か 会社役員関与の可能性も",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 19:32:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48427/20260906de48427_E0000025361_1_l.jpg"
+      "time": "Mon, 07 Sep 2026 04:07:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48555/20260907de48555_E0000025554_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "体に必要な物質作る カギのたんぱく質特定 東大などのグループ",
+      "source": "NHK",
+      "time": "Mon, 07 Sep 2026 04:04:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48248/20260904de48248_E0000025127_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 19:35:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48469/20260906de48469_E0000025490_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 19:35:06 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉市にレベル4大雨危険警報",
+      "text": "国民民主党 代表選挙 玉木代表が再選 党勢拡大など課題",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 00:47:05 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フィギュア 女子シングル 島田麻央がシニア初の国際大会で優勝",
-      "source": "NHK",
-      "time": "Sun, 06 Sep 2026 22:56:03 +0900"
+      "time": "Mon, 07 Sep 2026 04:10:13 +0900"
     }
   ]
 }
