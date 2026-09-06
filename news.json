@@ -1,30 +1,21 @@
 {
-  "updated_at": "2026-09-06 10:11",
-  "has_alert": false,
+  "updated_at": "2026-09-06 15:16",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "西日本～東北の太平洋側中心に大雨 10日まで続くおそれも",
-      "source": "NHK",
-      "time": "Sun, 06 Sep 2026 09:19:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025311_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　６日１４時１５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-06T05:20:06Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 伊豆諸島南部に「線状降水帯直前予測」",
+      "text": "関東南部と東海 線状降水帯発生の可能性 今夜からあすにかけて",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 07:17:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48395/20260906de48395_E0000003982_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 八丈町に記録的短時間大雨の気象防災速報",
-      "source": "NHK",
-      "time": "Sun, 06 Sep 2026 09:15:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48392/20260906de48392_E0000025326_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 15:14:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025409_1_l.jpg"
     },
     {
       "category": "news",
@@ -32,29 +23,45 @@
       "text": "JR首都圏在来線 6日夜から7日にかけて運休や遅れの可能性",
       "source": "NHK",
       "time": "Sun, 06 Sep 2026 05:31:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48221/20260904de48221_E0000024560_1_l.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48221/20260904de48221_E0000025366_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風24号 秋雨前線 熱帯低気圧 大雨続くおそれ 今後の見通しは",
+      "text": "悠仁さま 20歳の誕生日 天皇皇后両陛下にあいさつ",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 09:13:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260905de48255/20260905de48255_E0000025241_1_l.jpg"
+      "time": "Sun, 06 Sep 2026 13:40:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48437/20260906de48437_E0000025375_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "悠仁さま 20歳の誕生日",
+      "text": "国民民主党 代表選挙 玉木代表が再選",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 00:00:00 +0900"
+      "time": "Sun, 06 Sep 2026 14:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48450/20260906de48450_E0000025389_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "岐阜 洋菓子店で火事 3人死亡2人搬送「ガソリンまかれた」通報",
+      "source": "NHK",
+      "time": "Sun, 06 Sep 2026 13:46:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48427/20260906de48427_E0000025361_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "村上宗隆 今季30号ホームラン 大リーグ1年目の日本選手で初",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 09:52:00 +0900"
+      "time": "Sun, 06 Sep 2026 14:33:53 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "全米オープンテニス 大坂なおみが4回戦に進出",
+      "source": "NHK",
+      "time": "Sun, 06 Sep 2026 14:59:05 +0900"
     }
   ]
 }
