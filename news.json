@@ -1,21 +1,36 @@
 {
-  "updated_at": "2026-09-06 23:19",
-  "has_alert": false,
+  "updated_at": "2026-09-07 02:13",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　７日０２時０４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-06T17:09:29Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 22:59:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025506_1_l.jpg"
+      "time": "Mon, 07 Sep 2026 02:07:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025551_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【随時更新】大雨交通影響 7日は山手線など本数減 運休区間も",
+      "text": "東京 善福寺川にレベル4氾濫危険警報",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 22:35:42 +0900",
+      "time": "Mon, 07 Sep 2026 00:01:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48552/20260906de48552_E0000003987_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大雨交通影響 7日は山手線など本数減 運休区間も",
+      "source": "NHK",
+      "time": "Sun, 06 Sep 2026 23:55:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48452/20260906de48452_E0000025397_1_l.jpg"
     },
     {
@@ -29,14 +44,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神奈川 三浦市にレベル4土砂災害危険警報",
-      "source": "NHK",
-      "time": "Sun, 06 Sep 2026 22:35:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48534/20260906de48534_E0000003985_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など",
       "source": "NHK",
       "time": "Sun, 06 Sep 2026 19:35:06 +0900",
@@ -45,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ＩＣＣ赤根所長が講演「法の支配への違法な脅しに沈黙せず」",
+      "text": "千葉市にレベル4大雨危険警報",
       "source": "NHK",
-      "time": "Sun, 06 Sep 2026 20:47:00 +0900"
+      "time": "Mon, 07 Sep 2026 00:47:05 +0900"
     },
     {
       "category": "news",
