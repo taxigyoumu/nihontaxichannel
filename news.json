@@ -1,21 +1,22 @@
 {
-  "updated_at": "2026-09-07 04:23",
-  "has_alert": true,
+  "updated_at": "2026-09-07 06:31",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　７日０２時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-06T17:09:29Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 新島村に土砂災害特別警報 伊豆諸島や関東南部で大雨",
+      "source": "NHK",
+      "time": "Mon, 07 Sep 2026 06:13:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48631/20260907de48631_E0000025571_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 新島村に土砂災害特別警報 命が助かる可能性高い行動を",
+      "text": "大雨交通影響 7日は山手線など本数減 運休区間も",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 04:17:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48639/20260907de48639_E0000003994_1_l.jpg"
+      "time": "Mon, 07 Sep 2026 05:18:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48452/20260906de48452_E0000025397_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,40 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大雨交通影響 7日は山手線など本数減 運休区間も",
+      "text": "千葉 アンダーパス通行止め レベル4大雨危険警報で新ルール",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 03:00:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48452/20260906de48452_E0000025397_1_l.jpg"
+      "time": "Mon, 07 Sep 2026 06:18:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48665/20260907de48665_E0000025595_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "気象庁会見 東京 新島村に土砂災害特別警報",
+      "source": "NHK",
+      "time": "Mon, 07 Sep 2026 06:17:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48645/20260907de48645_E0000003830_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "3人死亡火事は同級生の集まりで発生か 会社役員関与の可能性も",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 04:07:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48555/20260907de48555_E0000025554_1_l.jpg"
+      "time": "Mon, 07 Sep 2026 04:07:11 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "体に必要な物質作る カギのたんぱく質特定 東大などのグループ",
+      "text": "クビアカツヤカミキリ 環境省が対策強化へ",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 04:04:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260904de48248/20260904de48248_E0000025127_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など",
-      "source": "NHK",
-      "time": "Sun, 06 Sep 2026 19:35:06 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "国民民主党 代表選挙 玉木代表が再選 党勢拡大など課題",
-      "source": "NHK",
-      "time": "Mon, 07 Sep 2026 04:10:13 +0900"
+      "time": "Mon, 07 Sep 2026 05:50:02 +0900"
     }
   ]
 }
