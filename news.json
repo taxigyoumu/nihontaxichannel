@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-09-07 08:27",
+  "updated_at": "2026-09-07 10:12",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 新島村に土砂災害特別警報 伊豆諸島や関東南部で大雨",
+      "text": "東京 新島村に土砂災害特別警報 大雨の範囲は東北にも広がる",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 07:59:58 +0900",
+      "time": "Mon, 07 Sep 2026 08:59:52 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48631/20260907de48631_E0000025571_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東北新幹線 人身事故で運転見合わせ 東京と仙台の間 上下線",
+      "text": "アンダーパスで車両浸水 1人意識なし 福島 いわき市",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 07:32:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48684/20260907de48684_E0000003965_1_l.jpg"
+      "time": "Mon, 07 Sep 2026 10:02:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48714/20260907de48714_E0000003905_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東北新幹線で人身事故 運転見合わせも約2時間半で再開",
+      "source": "NHK",
+      "time": "Mon, 07 Sep 2026 09:44:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48699/20260907de48699_E0000003963_1_l.jpg"
     },
     {
       "category": "news",
@@ -33,14 +41,6 @@
       "source": "NHK",
       "time": "Mon, 07 Sep 2026 04:07:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48555/20260907de48555_E0000025554_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を",
-      "source": "NHK",
-      "time": "Mon, 07 Sep 2026 04:14:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48377/20260906de48377_E0000025563_1_l.jpg"
     },
     {
       "category": "news",
