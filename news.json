@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-07 15:24",
+  "updated_at": "2026-09-07 21:53",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "伊豆諸島 利島村にレベル5土砂災害特別警報",
+      "text": "【被害】福島 いわき アンダーパスで水没した車の女性死亡",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 15:02:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48791/20260907de48791_E0000003994_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "新島村と大島町に土砂災害特別警報 命助かる可能性高い行動を",
-      "source": "NHK",
-      "time": "Mon, 07 Sep 2026 14:25:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48631/20260907de48631_E0000025870_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 伊豆諸島北部 線状降水帯発生のおそれ 直前予測を発表",
-      "source": "NHK",
-      "time": "Mon, 07 Sep 2026 14:34:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260906de48525/20260906de48525_E0000003982_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【被害】福島 いわき アンダーパスで浸水した車の女性死亡",
-      "source": "NHK",
-      "time": "Mon, 07 Sep 2026 14:39:47 +0900",
+      "time": "Mon, 07 Sep 2026 19:30:13 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48714/20260907de48714_E0000025872_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 自民 小林氏 萩生田氏と人事などで意見交換",
+      "text": "大島町 利島村 新島村に土砂災害特別警報 千葉県でも大雨に",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 15:06:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48785/20260907de48785_E0000025882_1_l.jpg"
+      "time": "Mon, 07 Sep 2026 21:11:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48631/20260907de48631_E0000026072_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本製紙八代工場の火災 ドローンなどで現場状況詳しく調べる",
+      "text": "岐阜 洋菓子店放火疑い事件 警察が現場から複数の刃物押収",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 13:57:00 +0900"
+      "time": "Mon, 07 Sep 2026 19:42:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48752/20260907de48752_E0000025813_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "3人死亡火事 会社役員 建物駐車場の車内で見つかる",
+      "text": "福島 いわき アンダーパス冠水の現場「音を立て 大量の水が」",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 14:48:24 +0900"
+      "time": "Mon, 07 Sep 2026 19:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48823/20260907de48823_E0000025961_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【動画】土砂災害特別警報の大島町 大粒の雨 激しく打ちつける",
+      "source": "NHK",
+      "time": "Mon, 07 Sep 2026 15:40:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48786/20260907de48786_E0000025884_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "横浜市 山中市長の辞職 市議会が同意",
+      "source": "NHK",
+      "time": "Mon, 07 Sep 2026 19:22:46 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "景気拡大 戦後最長の見方も 7月景気動向指数「改善」維持",
+      "source": "NHK",
+      "time": "Mon, 07 Sep 2026 19:41:47 +0900"
     }
   ]
 }
