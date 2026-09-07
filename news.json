@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-08 03:04",
+  "updated_at": "2026-09-08 06:41",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福島 アンダーパス冠水 ポンプ作動も川の水位上昇で排水進まず",
+      "text": "伊豆諸島の特別警報は危険警報に 東海は線状降水帯可能性も",
       "source": "NHK",
-      "time": "Tue, 08 Sep 2026 02:56:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48890/20260908de48890_E0000026127_1_l.jpg"
+      "time": "Tue, 08 Sep 2026 06:05:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48909/20260908de48909_E0000003985_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大島町 利島村 新島村に土砂災害特別警報 千葉県でも大雨に",
+      "text": "岐阜 洋菓子店3人死亡の放火疑い事件 “死亡役員が関与”証言",
       "source": "NHK",
-      "time": "Tue, 08 Sep 2026 00:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48631/20260907de48631_E0000026072_1_l.jpg"
+      "time": "Tue, 08 Sep 2026 04:35:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48888/20260908de48888_E0000026121_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 洋菓子店放火疑い事件 警察が現場から複数の刃物押収",
+      "text": "中国 日本製半導体関連物質をダンピング認定",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 19:42:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48752/20260907de48752_E0000025813_1_l.jpg"
+      "time": "Tue, 08 Sep 2026 06:09:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48891/20260908de48891_E0000026128_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福島 いわき アンダーパス冠水の現場「音を立て 大量の水が」",
+      "text": "無人機対策　ウクライナで漁業用網の再利用進む",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 19:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48823/20260907de48823_E0000025961_1_l.jpg"
+      "time": "Tue, 08 Sep 2026 05:01:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48908/20260908de48908_E0000026137_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】土砂災害特別警報の大島町 大粒の雨 激しく打ちつける",
+      "text": "金融庁 超長期の住宅ローン審査を重点的にモニタリング",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 15:40:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48786/20260907de48786_E0000025884_1_l.jpg"
+      "time": "Tue, 08 Sep 2026 06:30:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48880/20260907de48880_E0000026110_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "横浜市 山中市長の辞職 市議会が同意",
+      "text": "ドイツ州議選 メルツ首相 州政府成立に協力しない姿勢強調",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 19:22:46 +0900"
+      "time": "Tue, 08 Sep 2026 05:11:54 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "景気拡大 戦後最長の見方も 7月景気動向指数「改善」維持",
+      "text": "自民党役員人事と内閣改造 来週にも実施で調整 国会審議備え",
       "source": "NHK",
-      "time": "Mon, 07 Sep 2026 19:41:47 +0900"
+      "time": "Tue, 08 Sep 2026 05:44:38 +0900"
     }
   ]
 }
