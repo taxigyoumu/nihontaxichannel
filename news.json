@@ -1,60 +1,46 @@
 {
-  "updated_at": "2026-09-08 22:17",
-  "has_alert": true,
+  "updated_at": "2026-09-09 02:19",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日２１時０２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-08T12:05:31Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "庄内川「レベル2氾濫注意報」に 今後も各地で線状降水帯おそれ",
+      "source": "NHK",
+      "time": "Wed, 09 Sep 2026 01:17:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48909/20260908de48909_E0000026762_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【大雨】名古屋 帰宅困難者多数 バスを待つ長い列も",
+      "text": "【動画】東京 武蔵野 吉祥寺の住宅街で道路が冠水",
       "source": "NHK",
-      "time": "Tue, 08 Sep 2026 21:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49150/20260908de49150_E0000026710_1_l.jpg"
+      "time": "Tue, 08 Sep 2026 23:50:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49183/20260908de49183_E0000026754_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 善福寺川に「レベル4氾濫危険警報」",
+      "text": "【動画】名古屋 千種区 道路一面に茶色い水 急な流れも",
       "source": "NHK",
-      "time": "Tue, 08 Sep 2026 21:29:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49160/20260908de49160_E0000003987_1_l.jpg"
+      "time": "Tue, 08 Sep 2026 22:35:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49141/20260908de49141_E0000026693_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 野川と仙川に「レベル4氾濫危険警報」",
+      "text": "名古屋 市内の全市立学校と幼稚園 9日は休校・休園に 大雨影響",
       "source": "NHK",
-      "time": "Tue, 08 Sep 2026 21:17:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49154/20260908de49154_E0000003987_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "庄内川 レベル5氾濫特別警報 ほかの地域も線状降水帯おそれ",
-      "source": "NHK",
-      "time": "Tue, 08 Sep 2026 21:48:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de48909/20260908de48909_E0000026717_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【動画】大雨で道路冠水や地下鉄駅の浸水 被害状況は",
-      "source": "NHK",
-      "time": "Tue, 08 Sep 2026 21:15:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49034/20260908de49034_E0000026436_1_l.jpg"
+      "time": "Tue, 08 Sep 2026 23:12:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49182/20260908de49182_E0000003455_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "自民党役員人事 内閣改造 早ければ来週16日 17日にも実施へ",
       "source": "NHK",
-      "time": "Tue, 08 Sep 2026 21:21:10 +0900"
+      "time": "Tue, 08 Sep 2026 21:21:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49092/20260908de49092_E0000026675_1_l.jpg"
     },
     {
       "category": "news",
@@ -62,6 +48,13 @@
       "text": "岐阜 洋菓子店3人死亡事件“役員が戻ってきて男性刺した”",
       "source": "NHK",
       "time": "Tue, 08 Sep 2026 21:33:58 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "UNDP＝国連開発計画“アフガニスタンの女性への支援継続を”",
+      "source": "NHK",
+      "time": "Tue, 08 Sep 2026 20:43:06 +0900"
     }
   ]
 }
