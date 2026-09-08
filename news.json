@@ -1,60 +1,74 @@
 {
-  "updated_at": "2026-09-09 05:02",
-  "has_alert": false,
+  "updated_at": "2026-09-09 07:52",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東海で猛烈な雨 浸水被害も 各地で線状降水帯発生のおそれ",
-      "source": "NHK",
-      "time": "Wed, 09 Sep 2026 03:55:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49198/20260909de49198_E0000026762_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　９日０７時１５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-08T22:18:34Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　９日０５時１９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-08T20:22:14Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】東京 武蔵野 吉祥寺の住宅街で道路が冠水",
+      "text": "大雨続く見込み 各地で線状降水帯発生のおそれ",
       "source": "NHK",
-      "time": "Tue, 08 Sep 2026 23:50:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49183/20260908de49183_E0000026754_1_l.jpg"
+      "time": "Wed, 09 Sep 2026 06:46:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49198/20260909de49198_E0000026796_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】名古屋 千種区 道路一面に茶色い水 急な流れも",
+      "text": "【動画】名古屋 大雨で道路冠水や地下鉄駅の浸水 被害状況は",
       "source": "NHK",
-      "time": "Tue, 08 Sep 2026 22:35:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49141/20260908de49141_E0000026693_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "名古屋 市内の全市立学校と幼稚園 9日は休校・休園に 大雨影響",
-      "source": "NHK",
-      "time": "Tue, 08 Sep 2026 23:12:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49182/20260908de49182_E0000003455_1_l.jpg"
+      "time": "Wed, 09 Sep 2026 06:30:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49034/20260908de49034_E0000026436_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "自民党役員人事と内閣改造 政権骨格維持 維新ポスト調整も",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 04:55:58 +0900",
+      "time": "Wed, 09 Sep 2026 04:55:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49187/20260909de49187_E0000026760_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会きょう開会 対策を確実に進められるかが焦点",
+      "text": "アメリカ 共和党が初めて中間選挙前に党大会開催へ 焦点は",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 04:52:59 +0900"
+      "time": "Wed, 09 Sep 2026 06:15:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49169/20260908de49169_E0000026741_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 八代 被害受けた井戸で復旧に向けた作業続く",
+      "text": "大手金融グループ 個人向けサービス強化で預金獲得目指す",
       "source": "NHK",
-      "time": "Tue, 08 Sep 2026 20:14:10 +0900"
+      "time": "Wed, 09 Sep 2026 06:29:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49205/20260909de49205_E0000026785_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“ハマスの奇襲攻撃 イスラエル首相に事前警告”報道",
+      "source": "NHK",
+      "time": "Wed, 09 Sep 2026 06:19:29 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "韓国国防省「ホルムズ海峡の情勢把握へ調査団」軍派遣準備か",
+      "source": "NHK",
+      "time": "Wed, 09 Sep 2026 06:52:20 +0900"
     }
   ]
 }
