@@ -1,22 +1,65 @@
 {
-  "updated_at": "2026-09-09 20:40",
-  "has_alert": false,
+  "updated_at": "2026-09-10 00:52",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "局地的に激しい雨 東海では線状降水帯発生のおそれ 厳重警戒を",
-      "source": "NHK",
-      "time": "Wed, 09 Sep 2026 18:57:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49198/20260909de49198_E0000027203_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象解説情報（大雨・氾濫・落雷）】岐阜県では、これまでの大雨で地盤の緩んでいる所や増水している河川があります。引き続き１０日明け方にかけて、河川の増水や土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T15:49:18Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や河川の増水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T15:43:18Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や河川の増水に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T15:43:18Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T15:43:08Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】岐阜県では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T15:43:08Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】名古屋 大雨 23人けが 路上で動けない車両200台以上",
+      "text": "関東甲信や伊豆諸島 明け方にかけて激しい雨のおそれ",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 18:01:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49220/20260909de49220_E0000026811_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 00:24:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49198/20260909de49198_E0000027343_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "洋菓子店3人死亡事件 死亡の2人 住人の中学時代の同級生と確認",
+      "source": "NHK",
+      "time": "Wed, 09 Sep 2026 20:39:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49379/20260909de49379_E0000027294_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "行方不明高齢者の介護保険料 家族負担を免除可能に 厚労省通知",
+      "source": "NHK",
+      "time": "Wed, 09 Sep 2026 22:32:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49396/20260909de49396_E0000027326_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +72,24 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "将棋「王位戦」藤井聡太六冠が防衛 7連覇を果たす",
+      "source": "NHK",
+      "time": "Wed, 09 Sep 2026 23:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49392/20260909de49392_E0000027325_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "ネパール土石流 発生から2週間 国際社会に支援呼びかけへ",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 20:31:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49138/20260908de49138_E0000027137_1_l.jpg"
+      "time": "Wed, 09 Sep 2026 20:31:53 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ 共和党が9日から異例の党大会 トランプ大統領前面に",
+      "text": "【動画】名古屋 大雨 23人けが 路上で動けない車両200台以上",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 20:15:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49169/20260908de49169_E0000026733_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中道 立民・公明出身に分かれ統一会派の方針決定 分裂へ",
-      "source": "NHK",
-      "time": "Wed, 09 Sep 2026 19:55:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「トランプ氏は党大会に賭けている」イラン情勢で揺れるMAGA派",
-      "source": "NHK",
-      "time": "Wed, 09 Sep 2026 18:44:00 +0900"
+      "time": "Wed, 09 Sep 2026 22:12:05 +0900"
     }
   ]
 }
