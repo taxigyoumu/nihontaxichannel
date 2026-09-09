@@ -1,37 +1,30 @@
 {
-  "updated_at": "2026-09-10 04:02",
-  "has_alert": true,
+  "updated_at": "2026-09-10 06:48",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１０日０２時１１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-09T17:14:34Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "広い範囲で大気不安定 地盤緩んでいるため土砂災害などに注意",
+      "source": "NHK",
+      "time": "Thu, 10 Sep 2026 06:23:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49378/20260909de49378_E0000027370_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関東甲信や伊豆諸島 明け方にかけて激しい雨のおそれ",
+      "text": "アメリカ 共和党大会始まる 中間選挙前に初開催",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 00:24:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49198/20260909de49198_E0000027343_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 05:48:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49402/20260909de49402_E0000027361_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "洋菓子店3人死亡事件 死亡の2人 住人の中学時代の同級生と確認",
+      "text": "中道 立民・公明出身者で分裂へ 統一会派での連携維持が課題",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 20:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49379/20260909de49379_E0000027294_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネパール土石流 発生から2週間 国際社会に支援呼びかけへ",
-      "source": "NHK",
-      "time": "Wed, 09 Sep 2026 20:31:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49138/20260908de49138_E0000027137_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 05:02:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49377/20260909de49377_E0000027329_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,24 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "行方不明高齢者の介護保険料 家族負担を免除可能に 厚労省通知",
+      "text": "ホルムズ海峡巡る米イラン応酬で船舶への攻撃相次ぐ",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 22:32:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49396/20260909de49396_E0000027326_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 05:13:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49416/20260910de49416_E0000027348_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本地震 地震調査委“今後2週間程度は震度5弱以上に注意”",
+      "text": "ロシア報道官 米中ロ3か国首脳会談 “可能性はある”",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 00:19:27 +0900"
+      "time": "Thu, 10 Sep 2026 06:16:58 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "将棋「王位戦」藤井聡太六冠が防衛 7連覇を果たす",
+      "text": "洋菓子店3人死亡事件 死亡の2人 住人の中学時代の同級生と確認",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 23:51:00 +0900"
+      "time": "Wed, 09 Sep 2026 20:39:00 +0900"
     }
   ]
 }
