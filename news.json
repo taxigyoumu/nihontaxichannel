@@ -1,14 +1,29 @@
 {
-  "updated_at": "2026-09-10 06:48",
-  "has_alert": false,
+  "updated_at": "2026-09-10 08:48",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１０日０８時１５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-09T23:18:04Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "広い範囲で大気不安定 地盤緩んでいるため土砂災害などに注意",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 06:23:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49378/20260909de49378_E0000027370_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 08:15:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49378/20260909de49378_E0000027375_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アップル 初の折りたたみ式スマホ発表 販売価格36万円余から",
+      "source": "NHK",
+      "time": "Thu, 10 Sep 2026 07:27:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49403/20260909de49403_E0000027356_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 狛江 強盗致死事件 実行役の被告 無期懲役確定へ",
+      "text": "ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 02:19:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49410/20260910de49410_E0000003568_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 06:35:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49414/20260910de49414_E0000027355_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ホルムズ海峡巡る米イラン応酬で船舶への攻撃相次ぐ",
+      "text": "米財務省 国債買い戻し3倍に引き上げも長期金利は上昇",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 05:13:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49416/20260910de49416_E0000027348_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 08:34:55 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア報道官 米中ロ3か国首脳会談 “可能性はある”",
+      "text": "米トランプ大統領 ロシアとウクライナとの3者会談実現に意欲",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 06:16:58 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "洋菓子店3人死亡事件 死亡の2人 住人の中学時代の同級生と確認",
-      "source": "NHK",
-      "time": "Wed, 09 Sep 2026 20:39:00 +0900"
+      "time": "Thu, 10 Sep 2026 07:02:49 +0900"
     }
   ]
 }
