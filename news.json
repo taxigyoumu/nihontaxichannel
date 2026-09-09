@@ -1,36 +1,57 @@
 {
-  "updated_at": "2026-09-09 07:52",
+  "updated_at": "2026-09-09 10:01",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　９日０７時１５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-08T22:18:34Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、低い土地の浸水に警戒してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T00:56:08Z"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　９日０５時１９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-08T20:22:14Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、低い土地の浸水に警戒してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T00:56:08Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、低い土地の浸水に警戒してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T00:55:07Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、低い土地の浸水に警戒してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T00:55:07Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】飛騨地方では、低い土地の浸水や河川の増水に警戒してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-09T00:54:56Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大雨続く見込み 各地で線状降水帯発生のおそれ",
+      "text": "四国や東海で非常に激しい雨 各地で線状降水帯のおそれも",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 06:46:45 +0900",
+      "time": "Wed, 09 Sep 2026 09:09:02 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49198/20260909de49198_E0000026796_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】名古屋 大雨で道路冠水や地下鉄駅の浸水 被害状況は",
+      "text": "名古屋 大雨 一夜明けた市内の様子は",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 06:30:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260908de49034/20260908de49034_E0000026436_1_l.jpg"
+      "time": "Wed, 09 Sep 2026 07:57:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49220/20260909de49220_E0000026811_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,6 +60,14 @@
       "source": "NHK",
       "time": "Wed, 09 Sep 2026 04:55:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49187/20260909de49187_E0000026760_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "NY原油市場 約3か月ぶり高値 ホルムズ海峡や代替ルートに懸念",
+      "source": "NHK",
+      "time": "Wed, 09 Sep 2026 08:17:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49209/20260909de49209_E0000026814_1_l.jpg"
     },
     {
       "category": "news",
@@ -53,22 +82,14 @@
       "label": "ニュース",
       "text": "大手金融グループ 個人向けサービス強化で預金獲得目指す",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 06:29:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49205/20260909de49205_E0000026785_1_l.jpg"
+      "time": "Wed, 09 Sep 2026 06:29:32 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“ハマスの奇襲攻撃 イスラエル首相に事前警告”報道",
+      "text": "スミソニアン協会トップが退任表明 トランプ政権が展示批判",
       "source": "NHK",
-      "time": "Wed, 09 Sep 2026 06:19:29 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "韓国国防省「ホルムズ海峡の情勢把握へ調査団」軍派遣準備か",
-      "source": "NHK",
-      "time": "Wed, 09 Sep 2026 06:52:20 +0900"
+      "time": "Wed, 09 Sep 2026 08:43:31 +0900"
     }
   ]
 }
