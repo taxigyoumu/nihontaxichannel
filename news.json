@@ -1,21 +1,30 @@
 {
-  "updated_at": "2026-09-11 04:27",
-  "has_alert": true,
+  "updated_at": "2026-09-11 06:45",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１１日０２時０９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-10T17:12:35Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "秋雨前線で大気不安定 太平洋側中心に激しい雨のおそれ",
+      "source": "NHK",
+      "time": "Fri, 11 Sep 2026 06:36:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49632/20260911de49632_E0000028226_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "紀子さま 60歳の誕生日",
+      "text": "共和党大会 トランプ大統領再び演説へ 民主党対抗集会も",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 00:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49611/20260910de49611_E0000028195_1_l.jpg"
+      "time": "Fri, 11 Sep 2026 05:04:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49622/20260911de49622_E0000028218_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "消費税減税 大綱の来週決定目指す 高市首相 人事の検討進める",
+      "source": "NHK",
+      "time": "Fri, 11 Sep 2026 05:41:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49613/20260911de49613_E0000028207_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,40 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "8月の世界の平均気温が過去最高に EU気象情報機関発表",
+      "text": "紀子さま 60歳の誕生日",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 00:35:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49610/20260910de49610_E0000028191_1_l.jpg"
+      "time": "Fri, 11 Sep 2026 00:14:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49611/20260910de49611_E0000028195_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 今月21日から国連総会出席で訪米を調整",
+      "text": "磐越道 部活動バス事故 容疑者の「鑑定留置」3か月延長へ",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 22:29:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49567/20260910de49567_E0000028085_1_l.jpg"
+      "time": "Fri, 11 Sep 2026 05:11:46 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "歌舞伎批評の第一人者 演劇評論家 渡辺保さん死去",
+      "text": "米同時多発テロ事件から25年 政治 社会への影響検証する動きも",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 01:01:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49612/20260911de49612_E0000028202_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "前線北上で11日東海 近畿 甲信は激しい雨も 土砂災害十分注意",
-      "source": "NHK",
-      "time": "Thu, 10 Sep 2026 19:28:39 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "張本勲さん死去 86歳 プロ野球最多安打 解説者では「喝！」",
-      "source": "NHK",
-      "time": "Thu, 10 Sep 2026 19:25:20 +0900"
+      "time": "Fri, 11 Sep 2026 05:55:13 +0900"
     }
   ]
 }
