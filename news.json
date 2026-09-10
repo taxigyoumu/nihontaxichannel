@@ -1,21 +1,37 @@
 {
-  "updated_at": "2026-09-10 08:48",
+  "updated_at": "2026-09-10 11:58",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１０日０８時１５分ころ、地震がありました。",
+      "text": "【震源・震度情報】１０日１１時４９分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-09T23:18:04Z"
+      "time": "2026-09-10T02:52:43Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広い範囲で大気不安定 地盤緩んでいるため土砂災害などに注意",
+      "text": "張本勲さん死去 86歳 プロ野球最多安打　解説者では「喝！」",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 08:15:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49378/20260909de49378_E0000027375_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 11:49:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49426/20260910de49426_E0000027379_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領 共和党大会で演説「民主党に委ねれば悲劇だ」",
+      "source": "NHK",
+      "time": "Thu, 10 Sep 2026 11:52:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49402/20260909de49402_E0000027361_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "世界遺産の高野山で宿坊営む複数の宗教法人 1億円超の申告漏れ",
+      "source": "NHK",
+      "time": "Thu, 10 Sep 2026 11:14:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49447/20260910de49447_E0000027441_1_l.jpg"
     },
     {
       "category": "news",
@@ -28,40 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ 共和党大会始まる 中間選挙前に初開催",
-      "source": "NHK",
-      "time": "Thu, 10 Sep 2026 05:48:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49402/20260909de49402_E0000027361_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中道 立民・公明出身者で分裂へ 統一会派での連携維持が課題",
-      "source": "NHK",
-      "time": "Thu, 10 Sep 2026 05:02:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49377/20260909de49377_E0000027329_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人",
-      "source": "NHK",
-      "time": "Thu, 10 Sep 2026 06:35:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49414/20260910de49414_E0000027355_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米財務省 国債買い戻し3倍に引き上げも長期金利は上昇",
-      "source": "NHK",
-      "time": "Thu, 10 Sep 2026 08:34:55 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "米トランプ大統領 ロシアとウクライナとの3者会談実現に意欲",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 07:02:49 +0900"
+      "time": "Thu, 10 Sep 2026 07:02:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49420/20260910de49420_E0000027369_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「ランサムウエア」のサイバー攻撃被害 半期で過去最多 警察庁",
+      "source": "NHK",
+      "time": "Thu, 10 Sep 2026 10:59:51 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "広い範囲で大気不安定 地盤緩んでいるため土砂災害などに注意",
+      "source": "NHK",
+      "time": "Thu, 10 Sep 2026 08:15:00 +0900"
     }
   ]
 }
