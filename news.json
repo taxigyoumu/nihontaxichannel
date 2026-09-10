@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-09-10 11:58",
-  "has_alert": true,
+  "updated_at": "2026-09-10 16:58",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１０日１１時４９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-10T02:52:43Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース大谷翔平選手 15日間のけが人リスト入りへ 移籍後初",
+      "source": "NHK",
+      "time": "Thu, 10 Sep 2026 15:31:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49433/20260910de49433_E0000027779_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "張本勲さん死去 86歳 プロ野球最多安打　解説者では「喝！」",
+      "text": "三重 新名神6人死亡事故 元会社員に拘禁刑7年求刑",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 11:49:04 +0900",
+      "time": "Thu, 10 Sep 2026 15:52:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49522/20260910de49522_E0000027861_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "張本勲さん死去 86歳 プロ野球最多安打 解説者では「喝！」",
+      "source": "NHK",
+      "time": "Thu, 10 Sep 2026 15:31:48 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49426/20260910de49426_E0000027379_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 共和党大会で演説「民主党に委ねれば悲劇だ」",
+      "text": "“AIが人々の命奪いかねない”アンソロピック研究者が退社表明",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 11:52:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49402/20260909de49402_E0000027361_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 13:57:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49482/20260910de49482_E0000027623_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "世界遺産の高野山で宿坊営む複数の宗教法人 1億円超の申告漏れ",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 11:14:47 +0900",
+      "time": "Thu, 10 Sep 2026 16:54:31 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49447/20260910de49447_E0000027441_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アップル 初の折りたたみ式スマホ発表 販売価格36万円余から",
+      "text": "トランプ大統領 共和党大会で演説「民主党に委ねれば悲劇だ」",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 07:27:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260909de49403/20260909de49403_E0000027356_1_l.jpg"
+      "time": "Thu, 10 Sep 2026 15:44:05 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米トランプ大統領 ロシアとウクライナとの3者会談実現に意欲",
+      "text": "前線再び北上 11日太平洋側中心に雨強まる予想 土砂災害に注意",
       "source": "NHK",
-      "time": "Thu, 10 Sep 2026 07:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260910de49420/20260910de49420_E0000027369_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「ランサムウエア」のサイバー攻撃被害 半期で過去最多 警察庁",
-      "source": "NHK",
-      "time": "Thu, 10 Sep 2026 10:59:51 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "広い範囲で大気不安定 地盤緩んでいるため土砂災害などに注意",
-      "source": "NHK",
-      "time": "Thu, 10 Sep 2026 08:15:00 +0900"
+      "time": "Thu, 10 Sep 2026 14:31:00 +0900"
     }
   ]
 }
