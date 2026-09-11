@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-12 06:50",
+  "updated_at": "2026-09-12 08:51",
   "has_alert": false,
   "items": [
     {
@@ -7,8 +7,16 @@
       "label": "ニュース",
       "text": "中部電力 報告書提出受け14日に会見 経営トップ進退判断へ",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 06:09:08 +0900",
+      "time": "Sat, 12 Sep 2026 06:09:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49824/20260911de49824_E0000028774_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サウジアラビアの東西パイプライン 攻撃受け一時操業停止",
+      "source": "NHK",
+      "time": "Sat, 12 Sep 2026 08:01:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49849/20260912de49849_E0000028806_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,40 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "俳優 森本レオさん死去 83歳 俳優・ナレーターとして活躍",
+      "text": "スイスで観光客を乗せたバスが横転 5人死亡",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 21:40:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49814/20260911de49814_E0000028745_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米同時多発テロ事件25年 旅客機激突のビル跡地で犠牲者を追悼",
-      "source": "NHK",
-      "time": "Sat, 12 Sep 2026 05:37:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49838/20260912de49838_E0000028782_1_l.jpg"
+      "time": "Sat, 12 Sep 2026 07:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49847/20260912de49847_E0000028801_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 04:51:27 +0900",
+      "time": "Sat, 12 Sep 2026 04:51:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49840/20260912de49840_E0000028785_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "相模原 高校生暴行死事件 警察に通報しないよう口止めか",
+      "text": "世界の海面水温の平均 日ごとの過去最高を100日連続で更新",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 05:06:04 +0900"
+      "time": "Sat, 12 Sep 2026 08:34:04 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プーチン大統領 制裁の西側諸国を批判 BRICSと関係強化に意欲",
+      "text": "IEA ことしの石油供給見通し下方修正 中東から供給回復来年に",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 06:41:15 +0900"
+      "time": "Sat, 12 Sep 2026 08:20:13 +0900"
     }
   ]
 }
