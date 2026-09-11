@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-09-11 21:34",
-  "has_alert": true,
+  "updated_at": "2026-09-12 01:53",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１１日２０時３９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-11T11:42:07Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "俳優 森本レオさん死去 83歳 俳優・ナレーターとして活躍",
+      "source": "NHK",
+      "time": "Fri, 11 Sep 2026 21:40:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49814/20260911de49814_E0000028745_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アンダーパスで車水没し1人死亡 救助にあたった消防隊員は",
+      "text": "岐阜 洋菓子店殺人事件 店主の死亡確認 死者4人に",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 19:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49769/20260911de49769_E0000028650_1_l.jpg"
+      "time": "Sat, 12 Sep 2026 00:41:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49832/20260912de49832_E0000028779_2_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "相模原 高校生暴行死 直前にオートバイ巡りトラブルか",
+      "text": "アメリカ 8月の消費者物価指数 去年同月比3.4％の上昇",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 18:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49664/20260911de49664_E0000028308_1_l.jpg"
+      "time": "Fri, 11 Sep 2026 23:51:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49799/20260911de49799_E0000028765_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "畑のPFAS 野菜からほとんど検出されず 農水省が実験結果",
+      "text": "ノルウェー大使館 サバ価格高騰の中 ニシン輸出拡大へPR強化",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 21:19:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49805/20260911de49805_E0000028738_1_l.jpg"
+      "time": "Fri, 11 Sep 2026 23:47:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49752/20260911de49752_E0000028565_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪の物流会社保管の小麦に禁止殺虫剤“健康影響可能性低い”",
+      "text": "カナダがウクライナ支援に390億円追加へ 防空体制強化",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 20:16:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49775/20260911de49775_E0000028656_1_l.jpg"
+      "time": "Sat, 12 Sep 2026 00:04:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49815/20260911de49815_E0000028757_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "韓国・イラン外相電話会談“ホルムズ海峡派遣決まっていない”",
+      "source": "NHK",
+      "time": "Sat, 12 Sep 2026 00:35:50 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "病気で就労できなくなり生活保護求めた外国人男性の敗訴確定",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 20:13:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49780/20260911de49780_E0000028676_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "横領や賭博で有罪 簡易裁判所の裁判官を訴追 弾劾裁判へ",
-      "source": "NHK",
-      "time": "Fri, 11 Sep 2026 20:28:08 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "府省庁職員ら24万件超の個人情報漏えいか 松本デジタル相会見",
-      "source": "NHK",
-      "time": "Fri, 11 Sep 2026 20:30:54 +0900"
+      "time": "Fri, 11 Sep 2026 20:13:25 +0900"
     }
   ]
 }
