@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-12 04:26",
+  "updated_at": "2026-09-12 06:50",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中部電力 報告書提出受け14日に会見 経営トップ進退判断へ",
+      "source": "NHK",
+      "time": "Sat, 12 Sep 2026 06:09:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49824/20260911de49824_E0000028774_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "消費税減税で大綱来週決定へ 国会審議備え担当閣僚新設も検討",
+      "source": "NHK",
+      "time": "Sat, 12 Sep 2026 05:27:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49833/20260912de49833_E0000028780_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 洋菓子店殺人事件 店主の死亡確認 死者4人に",
+      "text": "米同時多発テロ事件25年 旅客機激突のビル跡地で犠牲者を追悼",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 00:41:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49832/20260912de49832_E0000028779_2_l.jpg"
+      "time": "Sat, 12 Sep 2026 05:37:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49838/20260912de49838_E0000028782_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ 8月の消費者物価指数 去年同月比3.4％の上昇",
+      "text": "イオンモール熊本 すべてのテナントに一時的な契約解除を打診",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 23:51:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49799/20260911de49799_E0000028765_1_l.jpg"
+      "time": "Sat, 12 Sep 2026 04:51:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49840/20260912de49840_E0000028785_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノルウェー大使館 サバ価格高騰の中 ニシン輸出拡大へPR強化",
+      "text": "相模原 高校生暴行死事件 警察に通報しないよう口止めか",
       "source": "NHK",
-      "time": "Fri, 11 Sep 2026 23:47:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49752/20260911de49752_E0000028565_1_l.jpg"
+      "time": "Sat, 12 Sep 2026 05:06:04 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "カナダがウクライナ支援に390億円追加へ 防空体制強化",
+      "text": "プーチン大統領 制裁の西側諸国を批判 BRICSと関係強化に意欲",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 00:04:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260911de49815/20260911de49815_E0000028757_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "韓国・イラン外相電話会談“ホルムズ海峡派遣決まっていない”",
-      "source": "NHK",
-      "time": "Sat, 12 Sep 2026 00:35:50 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "病気で就労できなくなり生活保護求めた外国人男性の敗訴確定",
-      "source": "NHK",
-      "time": "Fri, 11 Sep 2026 20:13:25 +0900"
+      "time": "Sat, 12 Sep 2026 06:41:15 +0900"
     }
   ]
 }
