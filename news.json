@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-09-13 03:03",
-  "has_alert": false,
+  "updated_at": "2026-09-13 05:46",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１３日０５時３３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-12T20:37:17Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "京都 全日本実業団選手権の会場で集団食中毒か 20人以上搬送",
+      "text": "京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 21:30:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49900/20260912de49900_E0000028917_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 05:12:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49921/20260912de49921_E0000028969_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉豪雨の発生から1か月 死者13人 住宅被害7000棟超える",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 05:13:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49920/20260912de49920_E0000028974_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "BRICS首脳会議で共同宣言を採択 中国インド首脳会談も",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 05:27:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49927/20260913de49927_E0000028996_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "車いすテニス小田凱人 年間グランドスラムならず 全米オープン",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 01:56:10 +0900",
+      "time": "Sun, 13 Sep 2026 05:21:28 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49911/20260912de49911_E0000028981_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "埼玉 寄居町の治療院兼住宅で火事 男女2人死亡",
-      "source": "NHK",
-      "time": "Sun, 13 Sep 2026 00:33:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49922/20260912de49922_E0000028971_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホルムズ海峡の代替ルートで情勢不安定化 市場への影響懸念",
-      "source": "NHK",
-      "time": "Sat, 12 Sep 2026 18:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49899/20260912de49899_E0000028951_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北海道 十勝岳 噴火警戒レベル3に引き上げ 入山規制",
-      "source": "NHK",
-      "time": "Sat, 12 Sep 2026 18:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49856/20260912de49856_E0000028848_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "被災者に“エコノミークラス症候群”調べる検査 富山",
-      "source": "NHK",
-      "time": "Sat, 12 Sep 2026 19:41:34 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "車いすテニス上地結衣 全米オープン 2年連続4回目の優勝",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 02:26:28 +0900"
+      "time": "Sun, 13 Sep 2026 05:33:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49912/20260912de49912_E0000028982_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "環境省 再生プラ製造の大規模拠点設置を支援 ナフサ代替目指す",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 05:10:21 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "埼玉 寄居町の治療院兼住宅で火事 男女2人死亡",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 00:33:00 +0900"
     }
   ]
 }
