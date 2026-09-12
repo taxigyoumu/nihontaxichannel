@@ -1,14 +1,22 @@
 {
-  "updated_at": "2026-09-12 21:16",
+  "updated_at": "2026-09-13 00:42",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "全日本実業団選手権の会場で食中毒か 10人程度搬送 京都",
+      "text": "京都 全日本実業団選手権の会場で集団食中毒か 20人以上搬送",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 18:40:00 +0900",
+      "time": "Sat, 12 Sep 2026 21:30:32 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49900/20260912de49900_E0000028917_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "埼玉 寄居町の治療院兼住宅で火事 男女2人死亡",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 00:33:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49922/20260912de49922_E0000003901_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,40 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "FRB利上げ観測強まる トランプ大統領は利下げ圧力",
+      "text": "北海道 十勝岳 噴火警戒レベル3に引き上げ 入山規制",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 14:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49880/20260912de49880_E0000028864_2_l.jpg"
+      "time": "Sat, 12 Sep 2026 18:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49856/20260912de49856_E0000028848_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "被災者に“エコノミークラス症候群”調べる検査 富山",
+      "source": "NHK",
+      "time": "Sat, 12 Sep 2026 19:41:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49903/20260912de49903_E0000028926_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "維新 藤田共同代表“閣僚に加え副大臣・政務官の打診応じる”",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 17:45:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49891/20260912de49891_E0000028905_1_l.jpg"
+      "time": "Sat, 12 Sep 2026 17:45:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "中道 小川代表“衆議院で統一会派結成 政権と対じ”",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 18:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49892/20260912de49892_E0000028902_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北海道 十勝岳 噴火警戒レベル3に引き上げ 入山規制",
-      "source": "NHK",
-      "time": "Sat, 12 Sep 2026 18:04:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "カリフォルニア州 SNSやAIから子ども守る州法成立",
-      "source": "NHK",
-      "time": "Sat, 12 Sep 2026 18:07:00 +0900"
+      "time": "Sat, 12 Sep 2026 18:08:00 +0900"
     }
   ]
 }
