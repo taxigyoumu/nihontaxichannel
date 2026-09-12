@@ -1,7 +1,28 @@
 {
-  "updated_at": "2026-09-13 05:46",
+  "updated_at": "2026-09-13 07:48",
   "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-12T21:43:57Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-12T21:43:57Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-12T21:43:49Z"
+    },
     {
       "category": "quake",
       "label": "地震",
@@ -20,48 +41,48 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨の発生から1か月 死者13人 住宅被害7000棟超える",
+      "text": "サウジアラビア パイプライン損壊 トランプ氏“イラン関与か”",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:13:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49920/20260912de49920_E0000028974_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 05:59:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49908/20260912de49908_E0000029001_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "BRICS首脳会議で共同宣言を採択 中国インド首脳会談も",
+      "text": "米アンソロピックCEO“AI開発ペース減速させる必要”",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:27:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49927/20260913de49927_E0000028996_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 07:08:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49934/20260913de49934_E0000028990_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "車いすテニス小田凱人 年間グランドスラムならず 全米オープン",
+      "text": "千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:21:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49911/20260912de49911_E0000028981_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 06:04:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49919/20260912de49919_E0000028976_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "車いすテニス上地結衣 全米オープン 2年連続4回目の優勝",
+      "text": "ベネチア国際映画祭 日本の2作品は最優秀賞ならず",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:33:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49912/20260912de49912_E0000028982_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 06:56:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49909/20260912de49909_E0000029003_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "環境省 再生プラ製造の大規模拠点設置を支援 ナフサ代替目指す",
+      "text": "陸上女子やり投げ 北口榛花 68メートル92の日本新記録",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:10:21 +0900"
+      "time": "Sun, 13 Sep 2026 06:43:59 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "埼玉 寄居町の治療院兼住宅で火事 男女2人死亡",
+      "text": "トランプ大統領「統一されたアイルランド見たい」英国で非難も",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 00:33:00 +0900"
+      "time": "Sun, 13 Sep 2026 05:55:05 +0900"
     }
   ]
 }
