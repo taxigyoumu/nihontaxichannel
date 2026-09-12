@@ -1,37 +1,37 @@
 {
-  "updated_at": "2026-09-12 12:00",
+  "updated_at": "2026-09-12 17:03",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 十勝岳 噴火警戒レベル3に引き上げ 入山規制",
+      "text": "【中継映像】北海道 十勝岳 噴火警戒レベル3に 入山規制",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 11:09:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49856/20260912de49856_E0000028819_1_l.jpg"
+      "time": "Sat, 12 Sep 2026 16:21:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49856/20260912de49856_E0000028848_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "十勝岳 噴火警戒レベル3 上富良野町 吹上温泉地区に避難指示",
+      "text": "十勝岳 噴火警戒レベル引き上げ 気象庁会見【ノーカット動画】",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 11:50:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49870/20260912de49870_E0000004036_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北海道 十勝岳 噴火警戒レベル3に 気象庁が会見",
-      "source": "NHK",
-      "time": "Sat, 12 Sep 2026 11:24:00 +0900",
+      "time": "Sat, 12 Sep 2026 14:38:46 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49869/20260912de49869_E0000028826_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "鹿児島 屋久島 大雨の影響 通行止め続き観光への影響広がる",
+      "source": "NHK",
+      "time": "Sat, 12 Sep 2026 15:43:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49884/20260912de49884_E0000028875_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "仮釈放中の性犯罪者らにGPS所持の実証実験 来年度にも 法務省",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 11:37:03 +0900",
+      "time": "Sat, 12 Sep 2026 11:37:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49864/20260912de49864_E0000028821_1_l.jpg"
     },
     {
@@ -39,22 +39,22 @@
       "label": "ニュース",
       "text": "災害時 自宅近くの道路寸断など不安6割超 内閣府世論調査",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 11:30:20 +0900",
+      "time": "Sat, 12 Sep 2026 11:30:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49866/20260912de49866_E0000028824_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "韓国軍「北朝鮮が短距離弾道ミサイル発射」日米韓訓練に反発か",
+      "text": "ブルージェイズ岡本31号HR 村上に並ぶ チームは2連敗",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 11:51:37 +0900"
+      "time": "Sat, 12 Sep 2026 15:18:45 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "カブス 今永 6回2失点で10勝目 鈴木 3安打1打点",
+      "text": "熊本地震で休止の運動公園一部再開 小学生のサッカー大会開催",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 11:31:19 +0900"
+      "time": "Sat, 12 Sep 2026 14:43:06 +0900"
     }
   ]
 }
