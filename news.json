@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 00:42",
+  "updated_at": "2026-09-13 03:03",
   "has_alert": false,
   "items": [
     {
@@ -13,10 +13,18 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "車いすテニス小田凱人 年間グランドスラムならず 全米オープン",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 01:56:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49911/20260912de49911_E0000028981_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "埼玉 寄居町の治療院兼住宅で火事 男女2人死亡",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 00:33:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49922/20260912de49922_E0000003901_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 00:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49922/20260912de49922_E0000028971_1_l.jpg"
     },
     {
       "category": "news",
@@ -39,22 +47,14 @@
       "label": "ニュース",
       "text": "被災者に“エコノミークラス症候群”調べる検査 富山",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 19:41:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49903/20260912de49903_E0000028926_1_l.jpg"
+      "time": "Sat, 12 Sep 2026 19:41:34 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "維新 藤田共同代表“閣僚に加え副大臣・政務官の打診応じる”",
+      "text": "車いすテニス上地結衣 全米オープン 2年連続4回目の優勝",
       "source": "NHK",
-      "time": "Sat, 12 Sep 2026 17:45:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中道 小川代表“衆議院で統一会派結成 政権と対じ”",
-      "source": "NHK",
-      "time": "Sat, 12 Sep 2026 18:08:00 +0900"
+      "time": "Sun, 13 Sep 2026 02:26:28 +0900"
     }
   ]
 }
