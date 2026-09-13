@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-13 20:02",
+  "updated_at": "2026-09-13 23:57",
   "has_alert": false,
   "items": [
     {
@@ -7,16 +7,16 @@
       "label": "ニュース",
       "text": "【速報】沖縄県知事選 新人の古謝玄太氏が当選確実 現職ら抑え",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 19:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48826/20260907de48826_E0000028087_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 23:42:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48826/20260907de48826_E0000029166_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中部電力 林社長 勝野会長が辞意固める データ不正を受け引責",
+      "text": "【解説】沖縄県知事選挙 古謝氏の勝因は? 高市政権への影響は?",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 19:42:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49958/20260913de49958_E0000029141_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 22:33:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49962/20260913de49962_E0000029197_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,9 +37,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インドネシアでフェリーと連絡途絶える 1人死亡140人安否不明",
+      "text": "インドネシアでフェリー転覆 6人死亡130人行方不明",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 18:09:00 +0900",
+      "time": "Sun, 13 Sep 2026 20:45:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49975/20260913de49975_E0000029115_1_l.jpg"
     },
     {
@@ -54,7 +54,7 @@
       "label": "ニュース",
       "text": "大相撲秋場所初日 大関復帰の安青錦は白星発進",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 19:32:23 +0900"
+      "time": "Sun, 13 Sep 2026 21:13:00 +0900"
     }
   ]
 }
