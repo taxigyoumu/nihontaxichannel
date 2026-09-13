@@ -1,7 +1,31 @@
 {
-  "updated_at": "2026-09-13 09:35",
+  "updated_at": "2026-09-13 14:37",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中部電力 林社長 勝野会長が辞意固める データ不正を受け引責",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 13:49:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49958/20260913de49958_E0000029065_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "陸上女子やり投げ 北口榛花 68メートル92の日本新記録",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 08:54:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49941/20260913de49941_E0000029016_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高野山で宿坊営む「総持院」国税局の指摘受け追徴課税納付",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 12:50:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49956/20260913de49956_E0000029053_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も",
+      "text": "高市首相 村井英樹氏を国対委員長に起用調整 自民党役員人事",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 06:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49919/20260912de49919_E0000028976_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 12:39:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49949/20260913de49949_E0000003799_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米アンソロピックCEO“AI開発ペース減速させる必要”",
+      "text": "日中友好議連 超党派若手が北京訪問 交流再開の糸口探る",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 08:10:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49934/20260913de49934_E0000028990_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サウジアラビア パイプライン損壊 トランプ氏“イラン関与か”",
-      "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:59:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49908/20260912de49908_E0000029001_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ベネチア国際映画祭 日本の2作品は最優秀賞ならず",
-      "source": "NHK",
-      "time": "Sun, 13 Sep 2026 06:56:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49909/20260912de49909_E0000029003_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "陸上女子やり投げ 北口榛花 68メートル92の日本新記録",
-      "source": "NHK",
-      "time": "Sun, 13 Sep 2026 08:54:33 +0900"
+      "time": "Sun, 13 Sep 2026 12:12:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "トランプ大統領「統一されたアイルランド見たい」英国で非難も",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:55:05 +0900"
+      "time": "Sun, 13 Sep 2026 05:55:00 +0900"
     }
   ]
 }
