@@ -1,42 +1,30 @@
 {
-  "updated_at": "2026-09-13 07:48",
-  "has_alert": true,
+  "updated_at": "2026-09-13 09:35",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-12T21:43:57Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-12T21:43:57Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷注意報】岐阜県では、急な強い雨や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-12T21:43:49Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１３日０５時３３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-12T20:37:17Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:12:43 +0900",
+      "time": "Sun, 13 Sep 2026 05:12:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49921/20260912de49921_E0000028969_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 06:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49919/20260912de49919_E0000028976_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米アンソロピックCEO“AI開発ペース減速させる必要”",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 08:10:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49934/20260913de49934_E0000028990_1_l.jpg"
     },
     {
       "category": "news",
@@ -45,22 +33,6 @@
       "source": "NHK",
       "time": "Sun, 13 Sep 2026 05:59:23 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49908/20260912de49908_E0000029001_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米アンソロピックCEO“AI開発ペース減速させる必要”",
-      "source": "NHK",
-      "time": "Sun, 13 Sep 2026 07:08:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49934/20260913de49934_E0000028990_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も",
-      "source": "NHK",
-      "time": "Sun, 13 Sep 2026 06:04:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49919/20260912de49919_E0000028976_1_l.jpg"
     },
     {
       "category": "news",
@@ -75,7 +47,7 @@
       "label": "ニュース",
       "text": "陸上女子やり投げ 北口榛花 68メートル92の日本新記録",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 06:43:59 +0900"
+      "time": "Sun, 13 Sep 2026 08:54:33 +0900"
     },
     {
       "category": "news",
