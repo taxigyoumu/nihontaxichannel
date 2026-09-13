@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-13 14:37",
+  "updated_at": "2026-09-13 20:02",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "【速報】沖縄県知事選 新人の古謝玄太氏が当選確実 現職ら抑え",
+      "source": "NHK",
+      "time": "Sun, 13 Sep 2026 19:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260907de48826/20260907de48826_E0000028087_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "中部電力 林社長 勝野会長が辞意固める データ不正を受け引責",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 13:49:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49958/20260913de49958_E0000029065_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 19:42:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49958/20260913de49958_E0000029141_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "陸上女子やり投げ 北口榛花 68メートル92の日本新記録",
+      "text": "秋雨前線停滞 月曜は日本海側中心大雨に その後太平洋側も",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 08:54:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49941/20260913de49941_E0000029016_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 19:41:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49980/20260913de49980_E0000029147_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高野山で宿坊営む「総持院」国税局の指摘受け追徴課税納付",
+      "text": "京都 陸上選手権会場で食中毒か 弁当業者を立ち入り調査",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 12:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49956/20260913de49956_E0000029053_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 18:58:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49978/20260913de49978_E0000029122_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”",
+      "text": "インドネシアでフェリーと連絡途絶える 1人死亡140人安否不明",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260912de49921/20260912de49921_E0000028969_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 18:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49975/20260913de49975_E0000029115_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 村井英樹氏を国対委員長に起用調整 自民党役員人事",
+      "text": "京都 商店街で地面から水が噴き出し道路が冠水 水道管が破損か",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 12:39:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260913de49949/20260913de49949_E0000003799_1_l.jpg"
+      "time": "Sun, 13 Sep 2026 19:26:46 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日中友好議連 超党派若手が北京訪問 交流再開の糸口探る",
+      "text": "大相撲秋場所初日 大関復帰の安青錦は白星発進",
       "source": "NHK",
-      "time": "Sun, 13 Sep 2026 12:12:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ大統領「統一されたアイルランド見たい」英国で非難も",
-      "source": "NHK",
-      "time": "Sun, 13 Sep 2026 05:55:00 +0900"
+      "time": "Sun, 13 Sep 2026 19:32:23 +0900"
     }
   ]
 }
