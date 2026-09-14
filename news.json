@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-15 06:26",
+  "updated_at": "2026-09-15 08:56",
   "has_alert": false,
   "items": [
     {
@@ -8,15 +8,15 @@
       "text": "前線南下で広い範囲で激しい雨のおそれ 土砂災害など警戒",
       "source": "NHK",
       "time": "Tue, 15 Sep 2026 05:57:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50211/20260914de50211_E0000029951_1_l.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50211/20260914de50211_E0000029967_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中部電力 経営トップ2人辞任へ 組織の意識改革につながるか",
+      "text": "浜岡原発データ不正 規制委が立ち入り検査結果取りまとめへ",
       "source": "NHK",
-      "time": "Tue, 15 Sep 2026 05:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50203/20260914de50203_E0000029917_1_l.jpg"
+      "time": "Tue, 15 Sep 2026 05:14:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50216/20260915de50216_E0000029934_1_l.jpg"
     },
     {
       "category": "news",
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国が出入国管理の新規定施行 先端技術の流出防ぐねらいか",
+      "text": "熊本地震 公費解体本格化前に人材バンクで人員派遣強化 環境省",
       "source": "NHK",
-      "time": "Tue, 15 Sep 2026 05:18:50 +0900"
+      "time": "Tue, 15 Sep 2026 06:31:22 +0900"
     }
   ]
 }
