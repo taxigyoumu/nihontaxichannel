@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-09-14 14:45",
-  "has_alert": false,
+  "updated_at": "2026-09-14 20:43",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１４日２０時００分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-14T11:02:53Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ライブ】中部電力“浜岡原発 3・4号機の審査申請取り下げ”",
+      "text": "兵庫県たつの市付近 「記録的短時間大雨」の気象防災速報",
       "source": "NHK",
-      "time": "Mon, 14 Sep 2026 14:43:00 +0900",
+      "time": "Mon, 14 Sep 2026 20:09:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50182/20260914de50182_E0000029861_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東海道・山陽新幹線 運転再開",
+      "source": "NHK",
+      "time": "Mon, 14 Sep 2026 20:12:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50174/20260914de50174_E0000003963_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東海などで非常に激しい雨 15日にかけ前線南下 土砂災害に注意",
+      "source": "NHK",
+      "time": "Mon, 14 Sep 2026 19:20:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50014/20260914de50014_E0000029831_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中部電力“浜岡原発 3・4号機 審査申請取り下げ”【会見詳細】",
+      "source": "NHK",
+      "time": "Mon, 14 Sep 2026 19:42:54 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50053/20260914de50053_E0000029485_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【詳細】中部電力 調査委報告書“原因に経営層の理解の欠如”",
+      "text": "高市内閣支持率53％ 不支持31％ NHK世論調査",
       "source": "NHK",
-      "time": "Mon, 14 Sep 2026 14:09:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50027/20260914de50027_E0000029259_1_l.jpg"
+      "time": "Mon, 14 Sep 2026 19:00:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50073/20260914de50073_E0000029768_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄県知事選 初当選の古謝氏が一夜明け抱負",
+      "text": "民事裁判の“証拠”どう扱う？民事訴訟法改正の検討始まる",
       "source": "NHK",
-      "time": "Mon, 14 Sep 2026 13:39:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50046/20260914de50046_E0000029305_1_l.jpg"
+      "time": "Mon, 14 Sep 2026 20:06:14 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "秋田市の住宅地で道路冠水 水につかって動かなくなる車も",
+      "text": "普通免許で運転できるトラック 運送会社が導入 人手不足背景に",
       "source": "NHK",
-      "time": "Mon, 14 Sep 2026 13:34:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50077/20260914de50077_E0000029459_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋雨前線停滞 日本海側中心に非常に激しい雨 土砂災害に警戒",
-      "source": "NHK",
-      "time": "Mon, 14 Sep 2026 12:38:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260914de50014/20260914de50014_E0000029329_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋篠宮さま 悠仁さま 気仙沼でかつおの水揚げ視察",
-      "source": "NHK",
-      "time": "Mon, 14 Sep 2026 13:10:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "演歌歌手 松原のぶえさん死去「おんなの出船」などのヒット曲",
-      "source": "NHK",
-      "time": "Mon, 14 Sep 2026 13:30:08 +0900"
+      "time": "Mon, 14 Sep 2026 16:34:00 +0900"
     }
   ]
 }
