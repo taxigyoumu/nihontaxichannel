@@ -1,27 +1,21 @@
 {
-  "updated_at": "2026-09-15 18:10",
-  "has_alert": true,
+  "updated_at": "2026-09-15 23:23",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日１８時０１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-15T09:04:20Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日１７時５４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-15T08:56:50Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "前線南下 16日にかけ大気不安定 熱帯低気圧の動向にも注意",
+      "source": "NHK",
+      "time": "Tue, 15 Sep 2026 20:44:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50399/20260915de50399_E0000030755_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "航空自衛隊の大型無人偵察機グローバルホークの通信途絶える",
+      "text": "大型無人偵察機グローバルホーク 航空自衛隊“墜落と推定”",
       "source": "NHK",
-      "time": "Tue, 15 Sep 2026 17:51:24 +0900",
+      "time": "Tue, 15 Sep 2026 20:09:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50355/20260915de50355_E0000030425_1_l.jpg"
     },
     {
@@ -29,39 +23,31 @@
       "label": "ニュース",
       "text": "食料品消費税減税の大綱 閣議決定 来年4月から2年間 税率1％に",
       "source": "NHK",
-      "time": "Tue, 15 Sep 2026 16:15:41 +0900",
+      "time": "Tue, 15 Sep 2026 20:03:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50259/20260915de50259_E0000003843_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民党 役員人事固まる",
+      "text": "地価調査 全国で5年連続上昇 住宅地商業地とも需要堅調の中で",
       "source": "NHK",
-      "time": "Tue, 15 Sep 2026 17:22:15 +0900",
+      "time": "Tue, 15 Sep 2026 20:10:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50254/20260915de50254_E0000030532_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "自民党役員人事固まる 副総裁 幹事長ら留任 総務会長に梶山氏",
+      "source": "NHK",
+      "time": "Tue, 15 Sep 2026 19:26:54 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50391/20260915de50391_E0000003799_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京メトロ東西線 運転再開 約8時間にわたり運転見合わせる",
+      "text": "福岡県議会5議員 パリ訪問中に1人20万円の夕食会参加 県が負担",
       "source": "NHK",
-      "time": "Tue, 15 Sep 2026 18:08:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50291/20260915de50291_E0000030152_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中道分裂後の立民出身者の新党も当面 小川代表と階幹事長",
-      "source": "NHK",
-      "time": "Tue, 15 Sep 2026 16:47:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50376/20260915de50376_E0000004047_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "エミー賞 ヒロ・ムライさんがアジア系初コメディー部門監督賞",
-      "source": "NHK",
-      "time": "Tue, 15 Sep 2026 16:16:00 +0900"
+      "time": "Tue, 15 Sep 2026 18:54:51 +0900"
     },
     {
       "category": "news",
