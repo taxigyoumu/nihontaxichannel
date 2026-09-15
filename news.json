@@ -1,35 +1,14 @@
 {
-  "updated_at": "2026-09-16 06:36",
-  "has_alert": true,
+  "updated_at": "2026-09-16 08:56",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１６日０６時０９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-15T21:13:50Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう１６日０６時０９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-15T21:12:46Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】１６日０６時０９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-09-15T21:11:09Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 党役員人事 執行部ほぼ留任固める 政権安定狙いか",
+      "text": "自民党役員人事決定へ 執行部ほぼ留任 総務梶山氏 国対村井氏",
       "source": "NHK",
-      "time": "Wed, 16 Sep 2026 05:59:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50454/20260915de50454_E0000030781_1_l.jpg"
+      "time": "Wed, 16 Sep 2026 08:29:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50478/20260916de50478_E0000003799_1_l.jpg"
     },
     {
       "category": "news",
@@ -58,10 +37,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "地価調査 全国で5年連続上昇 住宅地商業地とも需要堅調の中で",
+      "text": "アメリカ長期金利が19年ぶりの高水準 インフレ懸念背景に",
       "source": "NHK",
-      "time": "Tue, 15 Sep 2026 20:10:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50254/20260915de50254_E0000030532_1_l.jpg"
+      "time": "Wed, 16 Sep 2026 07:28:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50462/20260916de50462_E0000030786_1_l.jpg"
     },
     {
       "category": "news",
