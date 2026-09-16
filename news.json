@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-16 08:56",
+  "updated_at": "2026-09-16 12:45",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民党役員人事決定へ 執行部ほぼ留任 総務梶山氏 国対村井氏",
+      "text": "自民党役員人事決定 高市首相“重要な政策転換 実現向け総力”",
       "source": "NHK",
-      "time": "Wed, 16 Sep 2026 08:29:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50478/20260916de50478_E0000003799_1_l.jpg"
+      "time": "Wed, 16 Sep 2026 11:40:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50478/20260916de50478_E0000030860_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税 小規模事業者が税率変化に対応できるか課題",
+      "text": "大気不安定 熱帯低気圧は台風に発達見込み 連休の天気に影響か",
       "source": "NHK",
-      "time": "Wed, 16 Sep 2026 06:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50455/20260915de50455_E0000030768_1_l.jpg"
+      "time": "Wed, 16 Sep 2026 12:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50498/20260916de50498_E0000030878_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「ヤマトリノ」名乗り活動する27歳女 コカイン所持疑いで逮捕",
+      "source": "NHK",
+      "time": "Wed, 16 Sep 2026 09:31:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50483/20260916de50483_E0000003571_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大阪 堺 高校で催涙スプレーか 生徒らがのどの痛み訴え",
+      "source": "NHK",
+      "time": "Wed, 16 Sep 2026 12:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50525/20260916de50525_E0000030933_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "参院自民党 人事を発表 参院幹事長に青木一彦氏 石井氏は交代",
+      "source": "NHK",
+      "time": "Wed, 16 Sep 2026 11:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50497/20260916de50497_E0000030522_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "空自の無人偵察機墜落 機体回収と通信履歴分析で原因調査",
       "source": "NHK",
-      "time": "Wed, 16 Sep 2026 06:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50457/20260916de50457_E0000030772_1_l.jpg"
+      "time": "Wed, 16 Sep 2026 06:06:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "前線南下 16日にかけ大気不安定 熱帯低気圧の動向にも注意",
+      "text": "消費税減税 小規模事業者が税率変化に対応できるか課題",
       "source": "NHK",
-      "time": "Tue, 15 Sep 2026 20:44:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260915de50399/20260915de50399_E0000030755_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アメリカ長期金利が19年ぶりの高水準 インフレ懸念背景に",
-      "source": "NHK",
-      "time": "Wed, 16 Sep 2026 07:28:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50462/20260916de50462_E0000030786_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡県議会 金銭授受問題調査の第三者委員会 17日に設置へ",
-      "source": "NHK",
-      "time": "Wed, 16 Sep 2026 05:40:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "“ジャッキー吉川とブルー・コメッツ”三原綱木さん死去",
-      "source": "NHK",
-      "time": "Tue, 15 Sep 2026 16:40:00 +0900"
+      "time": "Wed, 16 Sep 2026 06:05:00 +0900"
     }
   ]
 }
