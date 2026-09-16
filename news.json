@@ -1,7 +1,36 @@
 {
-  "updated_at": "2026-09-16 23:16",
-  "has_alert": false,
+  "updated_at": "2026-09-17 03:17",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-16T14:21:09Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-16T14:21:09Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-16T14:20:37Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米 FRB 0.25％の利上げ決定 利上げは約3年ぶり",
+      "source": "NHK",
+      "time": "Thu, 17 Sep 2026 03:07:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50687/20260916de50687_E0000003542_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,6 +38,14 @@
       "source": "NHK",
       "time": "Wed, 16 Sep 2026 22:43:51 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50674/20260916de50674_E0000031584_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】茨城 栃木 群馬 埼玉 千葉など震度3 津波心配なし",
+      "source": "NHK",
+      "time": "Thu, 17 Sep 2026 00:12:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50690/20260917de50690_E0000031594_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,22 +58,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民 新執行部が発足 内閣改造へ 高市首相の狙いは",
-      "source": "NHK",
-      "time": "Wed, 16 Sep 2026 21:58:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50641/20260916de50641_E0000031568_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【QA解説】10月1日 酒税改正 ビール系飲料 価格どう変わる？",
-      "source": "NHK",
-      "time": "Wed, 16 Sep 2026 20:11:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50512/20260916de50512_E0000031357_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開",
       "source": "NHK",
       "time": "Wed, 16 Sep 2026 20:40:28 +0900",
@@ -45,16 +66,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "無人偵察機墜落 青森県三沢市が「飛行停止」を要請",
+      "text": "ネパール土石流から3週間 1400人超死亡 5000人超行方不明",
       "source": "NHK",
-      "time": "Wed, 16 Sep 2026 21:20:00 +0900"
+      "time": "Wed, 16 Sep 2026 19:16:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "男女平等調査 日本は117位 依然として低評価",
+      "text": "分電盤の点検商法 相談5倍に急増 注意を 国民生活センター",
       "source": "NHK",
-      "time": "Wed, 16 Sep 2026 21:24:04 +0900"
+      "time": "Wed, 16 Sep 2026 19:40:00 +0900"
     }
   ]
 }
