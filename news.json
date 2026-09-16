@@ -1,81 +1,67 @@
 {
-  "updated_at": "2026-09-17 03:17",
+  "updated_at": "2026-09-17 06:31",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-16T14:21:09Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１７日０６時１１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-16T21:14:25Z"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、土砂災害や落雷に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-16T14:21:09Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "高市首相きょう内閣改造 政権の骨格維持 維新は中司氏初入閣へ",
+      "source": "NHK",
+      "time": "Thu, 17 Sep 2026 04:59:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50695/20260917de50695_E0000031608_1_l.jpg"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県大雨警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-16T14:20:37Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【台風25号 情報】小笠原諸島では18日以降 雨風強まるおそれ",
+      "source": "NHK",
+      "time": "Thu, 17 Sep 2026 05:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000031630_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ゼレンスキー大統領「北朝鮮は安い値段で現代戦を経験」",
+      "source": "NHK",
+      "time": "Thu, 17 Sep 2026 05:19:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50707/20260917de50707_E0000031618_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "米 FRB 0.25％の利上げ決定 利上げは約3年ぶり",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 03:07:03 +0900",
+      "time": "Thu, 17 Sep 2026 04:12:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50687/20260916de50687_E0000003542_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【台風情報】台風25号が発生 連休の天気影響か 最新情報に注意",
+      "text": "日銀 きょうから金融政策決定会合 利上げを最終判断へ",
       "source": "NHK",
-      "time": "Wed, 16 Sep 2026 22:43:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50674/20260916de50674_E0000031584_1_l.jpg"
+      "time": "Thu, 17 Sep 2026 05:29:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50713/20260917de50713_E0000031623_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】茨城 栃木 群馬 埼玉 千葉など震度3 津波心配なし",
+      "text": "ガザ地区で避難民暮らす建物倒壊 20人以上死亡か 現地メディア",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 00:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50690/20260917de50690_E0000031594_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自民党役員人事決定 高市首相“重要な政策転換 実現向け総力”",
-      "source": "NHK",
-      "time": "Wed, 16 Sep 2026 16:40:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50478/20260916de50478_E0000031009_1_l.jpg"
+      "time": "Thu, 17 Sep 2026 06:14:33 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開",
       "source": "NHK",
-      "time": "Wed, 16 Sep 2026 20:40:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50658/20260916de50658_E0000031526_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネパール土石流から3週間 1400人超死亡 5000人超行方不明",
-      "source": "NHK",
-      "time": "Wed, 16 Sep 2026 19:16:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "分電盤の点検商法 相談5倍に急増 注意を 国民生活センター",
-      "source": "NHK",
-      "time": "Wed, 16 Sep 2026 19:40:00 +0900"
+      "time": "Wed, 16 Sep 2026 20:40:00 +0900"
     }
   ]
 }
