@@ -1,74 +1,60 @@
 {
-  "updated_at": "2026-09-18 04:09",
-  "has_alert": true,
+  "updated_at": "2026-09-18 07:20",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日０３時０６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-17T18:08:58Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日０２時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-17T17:06:52Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風25号 小笠原に接近へ 連休の東日本太平洋側大雨おそれ",
+      "source": "NHK",
+      "time": "Fri, 18 Sep 2026 06:26:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50946/20260918de50946_E0000032393_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関電の美浜原発3号配管から水滴落下 原子炉を手動停止へ 福井",
+      "text": "第2次高市改造内閣発足 食料品の消費税減税など政策推進が課題",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 23:40:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50928/20260917de50928_E0000032367_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 05:37:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50937/20260918de50937_E0000032380_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "第2次高市改造内閣発足 首相“強い経済へ 実行力重視で人選”",
+      "text": "九州新幹線 52日ぶりに全線で運行再開",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 22:52:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50695/20260917de50695_E0000032282_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 06:29:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50932/20260917de50932_E0000032397_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 小笠原諸島接近へ 東日本は連休中の天気に影響も",
+      "text": "日銀 金融政策決定会合 政策金利1.25％程度へ引き上げの見通し",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 19:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000032236_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 05:44:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50935/20260918de50935_E0000032377_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プロ野球 ソフトバンクがパ・リーグ優勝 3年連続22回目",
+      "text": "ジャガイモ輸入解禁めぐり アメリカが手続き加速を要求",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 21:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50909/20260917de50909_E0000032330_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 05:51:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50925/20260917de50925_E0000032358_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北朝鮮籍の貨物船がえい航の船 沈没 海に4人転落 1人意識不明",
+      "text": "関電の美浜原発3号配管から水滴落下 原子炉を手動停止 福井",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 22:48:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50924/20260917de50924_E0000003874_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 05:26:03 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日銀 金融政策決定会合始まる 政策金利引き上げあす最終判断へ",
+      "text": "【気象予報士解説】台風25号今後の進路は",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 18:48:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中学校でクマよけスプレー噴射か 生徒逮捕 11人搬送 岩手 北上",
-      "source": "NHK",
-      "time": "Thu, 17 Sep 2026 19:44:00 +0900"
+      "time": "Fri, 18 Sep 2026 05:59:00 +0900"
     }
   ]
 }
