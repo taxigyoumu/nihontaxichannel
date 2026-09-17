@@ -1,29 +1,38 @@
 {
-  "updated_at": "2026-09-17 06:31",
-  "has_alert": true,
+  "updated_at": "2026-09-17 09:03",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１７日０６時１１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-16T21:14:25Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高市首相きょう内閣改造 政権の骨格維持 維新は中司氏初入閣へ",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 04:59:08 +0900",
+      "time": "Thu, 17 Sep 2026 07:05:36 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50695/20260917de50695_E0000031608_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【台風25号 情報】小笠原諸島では18日以降 雨風強まるおそれ",
+      "text": "【台風25号】小笠原諸島では18日以降 雨風が強まるおそれ",
       "source": "NHK",
-      "time": "Thu, 17 Sep 2026 05:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000031630_1_l.jpg"
+      "time": "Thu, 17 Sep 2026 07:09:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50715/20260917de50715_E0000031635_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米 FRB 0.25％の利上げ決定 利上げは約3年ぶり",
+      "source": "NHK",
+      "time": "Thu, 17 Sep 2026 06:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50687/20260916de50687_E0000003542_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "NY市場 ダウ一時900ドル超の下落 外国為替市場は1ドル156円台",
+      "source": "NHK",
+      "time": "Thu, 17 Sep 2026 06:49:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50718/20260917de50718_E0000003779_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,32 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 FRB 0.25％の利上げ決定 利上げは約3年ぶり",
-      "source": "NHK",
-      "time": "Thu, 17 Sep 2026 04:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260916de50687/20260916de50687_E0000003542_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日銀 きょうから金融政策決定会合 利上げを最終判断へ",
-      "source": "NHK",
-      "time": "Thu, 17 Sep 2026 05:29:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50713/20260917de50713_E0000031623_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ガザ地区で避難民暮らす建物倒壊 20人以上死亡か 現地メディア",
-      "source": "NHK",
-      "time": "Thu, 17 Sep 2026 06:14:33 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "山形 酒田 6歳男児行方不明で警察が防犯カメラ映像を公開",
       "source": "NHK",
       "time": "Wed, 16 Sep 2026 20:40:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "国連グテーレス事務総長 AI開発競争 国際的な規制必要と訴える",
+      "source": "NHK",
+      "time": "Thu, 17 Sep 2026 06:58:07 +0900"
     }
   ]
 }
