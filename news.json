@@ -1,14 +1,37 @@
 {
-  "updated_at": "2026-09-18 23:45",
-  "has_alert": false,
+  "updated_at": "2026-09-19 03:03",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１９日０１時５９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-18T17:01:54Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 小笠原最接近 連休は伊豆諸島 関東甲信大雨のおそれ",
+      "text": "日銀が「レートチェック」を実施 円安けん制か",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 22:55:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50946/20260918de50946_E0000033241_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 02:33:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51169/20260919de51169_E0000003651_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "宮崎で線状降水帯直前予測 氾濫や土砂災害など厳重警戒",
+      "source": "NHK",
+      "time": "Sat, 19 Sep 2026 02:52:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51166/20260919de51166_E0000003982_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風25号 小笠原暴風など警戒 伊豆諸島 関東など近づくおそれ",
+      "source": "NHK",
+      "time": "Sat, 19 Sep 2026 02:13:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033280_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,40 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "宮崎で危険警報 氾濫や土砂災害 低い土地の浸水に厳重警戒を",
+      "text": "小泉防衛相 米国防長官と電話会談 安全保障協力推進で一致",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 22:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51124/20260918de51124_E0000003986_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 02:25:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51167/20260919de51167_E0000033279_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アジア大会ホッケー男子 韓国国歌でなく北朝鮮国歌流れるミス",
+      "text": "家族葬 実際の費用はCMの約3倍 消費者庁が運営会社に措置命令",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 20:41:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51129/20260918de51129_E0000033200_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 01:48:34 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "コメ平均価格5キロ2971円 約2年ぶりに2000円台に",
+      "text": "空自の大型無人偵察機墜落 機体の一部の写真 自衛隊が公表",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 20:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51070/20260918de51070_E0000033120_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "南シナ海でフィリピン当局船と中国海警局の船が衝突",
-      "source": "NHK",
-      "time": "Fri, 18 Sep 2026 22:09:10 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "家族葬 実際の費用ＣＭの約３倍 消費者庁が運営会社に措置命令",
-      "source": "NHK",
-      "time": "Fri, 18 Sep 2026 20:43:54 +0900"
+      "time": "Sat, 19 Sep 2026 00:08:00 +0900"
     }
   ]
 }
