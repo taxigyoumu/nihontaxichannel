@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-09-19 03:03",
-  "has_alert": true,
+  "updated_at": "2026-09-19 06:05",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１９日０１時５９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-18T17:01:54Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日銀が「レートチェック」を実施 円安けん制か",
+      "text": "台風25号 小笠原暴風警戒 あす以降伊豆諸島 関東近づくおそれ",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 02:33:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51169/20260919de51169_E0000003651_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 05:42:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033281_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "宮崎で線状降水帯直前予測 氾濫や土砂災害など厳重警戒",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 02:52:22 +0900",
+      "time": "Sat, 19 Sep 2026 05:28:36 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51166/20260919de51166_E0000003982_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 小笠原暴風など警戒 伊豆諸島 関東など近づくおそれ",
+      "text": "高市首相 日米首脳会談を調整 対中認識のすりあわせ図る",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 02:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033280_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 05:07:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51163/20260919de51163_E0000032546_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【台風】空の便やJR在来線に影響のおそれ 最新情報確認を",
+      "text": "日銀が「レートチェック」を実施 円安けん制か",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 20:35:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51068/20260918de51068_E0000003971_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 03:43:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51169/20260919de51169_E0000003651_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小泉防衛相 米国防長官と電話会談 安全保障協力推進で一致",
+      "text": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 02:25:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51167/20260919de51167_E0000033279_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 05:45:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51165/20260919de51165_E0000033278_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "家族葬 実際の費用はCMの約3倍 消費者庁が運営会社に措置命令",
+      "text": "パキスタン“警察施設で自爆テロか 21人死亡”地元メディア",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 01:48:34 +0900"
+      "time": "Sat, 19 Sep 2026 05:25:38 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "空自の大型無人偵察機墜落 機体の一部の写真 自衛隊が公表",
+      "text": "次期国連事務総長を選ぶ3回目の投票 常任理事国の意向が焦点に",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 00:08:00 +0900"
+      "time": "Sat, 19 Sep 2026 05:33:02 +0900"
     }
   ]
 }
