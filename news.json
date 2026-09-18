@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-09-18 09:35",
-  "has_alert": true,
+  "updated_at": "2026-09-18 14:31",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日０８時３１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-17T23:34:24Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "大型の台風25号 小笠原接近へ 連休の東日本太平洋側大雨おそれ",
+      "source": "NHK",
+      "time": "Fri, 18 Sep 2026 14:09:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50946/20260918de50946_E0000032615_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 小笠原に接近へ 連休の東日本太平洋側大雨おそれ",
+      "text": "日銀 3か月ぶり利上げ決定 政策金利1.25％程度へ引き上げ",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 06:26:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50946/20260918de50946_E0000032393_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 13:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50968/20260918de50968_E0000003651_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "第2次高市改造内閣発足 食料品の消費税減税など政策推進が課題",
+      "text": "「司法取引」 トクリュウ関与疑われる事件に初適用",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 05:37:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50937/20260918de50937_E0000032380_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 11:52:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50976/20260918de50976_E0000032561_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州新幹線 52日ぶりに全線で運行再開で乗客からは安どの声",
+      "text": "ホワイトソックス 村上宗隆 決勝の32号スリーラン",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 06:29:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260917de50932/20260917de50932_E0000032397_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 13:15:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51008/20260918de51008_E0000032659_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【気象予報士解説】台風25号今後の進路は",
+      "text": "北朝鮮キム・ヨジョン氏 多国間訓練を非難し対抗措置示唆",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 08:11:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50945/20260918de50945_E0000032406_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 13:24:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51021/20260918de51021_E0000032737_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャースが5年連続の地区優勝",
+      "text": "高市首相 来週トランプ大統領と会談を調整 中国で意見交換か",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 08:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de50949/20260918de50949_E0000032408_1_l.jpg"
+      "time": "Fri, 18 Sep 2026 11:59:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日銀 金融政策決定会合 政策金利1.25％程度へ引き上げの見通し",
+      "text": "JR東日本 盗撮被害の女性社員が会社提訴“望まない異動”",
       "source": "NHK",
-      "time": "Fri, 18 Sep 2026 05:44:58 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ジャガイモ輸入解禁めぐり アメリカが手続き加速を要求",
-      "source": "NHK",
-      "time": "Fri, 18 Sep 2026 05:51:03 +0900"
+      "time": "Fri, 18 Sep 2026 11:43:00 +0900"
     }
   ]
 }
