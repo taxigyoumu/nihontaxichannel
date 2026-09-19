@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 02:44",
+  "updated_at": "2026-09-20 04:59",
   "has_alert": false,
   "items": [
     {
@@ -13,10 +13,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“サウジアラビア首都 国際空港近くの燃料タンク炎上”報道",
+      "text": "フーシ派“サウジ首都攻撃に成功”主張 空港近くで火災",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 01:20:09 +0900",
+      "time": "Sun, 20 Sep 2026 01:20:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51286/20260920de51286_E0000033562_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドイツ 首都と北東部の州で議会選挙へ「極右」が支持伸ばすか",
+      "source": "NHK",
+      "time": "Sun, 20 Sep 2026 04:56:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51287/20260920de51287_E0000033567_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,14 +37,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "八王子の交番で10代の警察官が拳銃で自殺を図ったか 意識不明",
-      "source": "NHK",
-      "time": "Sat, 19 Sep 2026 23:21:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51281/20260919de51281_E0000033535_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "パラメダリスト 車いす練習中 車に追突され意識不明 沖縄",
       "source": "NHK",
       "time": "Sat, 19 Sep 2026 20:41:25 +0900",
@@ -45,16 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ラグビー 日本がフィジーに勝ち国際大会優勝 W杯へ成長示す",
+      "text": "上方漫才「中田カウス・ボタン」の中田ボタンさん死去 78歳",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 00:36:39 +0900"
+      "time": "Sun, 20 Sep 2026 00:26:11 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "上方漫才「中田カウス・ボタン」の中田ボタンさん死去 78歳",
+      "text": "宮城 気仙沼「戻りかつお祭り」にぎわう",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 00:26:11 +0900"
+      "time": "Sun, 20 Sep 2026 04:27:19 +0900"
     }
   ]
 }
