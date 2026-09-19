@@ -1,67 +1,74 @@
 {
-  "updated_at": "2026-09-19 10:26",
+  "updated_at": "2026-09-19 15:20",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１９日０９時２９分ころ、地震がありました。",
+      "text": "【震源・震度情報】１９日１４時０４分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-19T00:32:23Z"
+      "time": "2026-09-19T05:07:10Z"
     },
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "宮崎 大雨の日南市 高齢女性が土砂に巻き込まれ死亡",
-      "source": "NHK",
-      "time": "Sat, 19 Sep 2026 09:57:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51211/20260919de51211_E0000033302_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１９日１４時０１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-19T05:03:43Z"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "大型の台風25号 あす以降 伊豆諸島・関東などに接近のおそれ",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 10:23:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033313_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 13:03:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033354_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領「グリーンランド安全保障 米に恒久管理 合意」",
+      "text": "米カリフォルニア州 AIに「キルスイッチ」導入義務化検討へ",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 09:59:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51190/20260919de51190_E0000033314_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 14:43:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51235/20260919de51235_E0000033383_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日銀 どう物価安定図るか 今後の利上げも難しい判断",
+      "text": "北朝鮮 キム総書記が軍需工場を視察 兵器にAI導入拡大を指示",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 05:45:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51165/20260919de51165_E0000033278_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 15:03:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51237/20260919de51237_E0000033391_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 日米首脳会談を調整 対中認識のすりあわせ図る",
+      "text": "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 05:07:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51163/20260919de51163_E0000032546_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 12:55:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51229/20260919de51229_E0000003630_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“投資の神様”バフェット氏会長退任「時の流れに逆らえない」",
+      "text": "【気象予報士解説】台風25号 今後の進路は",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 08:23:09 +0900"
+      "time": "Sat, 19 Sep 2026 12:05:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51215/20260919de51215_E0000033334_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "都市部の内水氾濫 国交省の検討会 年内めどに対策とりまとめ",
+      "text": "ドジャース大谷翔平 復帰を前に実戦形式で調整の方針",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 05:48:00 +0900"
+      "time": "Sat, 19 Sep 2026 15:11:44 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "埼玉 羽生 空き巣で住宅から散弾銃3丁と実弾125発盗まれる",
+      "source": "NHK",
+      "time": "Sat, 19 Sep 2026 11:57:00 +0900"
     }
   ]
 }
