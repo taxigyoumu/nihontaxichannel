@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-19 20:19",
+  "updated_at": "2026-09-19 23:37",
   "has_alert": false,
   "items": [
     {
@@ -7,24 +7,16 @@
       "label": "ニュース",
       "text": "台風25号 21～22日ごろ関東などに接近予想 勢力強まる見込み",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 19:20:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033462_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 23:04:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033532_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」",
+      "text": "愛知・名古屋アジア大会開幕 天皇陛下が開会を宣言",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 19:32:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51243/20260919de51243_E0000033429_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米カリフォルニア州 AIに「キルスイッチ」導入義務化検討へ",
-      "source": "NHK",
-      "time": "Sat, 19 Sep 2026 14:43:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51235/20260919de51235_E0000033383_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 23:17:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51267/20260919de51267_E0000033519_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "八王子の交番で10代の警察官が拳銃で自殺を図ったか 意識不明",
+      "source": "NHK",
+      "time": "Sat, 19 Sep 2026 23:21:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51281/20260919de51281_E0000033535_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "パラメダリスト 車いす練習中 車に追突され意識不明 沖縄",
+      "source": "NHK",
+      "time": "Sat, 19 Sep 2026 20:41:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51262/20260919de51262_E0000033506_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サッカーJ1 第8節 サンフレッチェ広島とFC東京が勝ち点17に",
+      "source": "NHK",
+      "time": "Sat, 19 Sep 2026 23:22:59 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "【気象予報士解説】台風25号 今後の進路は",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 19:31:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51215/20260919de51215_E0000033471_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "“貴婦人”C57が6年ぶり復活へ JR山口線で報道向けSL試乗会",
-      "source": "NHK",
-      "time": "Sat, 19 Sep 2026 16:45:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "マレーシアで日本人6人拘束 特殊詐欺に関与か",
-      "source": "NHK",
-      "time": "Sat, 19 Sep 2026 16:19:11 +0900"
+      "time": "Sat, 19 Sep 2026 19:31:47 +0900"
     }
   ]
 }
