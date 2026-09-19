@@ -1,28 +1,22 @@
 {
-  "updated_at": "2026-09-19 15:20",
-  "has_alert": true,
+  "updated_at": "2026-09-19 20:19",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１９日１４時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-19T05:07:10Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１９日１４時０１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-19T05:03:43Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風25号 21～22日ごろ関東などに接近予想 勢力強まる見込み",
+      "source": "NHK",
+      "time": "Sat, 19 Sep 2026 19:20:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033462_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大型の台風25号 あす以降 伊豆諸島・関東などに接近のおそれ",
+      "text": "日銀 利上げ 専門家「今後も金利上昇続くこと見越して対応を」",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 13:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033354_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 19:32:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51243/20260919de51243_E0000033429_1_l.jpg"
     },
     {
       "category": "news",
@@ -35,40 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北朝鮮 キム総書記が軍需工場を視察 兵器にAI導入拡大を指示",
+      "text": "timeleszの猪俣周杜容疑者を傷害疑いで逮捕 知人女性に暴行か",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 15:03:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51237/20260919de51237_E0000033391_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "グーグルの生成AI サイバー能力試験中に他社のシステムに侵入",
-      "source": "NHK",
-      "time": "Sat, 19 Sep 2026 12:55:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51229/20260919de51229_E0000003630_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 19:01:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51225/20260919de51225_E0000033428_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【気象予報士解説】台風25号 今後の進路は",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 12:05:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51215/20260919de51215_E0000033334_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 19:31:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51215/20260919de51215_E0000033471_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース大谷翔平 復帰を前に実戦形式で調整の方針",
+      "text": "“貴婦人”C57が6年ぶり復活へ JR山口線で報道向けSL試乗会",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 15:11:44 +0900"
+      "time": "Sat, 19 Sep 2026 16:45:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "埼玉 羽生 空き巣で住宅から散弾銃3丁と実弾125発盗まれる",
+      "text": "マレーシアで日本人6人拘束 特殊詐欺に関与か",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 11:57:00 +0900"
+      "time": "Sat, 19 Sep 2026 16:19:11 +0900"
     }
   ]
 }
