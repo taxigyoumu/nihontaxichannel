@@ -1,21 +1,37 @@
 {
-  "updated_at": "2026-09-20 04:59",
+  "updated_at": "2026-09-20 07:17",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 21～22日ごろ関東などに接近予想 勢力強まる見込み",
+      "text": "台風25号 21日から22日ごろ関東など接近へ 大雨など厳重警戒を",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 23:04:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260918de51158/20260918de51158_E0000033532_1_l.jpg"
+      "time": "Sun, 20 Sep 2026 07:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51282/20260919de51282_E0000033626_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "電動車いす 転落などで死亡事故10年間で34件 NITE注意呼びかけ",
+      "source": "NHK",
+      "time": "Sun, 20 Sep 2026 06:49:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51291/20260920de51291_E0000033585_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領「AIフォース」創設と発表 安全性懸念の中",
+      "source": "NHK",
+      "time": "Sun, 20 Sep 2026 06:28:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51300/20260920de51300_E0000033615_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "フーシ派“サウジ首都攻撃に成功”主張 空港近くで火災",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 01:20:00 +0900",
+      "time": "Sun, 20 Sep 2026 06:42:11 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51286/20260920de51286_E0000033562_1_l.jpg"
     },
     {
@@ -23,7 +39,7 @@
       "label": "ニュース",
       "text": "ドイツ 首都と北東部の州で議会選挙へ「極右」が支持伸ばすか",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 04:56:21 +0900",
+      "time": "Sun, 20 Sep 2026 04:56:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51287/20260920de51287_E0000033567_1_l.jpg"
     },
     {
@@ -31,16 +47,7 @@
       "label": "ニュース",
       "text": "timeleszの猪俣周杜容疑者を逮捕 知人女性に暴行か 活動休止に",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 23:46:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51225/20260919de51225_E0000033428_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "パラメダリスト 車いす練習中 車に追突され意識不明 沖縄",
-      "source": "NHK",
-      "time": "Sat, 19 Sep 2026 20:41:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51262/20260919de51262_E0000033506_1_l.jpg"
+      "time": "Sat, 19 Sep 2026 23:46:26 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "上方漫才「中田カウス・ボタン」の中田ボタンさん死去 78歳",
       "source": "NHK",
       "time": "Sun, 20 Sep 2026 00:26:11 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "宮城 気仙沼「戻りかつお祭り」にぎわう",
-      "source": "NHK",
-      "time": "Sun, 20 Sep 2026 04:27:19 +0900"
     }
   ]
 }
