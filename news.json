@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-20 09:14",
+  "updated_at": "2026-09-20 14:10",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 21日から22日ごろ関東など接近へ 大雨など厳重警戒を",
+      "text": "台風25号 あすから関東などに接近へ 連休中の交通機関に影響も",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 08:49:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51282/20260919de51282_E0000033626_1_l.jpg"
+      "time": "Sun, 20 Sep 2026 13:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51282/20260919de51282_E0000033697_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【気象予報士解説】台風25号 今後の見通しは？（7時台）",
+      "text": "【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 07:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51299/20260920de51299_E0000033639_1_l.jpg"
+      "time": "Sun, 20 Sep 2026 11:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51297/20260920de51297_E0000003948_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【台風25号】鉄道・空の便・道路は（20日朝の時点）",
+      "text": "墜落した空自の大型無人偵察機 機体の一部を回収",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 07:43:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51297/20260920de51297_E0000003971_1_l.jpg"
+      "time": "Sun, 20 Sep 2026 12:19:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51332/20260920de51332_E0000033685_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "電動車いす 転落などで死亡事故10年間で34件 NITE注意呼びかけ",
+      "text": "相模原 高校生暴行受け死亡の事件 少年4人を殺人容疑で再逮捕",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 06:49:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51291/20260920de51291_E0000033585_1_l.jpg"
+      "time": "Sun, 20 Sep 2026 12:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51325/20260920de51325_E0000033679_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領「AIフォース」創設と発表 安全性懸念の中",
+      "text": "サウジとフーシ派の対立激化　米“急激悪化”懸念で警戒を通知",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 06:28:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51300/20260920de51300_E0000033615_1_l.jpg"
+      "time": "Sun, 20 Sep 2026 12:18:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51327/20260920de51327_E0000033689_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "timeleszの猪俣周杜容疑者を逮捕 知人女性に暴行か 活動休止に",
+      "text": "イラン高官「協議再開の7つの条件をアメリカ政府に伝達」",
       "source": "NHK",
-      "time": "Sat, 19 Sep 2026 23:46:26 +0900"
+      "time": "Sun, 20 Sep 2026 09:20:10 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "上方漫才「中田カウス・ボタン」の中田ボタンさん死去 78歳",
+      "text": "ドイツ 世界最大のビールの祭典「オクトーバーフェスト」開幕",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 00:26:00 +0900"
+      "time": "Sun, 20 Sep 2026 05:15:00 +0900"
     }
   ]
 }
