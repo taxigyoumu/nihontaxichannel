@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-20 07:17",
+  "updated_at": "2026-09-20 09:14",
   "has_alert": false,
   "items": [
     {
@@ -7,8 +7,24 @@
       "label": "ニュース",
       "text": "台風25号 21日から22日ごろ関東など接近へ 大雨など厳重警戒を",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 07:00:00 +0900",
+      "time": "Sun, 20 Sep 2026 08:49:27 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260919de51282/20260919de51282_E0000033626_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【気象予報士解説】台風25号 今後の見通しは？（7時台）",
+      "source": "NHK",
+      "time": "Sun, 20 Sep 2026 07:50:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51299/20260920de51299_E0000033639_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【台風25号】鉄道・空の便・道路は（20日朝の時点）",
+      "source": "NHK",
+      "time": "Sun, 20 Sep 2026 07:43:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51297/20260920de51297_E0000003971_1_l.jpg"
     },
     {
       "category": "news",
@@ -23,24 +39,8 @@
       "label": "ニュース",
       "text": "トランプ大統領「AIフォース」創設と発表 安全性懸念の中",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 06:28:47 +0900",
+      "time": "Sun, 20 Sep 2026 06:28:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51300/20260920de51300_E0000033615_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フーシ派“サウジ首都攻撃に成功”主張 空港近くで火災",
-      "source": "NHK",
-      "time": "Sun, 20 Sep 2026 06:42:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51286/20260920de51286_E0000033562_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドイツ 首都と北東部の州で議会選挙へ「極右」が支持伸ばすか",
-      "source": "NHK",
-      "time": "Sun, 20 Sep 2026 04:56:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260920de51287/20260920de51287_E0000033567_1_l.jpg"
     },
     {
       "category": "news",
@@ -54,7 +54,7 @@
       "label": "ニュース",
       "text": "上方漫才「中田カウス・ボタン」の中田ボタンさん死去 78歳",
       "source": "NHK",
-      "time": "Sun, 20 Sep 2026 00:26:11 +0900"
+      "time": "Sun, 20 Sep 2026 00:26:00 +0900"
     }
   ]
 }
