@@ -1,42 +1,45 @@
 {
-  "updated_at": "2026-09-21 09:23",
-  "has_alert": true,
+  "updated_at": "2026-09-21 14:15",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２１日０８時４９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-20T23:52:35Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２１日０８時２５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-20T23:29:47Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２１日０８時０７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-20T23:10:46Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風25号 伊豆諸島 大島町にレベル5土砂災害特別警報",
+      "source": "NHK",
+      "time": "Mon, 21 Sep 2026 14:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51478/20260921de51478_E0000033967_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号は伊豆諸島や関東甲信に 大雨・暴風など厳重警戒",
+      "text": "【ライブ配信】気象庁会見 伊豆諸島大島町に特別警報 警戒点は",
       "source": "NHK",
-      "time": "Mon, 21 Sep 2026 07:23:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51478/20260921de51478_E0000033879_1_l.jpg"
+      "time": "Mon, 21 Sep 2026 13:54:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51617/20260921de51617_E0000033961_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "神奈川県東部に「線状降水帯直前予測」",
+      "source": "NHK",
+      "time": "Mon, 21 Sep 2026 13:12:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51624/20260921de51624_E0000003982_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【台風25号 被害まとめ】千葉や横浜で住宅被害",
+      "source": "NHK",
+      "time": "Mon, 21 Sep 2026 05:57:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51522/20260921de51522_E0000033902_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー",
       "source": "NHK",
-      "time": "Mon, 21 Sep 2026 07:47:29 +0900",
+      "time": "Mon, 21 Sep 2026 13:44:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51512/20260921de51512_E0000003948_1_l.jpg"
     },
     {
@@ -44,38 +47,14 @@
       "label": "ニュース",
       "text": "【気象予報士解説】台風25号 大雨や暴風 今後の見通しは？",
       "source": "NHK",
-      "time": "Mon, 21 Sep 2026 07:24:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51523/20260921de51523_E0000033873_1_l.jpg"
+      "time": "Mon, 21 Sep 2026 14:07:18 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉 習志野市にレベル4土砂災害危険警報",
+      "text": "米財務長官と中国副首相 首脳会談前にAIなど協議",
       "source": "NHK",
-      "time": "Mon, 21 Sep 2026 08:22:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51550/20260921de51550_E0000003985_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 佐倉 土砂が崩れ住宅の窓割れる",
-      "source": "NHK",
-      "time": "Mon, 21 Sep 2026 05:57:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51522/20260921de51522_E0000004051_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉市中央区でマンホールから水が噴き出す",
-      "source": "NHK",
-      "time": "Mon, 21 Sep 2026 04:59:18 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ政権 ICCへの広範な制裁検討か 米メディア報道",
-      "source": "NHK",
-      "time": "Mon, 21 Sep 2026 08:00:00 +0900"
+      "time": "Mon, 21 Sep 2026 13:38:37 +0900"
     }
   ]
 }
