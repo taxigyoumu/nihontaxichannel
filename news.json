@@ -1,46 +1,60 @@
 {
-  "updated_at": "2026-09-22 05:45",
-  "has_alert": false,
+  "updated_at": "2026-09-22 08:48",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日０８時２７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-21T23:30:29Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【上空映像】台風25号 記録的大雨 きょうも土砂災害に厳重警戒",
+      "source": "NHK",
+      "time": "Tue, 22 Sep 2026 08:08:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51748/20260921de51748_E0000034158_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 03:34:06 +0900",
+      "time": "Tue, 22 Sep 2026 03:34:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51778/20260922de51778_E0000034137_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 関東など記録的大雨に きょうも土砂災害に厳重警戒を",
+      "text": "【動画】台風25号 千葉 神奈川 一夜明けた各地の被害は",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 05:36:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51748/20260921de51748_E0000034138_1_l.jpg"
+      "time": "Tue, 22 Sep 2026 07:51:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51808/20260922de51808_E0000034162_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 05:35:18 +0900",
+      "time": "Tue, 22 Sep 2026 06:46:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51800/20260922de51800_E0000003948_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国連総会 きょうから各国首脳の一般討論演説 気候変動やAIも",
+      "text": "大英図書館の再開発事業で着工式 日本の不動産会社が参画",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 05:28:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51782/20260922de51782_E0000034135_1_l.jpg"
+      "time": "Tue, 22 Sep 2026 07:18:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51804/20260922de51804_E0000034155_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "悠仁さま アジア大会で伝統競技の試合を観戦",
+      "text": "中国軍制服組トップなど務めた2人が巨額賄賂などで党籍はく奪",
       "source": "NHK",
-      "time": "Mon, 21 Sep 2026 18:54:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51687/20260921de51687_E0000034030_2_l.jpg"
+      "time": "Tue, 22 Sep 2026 05:56:57 +0900"
     },
     {
       "category": "news",
@@ -48,13 +62,6 @@
       "text": "「トランプ大統領 イエメン空爆で方針転換」米報道",
       "source": "NHK",
       "time": "Mon, 21 Sep 2026 20:09:09 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロシア下院選挙で与党圧勝 8割近い議席獲得へ",
-      "source": "NHK",
-      "time": "Mon, 21 Sep 2026 22:48:58 +0900"
     }
   ]
 }
