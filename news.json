@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-09-22 17:43",
-  "has_alert": false,
+  "updated_at": "2026-09-22 22:52",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【台風被害】 神奈川と千葉で4人死亡6人不明 住宅被害470棟余",
-      "source": "NHK",
-      "time": "Tue, 22 Sep 2026 17:41:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51778/20260922de51778_E0000034250_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日２１時５１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-22T12:53:39Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡 3歳児死亡事故 容疑者「前夜に飲酒し 朝また飲んで車に」",
+      "text": "【台風被害】千葉と神奈川で6人死亡6人行方不明 道路崩落も",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 13:38:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51846/20260922de51846_E0000034239_1_l.jpg"
+      "time": "Tue, 22 Sep 2026 21:09:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51778/20260922de51778_E0000034288_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アジア大会 国歌取り違えで組織委が韓国選手団に謝罪",
+      "text": "【動画】 道路崩れ 各地で冠水 台風25号の被害状況",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 17:32:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51872/20260922de51872_E0000034280_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋の大型連休 各地でUターンラッシュピーク",
-      "source": "NHK",
-      "time": "Tue, 22 Sep 2026 17:25:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51870/20260922de51870_E0000034277_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風25号 関東や伊豆諸島で記録的大雨 土砂災害に引き続き警戒",
-      "source": "NHK",
-      "time": "Tue, 22 Sep 2026 12:43:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260921de51748/20260921de51748_E0000034185_1_l.jpg"
+      "time": "Tue, 22 Sep 2026 18:39:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51808/20260922de51808_E0000034271_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "日米首脳会談 日本時間23日開催を発表 日本政府",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 14:45:55 +0900"
+      "time": "Tue, 22 Sep 2026 20:04:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51835/20260922de51835_E0000034228_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「トランプ大統領 イエメン空爆で方針転換」米報道",
+      "text": "大相撲秋場所10日目 関脇 熱海富士は大関 琴櫻破り勝ち越し",
       "source": "NHK",
-      "time": "Mon, 21 Sep 2026 20:09:09 +0900"
+      "time": "Tue, 22 Sep 2026 22:14:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51889/20260922de51889_E0000034309_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アジア大会でひぼう中傷投稿相次ぐ 削除要請すでに120件超",
+      "source": "NHK",
+      "time": "Tue, 22 Sep 2026 21:47:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51903/20260922de51903_E0000034357_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ホワイトハウス「トランプTV」開始 主要メディアと対立のなか",
+      "source": "NHK",
+      "time": "Tue, 22 Sep 2026 22:37:01 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "韓国のサッカー協会前会長らを書類送検 監督選考で不正疑い",
+      "source": "NHK",
+      "time": "Tue, 22 Sep 2026 21:21:39 +0900"
     }
   ]
 }
