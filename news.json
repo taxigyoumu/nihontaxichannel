@@ -1,20 +1,36 @@
 {
-  "updated_at": "2026-09-22 22:52",
+  "updated_at": "2026-09-23 02:54",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２２日２１時５１分ころ、地震がありました。",
+      "text": "【震源・震度情報】２３日０２時３３分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-22T12:53:39Z"
+      "time": "2026-09-22T17:36:07Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【台風被害】千葉と神奈川で6人死亡6人行方不明 道路崩落も",
+      "text": "高市首相と米トランプ大統領の日米首脳会談",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 21:09:18 +0900",
+      "time": "Wed, 23 Sep 2026 02:51:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51902/20260922de51902_E0000034386_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領 国連総会で演説 ICC加盟国に脱退呼びかけ",
+      "source": "NHK",
+      "time": "Wed, 23 Sep 2026 02:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51930/20260923de51930_E0000034376_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【台風被害】千葉と神奈川で7人死亡 5人行方不明 道路崩落も",
+      "source": "NHK",
+      "time": "Tue, 22 Sep 2026 23:43:37 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51778/20260922de51778_E0000034288_1_l.jpg"
     },
     {
@@ -28,40 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日米首脳会談 日本時間23日開催を発表 日本政府",
+      "text": "国連総会で事務総長“超大国は限界自覚し多国間体制を”",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 20:04:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51835/20260922de51835_E0000034228_1_l.jpg"
+      "time": "Wed, 23 Sep 2026 02:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51928/20260922de51928_E0000034374_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "大相撲秋場所10日目 関脇 熱海富士は大関 琴櫻破り勝ち越し",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 22:14:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51889/20260922de51889_E0000034309_1_l.jpg"
+      "time": "Tue, 22 Sep 2026 22:14:12 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "アジア大会でひぼう中傷投稿相次ぐ 削除要請すでに120件超",
       "source": "NHK",
-      "time": "Tue, 22 Sep 2026 21:47:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51903/20260922de51903_E0000034357_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホワイトハウス「トランプTV」開始 主要メディアと対立のなか",
-      "source": "NHK",
-      "time": "Tue, 22 Sep 2026 22:37:01 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "韓国のサッカー協会前会長らを書類送検 監督選考で不正疑い",
-      "source": "NHK",
-      "time": "Tue, 22 Sep 2026 21:21:39 +0900"
+      "time": "Tue, 22 Sep 2026 21:47:57 +0900"
     }
   ]
 }
