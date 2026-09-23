@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-24 02:42",
+  "updated_at": "2026-09-24 06:02",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "台風26号が発生 沖縄の南の海上へ進む可能性 今後の進路に注意",
+      "source": "NHK",
+      "time": "Thu, 24 Sep 2026 04:35:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000034654_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ジャングリア沖縄 親会社が173億円余の赤字",
+      "source": "NHK",
+      "time": "Thu, 24 Sep 2026 05:47:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52050/20260923de52050_E0000034600_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "全日空機乗客 那覇空港で緊急脱出 3人けが エンジントラブルか",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 02:32:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52071/20260923de52071_E0000003862_1_l.jpg"
+      "time": "Thu, 24 Sep 2026 04:25:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52071/20260923de52071_E0000034649_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号が発生 今後の進路に注意",
+      "text": "新宿駅前のビルに入る焼き肉店で火災 男女4人搬送",
       "source": "NHK",
-      "time": "Wed, 23 Sep 2026 22:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000034618_1_l.jpg"
+      "time": "Thu, 24 Sep 2026 02:42:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52054/20260923de52054_E0000034603_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【プロ野球結果】ソフトバンクが西武に大勝",
+      "text": "飯塚事件 「DNA型不一致の新証拠」 3回目の再審請求へ",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 01:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52076/20260924de52076_E0000005607_1_l.jpg"
+      "time": "Thu, 24 Sep 2026 05:45:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52068/20260923de52068_E0000034634_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 千葉と神奈川で10人死亡 4人行方不明 住宅被害相次ぐ",
+      "text": "台風25号 10人死亡4人不明 北印旛沼周辺で浸水被害 復旧急ぐ",
       "source": "NHK",
-      "time": "Wed, 23 Sep 2026 19:25:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_l.jpg"
+      "time": "Thu, 24 Sep 2026 04:50:43 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アジア大会 体操女子団体 日本は銀メダル",
+      "text": "シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 00:20:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52070/20260923de52070_E0000034627_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "JR貨物社員逮捕 業務発注で便宜図る見返りに賄賂受け取ったか",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 00:04:35 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中国の習近平国家主席がアメリカへ出発　米中首脳会談へ",
-      "source": "NHK",
-      "time": "Wed, 23 Sep 2026 18:55:00 +0900"
+      "time": "Thu, 24 Sep 2026 05:56:04 +0900"
     }
   ]
 }
