@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-09-23 10:41",
-  "has_alert": true,
+  "updated_at": "2026-09-23 16:18",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２３日０９時２７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-23T00:30:12Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風25号 千葉と神奈川で8人死亡 5人不明 住宅被害相次ぐ",
-      "source": "NHK",
-      "time": "Wed, 23 Sep 2026 10:24:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_l.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "日米首脳 中国めぐる諸課題を意見交換 高市首相からICCに言及",
       "source": "NHK",
-      "time": "Wed, 23 Sep 2026 08:22:34 +0900",
+      "time": "Wed, 23 Sep 2026 12:25:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51902/20260922de51902_E0000034386_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 国連総会で演説 ICC加盟国に脱退呼びかけ",
+      "text": "高市首相 記者会見“日米同盟関係さらに揺るぎのないものに”",
       "source": "NHK",
-      "time": "Wed, 23 Sep 2026 06:40:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51930/20260923de51930_E0000034376_1_l.jpg"
+      "time": "Wed, 23 Sep 2026 14:59:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51965/20260923de51965_E0000034452_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡 3歳児死亡事故 容疑者“当日の朝は焼酎を飲んだ”",
+      "text": "台風25号 千葉と神奈川で9人死亡 4人行方不明 住宅被害相次ぐ",
       "source": "NHK",
-      "time": "Wed, 23 Sep 2026 05:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51927/20260922de51927_E0000034394_1_l.jpg"
+      "time": "Wed, 23 Sep 2026 15:17:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 グリーンランドに米軍基地設置の協定に署名",
+      "text": "米とイラン代表が協議 事態の打開につながるかが焦点",
       "source": "NHK",
-      "time": "Wed, 23 Sep 2026 08:09:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51941/20260923de51941_E0000034406_1_l.jpg"
+      "time": "Wed, 23 Sep 2026 12:28:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51933/20260923de51933_E0000034425_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国連総会にイラン出席で米との協議再開につながるか注目",
+      "text": "高市首相 “法の支配に基づく国際秩序に貢献”国連総会演説",
       "source": "NHK",
-      "time": "Wed, 23 Sep 2026 07:19:42 +0900"
+      "time": "Wed, 23 Sep 2026 11:48:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51969/20260923de51969_E0000034428_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "故ダイアナ元妃の弟が回顧録でチャールズ国王を批判し物議",
+      "text": "秋の連休最終日 交通機関は混雑",
       "source": "NHK",
-      "time": "Wed, 23 Sep 2026 08:35:53 +0900"
+      "time": "Wed, 23 Sep 2026 12:32:53 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ホワイトソックス村上宗隆 4試合ぶり33号本塁打 チームは3連勝",
+      "source": "NHK",
+      "time": "Wed, 23 Sep 2026 13:53:02 +0900"
     }
   ]
 }
