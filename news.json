@@ -1,15 +1,7 @@
 {
-  "updated_at": "2026-09-24 06:02",
+  "updated_at": "2026-09-24 08:50",
   "has_alert": false,
   "items": [
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風26号が発生 沖縄の南の海上へ進む可能性 今後の進路に注意",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 04:35:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000034654_1_l.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -17,6 +9,14 @@
       "source": "NHK",
       "time": "Thu, 24 Sep 2026 05:47:53 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52050/20260923de52050_E0000034600_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風26号が発生 沖縄の南の海上へ進む可能性 今後の進路に注意",
+      "source": "NHK",
+      "time": "Thu, 24 Sep 2026 07:12:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000034664_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新宿駅前のビルに入る焼き肉店で火災 男女4人搬送",
+      "text": "シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 02:42:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52054/20260923de52054_E0000034603_1_l.jpg"
+      "time": "Thu, 24 Sep 2026 05:56:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52064/20260923de52064_E0000034619_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中国 習近平主席がアメリカに到着 米中首脳会談へ",
+      "source": "NHK",
+      "time": "Thu, 24 Sep 2026 07:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52079/20260924de52079_E0000034653_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "飯塚事件 「DNA型不一致の新証拠」 3回目の再審請求へ",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 05:45:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52068/20260923de52068_E0000034634_1_l.jpg"
+      "time": "Thu, 24 Sep 2026 05:45:42 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風25号 10人死亡4人不明 北印旛沼周辺で浸水被害 復旧急ぐ",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 04:50:43 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "シールで落とし物を返却 新たな仕組み開発 警視庁などと連携へ",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 05:56:04 +0900"
+      "time": "Thu, 24 Sep 2026 07:48:46 +0900"
     }
   ]
 }
