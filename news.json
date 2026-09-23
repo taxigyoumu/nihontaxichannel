@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-09-23 16:18",
+  "updated_at": "2026-09-23 21:53",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "新宿駅前のビルで火災か 数人が体調不良訴え",
+      "source": "NHK",
+      "time": "Wed, 23 Sep 2026 21:20:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52054/20260923de52054_E0000034603_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風25号 千葉と神奈川で10人死亡 4人行方不明 住宅被害相次ぐ",
+      "source": "NHK",
+      "time": "Wed, 23 Sep 2026 19:25:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "中国の習近平国家主席がアメリカへ出発　米中首脳会談へ",
+      "source": "NHK",
+      "time": "Wed, 23 Sep 2026 18:55:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51963/20260923de51963_E0000034559_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "山形 海岸で子どもとみられる遺体 不明6歳男児の可能性 警察",
+      "source": "NHK",
+      "time": "Wed, 23 Sep 2026 19:20:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52028/20260923de52028_E0000034540_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "TOPIX銘柄選定ルール見直し 企業価値高める動き広がるか",
+      "source": "NHK",
+      "time": "Wed, 23 Sep 2026 17:27:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "高市首相 記者会見“日米同盟関係さらに揺るぎのないものに”",
       "source": "NHK",
-      "time": "Wed, 23 Sep 2026 14:59:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51965/20260923de51965_E0000034452_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風25号 千葉と神奈川で9人死亡 4人行方不明 住宅被害相次ぐ",
-      "source": "NHK",
-      "time": "Wed, 23 Sep 2026 15:17:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260922de51926/20260922de51926_E0000034370_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米とイラン代表が協議 事態の打開につながるかが焦点",
-      "source": "NHK",
-      "time": "Wed, 23 Sep 2026 12:28:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51933/20260923de51933_E0000034425_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高市首相 “法の支配に基づく国際秩序に貢献”国連総会演説",
-      "source": "NHK",
-      "time": "Wed, 23 Sep 2026 11:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de51969/20260923de51969_E0000034428_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋の連休最終日 交通機関は混雑",
-      "source": "NHK",
-      "time": "Wed, 23 Sep 2026 12:32:53 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホワイトソックス村上宗隆 4試合ぶり33号本塁打 チームは3連勝",
-      "source": "NHK",
-      "time": "Wed, 23 Sep 2026 13:53:02 +0900"
+      "time": "Wed, 23 Sep 2026 14:59:35 +0900"
     }
   ]
 }
