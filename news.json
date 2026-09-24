@@ -1,46 +1,53 @@
 {
-  "updated_at": "2026-09-25 03:22",
+  "updated_at": "2026-09-25 06:40",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【随時更新】米中首脳会談 終わる 台湾やAIについての議論は",
+      "text": "米中首脳会談終了 習主席「アメリカは『台湾独立』に反対を」",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 03:20:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52268/20260924de52268_E0000035300_1_l.jpg"
+      "time": "Fri, 25 Sep 2026 06:32:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52268/20260924de52268_E0000035305_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "世界が注目 まもなく米中首脳会談 双方の思惑や狙いは",
+      "text": "ICC脱退をナウルが表明　米国による圧力で同調広がるか焦点",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 22:10:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52232/20260924de52232_E0000035260_1_l.jpg"
+      "time": "Fri, 25 Sep 2026 05:21:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52277/20260925de52277_E0000035307_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号 沖縄の南の海上へ進む可能性 最新の情報確認を",
+      "text": "台風26号 あす以降沖縄の南を北上見込み 今後の情報に注意を",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 00:17:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000035291_1_l.jpg"
+      "time": "Fri, 25 Sep 2026 06:21:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52272/20260925de52272_E0000035302_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ペット避妊手術後に後遺症 動物病院と解決金300万円で和解",
+      "text": "災害時の支援物資管理など デジタル技術活用の動き",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 19:30:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52216/20260924de52216_E0000035074_1_l.jpg"
+      "time": "Fri, 25 Sep 2026 05:27:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52275/20260925de52275_E0000035298_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ふるさと納税「越前がに」で不正表示 福井県越前町に措置命令",
+      "text": "ポーランドの「スターリンク」関連施設で火災 ロシア関与か",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 20:39:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52245/20260924de52245_E0000035242_1_l.jpg"
+      "time": "Fri, 25 Sep 2026 05:44:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52282/20260925de52282_E0000035309_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "円相場1ドル＝159円台に下落 米30年債利回り22年ぶり高水準",
+      "source": "NHK",
+      "time": "Fri, 25 Sep 2026 05:55:07 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "競泳 17歳の大橋信選手 世界新で金 アジア大会 男子200m平泳ぎ",
       "source": "NHK",
       "time": "Thu, 24 Sep 2026 23:38:52 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アジア大会卓球男子団体 日本が中国破り60年ぶり金メダル",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 22:53:49 +0900"
     }
   ]
 }
