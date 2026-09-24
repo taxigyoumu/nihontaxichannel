@@ -1,52 +1,30 @@
 {
-  "updated_at": "2026-09-24 22:59",
-  "has_alert": true,
+  "updated_at": "2026-09-25 03:22",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日２２時４６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-24T13:48:39Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日２２時３８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-24T13:41:06Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【随時更新】米中首脳会談 終わる 台湾やAIについての議論は",
+      "source": "NHK",
+      "time": "Fri, 25 Sep 2026 03:20:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52268/20260924de52268_E0000035300_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 千葉と神奈川で11人死亡3人不明 北印旛沼で堤防決壊",
+      "text": "世界が注目 まもなく米中首脳会談 双方の思惑や狙いは",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 20:03:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52072/20260923de52072_E0000034809_1_l.jpg"
+      "time": "Thu, 24 Sep 2026 22:10:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52232/20260924de52232_E0000035260_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アジア大会卓球男子団体 日本が中国破り60年ぶり金メダル",
+      "text": "台風26号 沖縄の南の海上へ進む可能性 最新の情報確認を",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 22:53:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52255/20260924de52255_E0000035250_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカー日本代表 W杯後初戦でウルグアイに勝利 若手が活躍",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 22:49:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52230/20260924de52230_E0000035274_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トクリュウのスマホ遠隔解析 有識者「早急な導入が必要」",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 19:23:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52184/20260924de52184_E0000035119_1_l.jpg"
+      "time": "Fri, 25 Sep 2026 00:17:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000035291_1_l.jpg"
     },
     {
       "category": "news",
@@ -59,16 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR貨物汚職事件 贈賄側会社役員はJR貨物OB 収賄側社員の知人か",
+      "text": "ふるさと納税「越前がに」で不正表示 福井県越前町に措置命令",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 20:59:00 +0900"
+      "time": "Thu, 24 Sep 2026 20:39:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52245/20260924de52245_E0000035242_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ふるさと納税「越前がに」で不正表示 福井県越前町に措置命令",
+      "text": "競泳 17歳の大橋信選手 世界新で金 アジア大会 男子200m平泳ぎ",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 20:39:15 +0900"
+      "time": "Thu, 24 Sep 2026 23:38:52 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アジア大会卓球男子団体 日本が中国破り60年ぶり金メダル",
+      "source": "NHK",
+      "time": "Thu, 24 Sep 2026 22:53:49 +0900"
     }
   ]
 }
