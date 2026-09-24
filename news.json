@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-09-24 12:02",
-  "has_alert": false,
+  "updated_at": "2026-09-24 17:38",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日１７時２７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-24T08:30:16Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【上空ライブ】台風被害 10人死亡4人不明 北印旛沼周辺で浸水",
+      "text": "台風25号 千葉と神奈川で10人死亡4人不明 北印旛沼で堤防決壊",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 11:44:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52072/20260923de52072_E0000034638_1_l.jpg"
+      "time": "Thu, 24 Sep 2026 14:54:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52072/20260923de52072_E0000034810_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "JCOM インターネット接続障害で最大約408万世帯に影響を確認",
+      "source": "NHK",
+      "time": "Thu, 24 Sep 2026 17:26:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52196/20260924de52196_E0000034989_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米連邦地裁 メディアのホワイトハウス立ち入り禁止解除 命じる",
+      "source": "NHK",
+      "time": "Thu, 24 Sep 2026 15:53:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52168/20260924de52168_E0000003523_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風25号 千葉 印旛沼付近 水につかった太陽光発電施設で火事",
+      "source": "NHK",
+      "time": "Thu, 24 Sep 2026 14:30:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52122/20260924de52122_E0000034738_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風25号 千葉県内残る爪痕 印旛沼で堤防決壊 各地で土砂崩れ",
+      "source": "NHK",
+      "time": "Thu, 24 Sep 2026 16:23:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52115/20260924de52115_E0000034719_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風26号発生 沖縄の南の海上へ進む可能性 今後の情報に注意",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 11:32:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52066/20260923de52066_E0000034697_1_l.jpg"
+      "time": "Thu, 24 Sep 2026 14:42:30 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ジャングリア沖縄 親会社が173億円余の赤字",
+      "text": "ドジャース 大谷翔平 復帰戦初打席ヒット 山本は15勝目ならず",
       "source": "NHK",
-      "time": "Thu, 24 Sep 2026 05:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260923de52050/20260923de52050_E0000034600_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "8月の中古マンション価格 東京都が2年4か月ぶり下落",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 10:35:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52110/20260924de52110_E0000034700_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "国連安保理 AI制御不能リスクで企業トップが国際連携訴え",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 11:42:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52118/20260924de52118_E0000034728_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日フィジー外相 来夏の「太平洋・島サミット」成功へ緊密連携",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 10:09:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "長期金利 3.055％まで上昇 1996年9月以来の高水準",
-      "source": "NHK",
-      "time": "Thu, 24 Sep 2026 09:49:27 +0900"
+      "time": "Thu, 24 Sep 2026 16:19:14 +0900"
     }
   ]
 }
