@@ -1,60 +1,53 @@
 {
-  "updated_at": "2026-09-25 19:23",
-  "has_alert": true,
+  "updated_at": "2026-09-26 00:24",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２５日１７時０４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-25T08:08:16Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風26号 沖縄に近づく見込み 沖縄では27日大しけに　高波警戒",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 19:14:01 +0900",
+      "time": "Fri, 25 Sep 2026 20:06:42 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52272/20260925de52272_E0000035853_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "群馬 太田 女性死亡事件 逃走の男は娘の元夫か",
+      "source": "NHK",
+      "time": "Fri, 25 Sep 2026 23:32:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52508/20260925de52508_E0000035618_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "片山財務相がベッセント長官と電話会談 日米協力強化を確認",
+      "source": "NHK",
+      "time": "Fri, 25 Sep 2026 23:51:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52509/20260925de52509_E0000036001_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "世界が注目した米中首脳会談　日本や世界への影響は",
+      "source": "NHK",
+      "time": "Fri, 25 Sep 2026 22:18:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52482/20260925de52482_E0000035961_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "18歳未満の選挙運動禁止規定は憲法違反の初判断 東京地裁",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 19:10:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52402/20260925de52402_E0000035745_1_l.jpg"
+      "time": "Fri, 25 Sep 2026 19:10:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52402/20260925de52402_E0000035877_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「timelesz」の猪俣周杜メンバーを釈放 傷害の疑いで逮捕",
+      "text": "印旛沼 浸水範囲は浸水想定区域と重なる ハザードマップ確認を",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 16:50:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52413/20260925de52413_E0000035691_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米大統領主催の晩さん会で習主席「日本の軍国主義と戦った」",
-      "source": "NHK",
-      "time": "Fri, 25 Sep 2026 18:56:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260924de52268/20260924de52268_E0000035445_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "円相場 一時1ドル＝157円台まで値上がり",
-      "source": "NHK",
-      "time": "Fri, 25 Sep 2026 19:07:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52455/20260925de52455_E0000035805_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "JR東海 東海道新幹線 災害時の臨時列車でも指定席予約可能に",
-      "source": "NHK",
-      "time": "Fri, 25 Sep 2026 19:15:00 +0900"
+      "time": "Fri, 25 Sep 2026 21:37:13 +0900"
     },
     {
       "category": "news",
