@@ -1,53 +1,60 @@
 {
-  "updated_at": "2026-09-26 04:24",
+  "updated_at": "2026-09-26 07:37",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２６日０４時１４分ころ、地震がありました。",
+      "text": "【遠地地震に関する情報】２６日０６時２３分ころ、海外で規模の大きな地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-25T19:18:03Z"
+      "time": "2026-09-25T21:48:40Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号 沖縄に近づく見込み 沖縄では27日大しけに　高波警戒",
+      "text": "台風26号 沖縄であす非常に強い風 関東中心に土砂災害に注意を",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 20:06:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52272/20260925de52272_E0000035853_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 07:01:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52529/20260926de52529_E0000036027_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "円相場1ドル＝156円台に値上がり 介入警戒強まる",
+      "text": "習主席 訪米終え帰国へ 年内にあと2回会談の意向示す",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 00:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52516/20260926de52516_E0000036008_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 06:35:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52523/20260926de52523_E0000036024_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "片山財務相がベッセント長官と電話会談 日米協力強化を確認",
+      "text": "群馬 太田 女性死亡事件 逃走した長女の元夫を公開手配",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 23:51:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52509/20260925de52509_E0000036001_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 05:47:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52508/20260925de52508_E0000035618_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "世界が注目した米中首脳会談　日本や世界への影響は",
+      "text": "臨時国会 10月5日召集へ 消費税焦点 国会改革も論点に",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 22:18:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52482/20260925de52482_E0000035961_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 05:30:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52518/20260926de52518_E0000036006_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "18歳未満の選挙運動禁止規定は憲法違反の初判断 東京地裁",
+      "text": "政府 食料品の消費税減税の準備を支援へ 予備費支出も",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 19:10:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52402/20260925de52402_E0000035877_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 05:39:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52513/20260925de52513_E0000036005_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米中首脳会談の内容説明を 日米首脳電話会談も 日本政府",
+      "source": "NHK",
+      "time": "Sat, 26 Sep 2026 05:33:22 +0900"
     },
     {
       "category": "news",
@@ -55,13 +62,6 @@
       "text": "印旛沼 浸水範囲は浸水想定区域と重なる ハザードマップ確認を",
       "source": "NHK",
       "time": "Fri, 25 Sep 2026 21:37:13 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【動画】北印旛沼が決壊し孤立していた子猫 警察官が救助",
-      "source": "NHK",
-      "time": "Fri, 25 Sep 2026 18:45:14 +0900"
     }
   ]
 }
