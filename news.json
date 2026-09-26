@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-26 07:37",
-  "has_alert": true,
+  "updated_at": "2026-09-26 10:09",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【遠地地震に関する情報】２６日０６時２３分ころ、海外で規模の大きな地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-25T21:48:40Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -36,32 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "臨時国会 10月5日召集へ 消費税焦点 国会改革も論点に",
+      "text": "ネパール土石流発生から1か月 生活再建踏み出せず",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 05:30:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52518/20260926de52518_E0000036006_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 05:57:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52515/20260926de52515_E0000036019_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府 食料品の消費税減税の準備を支援へ 予備費支出も",
+      "text": "ゼレンスキー大統領 米が3か国協議を提案と明らかに",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 05:39:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260925de52513/20260925de52513_E0000036005_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 08:29:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52520/20260926de52520_E0000036020_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米中首脳会談の内容説明を 日米首脳電話会談も 日本政府",
+      "text": "ローマ教皇 AIが日常を侵食と警告 フランス訪問で",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 05:33:22 +0900"
+      "time": "Sat, 26 Sep 2026 08:52:13 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "印旛沼 浸水範囲は浸水想定区域と重なる ハザードマップ確認を",
+      "text": "米制裁でイラン航空会社の発着便停止が近隣諸国で拡大",
       "source": "NHK",
-      "time": "Fri, 25 Sep 2026 21:37:13 +0900"
+      "time": "Sat, 26 Sep 2026 08:32:40 +0900"
     }
   ]
 }
