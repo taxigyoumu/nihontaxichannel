@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-09-27 00:43",
-  "has_alert": true,
+  "updated_at": "2026-09-27 03:58",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日２３時５４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-26T14:57:34Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -24,6 +17,14 @@
       "source": "NHK",
       "time": "Sat, 26 Sep 2026 22:50:21 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52606/20260926de52606_E0000036250_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "パラ陸上メダリスト 上与那原寛和選手が死去 練習中に交通事故",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 01:30:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52631/20260927de52631_E0000036329_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "アジア大会 陸上女子1500m 田中希実が銅 今大会2つ目のメダル",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 01:01:10 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "群馬女性殺害 元夫「母親 長男殺し自分も死ぬ」長女が警察相談",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 19:32:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52601/20260926de52601_E0000036239_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アジア大会サッカー男子 日本は北朝鮮に競り勝ち準決勝へ",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 23:12:37 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "プロ野球 セ首位の阪神がDeNAに勝利 優勝へのマジック「4」に",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 23:53:00 +0900"
+      "time": "Sat, 26 Sep 2026 19:32:00 +0900"
     }
   ]
 }
