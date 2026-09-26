@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-26 15:22",
+  "updated_at": "2026-09-26 20:39",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号 沖縄に接近へ 関東など前線で雨 土砂災害に十分注意",
+      "text": "台風26号 沖縄に接近へ 来週も東～西日本は雨降りやすい見込み",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 11:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52529/20260926de52529_E0000036046_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 19:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52529/20260926de52529_E0000036247_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "名古屋市 栄のテレビ塔 展望台付近で火事 けが人の情報なし",
+      "text": "米中首脳会談 合意点は？AIはSIに変更 台湾言及なし",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 13:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52560/20260926de52560_E0000036082_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 19:42:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52588/20260926de52588_E0000036179_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "群馬女性殺害 元夫「母親 長男殺し自分も死ぬ」長女が警察相談",
+      "source": "NHK",
+      "time": "Sat, 26 Sep 2026 19:32:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52601/20260926de52601_E0000036239_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "プロ野球 広島“矢野選手と前川選手が書類送検”薬物事件巡り",
+      "source": "NHK",
+      "time": "Sat, 26 Sep 2026 20:01:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52604/20260926de52604_E0000036208_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アジア大会 eスポーツ 11歳の栗原選手 史上最年少金メダル",
+      "source": "NHK",
+      "time": "Sat, 26 Sep 2026 19:34:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52602/20260926de52602_E0000036241_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "三重 県立高校野球部のマイクロバスが事故 生徒6人けが",
+      "source": "NHK",
+      "time": "Sat, 26 Sep 2026 17:42:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "岐阜 自宅マンション6階から娘2人投げ落とした疑いで父親逮捕",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 15:19:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52546/20260926de52546_E0000036142_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "群馬 太田 女性殺害事件 長女が事件前 元夫のDVを警察に相談",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 13:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52557/20260926de52557_E0000036076_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京拘置所で矯正展 EXILEメンバーらが一日所長",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 13:51:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52564/20260926de52564_E0000036098_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "開発中のAIモデルがまた“逸脱行動” 53件の画像流出も",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 13:37:51 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホワイトソックス村上宗隆 1試合2HR 今季日本選手の単独トップ",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 15:07:00 +0900"
+      "time": "Sat, 26 Sep 2026 15:19:00 +0900"
     }
   ]
 }
