@@ -1,21 +1,44 @@
 {
-  "updated_at": "2026-09-26 20:39",
-  "has_alert": false,
+  "updated_at": "2026-09-27 00:43",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日２３時５４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-09-26T14:57:34Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風26号 沖縄に接近へ 来週も東～西日本は雨降りやすい見込み",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 19:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52529/20260926de52529_E0000036247_1_l.jpg"
+      "time": "Sun, 27 Sep 2026 00:18:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52529/20260926de52529_E0000036317_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "高市首相 米大統領 電話会談“米中首脳会談の内容説明受ける”",
+      "source": "NHK",
+      "time": "Sat, 26 Sep 2026 22:50:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52606/20260926de52606_E0000036250_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "タイで大雨続き首都バンコクでも浸水被害広がる",
+      "source": "NHK",
+      "time": "Sat, 26 Sep 2026 22:25:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52623/20260926de52623_E0000036295_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "米中首脳会談 合意点は？AIはSIに変更 台湾言及なし",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 19:42:00 +0900",
+      "time": "Sat, 26 Sep 2026 22:52:04 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52588/20260926de52588_E0000036179_1_l.jpg"
     },
     {
@@ -29,32 +52,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プロ野球 広島“矢野選手と前川選手が書類送検”薬物事件巡り",
+      "text": "アジア大会サッカー男子 日本は北朝鮮に競り勝ち準決勝へ",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 20:01:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52604/20260926de52604_E0000036208_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 23:12:37 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アジア大会 eスポーツ 11歳の栗原選手 史上最年少金メダル",
+      "text": "プロ野球 セ首位の阪神がDeNAに勝利 優勝へのマジック「4」に",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 19:34:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52602/20260926de52602_E0000036241_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "三重 県立高校野球部のマイクロバスが事故 生徒6人けが",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 17:42:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "岐阜 自宅マンション6階から娘2人投げ落とした疑いで父親逮捕",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 15:19:00 +0900"
+      "time": "Sat, 26 Sep 2026 23:53:00 +0900"
     }
   ]
 }
