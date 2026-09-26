@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-27 03:58",
+  "updated_at": "2026-09-27 06:55",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号 沖縄に接近へ 来週も東～西日本は雨降りやすい見込み",
+      "text": "前線停滞で九州北部大雨に 土砂災害など厳重警戒を 台風26号も",
       "source": "NHK",
-      "time": "Sun, 27 Sep 2026 00:18:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52529/20260926de52529_E0000036317_1_l.jpg"
+      "time": "Sun, 27 Sep 2026 06:29:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52641/20260927de52641_E0000036369_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米中合意文書 台湾言及なく 米大統領「習氏は私の考え理解」",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 05:10:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52637/20260927de52637_E0000036350_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本・佐賀・長崎に「線状降水帯直前予測」",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 06:10:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52644/20260927de52644_E0000036374_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福岡県筑後地方に「線状降水帯直前予測」",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 05:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52642/20260927de52642_E0000036370_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "長崎 大村市付近 記録的短時間大雨 災害の危険迫る",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 06:03:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52643/20260927de52643_E0000036373_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高市首相 米大統領 電話会談“米中首脳会談の内容説明受ける”",
       "source": "NHK",
-      "time": "Sat, 26 Sep 2026 22:50:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52606/20260926de52606_E0000036250_1_l.jpg"
+      "time": "Sat, 26 Sep 2026 22:50:21 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "パラ陸上メダリスト 上与那原寛和選手が死去 練習中に交通事故",
       "source": "NHK",
-      "time": "Sun, 27 Sep 2026 01:30:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52631/20260927de52631_E0000036329_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "タイで大雨続き首都バンコクでも浸水被害広がる",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 22:25:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52623/20260926de52623_E0000036295_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米中首脳会談 合意点は？AIはSIに変更 台湾言及なし",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 22:52:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52588/20260926de52588_E0000036179_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アジア大会 陸上女子1500m 田中希実が銅 今大会2つ目のメダル",
-      "source": "NHK",
-      "time": "Sun, 27 Sep 2026 01:01:10 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "群馬女性殺害 元夫「母親 長男殺し自分も死ぬ」長女が警察相談",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 19:32:00 +0900"
+      "time": "Sun, 27 Sep 2026 01:30:12 +0900"
     }
   ]
 }
