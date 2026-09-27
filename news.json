@@ -1,38 +1,14 @@
 {
-  "updated_at": "2026-09-27 20:21",
+  "updated_at": "2026-09-28 00:44",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "前線停滞で九州北部大雨に あすは広く大気不安定 台風26号も",
+      "text": "前線停滞 九州北部で記録的大雨も 台風26号 沖縄・奄美接近へ",
       "source": "NHK",
-      "time": "Sun, 27 Sep 2026 19:25:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52641/20260927de52641_E0000036521_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大相撲秋場所 横綱大の里 6回目の優勝 安青錦との直接対決制す",
-      "source": "NHK",
-      "time": "Sun, 27 Sep 2026 18:43:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52703/20260927de52703_E0000036500_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "群馬女性殺害事件 長女の元夫逮捕 高崎市内のパチンコ店で確保",
-      "source": "NHK",
-      "time": "Sun, 27 Sep 2026 19:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52686/20260927de52686_E0000036470_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アジア大会 コンテナハウス公開 不満の声受け改善点説明",
-      "source": "NHK",
-      "time": "Sun, 27 Sep 2026 19:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52693/20260927de52693_E0000036485_1_l.jpg"
+      "time": "Sun, 27 Sep 2026 22:57:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52641/20260927de52641_E0000036612_1_l.jpg"
     },
     {
       "category": "news",
@@ -45,16 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京メトロ 不正アクセスでメールアドレス 約5万9000件流出か",
+      "text": "ボクシング世界戦 井上拓真が那須川天心に再び勝ち2回目の防衛",
       "source": "NHK",
-      "time": "Sun, 27 Sep 2026 15:48:00 +0900"
+      "time": "Mon, 28 Sep 2026 00:13:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52747/20260927de52747_E0000036620_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ゼレンスキー大統領“ジェット無人機の迎撃率55％”と危機感",
+      "text": "\"見えない避難者\"約2000世帯 熊本地震2か月 八代市調査で判明",
       "source": "NHK",
-      "time": "Sun, 27 Sep 2026 18:26:48 +0900"
+      "time": "Mon, 28 Sep 2026 00:03:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52715/20260927de52715_E0000036546_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本地震2か月 避難生活が長期化 住まいの確保が課題に",
+      "source": "NHK",
+      "time": "Mon, 28 Sep 2026 00:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52689/20260927de52689_E0000036542_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "群馬女性殺害事件 長女の元夫逮捕 高崎市内のパチンコ店で確保",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 21:40:04 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "南アフリカ 銃撃事件相次ぎ27人死亡 武装集団が酒場などで発砲",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 22:07:30 +0900"
     }
   ]
 }
