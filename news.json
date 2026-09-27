@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-09-28 04:30",
+  "updated_at": "2026-09-28 07:47",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２８日０１時５９分ころ、地震がありました。",
+      "text": "【震源・震度情報】２８日０６時２９分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-09-27T17:01:44Z"
+      "time": "2026-09-27T21:31:32Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "前線停滞 九州北部で記録的大雨も 台風26号 沖縄・奄美接近へ",
+      "text": "台風26号 沖縄・奄美に接近 北～西日本では非常に激しい雨も",
       "source": "NHK",
-      "time": "Sun, 27 Sep 2026 22:57:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52641/20260927de52641_E0000036612_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 07:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52761/20260928de52761_E0000036645_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号 土砂崩れのアパートで遺体発見 住人女性か 神奈川",
+      "text": "米軍使用のイギリス空軍基地近くでテロ準備などの疑い 5人逮捕",
       "source": "NHK",
-      "time": "Sun, 27 Sep 2026 16:27:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52700/20260927de52700_E0000036480_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 06:20:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52760/20260928de52760_E0000036638_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ボクシング世界戦 井上拓真が那須川天心に再び勝ち2回目の防衛",
+      "text": "技能五輪 日本は金2個含むメダル10個獲得 2年後は愛知県で開催",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 00:13:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52747/20260927de52747_E0000036620_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 06:26:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52753/20260928de52753_E0000036629_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "群馬女性殺害事件 逮捕の元夫 逃走中に服を着替え靴履いたか",
+      "source": "NHK",
+      "time": "Mon, 28 Sep 2026 05:31:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52752/20260928de52752_E0000036621_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風25号の記録的大雨から1週間 千葉と神奈川で13人が死亡",
+      "source": "NHK",
+      "time": "Mon, 28 Sep 2026 05:46:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52757/20260928de52757_E0000036637_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "\"見えない避難者\"約2000世帯 熊本地震2か月 八代市調査で判明",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 00:03:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52715/20260927de52715_E0000036546_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 00:03:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "熊本地震2か月 避難生活が長期化 住まいの確保が課題に",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 00:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52689/20260927de52689_E0000036542_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "群馬女性殺害事件 長女の元夫逮捕 高崎市内のパチンコ店で確保",
-      "source": "NHK",
-      "time": "Sun, 27 Sep 2026 21:40:04 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "南アフリカ 銃撃事件相次ぎ27人死亡 武装集団が酒場などで発砲",
-      "source": "NHK",
-      "time": "Sun, 27 Sep 2026 22:07:30 +0900"
+      "time": "Mon, 28 Sep 2026 00:01:00 +0900"
     }
   ]
 }
