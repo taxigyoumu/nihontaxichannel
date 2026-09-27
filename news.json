@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-09-27 06:55",
+  "updated_at": "2026-09-27 09:11",
   "has_alert": false,
   "items": [
     {
@@ -7,8 +7,32 @@
       "label": "ニュース",
       "text": "前線停滞で九州北部大雨に 土砂災害など厳重警戒を 台風26号も",
       "source": "NHK",
-      "time": "Sun, 27 Sep 2026 06:29:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52641/20260927de52641_E0000036369_1_l.jpg"
+      "time": "Sun, 27 Sep 2026 08:26:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52641/20260927de52641_E0000036383_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【気象予報士解説】九州北部に線状降水帯のおそれ 台風26号は",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 08:13:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52650/20260927de52650_E0000036386_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本市全域に避難指示 31万5456世帯 74万822人",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 07:55:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52652/20260927de52652_E0000004037_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "群馬女性殺害事件 DVめぐり警察が元夫に事件前に2回口頭指導",
+      "source": "NHK",
+      "time": "Sun, 27 Sep 2026 08:16:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52651/20260927de52651_E0000036391_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,33 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本・佐賀・長崎に「線状降水帯直前予測」",
+      "text": "トランプ大統領 イラン側の提案“受け入れられない”と拒否",
       "source": "NHK",
-      "time": "Sun, 27 Sep 2026 06:10:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52644/20260927de52644_E0000036374_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡県筑後地方に「線状降水帯直前予測」",
-      "source": "NHK",
-      "time": "Sun, 27 Sep 2026 05:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52642/20260927de52642_E0000036370_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "長崎 大村市付近 記録的短時間大雨 災害の危険迫る",
-      "source": "NHK",
-      "time": "Sun, 27 Sep 2026 06:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260927de52643/20260927de52643_E0000036373_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高市首相 米大統領 電話会談“米中首脳会談の内容説明受ける”",
-      "source": "NHK",
-      "time": "Sat, 26 Sep 2026 22:50:21 +0900"
+      "time": "Sun, 27 Sep 2026 06:19:16 +0900"
     },
     {
       "category": "news",
