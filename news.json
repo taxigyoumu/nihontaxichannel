@@ -1,7 +1,60 @@
 {
-  "updated_at": "2026-09-29 00:44",
-  "has_alert": false,
+  "updated_at": "2026-09-29 06:33",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-28T20:25:48Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-28T20:25:48Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】美濃地方では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-28T20:25:47Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風26号 日本の南の海上を北東へ 最新の気象情報確認を",
+      "source": "NHK",
+      "time": "Tue, 29 Sep 2026 05:21:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000037387_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「20年前から」証言も マンション修繕工事談合",
+      "source": "NHK",
+      "time": "Tue, 29 Sep 2026 05:48:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52960/20260929de52960_E0000037380_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】茨城県と埼玉県で震度4 津波の心配なし",
+      "source": "NHK",
+      "time": "Tue, 29 Sep 2026 04:49:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52551/20260926de52551_E0000037383_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ニデック30日決算発表 巨額損失計上へ　岸田社長など交代検討",
+      "source": "NHK",
+      "time": "Tue, 29 Sep 2026 06:23:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52956/20260928de52956_E0000037361_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +66,16 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "内戦状態のミャンマー 軍空爆で市民ら33人死亡か",
+      "source": "NHK",
+      "time": "Tue, 29 Sep 2026 05:59:26 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "福岡県議会 海外活動は原則エコノミーに 基準案まとめる",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 22:29:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52942/20260928de52942_E0000037336_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風26号 進路や前線への影響に注意 広く大気不安定で激しい雨",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 20:21:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52761/20260928de52761_E0000037246_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「北の国から」脚本家の倉本聰さん死去 91歳",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 19:05:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52785/20260928de52785_E0000037058_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "作家原田マハさん初監督「無用の人」がスペインの映画祭で受賞",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 21:14:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52929/20260928de52929_E0000037298_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "九州ふっこう応援割の予約影響か 長崎県で一時電話つながらず",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 21:18:17 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米前国務副長官“中国は日米の結束弱めるねらい”",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 21:10:50 +0900"
+      "time": "Mon, 28 Sep 2026 22:29:36 +0900"
     }
   ]
 }
