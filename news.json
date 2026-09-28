@@ -1,13 +1,14 @@
 {
-  "updated_at": "2026-09-28 07:47",
-  "has_alert": true,
+  "updated_at": "2026-09-28 10:22",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２８日０６時２９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-09-27T21:31:32Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "「北の国から」脚本家の倉本聰さん死去 91歳",
+      "source": "NHK",
+      "time": "Mon, 28 Sep 2026 10:15:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52785/20260928de52785_E0000036680_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,17 +37,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "群馬女性殺害事件 逮捕の元夫 逃走中に服を着替え靴履いたか",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 05:31:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52752/20260928de52752_E0000036621_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "台風25号の記録的大雨から1週間 千葉と神奈川で13人が死亡",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 05:46:44 +0900",
+      "time": "Mon, 28 Sep 2026 05:46:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52757/20260928de52757_E0000036637_1_l.jpg"
     },
     {
