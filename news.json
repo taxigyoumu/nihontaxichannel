@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-28 16:17",
+  "updated_at": "2026-09-29 00:44",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号 大東島地方暴風など警戒 広く大気不安定で激しい雨",
+      "text": "衆院議員定数あり方など\"10月末に結論得るよう努力\" 与野党",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 14:07:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52761/20260928de52761_E0000036788_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 22:28:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52948/20260928de52948_E0000037327_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福岡県議会 海外活動は原則エコノミーに 基準案まとめる",
+      "source": "NHK",
+      "time": "Mon, 28 Sep 2026 22:29:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52942/20260928de52942_E0000037336_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風26号 進路や前線への影響に注意 広く大気不安定で激しい雨",
+      "source": "NHK",
+      "time": "Mon, 28 Sep 2026 20:21:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52761/20260928de52761_E0000037246_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "「北の国から」脚本家の倉本聰さん死去 91歳",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 13:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52785/20260928de52785_E0000036680_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 19:05:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52785/20260928de52785_E0000037058_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "群馬女性殺害 逮捕の長女元夫が女性殺害への関与ほのめかす",
+      "text": "作家原田マハさん初監督「無用の人」がスペインの映画祭で受賞",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 16:10:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52874/20260928de52874_E0000037030_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 21:14:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52929/20260928de52929_E0000037298_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京23区 単身者向け賃貸マンション平均家賃 8月は過去最高に",
+      "text": "九州ふっこう応援割の予約影響か 長崎県で一時電話つながらず",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 15:55:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52847/20260928de52847_E0000036985_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 21:18:17 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "札幌 病院の薬局公募めぐる入札妨害事件 元取締役の有罪確定へ",
+      "text": "米前国務副長官“中国は日米の結束弱めるねらい”",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 15:51:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52863/20260928de52863_E0000036984_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "不正会計など不適切行為相次ぐ「ニデック」 社長ら交代検討",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 13:17:53 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風25号の記録的大雨から1週間 千葉と神奈川で13人が死亡",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 16:01:27 +0900"
+      "time": "Mon, 28 Sep 2026 21:10:50 +0900"
     }
   ]
 }
