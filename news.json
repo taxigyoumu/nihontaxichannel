@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-28 10:22",
+  "updated_at": "2026-09-28 16:17",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "台風26号 大東島地方暴風など警戒 広く大気不安定で激しい雨",
+      "source": "NHK",
+      "time": "Mon, 28 Sep 2026 14:07:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52761/20260928de52761_E0000036788_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "「北の国から」脚本家の倉本聰さん死去 91歳",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 10:15:00 +0900",
+      "time": "Mon, 28 Sep 2026 13:14:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52785/20260928de52785_E0000036680_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号 沖縄・奄美に接近 北～西日本では非常に激しい雨も",
+      "text": "群馬女性殺害 逮捕の長女元夫が女性殺害への関与ほのめかす",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 07:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52761/20260928de52761_E0000036645_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 16:10:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52874/20260928de52874_E0000037030_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米軍使用のイギリス空軍基地近くでテロ準備などの疑い 5人逮捕",
+      "text": "東京23区 単身者向け賃貸マンション平均家賃 8月は過去最高に",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 06:20:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52760/20260928de52760_E0000036638_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 15:55:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52847/20260928de52847_E0000036985_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "技能五輪 日本は金2個含むメダル10個獲得 2年後は愛知県で開催",
+      "text": "札幌 病院の薬局公募めぐる入札妨害事件 元取締役の有罪確定へ",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 06:26:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52753/20260928de52753_E0000036629_1_l.jpg"
+      "time": "Mon, 28 Sep 2026 15:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52863/20260928de52863_E0000036984_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "不正会計など不適切行為相次ぐ「ニデック」 社長ら交代検討",
+      "source": "NHK",
+      "time": "Mon, 28 Sep 2026 13:17:53 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風25号の記録的大雨から1週間 千葉と神奈川で13人が死亡",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 05:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52757/20260928de52757_E0000036637_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "\"見えない避難者\"約2000世帯 熊本地震2か月 八代市調査で判明",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 00:03:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震2か月 避難生活が長期化 住まいの確保が課題に",
-      "source": "NHK",
-      "time": "Mon, 28 Sep 2026 00:01:00 +0900"
+      "time": "Mon, 28 Sep 2026 16:01:27 +0900"
     }
   ]
 }
