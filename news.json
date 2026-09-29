@@ -1,35 +1,14 @@
 {
-  "updated_at": "2026-09-29 06:33",
-  "has_alert": true,
+  "updated_at": "2026-09-29 10:27",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-28T20:25:48Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-28T20:25:48Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県土砂災害警報・注意報】美濃地方では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-28T20:25:47Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風26号 日本の南の海上を北東へ 最新の気象情報確認を",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 05:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000037387_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 09:45:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000037451_1_l.jpg"
     },
     {
       "category": "news",
@@ -42,40 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】茨城県と埼玉県で震度4 津波の心配なし",
+      "text": "核のごみ文献調査 茨城 常陸大宮市長が赤澤大臣と面会し判断へ",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 04:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260926de52551/20260926de52551_E0000037383_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 06:40:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52954/20260928de52954_E0000037359_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ニデック30日決算発表 巨額損失計上へ　岸田社長など交代検討",
+      "text": "北朝鮮外務次官 国連演説で“わが国は核保有国だ”と主張",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 06:23:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52956/20260928de52956_E0000037361_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 08:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52988/20260929de52988_E0000037403_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "衆院議員定数あり方など\"10月末に結論得るよう努力\" 与野党",
+      "text": "千葉市中央区でトラックと乗用車が衝突 乗用車の3人死亡",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 22:28:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52948/20260928de52948_E0000037327_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 07:19:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52982/20260929de52982_E0000037398_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "内戦状態のミャンマー 軍空爆で市民ら33人死亡か",
+      "text": "ニデック30日決算発表 巨額損失計上へ 岸田社長など交代検討",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 05:59:26 +0900"
+      "time": "Tue, 29 Sep 2026 06:23:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 海外活動は原則エコノミーに 基準案まとめる",
+      "text": "スペースX大型宇宙船 初の地球周回軌道投入に成功",
       "source": "NHK",
-      "time": "Mon, 28 Sep 2026 22:29:36 +0900"
+      "time": "Tue, 29 Sep 2026 07:16:36 +0900"
     }
   ]
 }
