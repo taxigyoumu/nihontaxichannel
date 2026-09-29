@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-09-29 10:27",
-  "has_alert": false,
+  "updated_at": "2026-09-29 16:19",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風26号 日本の南の海上を北東へ 最新の気象情報確認を",
-      "source": "NHK",
-      "time": "Tue, 29 Sep 2026 09:45:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000037451_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-29T07:11:23Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-29T07:11:23Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県土砂災害警報・注意報】美濃地方では、土砂災害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-29T07:11:17Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「20年前から」証言も マンション修繕工事談合",
+      "text": "台風26号 伊豆諸島に近づく見込み 今後の情報に注意を",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 05:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52960/20260929de52960_E0000037380_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 13:55:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000037690_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "核のごみ文献調査 茨城 常陸大宮市長が赤澤大臣と面会し判断へ",
+      "text": "ANA会員特典見直し 混雑時以外はラウンジ使用可能に",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 06:40:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260928de52954/20260928de52954_E0000037359_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 15:32:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53087/20260929de53087_E0000037761_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北朝鮮外務次官 国連演説で“わが国は核保有国だ”と主張",
+      "text": "青森 五所川原 突風で車20台超にも被害 気象台が現地調査",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 08:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52988/20260929de52988_E0000037403_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 15:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53085/20260929de53085_E0000037749_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉市中央区でトラックと乗用車が衝突 乗用車の3人死亡",
+      "text": "iPS心筋細胞シート 承認後初の手術実施 大阪けいさつ病院",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 07:19:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52982/20260929de52982_E0000037398_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 15:49:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53038/20260929de53038_E0000037584_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ニデック30日決算発表 巨額損失計上へ 岸田社長など交代検討",
+      "text": "大谷翔平・村上宗隆など日本選手5人がオールMLB候補に",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 06:23:00 +0900"
+      "time": "Tue, 29 Sep 2026 12:23:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53023/20260929de53023_E0000037540_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スペースX大型宇宙船 初の地球周回軌道投入に成功",
+      "text": "「シャオシャオ」と「レイレイ」中国返還後初の一般公開",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 07:16:36 +0900"
+      "time": "Tue, 29 Sep 2026 15:12:14 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“ふるさと住民登録制度”約7割の自治体が参加意向 藤井総務相",
+      "source": "NHK",
+      "time": "Tue, 29 Sep 2026 14:16:35 +0900"
     }
   ]
 }
