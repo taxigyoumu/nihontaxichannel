@@ -1,14 +1,45 @@
 {
-  "updated_at": "2026-09-29 23:12",
-  "has_alert": false,
+  "updated_at": "2026-09-30 04:32",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-09-29T19:03:25Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風26号 伊豆諸島に近づく見込み 高波に警戒を",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 19:19:56 +0900",
+      "time": "Tue, 29 Sep 2026 19:19:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000038102_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "政府 成長戦略実行に向け建設分野の労働力不足の対応策検討へ",
+      "source": "NHK",
+      "time": "Wed, 30 Sep 2026 02:16:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53230/20260930de53230_E0000038242_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "核のごみ文献調査 茨城 常陸大宮市長が判断表明へ",
+      "source": "NHK",
+      "time": "Wed, 30 Sep 2026 02:05:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53229/20260930de53229_E0000038240_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "政府・与党 臨時国会で消費税法案成立を 野党は論戦の構え",
+      "source": "NHK",
+      "time": "Wed, 30 Sep 2026 04:07:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53231/20260930de53231_E0000038247_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,40 +52,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京大学の新総長に藤垣裕子氏 女性の総長は大学創立以来初",
+      "text": "岩屋前外相が中国副首相と会談　中国高官との会談は2日連続",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 18:33:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53079/20260929de53079_E0000037814_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "タイムズカー 運転免許画像などの漏えいは160万件 どうすれば",
-      "source": "NHK",
-      "time": "Tue, 29 Sep 2026 22:54:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53160/20260929de53160_E0000038219_1_l.jpg"
+      "time": "Wed, 30 Sep 2026 01:59:28 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "日本の人口 1億2297万人余に 減少幅は過去最大 国勢調査確定値",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 19:35:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53106/20260929de53106_E0000037851_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ヒアリ国内確認 過去最多 笹川環境相“監視体制強化を検討”",
-      "source": "NHK",
-      "time": "Tue, 29 Sep 2026 20:21:57 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "インフルエンザ患者数 前週の約1.5倍 マスク着用など対策を",
-      "source": "NHK",
-      "time": "Tue, 29 Sep 2026 18:51:00 +0900"
+      "time": "Tue, 29 Sep 2026 19:35:01 +0900"
     }
   ]
 }
