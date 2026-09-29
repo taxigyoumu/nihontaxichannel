@@ -1,81 +1,60 @@
 {
-  "updated_at": "2026-09-29 16:19",
-  "has_alert": true,
+  "updated_at": "2026-09-29 23:12",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-29T07:11:23Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-29T07:11:23Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県土砂災害警報・注意報】美濃地方では、土砂災害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-09-29T07:11:17Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風26号 伊豆諸島に近づく見込み 高波に警戒を",
+      "source": "NHK",
+      "time": "Tue, 29 Sep 2026 19:19:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000038102_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号 伊豆諸島に近づく見込み 今後の情報に注意を",
+      "text": "電気料金が「過去最高」の水準へ この冬はどうなる？【Q＆A】",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 13:55:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52959/20260929de52959_E0000037690_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 18:13:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de52999/20260929de52999_E0000038176_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ANA会員特典見直し 混雑時以外はラウンジ使用可能に",
+      "text": "東京大学の新総長に藤垣裕子氏 女性の総長は大学創立以来初",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 15:32:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53087/20260929de53087_E0000037761_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 18:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53079/20260929de53079_E0000037814_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "青森 五所川原 突風で車20台超にも被害 気象台が現地調査",
+      "text": "タイムズカー 運転免許画像などの漏えいは160万件 どうすれば",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 15:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53085/20260929de53085_E0000037749_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 22:54:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53160/20260929de53160_E0000038219_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "iPS心筋細胞シート 承認後初の手術実施 大阪けいさつ病院",
+      "text": "日本の人口 1億2297万人余に 減少幅は過去最大 国勢調査確定値",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 15:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53038/20260929de53038_E0000037584_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 19:35:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53106/20260929de53106_E0000037851_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大谷翔平・村上宗隆など日本選手5人がオールMLB候補に",
+      "text": "ヒアリ国内確認 過去最多 笹川環境相“監視体制強化を検討”",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 12:23:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53023/20260929de53023_E0000037540_1_l.jpg"
+      "time": "Tue, 29 Sep 2026 20:21:57 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「シャオシャオ」と「レイレイ」中国返還後初の一般公開",
+      "text": "インフルエンザ患者数 前週の約1.5倍 マスク着用など対策を",
       "source": "NHK",
-      "time": "Tue, 29 Sep 2026 15:12:14 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "“ふるさと住民登録制度”約7割の自治体が参加意向 藤井総務相",
-      "source": "NHK",
-      "time": "Tue, 29 Sep 2026 14:16:35 +0900"
+      "time": "Tue, 29 Sep 2026 18:51:00 +0900"
     }
   ]
 }
