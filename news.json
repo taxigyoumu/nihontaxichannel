@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-30 17:50",
+  "updated_at": "2026-10-01 00:35",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "声の無断使用は「パブリシティ権の侵害」の初判断",
+      "text": "台風26号 明け方にかけ伊豆諸島に接近 千葉で雨強まるおそれも",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 16:54:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53277/20260930de53277_E0000038782_1_l.jpg"
+      "time": "Thu, 01 Oct 2026 00:19:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53237/20260930de53237_E0000039141_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号 今夜から伊豆諸島に接近 千葉でもあす雨強まるおそれ",
+      "text": "富山市国勢調査人口水増し疑い 地方交付税が約2億円多く交付か",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 17:27:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53237/20260930de53237_E0000038824_1_l.jpg"
+      "time": "Wed, 30 Sep 2026 20:27:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53460/20260930de53460_E0000039072_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神戸市で連続発砲事件か 成人男性2人けが 高齢の人物を確保",
+      "text": "タイ 大雨影響続き24人死亡 空港で荷物が滞留も",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 17:23:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53381/20260930de53381_E0000038753_1_l.jpg"
+      "time": "Wed, 30 Sep 2026 22:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53434/20260930de53434_E0000039034_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "全国学力テスト 平均正答率に大差なく下位層に地域差",
+      "text": "イスラエル行き旅客機が緊急着陸「当局はテロ事件として対応」",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 17:03:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53369/20260930de53369_E0000038739_1_l.jpg"
+      "time": "Wed, 30 Sep 2026 22:10:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53443/20260930de53443_E0000039139_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "オープンAI 社内で安全性懸念の警告あるも会社側が無視 米報道",
+      "text": "経営再建中のJDI 茂原工場を半導体部品メーカーに売却決定",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 15:29:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53376/20260930de53376_E0000038754_1_l.jpg"
+      "time": "Wed, 30 Sep 2026 22:16:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53461/20260930de53461_E0000039071_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東武日光線事故 現場責任者が指揮せず 報告書を提出",
+      "text": "アジア大会レスリング 20歳吉田が初出場で金",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 12:19:00 +0900"
+      "time": "Wed, 30 Sep 2026 22:19:38 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「核のごみ」文献調査 茨城 常陸大宮市長が受け入れを表明",
+      "text": "西武渋谷店 58年の歴史に幕 デザイナーが語る“過去”“未来”",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 17:15:39 +0900"
+      "time": "Wed, 30 Sep 2026 22:31:00 +0900"
     }
   ]
 }
