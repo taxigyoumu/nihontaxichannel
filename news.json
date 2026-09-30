@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-09-30 08:24",
+  "updated_at": "2026-09-30 11:16",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風26号 きょう夕方～あすにかけ伊豆諸島接近 千葉なども注意",
+      "text": "台風26号 夕方からあすにかけ伊豆諸島接近 千葉も雨続く見込み",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 07:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53237/20260930de53237_E0000038269_1_l.jpg"
+      "time": "Wed, 30 Sep 2026 11:02:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53237/20260930de53237_E0000038341_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府 成長戦略実行に向け建設分野の労働力不足の対応策検討へ",
+      "text": "ローソン 大雨による店舗の浸水対策で止水板の導入拡大へ",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 02:16:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53230/20260930de53230_E0000038242_1_l.jpg"
+      "time": "Wed, 30 Sep 2026 04:52:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260929de53224/20260929de53224_E0000038229_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "国連で核廃絶会議 事務総長「冷戦終結後 最も危険な局面」",
+      "source": "NHK",
+      "time": "Wed, 30 Sep 2026 09:19:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53243/20260930de53243_E0000038283_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "英首相「EU離脱は恩恵より弊害の方が大きかった」",
+      "source": "NHK",
+      "time": "Wed, 30 Sep 2026 04:59:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53235/20260930de53235_E0000038254_2_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカとイランの間接協議 双方とも妥協しない姿勢",
+      "source": "NHK",
+      "time": "Wed, 30 Sep 2026 05:12:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53236/20260930de53236_E0000038255_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "核のごみ文献調査 茨城 常陸大宮市長が判断表明へ",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 02:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53229/20260930de53229_E0000038240_1_l.jpg"
+      "time": "Wed, 30 Sep 2026 02:05:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府・与党 臨時国会で消費税法案成立を 野党は論戦の構え",
+      "text": "原油の調達多角化に向け新法案 臨時国会に提出へ",
       "source": "NHK",
-      "time": "Wed, 30 Sep 2026 04:07:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53231/20260930de53231_E0000038247_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日本の教員 労働時間が長く給与満足度はOECD平均を下回る",
-      "source": "NHK",
-      "time": "Wed, 30 Sep 2026 04:16:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20260930de53228/20260930de53228_E0000038236_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "岩屋前外相が中国副首相と会談　中国高官との会談は2日連続",
-      "source": "NHK",
-      "time": "Wed, 30 Sep 2026 01:59:28 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日本の人口 1億2297万人余に 減少幅は過去最大 国勢調査確定値",
-      "source": "NHK",
-      "time": "Tue, 29 Sep 2026 19:35:01 +0900"
+      "time": "Wed, 30 Sep 2026 04:44:00 +0900"
     }
   ]
 }
