@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-10-01 15:19",
-  "has_alert": false,
+  "updated_at": "2026-10-01 22:42",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "広島 4選手と来季契約結ばず 球団「信頼関係築くのが難しい」",
-      "source": "NHK",
-      "time": "Thu, 01 Oct 2026 14:57:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53613/20261001de53613_E0000039458_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日２１時５１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-01T12:54:22Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日２１時３１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-01T12:35:01Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日２１時２７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-01T12:32:01Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風27号が発生 日本のはるか南 進路予報に幅も最新情報確認を",
+      "text": "台風27号 勢力を強めながら日曜日ごろ小笠原近海へ進む見込み",
       "source": "NHK",
-      "time": "Thu, 01 Oct 2026 12:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53515/20261001de53515_E0000039286_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京湾アクアラインで車4台事故 1人死亡1人重体",
-      "source": "NHK",
-      "time": "Thu, 01 Oct 2026 12:15:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53536/20261001de53536_E0000039294_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "TBSテレビ ドラマ「VIVANT」監督をパワハラで処分",
-      "source": "NHK",
-      "time": "Thu, 01 Oct 2026 05:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53513/20261001de53513_E0000039178_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ソフトバンク子会社の元常務を逮捕 1億7000万円着服か",
-      "source": "NHK",
-      "time": "Thu, 01 Oct 2026 13:11:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53598/20261001de53598_E0000003571_1_l.jpg"
+      "time": "Thu, 01 Oct 2026 18:50:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53515/20261001de53515_E0000039702_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "イスラエル行き旅客機 緊急着陸 副操縦士が機長を刺したか",
       "source": "NHK",
-      "time": "Thu, 01 Oct 2026 12:59:50 +0900"
+      "time": "Thu, 01 Oct 2026 22:05:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53581/20261001de53581_E0000039328_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「timelesz」猪俣周杜メンバーの契約解除 所属事務所が発表",
+      "text": "出産無償化へ 厚労省検討会初会合 ことし12月めどにとりまとめ",
       "source": "NHK",
-      "time": "Thu, 01 Oct 2026 11:38:13 +0900"
+      "time": "Thu, 01 Oct 2026 20:56:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53728/20261001de53728_E0000039861_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "青森みちのく銀行 岩手銀行 秋田銀行が経営統合協議へ",
+      "source": "NHK",
+      "time": "Thu, 01 Oct 2026 22:29:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53731/20261001de53731_E0000039913_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ふるさと納税返礼品の牛肉等級を偽装か 元取締役再逮捕 鹿児島",
+      "source": "NHK",
+      "time": "Thu, 01 Oct 2026 19:20:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53694/20261001de53694_E0000039770_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米タイム誌“次世代の100人”に産休取得の京都 八幡市長",
+      "source": "NHK",
+      "time": "Thu, 01 Oct 2026 19:09:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震速報】茨城県と千葉県で震度3",
+      "source": "NHK",
+      "time": "Thu, 01 Oct 2026 22:02:26 +0900"
     }
   ]
 }
