@@ -1,81 +1,60 @@
 {
-  "updated_at": "2026-10-02 17:48",
-  "has_alert": true,
+  "updated_at": "2026-10-03 00:20",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　２日１７時３９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-02T08:43:30Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう　２日１７時３９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-02T08:42:34Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　２日１７時３９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-10-02T08:41:23Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "金融庁 プルデンシャル生命に業務停止命令を検討",
+      "source": "NHK",
+      "time": "Fri, 02 Oct 2026 21:20:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53976/20261002de53976_E0000040732_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "津の住宅で火事 焼け跡から3人の遺体 子ども4人と連絡取れず",
+      "text": "サッカー日本代表 久保建英選手と俳優 福原遥さんが結婚を発表",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 17:44:00 +0900",
+      "time": "Fri, 02 Oct 2026 23:28:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53982/20261002de53982_E0000040743_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "津市で住宅火災 4人の遺体見つかる 子ども4人と連絡取れず",
+      "source": "NHK",
+      "time": "Fri, 02 Oct 2026 20:18:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53924/20261002de53924_E0000040470_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ライブ】簗農相会見 「一議員として」説明",
+      "text": "台風27号 4日に小笠原近海へ進む見込み 今後の情報に注意",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 17:33:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53817/20261002de53817_E0000040076_1_l.jpg"
+      "time": "Fri, 02 Oct 2026 19:19:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53779/20261002de53779_E0000040643_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "青森みちのく銀 岩手銀 秋田銀 経営統合 検討進める",
+      "text": "千葉 印旛沼の決壊“避難の呼びかけ”自治体によって対応に差",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 17:20:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53829/20261002de53829_E0000040485_1_l.jpg"
+      "time": "Fri, 02 Oct 2026 19:55:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53805/20261002de53805_E0000040228_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本 宇城で震度3 津波の心配なし",
+      "text": "簗農相が会見「国交省に問い合わせ 党支部会合で報告」",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 17:47:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53799/20261002de53799_E0000040523_1_l.jpg"
+      "time": "Fri, 02 Oct 2026 19:10:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "核のごみ文献調査 茨城県知事“次の調査に進む場合同意せず”",
+      "text": "【プロ野球結果】阪神マジック「1」に 巨人はヤクルトに敗れる",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 17:27:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53897/20261002de53897_E0000040373_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風27号 4日には小笠原近海へ進む見込み 今後の情報に注意",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 13:46:39 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "衆参 野党国会対策委員長ら“消費税減税法案 丁寧な審議を”",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 15:47:19 +0900"
+      "time": "Fri, 02 Oct 2026 23:11:00 +0900"
     }
   ]
 }
