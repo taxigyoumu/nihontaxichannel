@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-10-02 08:19",
+  "updated_at": "2026-10-02 11:25",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東海汽船の飲酒乗務問題 一部船舶に初の使用停止命令へ 国交省",
+      "source": "NHK",
+      "time": "Fri, 02 Oct 2026 10:19:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53794/20261002de53794_E0000003819_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京23区の9月の消費者物価指数 前年同月比2.7％上昇",
+      "source": "NHK",
+      "time": "Fri, 02 Oct 2026 10:50:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53786/20261002de53786_E0000039980_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日米演習で与那国島に米軍の新型地対艦ミサイル初展開へ",
+      "source": "NHK",
+      "time": "Fri, 02 Oct 2026 10:08:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53784/20261002de53784_E0000039977_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "プーチン大統領 日ロは困難を乗り越えたあと互恵的関係に",
+      "source": "NHK",
+      "time": "Fri, 02 Oct 2026 08:23:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53774/20261002de53774_E0000039956_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イスラエル行き旅客機 緊急着陸 副操縦士が機長を刺したか",
-      "source": "NHK",
-      "time": "Thu, 01 Oct 2026 22:05:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261001de53581/20261001de53581_E0000039328_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "台風27号 4日には小笠原近海へ進む見込み 今後の情報に注意",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 07:16:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53779/20261002de53779_E0000039966_1_l.jpg"
+      "time": "Fri, 02 Oct 2026 07:16:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "イスラエル首相「副操縦士はイスラム過激思想に洗脳」主張",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 06:42:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53772/20261002de53772_E0000039949_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "佐川急便に不正アクセス 住所など個人情報が漏えいか",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 00:37:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53762/20261002de53762_E0000039926_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "相次ぐ不祥事受け社長交代のニデック 上場維持できるかが焦点",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 05:33:22 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロシア 飛び地めぐりNATOに警告文書「核兵器使用も辞さない」",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 05:30:30 +0900"
+      "time": "Fri, 02 Oct 2026 06:42:44 +0900"
     }
   ]
 }
