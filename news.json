@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-10-03 00:20",
+  "updated_at": "2026-10-03 05:03",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「副首都」要件案を公表 4道府県に指定可能性",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 00:50:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de53995/20261003de53995_E0000040776_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "津市で4人死亡の火災 住人男性と知人女性 出火当時不在か",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 04:53:01 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54001/20261003de54001_E0000040783_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ中間選挙まで1か月 共和党と民主党の選挙戦激化",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 04:50:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54002/20261003de54002_E0000040786_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "G7首脳会議 軽油など石油備蓄1億バレル 4か月間で放出へ",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 02:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54004/20261003de54004_E0000004046_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -15,46 +47,14 @@
       "label": "ニュース",
       "text": "サッカー日本代表 久保建英選手と俳優 福原遥さんが結婚を発表",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 23:28:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53982/20261002de53982_E0000040743_1_l.jpg"
+      "time": "Fri, 02 Oct 2026 23:28:41 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "津市で住宅火災 4人の遺体見つかる 子ども4人と連絡取れず",
+      "text": "クビアカツヤカミキリ対策 自民プロジェクトチームが緊急決議",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 20:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53924/20261002de53924_E0000040470_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風27号 4日に小笠原近海へ進む見込み 今後の情報に注意",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 19:19:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53779/20261002de53779_E0000040643_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 印旛沼の決壊“避難の呼びかけ”自治体によって対応に差",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 19:55:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53805/20261002de53805_E0000040228_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "簗農相が会見「国交省に問い合わせ 党支部会合で報告」",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 19:10:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【プロ野球結果】阪神マジック「1」に 巨人はヤクルトに敗れる",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 23:11:00 +0900"
+      "time": "Sat, 03 Oct 2026 04:55:12 +0900"
     }
   ]
 }
