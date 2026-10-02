@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-10-02 11:25",
-  "has_alert": false,
+  "updated_at": "2026-10-02 17:48",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東海汽船の飲酒乗務問題 一部船舶に初の使用停止命令へ 国交省",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 10:19:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53794/20261002de53794_E0000003819_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　２日１７時３９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-02T08:43:30Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう　２日１７時３９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-02T08:42:34Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】　２日１７時３９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-10-02T08:41:23Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京23区の9月の消費者物価指数 前年同月比2.7％上昇",
+      "text": "津の住宅で火事 焼け跡から3人の遺体 子ども4人と連絡取れず",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 10:50:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53786/20261002de53786_E0000039980_1_l.jpg"
+      "time": "Fri, 02 Oct 2026 17:44:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53924/20261002de53924_E0000040470_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日米演習で与那国島に米軍の新型地対艦ミサイル初展開へ",
+      "text": "【ライブ】簗農相会見 「一議員として」説明",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 10:08:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53784/20261002de53784_E0000039977_1_l.jpg"
+      "time": "Fri, 02 Oct 2026 17:33:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53817/20261002de53817_E0000040076_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プーチン大統領 日ロは困難を乗り越えたあと互恵的関係に",
+      "text": "青森みちのく銀 岩手銀 秋田銀 経営統合 検討進める",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 08:23:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53774/20261002de53774_E0000039956_1_l.jpg"
+      "time": "Fri, 02 Oct 2026 17:20:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53829/20261002de53829_E0000040485_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「副首都」要件案判明 人口全国の1.2％以上など 4市満たす",
+      "text": "【地震速報】熊本 宇城で震度3 津波の心配なし",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 02:30:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53765/20261002de53765_E0000039930_1_l.jpg"
+      "time": "Fri, 02 Oct 2026 17:47:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53799/20261002de53799_E0000040523_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "核のごみ文献調査 茨城県知事“次の調査に進む場合同意せず”",
+      "source": "NHK",
+      "time": "Fri, 02 Oct 2026 17:27:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53897/20261002de53897_E0000040373_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風27号 4日には小笠原近海へ進む見込み 今後の情報に注意",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 07:16:00 +0900"
+      "time": "Fri, 02 Oct 2026 13:46:39 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イスラエル首相「副操縦士はイスラム過激思想に洗脳」主張",
+      "text": "衆参 野党国会対策委員長ら“消費税減税法案 丁寧な審議を”",
       "source": "NHK",
-      "time": "Fri, 02 Oct 2026 06:42:44 +0900"
+      "time": "Fri, 02 Oct 2026 15:47:19 +0900"
     }
   ]
 }
