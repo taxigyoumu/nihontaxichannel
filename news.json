@@ -1,35 +1,43 @@
 {
-  "updated_at": "2026-10-03 23:33",
+  "updated_at": "2026-10-04 03:31",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "阪神が2年連続8回目のセ・リーグ優勝 球団史上初のリーグ連覇",
+      "text": "阪神が2年連続優勝 球団初セ・リーグ連覇【選手談話も詳しく】",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 21:53:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54054/20261003de54054_E0000041064_1_l.jpg"
+      "time": "Sun, 04 Oct 2026 02:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54054/20261003de54054_E0000041424_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【速報中】ホワイトソックス 村上 ポストシーズン初HRで先制",
+      "source": "NHK",
+      "time": "Sun, 04 Oct 2026 03:18:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54148/20261004de54148_E0000004053_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ことしの秋のクマ出没どうなる？「どんぐり」の実りは",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 22:31:19 +0900",
+      "time": "Sat, 03 Oct 2026 22:31:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54083/20261003de54083_E0000041090_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "肥満症薬 急激な減量で救急搬送相次ぐ 学会が注意呼びかけ",
+      "text": "簗農相が熊本地震の被災地を視察 予算配分発言への言及避ける",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 19:52:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54074/20261003de54074_E0000041033_1_l.jpg"
+      "time": "Sat, 03 Oct 2026 23:55:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54127/20261003de54127_E0000041426_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意",
+      "text": "台風27号 4日以降 小笠原近海に 高波に警戒 今後の情報に注意",
       "source": "NHK",
       "time": "Sat, 03 Oct 2026 18:52:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000041014_1_l.jpg"
@@ -39,15 +47,7 @@
       "label": "ニュース",
       "text": "プロ野球 現役最年長 ヤクルト石川雅規 25年の現役に別れ",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 23:15:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54109/20261003de54109_E0000041416_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アジア大会 サッカー男子 日本は決勝で韓国に敗れる",
-      "source": "NHK",
-      "time": "Sat, 03 Oct 2026 22:52:14 +0900"
+      "time": "Sat, 03 Oct 2026 23:15:03 +0900"
     },
     {
       "category": "news",
