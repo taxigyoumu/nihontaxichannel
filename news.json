@@ -1,13 +1,36 @@
 {
-  "updated_at": "2026-10-03 12:51",
-  "has_alert": false,
+  "updated_at": "2026-10-03 18:38",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　３日１７時１７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-03T08:19:56Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東京 八丈島 ダイビングで一時行方不明の8人救助 全員意識あり",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 18:06:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54066/20261003de54066_E0000041003_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "9歳男児がタワマン23階のベランダから転落し死亡 東京 中央区",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 18:03:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54069/20261003de54069_E0000040994_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "富山市の国勢調査 人口水増し問題で市役所を捜索 富山県警",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 10:05:00 +0900",
+      "time": "Sat, 03 Oct 2026 15:59:04 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54022/20261003de54022_E0000040858_1_l.jpg"
     },
     {
@@ -23,38 +46,22 @@
       "label": "ニュース",
       "text": "台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 11:10:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000040836_1_l.jpg"
+      "time": "Sat, 03 Oct 2026 18:31:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000040945_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ドジャース 大谷翔平 地区シリーズへ「期待とわくわく感」",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 12:20:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54033/20261003de54033_E0000040874_1_l.jpg"
+      "time": "Sat, 03 Oct 2026 13:49:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
+      "text": "副操縦士 オマーンで過激思想懸念で飛行禁止か 米報道",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 11:58:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54037/20261003de54037_E0000040873_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "千葉 印旛沼 堤防4か所決壊 最後の1か所をふさぐ工事が完了",
-      "source": "NHK",
-      "time": "Sat, 03 Oct 2026 12:11:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "老舗の「パラマウント」と「ワーナー」の社名が買収で消失へ",
-      "source": "NHK",
-      "time": "Sat, 03 Oct 2026 11:17:00 +0900"
+      "time": "Sat, 03 Oct 2026 12:57:00 +0900"
     }
   ]
 }
