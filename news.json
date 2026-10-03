@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-03 08:55",
+  "updated_at": "2026-10-03 12:51",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "津市で4人死亡の火災 住人男性と知人女性 出火当時不在か",
+      "text": "富山市の国勢調査 人口水増し問題で市役所を捜索 富山県警",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 04:53:01 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54001/20261003de54001_E0000040783_1_l.jpg"
+      "time": "Sat, 03 Oct 2026 10:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54022/20261003de54022_E0000040858_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "船舶使用停止命令の東海汽船 “慣習踏襲の社内風土に問題”",
+      "text": "津市の4人死亡火事 当時現場で複数回の爆発音のような大きな音",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 05:28:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54007/20261003de54007_E0000040795_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "金融庁 プルデンシャル生命に業務停止命令を検討",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 21:20:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261002de53976/20261002de53976_E0000040732_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動”",
-      "source": "NHK",
-      "time": "Sat, 03 Oct 2026 08:16:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54014/20261003de54014_E0000040809_1_l.jpg"
+      "time": "Sat, 03 Oct 2026 12:13:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54036/20261003de54036_E0000040872_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 05:24:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000040803_1_l.jpg"
+      "time": "Sat, 03 Oct 2026 11:10:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000040836_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「副首都」要件案を公表 4道府県に指定可能性",
+      "text": "ドジャース 大谷翔平 地区シリーズへ「期待とわくわく感」",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 00:50:59 +0900"
+      "time": "Sat, 03 Oct 2026 12:20:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54033/20261003de54033_E0000040874_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府・与党 消費税法案成立を 野党 充実審議 農相発言もただす",
+      "text": "第一ライフに不正アクセス 12万人分の従業員情報が流出か",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 04:58:08 +0900"
+      "time": "Sat, 03 Oct 2026 11:58:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54037/20261003de54037_E0000040873_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "千葉 印旛沼 堤防4か所決壊 最後の1か所をふさぐ工事が完了",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 12:11:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "老舗の「パラマウント」と「ワーナー」の社名が買収で消失へ",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 11:17:00 +0900"
     }
   ]
 }
