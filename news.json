@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-10-03 18:38",
-  "has_alert": true,
+  "updated_at": "2026-10-03 23:33",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　３日１７時１７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-03T08:19:56Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "阪神が2年連続8回目のセ・リーグ優勝 球団史上初のリーグ連覇",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 21:53:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54054/20261003de54054_E0000041064_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 八丈島 ダイビングで一時行方不明の8人救助 全員意識あり",
+      "text": "ことしの秋のクマ出没どうなる？「どんぐり」の実りは",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 18:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54066/20261003de54066_E0000041003_1_l.jpg"
+      "time": "Sat, 03 Oct 2026 22:31:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54083/20261003de54083_E0000041090_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "9歳男児がタワマン23階のベランダから転落し死亡 東京 中央区",
+      "text": "肥満症薬 急激な減量で救急搬送相次ぐ 学会が注意呼びかけ",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 18:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54069/20261003de54069_E0000040994_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "富山市の国勢調査 人口水増し問題で市役所を捜索 富山県警",
-      "source": "NHK",
-      "time": "Sat, 03 Oct 2026 15:59:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54022/20261003de54022_E0000040858_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "津市の4人死亡火事 当時現場で複数回の爆発音のような大きな音",
-      "source": "NHK",
-      "time": "Sat, 03 Oct 2026 12:13:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54036/20261003de54036_E0000040872_1_l.jpg"
+      "time": "Sat, 03 Oct 2026 19:52:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54074/20261003de54074_E0000041033_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 18:31:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000040945_1_l.jpg"
+      "time": "Sat, 03 Oct 2026 18:52:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54005/20261003de54005_E0000041014_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 大谷翔平 地区シリーズへ「期待とわくわく感」",
+      "text": "プロ野球 現役最年長 ヤクルト石川雅規 25年の現役に別れ",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 13:49:00 +0900"
+      "time": "Sat, 03 Oct 2026 23:15:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54109/20261003de54109_E0000041416_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "副操縦士 オマーンで過激思想懸念で飛行禁止か 米報道",
+      "text": "アジア大会 サッカー男子 日本は決勝で韓国に敗れる",
       "source": "NHK",
-      "time": "Sat, 03 Oct 2026 12:57:00 +0900"
+      "time": "Sat, 03 Oct 2026 22:52:14 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "那覇市のホテルで女性遺体 強盗殺人事件として捜査",
+      "source": "NHK",
+      "time": "Sat, 03 Oct 2026 20:49:12 +0900"
     }
   ]
 }
