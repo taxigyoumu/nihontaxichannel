@@ -1,7 +1,30 @@
 {
-  "updated_at": "2026-10-05 02:17",
-  "has_alert": false,
+  "updated_at": "2026-10-05 05:19",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　５日０５時０２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-04T20:05:20Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ノーベル賞 5日は生理学・医学賞の発表日",
+      "source": "NHK",
+      "time": "Mon, 05 Oct 2026 04:49:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54368/20261004de54368_E0000042721_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "臨時国会きょう召集 消費税減税法案などで論戦へ",
+      "source": "NHK",
+      "time": "Mon, 05 Oct 2026 04:54:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54388/20261005de54388_E0000042752_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -25,22 +48,6 @@
       "source": "NHK",
       "time": "Sun, 04 Oct 2026 23:45:31 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54373/20261004de54373_E0000042745_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ゴルフ 日本女子オープン シン・ジエ初優勝 国内メジャー4冠初",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 22:18:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54320/20261004de54320_E0000041957_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "競馬 凱旋門賞 日本馬は11着と14着 初優勝ならず",
-      "source": "NHK",
-      "time": "Mon, 05 Oct 2026 00:41:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54386/20261005de54386_E0000042754_1_l.jpg"
     },
     {
       "category": "news",
