@@ -1,13 +1,38 @@
 {
-  "updated_at": "2026-10-05 05:19",
-  "has_alert": true,
+  "updated_at": "2026-10-05 08:26",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日０５時０２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-04T20:05:20Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "米兵逮捕の強盗殺人事件 被害女性の首にコードのようなものか",
+      "source": "NHK",
+      "time": "Mon, 05 Oct 2026 06:02:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54384/20261005de54384_E0000042750_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風25号で不通の内房線 一部区間で折り返し運転始まる",
+      "source": "NHK",
+      "time": "Mon, 05 Oct 2026 08:14:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54411/20261005de54411_E0000042929_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風27号 あすにかけて小笠原近海を北上 高波に警戒を",
+      "source": "NHK",
+      "time": "Mon, 05 Oct 2026 06:48:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54402/20261005de54402_E0000042795_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "柔道世界選手権 女子48キロ 古賀若菜が初の金メダル",
+      "source": "NHK",
+      "time": "Mon, 05 Oct 2026 05:17:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54396/20261005de54396_E0000042760_1_l.jpg"
     },
     {
       "category": "news",
@@ -20,48 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "トランプ大統領 AI政策を調整する司令塔組織を設立",
+      "source": "NHK",
+      "time": "Mon, 05 Oct 2026 06:35:39 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "臨時国会きょう召集 消費税減税法案などで論戦へ",
       "source": "NHK",
-      "time": "Mon, 05 Oct 2026 04:54:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54388/20261005de54388_E0000042752_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 21:30:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54358/20261004de54358_E0000042678_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 23:13:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54164/20261004de54164_E0000041568_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 23:45:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54373/20261004de54373_E0000042745_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風27号 あさってにかけ小笠原近海を北上の見込み 高波に警戒",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 19:42:08 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ノーベル賞 5日から発表 日本から“3年連続受賞”なるか",
-      "source": "NHK",
-      "time": "Fri, 02 Oct 2026 19:24:18 +0900"
+      "time": "Mon, 05 Oct 2026 04:54:04 +0900"
     }
   ]
 }
