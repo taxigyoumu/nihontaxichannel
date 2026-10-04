@@ -1,53 +1,7 @@
 {
-  "updated_at": "2026-10-04 21:42",
-  "has_alert": true,
+  "updated_at": "2026-10-05 02:17",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　４日２０時５６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-04T11:58:49Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　４日２０時０３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-04T11:05:32Z"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ゴルフ 日本女子オープン シン・ジエ プレーオフ制し初優勝",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 19:16:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54320/20261004de54320_E0000041957_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 19:09:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54164/20261004de54164_E0000041568_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ジャガイモ 注目の「抵抗性品種」 食品大手で採用広がる",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 19:31:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54271/20261004de54271_E0000041953_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "簗農相“予算カット”発言への言及避け「現場主義で対応」",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 20:33:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54280/20261004de54280_E0000042540_1_l.jpg"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -55,6 +9,38 @@
       "source": "NHK",
       "time": "Sun, 04 Oct 2026 21:30:36 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54358/20261004de54358_E0000042678_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認",
+      "source": "NHK",
+      "time": "Sun, 04 Oct 2026 23:13:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54164/20261004de54164_E0000041568_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か",
+      "source": "NHK",
+      "time": "Sun, 04 Oct 2026 23:45:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54373/20261004de54373_E0000042745_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ゴルフ 日本女子オープン シン・ジエ初優勝 国内メジャー4冠初",
+      "source": "NHK",
+      "time": "Sun, 04 Oct 2026 22:18:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54320/20261004de54320_E0000041957_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "競馬 凱旋門賞 日本馬は11着と14着 初優勝ならず",
+      "source": "NHK",
+      "time": "Mon, 05 Oct 2026 00:41:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54386/20261005de54386_E0000042754_1_l.jpg"
     },
     {
       "category": "news",
