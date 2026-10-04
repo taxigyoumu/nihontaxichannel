@@ -1,74 +1,60 @@
 {
-  "updated_at": "2026-10-04 09:24",
-  "has_alert": true,
+  "updated_at": "2026-10-04 15:10",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　４日０８時５８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-04T00:01:08Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　４日０８時４５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-03T23:49:00Z"
-    },
-    {
       "category": "news",
       "label": "ニュース",
-      "text": "那覇ホテル強盗殺人 アメリカ海兵隊普天間基地の上等兵を逮捕",
+      "text": "那覇ホテルで女性殺害 米海兵隊の上等兵を逮捕 容疑を否認",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 07:58:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54164/20261004de54164_E0000041626_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "淡路島で釣りの9歳男児 海に転落し重体 救助向かった知人不明",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 08:27:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54174/20261004de54174_E0000041651_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サザン関口和之氏の著作権管理会社 5億8000万円余の申告漏れ",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 05:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54104/20261003de54104_E0000041418_1_l.jpg"
+      "time": "Sun, 04 Oct 2026 14:59:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54164/20261004de54164_E0000041568_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風27号 あすからあさって小笠原諸島に接近 高波警戒",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 06:57:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54159/20261004de54159_E0000041503_1_l.jpg"
+      "time": "Sun, 04 Oct 2026 14:25:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54159/20261004de54159_E0000041898_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "津 4人死亡の火事 4人は寝室とリビングで見つかる",
+      "text": "台風25号被害のJR成田線一部区間 きょうから運転再開",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 07:14:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261003de54129/20261003de54129_E0000041442_1_l.jpg"
+      "time": "Sun, 04 Oct 2026 12:22:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54194/20261004de54194_E0000041697_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米大統領“選挙勝利で5000ドル支給”重ねて主張 選挙戦激しく",
+      "text": "フライドバイ機長“祈りの間 見ないようにしていたら襲撃”",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 06:40:40 +0900"
+      "time": "Sun, 04 Oct 2026 13:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54216/20261004de54216_E0000041827_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ホワイトソックス 地区シリーズで先勝 村上が先制ホームラン",
+      "text": "大島元衆院議長 川端元衆院副議長“議論戦わせ合意形成を”",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 07:37:09 +0900"
+      "time": "Sun, 04 Oct 2026 11:38:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54195/20261004de54195_E0000041693_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "政府 安保上重要土地の取得規制強化「許可制」導入法案提出へ",
+      "source": "NHK",
+      "time": "Sun, 04 Oct 2026 10:35:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャースが地区シリーズ先勝 大谷翔平は1安打",
+      "source": "NHK",
+      "time": "Sun, 04 Oct 2026 14:57:23 +0900"
     }
   ]
 }
