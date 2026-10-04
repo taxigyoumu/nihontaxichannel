@@ -1,60 +1,74 @@
 {
-  "updated_at": "2026-10-04 15:10",
-  "has_alert": false,
+  "updated_at": "2026-10-04 21:42",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日２０時５６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-04T11:58:49Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　４日２０時０３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-04T11:05:32Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "那覇ホテルで女性殺害 米海兵隊の上等兵を逮捕 容疑を否認",
+      "text": "ゴルフ 日本女子オープン シン・ジエ プレーオフ制し初優勝",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 14:59:18 +0900",
+      "time": "Sun, 04 Oct 2026 19:16:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54320/20261004de54320_E0000041957_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認",
+      "source": "NHK",
+      "time": "Sun, 04 Oct 2026 19:09:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54164/20261004de54164_E0000041568_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風27号 あすからあさって小笠原諸島に接近 高波警戒",
+      "text": "ジャガイモ 注目の「抵抗性品種」 食品大手で採用広がる",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 14:25:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54159/20261004de54159_E0000041898_1_l.jpg"
+      "time": "Sun, 04 Oct 2026 19:31:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54271/20261004de54271_E0000041953_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風25号被害のJR成田線一部区間 きょうから運転再開",
+      "text": "簗農相“予算カット”発言への言及避け「現場主義で対応」",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 12:22:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54194/20261004de54194_E0000041697_1_l.jpg"
+      "time": "Sun, 04 Oct 2026 20:33:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54280/20261004de54280_E0000042540_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フライドバイ機長“祈りの間 見ないようにしていたら襲撃”",
+      "text": "日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 13:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54216/20261004de54216_E0000041827_1_l.jpg"
+      "time": "Sun, 04 Oct 2026 21:30:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54358/20261004de54358_E0000042678_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大島元衆院議長 川端元衆院副議長“議論戦わせ合意形成を”",
+      "text": "台風27号 あさってにかけ小笠原近海を北上の見込み 高波に警戒",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 11:38:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54195/20261004de54195_E0000041693_1_l.jpg"
+      "time": "Sun, 04 Oct 2026 19:42:08 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府 安保上重要土地の取得規制強化「許可制」導入法案提出へ",
+      "text": "ノーベル賞 5日から発表 日本から“3年連続受賞”なるか",
       "source": "NHK",
-      "time": "Sun, 04 Oct 2026 10:35:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャースが地区シリーズ先勝 大谷翔平は1安打",
-      "source": "NHK",
-      "time": "Sun, 04 Oct 2026 14:57:23 +0900"
+      "time": "Fri, 02 Oct 2026 19:24:18 +0900"
     }
   ]
 }
