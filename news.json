@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-05 11:15",
+  "updated_at": "2026-10-05 18:25",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "石川 小松空港 滑走路にひび割れ 使用できない状態に",
+      "text": "【ライブ予定 18:30】ノーベル生理学・医学賞発表へ",
       "source": "NHK",
-      "time": "Mon, 05 Oct 2026 11:02:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54452/20261005de54452_E0000043123_1_l.jpg"
+      "time": "Mon, 05 Oct 2026 18:06:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261004de54368/20261004de54368_E0000042721_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 3か月ぶりに一時7万円台回復 取引開始直後から買い注文",
+      "text": "「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい",
       "source": "NHK",
-      "time": "Mon, 05 Oct 2026 11:10:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54437/20261005de54437_E0000043111_1_l.jpg"
+      "time": "Mon, 05 Oct 2026 18:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54760/20261005de54760_E0000044013_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米兵逮捕の強盗殺人事件 被害女性の首にコードのようなものか",
+      "text": "大和証券 委託先サーバー不正アクセス 個人情報11万人分流出か",
       "source": "NHK",
-      "time": "Mon, 05 Oct 2026 06:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54384/20261005de54384_E0000042750_1_l.jpg"
+      "time": "Mon, 05 Oct 2026 15:24:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54568/20261005de54568_E0000043968_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風27号 あすにかけて小笠原近海を北上 高波に警戒を",
+      "text": "台風27号 小笠原近海を北上 28号29号発生で“トリプル台風”に",
       "source": "NHK",
-      "time": "Mon, 05 Oct 2026 06:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54402/20261005de54402_E0000042795_1_l.jpg"
+      "time": "Mon, 05 Oct 2026 18:16:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54402/20261005de54402_E0000043946_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風28号が発生 ハリケーンから台風に",
+      "text": "米兵逮捕の強盗殺人事件 現場周辺で発見 被害者リュックに財布",
       "source": "NHK",
-      "time": "Mon, 05 Oct 2026 11:07:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54429/20261005de54429_E0000043121_1_l.jpg"
+      "time": "Mon, 05 Oct 2026 12:03:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54503/20261005de54503_E0000043203_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ブラジル大統領選挙 10月25日に決選投票へ",
+      "text": "簗農相 地元の道路“予算カット”発言撤回 「深く反省」陳謝",
       "source": "NHK",
-      "time": "Mon, 05 Oct 2026 09:49:00 +0900"
+      "time": "Mon, 05 Oct 2026 17:31:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "臨時国会きょう召集 消費税減税法案などで論戦へ",
+      "text": "首相 所信表明演説 “経済の力で国民の暮らしを守る”【全文】",
       "source": "NHK",
-      "time": "Mon, 05 Oct 2026 08:27:59 +0900"
+      "time": "Mon, 05 Oct 2026 16:05:00 +0900"
     }
   ]
 }
