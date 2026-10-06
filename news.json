@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-06 16:09",
+  "updated_at": "2026-10-06 23:21",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ハッカー集団 中心人物か 国内で拘束 アサヒGHD攻撃にも関与か",
-      "source": "NHK",
-      "time": "Tue, 06 Oct 2026 11:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55001/20261006de55001_E0000046914_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "簗農相「予算は選挙結果ではなく公平適切に対応」",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 13:02:55 +0900",
+      "time": "Tue, 06 Oct 2026 19:50:50 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55039/20261006de55039_E0000046968_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ミスターマックスで不正アクセス 個人情報最大170万人超流出か",
+      "text": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 14:01:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55099/20261006de55099_E0000047121_1_l.jpg"
+      "time": "Tue, 06 Oct 2026 20:53:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55532/20261006de55532_E0000003477_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も",
+      "source": "NHK",
+      "time": "Tue, 06 Oct 2026 20:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55037/20261006de55037_E0000047936_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ノーベル物理学賞に米大学教授 「IceCube」でニュートリノ観測",
+      "source": "NHK",
+      "time": "Tue, 06 Oct 2026 22:16:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54668/20261005de54668_E0000049155_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風27号 関東の海上はあす明け方にかけて高波に警戒",
+      "source": "NHK",
+      "time": "Tue, 06 Oct 2026 20:26:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54955/20261006de54955_E0000050557_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "米海兵隊員逮捕 葉梨沖縄北方相「断じて容認できない」",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 12:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55019/20261006de55019_E0000046951_1_l.jpg"
+      "time": "Tue, 06 Oct 2026 20:30:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "食料品消費税減税法案 自民総務会で了承 今週中にも国会提出へ",
+      "text": "川崎重工 造船向けのフィジカルAI活用ロボット 試作機を公開",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 14:10:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55165/20261006de55165_E0000047702_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高市首相 米トランプ大統領に日朝首脳会談への働きかけを依頼",
-      "source": "NHK",
-      "time": "Tue, 06 Oct 2026 14:31:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風27号 関東の海上や伊豆諸島では大しけの見込み 高波に警戒",
-      "source": "NHK",
-      "time": "Tue, 06 Oct 2026 12:04:00 +0900"
+      "time": "Tue, 06 Oct 2026 19:49:00 +0900"
     }
   ]
 }
