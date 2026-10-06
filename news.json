@@ -1,74 +1,60 @@
 {
-  "updated_at": "2026-10-07 04:40",
-  "has_alert": true,
+  "updated_at": "2026-10-07 08:32",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　７日０２時４７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-06T17:52:41Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　７日０２時０１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-06T17:04:33Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "タイムズカー情報漏えい 業界団体に対策の点検を要請 国交省",
+      "source": "NHK",
+      "time": "Wed, 07 Oct 2026 05:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55582/20261006de55582_E0000050573_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "簗農相「予算は選挙結果ではなく公平適切に対応」",
+      "text": "沖縄の米軍トップ 「48時間活動停止」「夜間外出禁止」を発表",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 19:50:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55039/20261006de55039_E0000046968_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 05:57:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55607/20261007de55607_E0000050591_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "企業への不正アクセス被害相次ぐ 個人情報の大規模流出も",
+      "text": "子どもの転落事故“秋に増えるおそれ” 都などが注意呼びかけ",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 20:53:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55532/20261006de55532_E0000003477_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 06:29:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55584/20261006de55584_E0000050582_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も",
+      "text": "アメリカと中国が核関連施設の相互訪問協議か 米メディア報道",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 20:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55037/20261006de55037_E0000047936_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 07:34:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55632/20261007de55632_E0000050642_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル物理学賞に米大学教授 「IceCube」でニュートリノ観測",
+      "text": "ノーベル賞 7日は化学賞の発表日",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 22:16:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54668/20261005de54668_E0000049155_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 05:20:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55098/20261006de55098_E0000047098_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風27号 関東の海上はあす明け方にかけて高波に警戒",
+      "text": "ドジャース 大谷翔平 5番・指名打者で先発 地区シリーズ第3戦",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 20:26:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de54955/20261006de54955_E0000050557_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 06:32:53 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米海兵隊員逮捕 葉梨沖縄北方相「断じて容認できない」",
+      "text": "ウクライナ世論調査「ロシアに勝利できる」およそ8割",
       "source": "NHK",
-      "time": "Tue, 06 Oct 2026 20:30:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "旭化成子会社 個人情報55万人余 漏えいの可能性と発表",
-      "source": "NHK",
-      "time": "Wed, 07 Oct 2026 00:53:39 +0900"
+      "time": "Wed, 07 Oct 2026 07:47:49 +0900"
     }
   ]
 }
