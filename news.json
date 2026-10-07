@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-07 20:14",
+  "updated_at": "2026-10-08 02:53",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【随時更新】ノーベル化学賞に東京理科大学名誉教授",
+      "text": "ノーベル化学賞に東京理科大学名誉教授",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 19:41:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55098/20261006de55098_E0000053582_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 22:58:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55098/20261006de55098_E0000054434_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委",
+      "text": "ノーベル化学賞 受賞決定を受け東京理科大学で記者会見",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 19:27:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55664/20261007de55664_E0000051622_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 00:20:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54630/20261005de54630_E0000054423_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "簗農相「法令に従い適正に処理」シャトルバス報道受け",
+      "text": "「伝説の教授」「昔の学者肌」「研究一筋」各地で喜びの声",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 15:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55847/20261007de55847_E0000051768_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 22:39:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56145/20261007de56145_E0000053653_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米海兵隊員逮捕の強盗殺人 軍関係者資格持つカードで支払いか",
+      "text": "南海トラフ巨大地震 定例の評価検討会「特段の変化なし」",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 18:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56022/20261007de56022_E0000051914_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 01:20:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56204/20261008de56204_E0000054461_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プーチン大統領の誕生日に大規模攻撃か 12人以上死亡",
+      "text": "沖縄 女性殺害事件 元交際相手を逮捕 女性はストーカー被害",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 18:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56090/20261007de56090_E0000053318_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 01:10:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56187/20261007de56187_E0000054452_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
+      "text": "介護団体が事業所の経営環境改善へ 介護報酬引き上げなど訴え",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 19:54:58 +0900"
+      "time": "Thu, 08 Oct 2026 01:18:59 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
+      "text": "原子力人材確保へ 官民が共同で新団体を設立",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 18:08:00 +0900"
+      "time": "Wed, 07 Oct 2026 23:55:00 +0900"
     }
   ]
 }
