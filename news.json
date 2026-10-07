@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-10-07 08:32",
+  "updated_at": "2026-10-07 13:10",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "タイムズカー情報漏えい 業界団体に対策の点検を要請 国交省",
+      "text": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 05:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55582/20261006de55582_E0000050573_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 13:00:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55664/20261007de55664_E0000051622_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "簗農相“道路予算カット”発言で働きかけ改めて否定",
+      "source": "NHK",
+      "time": "Wed, 07 Oct 2026 11:53:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55717/20261007de55717_E0000051100_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "小泉防衛相“米兵逮捕でアメリカ側と対策協議”古謝知事に伝達",
+      "source": "NHK",
+      "time": "Wed, 07 Oct 2026 11:45:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55698/20261007de55698_E0000051070_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,40 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "子どもの転落事故“秋に増えるおそれ” 都などが注意呼びかけ",
+      "text": "ブルガリア沖の黒海で民間船に無人機攻撃 行方不明者も",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 06:29:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55584/20261006de55584_E0000050582_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 09:35:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55636/20261007de55636_E0000050889_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカと中国が核関連施設の相互訪問協議か 米メディア報道",
+      "text": "ドジャース 山本由伸が好投 リーグ優勝決定シリーズ進出に王手",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 07:34:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55632/20261007de55632_E0000050642_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 12:23:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル賞 7日は化学賞の発表日",
+      "text": "万博背任事件 竹中工務店元社員を再逮捕 別工事でも水増しか",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 05:20:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55098/20261006de55098_E0000047098_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース 大谷翔平 5番・指名打者で先発 地区シリーズ第3戦",
-      "source": "NHK",
-      "time": "Wed, 07 Oct 2026 06:32:53 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ウクライナ世論調査「ロシアに勝利できる」およそ8割",
-      "source": "NHK",
-      "time": "Wed, 07 Oct 2026 07:47:49 +0900"
+      "time": "Wed, 07 Oct 2026 12:58:11 +0900"
     }
   ]
 }
