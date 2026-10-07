@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-07 13:10",
+  "updated_at": "2026-10-07 20:14",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "【随時更新】ノーベル化学賞に東京理科大学名誉教授",
+      "source": "NHK",
+      "time": "Wed, 07 Oct 2026 19:41:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55098/20261006de55098_E0000053582_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 13:00:26 +0900",
+      "time": "Wed, 07 Oct 2026 19:27:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55664/20261007de55664_E0000051622_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "簗農相“道路予算カット”発言で働きかけ改めて否定",
+      "text": "簗農相「法令に従い適正に処理」シャトルバス報道受け",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 11:53:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55717/20261007de55717_E0000051100_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 15:14:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55847/20261007de55847_E0000051768_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小泉防衛相“米兵逮捕でアメリカ側と対策協議”古謝知事に伝達",
+      "text": "米海兵隊員逮捕の強盗殺人 軍関係者資格持つカードで支払いか",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 11:45:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55698/20261007de55698_E0000051070_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 18:18:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56022/20261007de56022_E0000051914_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄の米軍トップ 「48時間活動停止」「夜間外出禁止」を発表",
+      "text": "プーチン大統領の誕生日に大規模攻撃か 12人以上死亡",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 05:57:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55607/20261007de55607_E0000050591_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 18:50:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56090/20261007de56090_E0000053318_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ブルガリア沖の黒海で民間船に無人機攻撃 行方不明者も",
+      "text": "ソフトバンク子会社に不正アクセス クラウドサービスに障害",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 09:35:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55636/20261007de55636_E0000050889_1_l.jpg"
+      "time": "Wed, 07 Oct 2026 19:54:58 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 山本由伸が好投 リーグ優勝決定シリーズ進出に王手",
+      "text": "損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 12:23:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "万博背任事件 竹中工務店元社員を再逮捕 別工事でも水増しか",
-      "source": "NHK",
-      "time": "Wed, 07 Oct 2026 12:58:11 +0900"
+      "time": "Wed, 07 Oct 2026 18:08:00 +0900"
     }
   ]
 }
