@@ -1,60 +1,88 @@
 {
-  "updated_at": "2026-10-08 02:53",
-  "has_alert": false,
+  "updated_at": "2026-10-08 07:38",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ノーベル化学賞に東京理科大学名誉教授",
-      "source": "NHK",
-      "time": "Wed, 07 Oct 2026 22:58:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261006de55098/20261006de55098_E0000054434_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日０７時１４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-07T22:17:52Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう　８日０７時１４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-07T22:16:38Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】　８日０７時１４分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-10-07T22:15:59Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日０６時３６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-07T21:38:35Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル化学賞 受賞決定を受け東京理科大学で記者会見",
+      "text": "【地震速報】茨城県北部で震度3 津波の心配なし",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 00:20:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261005de54630/20261005de54630_E0000054423_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 07:20:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56237/20261008de56237_E0000054590_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「伝説の教授」「昔の学者肌」「研究一筋」各地で喜びの声",
+      "text": "ノーベル化学賞に東京理科大学名誉教授 会見で喜びの声",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 22:39:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56145/20261007de56145_E0000053653_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 05:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56220/20261008de56220_E0000054470_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "南海トラフ巨大地震 定例の評価検討会「特段の変化なし」",
+      "text": "大手ビールメーカー4社 出荷価格の一覧表“裏会”で示し協議か",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 01:20:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56204/20261008de56204_E0000054461_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 05:26:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56219/20261008de56219_E0000054467_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄 女性殺害事件 元交際相手を逮捕 女性はストーカー被害",
+      "text": "参院できょうから代表質問 消費税減税など論戦 農相発言追及も",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 01:10:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de56187/20261007de56187_E0000054452_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 05:35:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56201/20261008de56201_E0000054458_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "介護団体が事業所の経営環境改善へ 介護報酬引き上げなど訴え",
+      "text": "ローカル線に続き「幹線」も 鉄道網見直しへ新たな議論",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 01:18:59 +0900"
+      "time": "Thu, 08 Oct 2026 05:30:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56192/20261008de56192_E0000054457_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "原子力人材確保へ 官民が共同で新団体を設立",
+      "text": "特殊詐欺の金を暗号資産に交換し資金洗浄か 6人逮捕 警視庁",
       "source": "NHK",
-      "time": "Wed, 07 Oct 2026 23:55:00 +0900"
+      "time": "Thu, 08 Oct 2026 05:36:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "FRB利上げ インフレ上振れに警戒感 多くが追加利上げ支持",
+      "source": "NHK",
+      "time": "Thu, 08 Oct 2026 07:06:59 +0900"
     }
   ]
 }
