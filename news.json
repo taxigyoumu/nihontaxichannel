@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-10-08 18:21",
+  "updated_at": "2026-10-09 01:45",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】　８日１８時１４分ころ、地震がありました。",
+      "text": "【震源・震度情報】　９日００時３１分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-10-08T09:17:00Z"
+      "time": "2026-10-08T15:34:57Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し",
+      "text": "大学や母校 地元で…受賞決定に祝福の声続々と",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 15:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56547/20261008de56547_E0000055866_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 21:11:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56606/20261008de56606_E0000056082_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プロ野球 中日の新監督に工藤公康氏 就任へ",
+      "text": "阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 10:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56275/20261008de56275_E0000054887_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 23:54:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56508/20261008de56508_E0000055812_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース 3年連続でリーグ優勝決定シリーズ進出",
+      "text": "ノーベル文学賞にアン・カーソン氏 カナダの詩人",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 17:14:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56277/20261008de56277_E0000055017_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 22:08:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55972/20261007de55972_E0000051870_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "来春統一地方選 4月11日・25日実施へ 自民に特例法案提示 政府",
+      "text": "相次ぐ不正アクセスで3つの攻撃手法 専門機関が注意呼びかけ",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 18:10:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56779/20261008de56779_E0000004047_1_l.jpg"
+      "time": "Thu, 08 Oct 2026 21:25:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56876/20261008de56876_E0000058643_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "参議院自民 参議院幹事長人事で石井氏交代の説明を求める声",
+      "text": "米大統領が習主席に“高市首相との対話”呼びかけか　香港紙",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 13:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56463/20261008de56463_E0000055554_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "受賞から一夜明け “どうなるかわからない研究含め支援を”",
-      "source": "NHK",
-      "time": "Thu, 08 Oct 2026 13:59:56 +0900"
+      "time": "Thu, 08 Oct 2026 21:37:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56829/20261008de56829_E0000057822_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ソフトバンク子会社にランサムウエア攻撃 企業や自治体に影響",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 16:02:29 +0900"
+      "time": "Thu, 08 Oct 2026 19:13:32 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "プロ野球結果 セ・リーグ1試合 レギュラーシーズンが終了",
+      "source": "NHK",
+      "time": "Thu, 08 Oct 2026 22:14:00 +0900"
     }
   ]
 }
