@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-10-09 01:45",
-  "has_alert": true,
+  "updated_at": "2026-10-09 06:48",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　９日００時３１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-08T15:34:57Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "企業への不正アクセス 相次いで明らかに",
+      "source": "NHK",
+      "time": "Fri, 09 Oct 2026 05:38:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56931/20261009de56931_E0000003476_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大学や母校 地元で…受賞決定に祝福の声続々と",
+      "text": "ノーベル平和賞 きょう発表 ICCやICJの受賞あるか注目集まる",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 21:11:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56606/20261008de56606_E0000056082_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 06:11:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55783/20261007de55783_E0000051493_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "阪神 佐藤輝明が三冠王 4年ぶり史上9人目 村上宗隆以来",
+      "text": "トランプ大統領「中間選挙前にイランを攻撃することはない」",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 23:54:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56508/20261008de56508_E0000055812_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 02:49:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56929/20261009de56929_E0000058821_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル文学賞にアン・カーソン氏 カナダの詩人",
+      "text": "ソフトバンク子会社 サイバー攻撃受け データ復旧などは困難",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 22:08:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55972/20261007de55972_E0000051870_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 06:28:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56918/20261009de56918_E0000058822_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "相次ぐ不正アクセスで3つの攻撃手法 専門機関が注意呼びかけ",
+      "text": "声優などの団体 声の生成AIガイドライン初作成“事前許諾を”",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 21:25:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56876/20261008de56876_E0000058643_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 05:13:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56922/20261009de56922_E0000058819_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米大統領が習主席に“高市首相との対話”呼びかけか　香港紙",
+      "text": "消費税法案提出へ 与党“早期審議入り”野党“財源追及”",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 21:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261008de56829/20261008de56829_E0000057822_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 05:02:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ソフトバンク子会社にランサムウエア攻撃 企業や自治体に影響",
+      "text": "紅白歌合戦 司会に芦田愛菜さん 堺雅人さん 二宮和也さん",
       "source": "NHK",
-      "time": "Thu, 08 Oct 2026 19:13:32 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "プロ野球結果 セ・リーグ1試合 レギュラーシーズンが終了",
-      "source": "NHK",
-      "time": "Thu, 08 Oct 2026 22:14:00 +0900"
+      "time": "Fri, 09 Oct 2026 06:00:00 +0900"
     }
   ]
 }
