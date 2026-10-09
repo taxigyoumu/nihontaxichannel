@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-09 10:43",
+  "updated_at": "2026-10-09 17:26",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ブックオフ 不正アクセスで最大643万件の会員情報漏えいか",
+      "text": "JR東日本とビューカード 最大600万件余の会員情報漏えいか",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 10:20:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56955/20261009de56955_E0000059131_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 16:12:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57177/20261009de57177_E0000003580_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "1400万件超の情報が流出か 大規模な情報漏えい相次ぐ",
+      "source": "NHK",
+      "time": "Fri, 09 Oct 2026 17:00:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57123/20261009de57123_E0000060051_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "インフルエンザ 今シーズン初めて1医療機関あたり10人超える",
+      "source": "NHK",
+      "time": "Fri, 09 Oct 2026 15:39:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56984/20261009de56984_E0000060073_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "金融庁がプルデンシャル生命に一部業務停止命令",
+      "source": "NHK",
+      "time": "Fri, 09 Oct 2026 17:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57195/20261009de57195_E0000060052_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "政府 食料品の消費税減税関連法案を閣議決定",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 09:45:53 +0900",
+      "time": "Fri, 09 Oct 2026 15:16:40 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56958/20261009de56958_E0000059147_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ソフトバンク子会社 サイバー攻撃受け データ復旧などは困難",
+      "text": "簗農相 バス無料送迎報道「事実関係を整理でき次第説明」",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 06:28:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56918/20261009de56918_E0000058822_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 16:02:39 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "8月家計調査 実質の消費支出9か月連続減少",
+      "text": "大津 いじめ苦の生徒死亡から15年 命の大切さ考える集会",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 08:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56954/20261009de56954_E0000059143_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ政権 マイクロソフトなどの永住権手続き受け付け停止",
-      "source": "NHK",
-      "time": "Fri, 09 Oct 2026 08:07:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56951/20261009de56951_E0000059077_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロシア ICC赤根所長らの身柄引き渡しをオランダなどに要請",
-      "source": "NHK",
-      "time": "Fri, 09 Oct 2026 07:10:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ノーベル平和賞 きょう発表 ICCやICJの受賞あるか注目集まる",
-      "source": "NHK",
-      "time": "Fri, 09 Oct 2026 06:11:00 +0900"
+      "time": "Fri, 09 Oct 2026 16:53:21 +0900"
     }
   ]
 }
