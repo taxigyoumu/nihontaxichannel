@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-09 17:26",
+  "updated_at": "2026-10-10 00:29",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR東日本とビューカード 最大600万件余の会員情報漏えいか",
+      "text": "米トランプ政権 ICC＝国際刑事裁判所を制裁対象に",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 16:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57177/20261009de57177_E0000003580_1_l.jpg"
+      "time": "Sat, 10 Oct 2026 00:22:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57527/20261009de57527_E0000062939_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "1400万件超の情報が流出か 大規模な情報漏えい相次ぐ",
+      "text": "ノーベル平和賞にナビ・ピレイ氏 国連人権高等弁務官など歴任",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 17:00:45 +0900",
+      "time": "Fri, 09 Oct 2026 23:53:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55783/20261007de55783_E0000061310_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「バイトル」会員メールアドレス 388万件余漏えいのおそれ",
+      "source": "NHK",
+      "time": "Fri, 09 Oct 2026 22:49:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57499/20261009de57499_E0000004054_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "JR九州 最大130万件のメールアドレス漏えいの可能性",
+      "source": "NHK",
+      "time": "Fri, 09 Oct 2026 23:41:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57525/20261009de57525_E0000062938_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "スカイチケット ブックオフでも…情報漏えい相次ぐ【対策は】",
+      "source": "NHK",
+      "time": "Sat, 10 Oct 2026 00:03:54 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57123/20261009de57123_E0000060051_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インフルエンザ 今シーズン初めて1医療機関あたり10人超える",
+      "text": "監視委のインサイダー勧告に「事実認めず」の異例決定",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 15:39:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56984/20261009de56984_E0000060073_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 22:33:27 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "金融庁がプルデンシャル生命に一部業務停止命令",
+      "text": "靖国神社の内部文書初開示 A級戦犯合祀の詳細が明らかに",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 17:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57195/20261009de57195_E0000060052_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "政府 食料品の消費税減税関連法案を閣議決定",
-      "source": "NHK",
-      "time": "Fri, 09 Oct 2026 15:16:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56958/20261009de56958_E0000059147_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "簗農相 バス無料送迎報道「事実関係を整理でき次第説明」",
-      "source": "NHK",
-      "time": "Fri, 09 Oct 2026 16:02:39 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大津 いじめ苦の生徒死亡から15年 命の大切さ考える集会",
-      "source": "NHK",
-      "time": "Fri, 09 Oct 2026 16:53:21 +0900"
+      "time": "Fri, 09 Oct 2026 20:16:42 +0900"
     }
   ]
 }
