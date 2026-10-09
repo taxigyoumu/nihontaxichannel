@@ -1,30 +1,22 @@
 {
-  "updated_at": "2026-10-09 06:48",
+  "updated_at": "2026-10-09 10:43",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "企業への不正アクセス 相次いで明らかに",
+      "text": "ブックオフ 不正アクセスで最大643万件の会員情報漏えいか",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 05:38:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56931/20261009de56931_E0000003476_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 10:20:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56955/20261009de56955_E0000059131_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル平和賞 きょう発表 ICCやICJの受賞あるか注目集まる",
+      "text": "政府 食料品の消費税減税関連法案を閣議決定",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 06:11:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55783/20261007de55783_E0000051493_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ大統領「中間選挙前にイランを攻撃することはない」",
-      "source": "NHK",
-      "time": "Fri, 09 Oct 2026 02:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56929/20261009de56929_E0000058821_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 09:45:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56958/20261009de56958_E0000059147_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "声優などの団体 声の生成AIガイドライン初作成“事前許諾を”",
+      "text": "8月家計調査 実質の消費支出9か月連続減少",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 05:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56922/20261009de56922_E0000058819_1_l.jpg"
+      "time": "Fri, 09 Oct 2026 08:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56954/20261009de56954_E0000059143_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税法案提出へ 与党“早期審議入り”野党“財源追及”",
+      "text": "トランプ政権 マイクロソフトなどの永住権手続き受け付け停止",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 05:02:00 +0900"
+      "time": "Fri, 09 Oct 2026 08:07:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de56951/20261009de56951_E0000059077_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "紅白歌合戦 司会に芦田愛菜さん 堺雅人さん 二宮和也さん",
+      "text": "ロシア ICC赤根所長らの身柄引き渡しをオランダなどに要請",
       "source": "NHK",
-      "time": "Fri, 09 Oct 2026 06:00:00 +0900"
+      "time": "Fri, 09 Oct 2026 07:10:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ノーベル平和賞 きょう発表 ICCやICJの受賞あるか注目集まる",
+      "source": "NHK",
+      "time": "Fri, 09 Oct 2026 06:11:00 +0900"
     }
   ]
 }
