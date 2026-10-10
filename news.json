@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-10 09:11",
+  "updated_at": "2026-10-10 15:11",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【詳しく】米トランプ政権 ICC＝国際刑事裁判所を制裁対象に",
+      "text": "大阪 泉佐野のだんじり祭りで事故 １人死亡 複数人けがの情報",
       "source": "NHK",
-      "time": "Sat, 10 Oct 2026 05:11:00 +0900",
+      "time": "Sat, 10 Oct 2026 14:26:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57626/20261010de57626_E0000063366_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】",
+      "source": "NHK",
+      "time": "Sat, 10 Oct 2026 11:47:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57527/20261009de57527_E0000062939_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任",
+      "text": "世界メンタルヘルスデー 心のケア学ぶイベント",
       "source": "NHK",
-      "time": "Sat, 10 Oct 2026 03:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261007de55783/20261007de55783_E0000061310_1_l.jpg"
+      "time": "Sat, 10 Oct 2026 14:54:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57631/20261010de57631_E0000063361_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府 相次ぐ不正アクセス受け 官民問わず対策の徹底求める",
+      "text": "トランプ大統領“ロシアから軽油供給 プーチン大統領に感謝”",
       "source": "NHK",
-      "time": "Sat, 10 Oct 2026 05:14:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57529/20261010de57529_E0000062949_1_l.jpg"
+      "time": "Sat, 10 Oct 2026 10:27:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57567/20261010de57567_E0000063153_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "目黒のさんま祭 不漁で去年水揚げのサンマ提供へ 11日開催",
+      "source": "NHK",
+      "time": "Sat, 10 Oct 2026 12:27:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57574/20261010de57574_E0000063179_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」",
+      "source": "NHK",
+      "time": "Sat, 10 Oct 2026 12:24:42 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "簗農相 バス無料送迎報道で出納責任者「違法という認識ない」",
       "source": "NHK",
-      "time": "Sat, 10 Oct 2026 07:37:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57496/20261009de57496_E0000062895_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "パナマでM7.6の地震 日本で若干の海面変動も被害の心配なし",
-      "source": "NHK",
-      "time": "Sat, 10 Oct 2026 06:15:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57543/20261010de57543_E0000062961_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "日英伊の次期戦闘機 イタリアに新たな開発拠点設置で式典",
-      "source": "NHK",
-      "time": "Sat, 10 Oct 2026 07:50:02 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "除染土の再生利用 理解醸成を進めるため国立公園で情報発信",
-      "source": "NHK",
-      "time": "Sat, 10 Oct 2026 07:33:14 +0900"
+      "time": "Sat, 10 Oct 2026 07:37:30 +0900"
     }
   ]
 }
