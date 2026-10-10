@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-10-11 02:37",
+  "updated_at": "2026-10-11 06:07",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "茂木外相 米国ルビオ国務長官にICC制裁への日本の立場伝達",
+      "text": "ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表",
       "source": "NHK",
-      "time": "Sat, 10 Oct 2026 23:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57789/20261010de57789_E0000064104_1_l.jpg"
+      "time": "Sun, 11 Oct 2026 03:51:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57809/20261011de57809_E0000064127_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アルツハイマー病の原因物質減らす マウスで実験成功 東大など",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 05:50:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57813/20261011de57813_E0000064132_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 05:09:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57808/20261011de57808_E0000064125_1_l.jpg"
     },
     {
       "category": "news",
@@ -21,40 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル化学賞 そ※合さん 東京理科大が「栄誉教授」授与決定",
+      "text": "茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達",
       "source": "NHK",
-      "time": "Sat, 10 Oct 2026 21:04:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57761/20261010de57761_E0000063951_1_l.jpg"
+      "time": "Sat, 10 Oct 2026 23:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57789/20261010de57789_E0000064104_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "インド“ゴキブリ人民党”創設者　抗議活動前に拘束",
       "source": "NHK",
-      "time": "Sat, 10 Oct 2026 23:20:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57783/20261010de57783_E0000064082_1_l.jpg"
+      "time": "Sat, 10 Oct 2026 23:20:28 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "将棋の西山朋佳女流四冠 女性初のプロ棋士権利獲得",
+      "text": "ＮＨＫ全国学校音楽コンクール 高校の部が開催",
       "source": "NHK",
-      "time": "Sat, 10 Oct 2026 19:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57697/20261010de57697_E0000063880_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "トランプ大統領 ホワイトハウスの新しい報道官を発表",
-      "source": "NHK",
-      "time": "Sat, 10 Oct 2026 20:15:52 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米アンソロピック AIが警察に殺人事件の架空情報送信",
-      "source": "NHK",
-      "time": "Sat, 10 Oct 2026 19:03:00 +0900"
+      "time": "Sun, 11 Oct 2026 05:05:44 +0900"
     }
   ]
 }
