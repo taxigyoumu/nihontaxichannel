@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-10-11 22:15",
-  "has_alert": true,
+  "updated_at": "2026-10-12 03:16",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-10-11T12:11:36Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-10-11T12:11:36Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県乾燥注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-10-11T12:11:25Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -34,10 +13,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に",
+      "text": "ネパールで土石流が発生 軍が救助活動 土砂が川をせき止める",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 18:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57965/20261011de57965_E0000064572_1_l.jpg"
+      "time": "Sun, 11 Oct 2026 22:17:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58027/20261011de58027_E0000065366_1_l.jpg"
     },
     {
       "category": "news",
@@ -46,6 +25,14 @@
       "source": "NHK",
       "time": "Sun, 11 Oct 2026 18:59:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57816/20261011de57816_E0000064238_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 18:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57965/20261011de57965_E0000064572_1_l.jpg"
     },
     {
       "category": "news",
@@ -60,8 +47,7 @@
       "label": "ニュース",
       "text": "北朝鮮が韓国との境界付近を「要塞化」？いったい何が",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 19:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57841/20261011de57841_E0000064473_1_l.jpg"
+      "time": "Sun, 11 Oct 2026 19:47:00 +0900"
     },
     {
       "category": "news",
@@ -69,13 +55,6 @@
       "text": "ベトナムのドクさん 鹿児島で水俣病の被害者らと意見交換",
       "source": "NHK",
       "time": "Sun, 11 Oct 2026 20:19:06 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "拉致被害者5人帰国から24年を前に 横田拓也さんが支援訴え",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 20:04:52 +0900"
     }
   ]
 }
