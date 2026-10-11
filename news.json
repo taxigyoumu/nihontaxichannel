@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-10-12 03:16",
-  "has_alert": false,
+  "updated_at": "2026-10-12 07:15",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１２日０５時０５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-11T20:08:56Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "石破前首相 簗農相発言を批判“全国民の代表者との認識ない”",
+      "text": "“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 17:44:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57884/20261011de57884_E0000064486_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 04:50:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58041/20261011de58041_E0000065390_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フーシ派 リヤドの国際空港攻撃と主張 緊張高まり懸念",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 04:37:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58042/20261011de58042_E0000065403_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "連休最終日も広く晴れ 太平洋沿岸は高波注意",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 06:02:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58040/20261011de58040_E0000065409_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“ロシアのグーグル”に無人機攻撃　一部サービス利用できず",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 06:29:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58066/20261012de58066_E0000065414_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 06:19:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58065/20261012de58065_E0000065412_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ネパールで土石流が発生 軍が救助活動 土砂が川をせき止める",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 22:17:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58027/20261011de58027_E0000065366_1_l.jpg"
+      "time": "Sun, 11 Oct 2026 22:17:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ",
+      "text": "巨人一筋20年の坂本勇人 来季も現役続行の見通し",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 18:59:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57816/20261011de57816_E0000064238_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 18:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57965/20261011de57965_E0000064572_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 17:22:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57845/20261011de57845_E0000064538_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北朝鮮が韓国との境界付近を「要塞化」？いったい何が",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 19:47:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ベトナムのドクさん 鹿児島で水俣病の被害者らと意見交換",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 20:19:06 +0900"
+      "time": "Mon, 12 Oct 2026 05:10:07 +0900"
     }
   ]
 }
