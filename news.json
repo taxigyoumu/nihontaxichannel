@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-11 09:19",
+  "updated_at": "2026-10-11 15:09",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サウジ首都の国際空港に攻撃 12人死亡 けが人300人以上",
+      "text": "サウジ首都空港に攻撃 12人死亡 米国務長官は攻撃を強く非難",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 08:13:00 +0900",
+      "time": "Sun, 11 Oct 2026 11:59:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57816/20261011de57816_E0000064238_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ホワイトソックスが地区シリーズで敗退 村上は4打数4三振",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 13:14:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57843/20261011de57843_E0000064299_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "石破前首相 簗農相発言を批判“全国民の代表者との認識ない”",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 14:47:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57884/20261011de57884_E0000064486_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース大谷翔平 復調へ第1戦前にフリー打撃で調整",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 14:50:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57881/20261011de57881_E0000064484_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "天皇皇后両陛下 青森で国民スポーツ大会の卓球競技を観戦",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 12:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57868/20261011de57868_E0000064416_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "自民 古屋前選対委員長 台湾訪問 頼総統と会談",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 14:09:29 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 07:31:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261010de57789/20261010de57789_E0000064104_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アルツハイマー病の原因物質減らす マウスで実験成功 東大など",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 05:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57813/20261011de57813_E0000064132_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 03:51:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57809/20261011de57809_E0000064127_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 05:09:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57808/20261011de57808_E0000064125_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ウクライナ ロシア軍の攻撃で子ども含む20人以上死亡",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 06:35:49 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大阪 伝統のだんじり祭りで横転事故相次ぐ 2人死亡",
-      "source": "NHK",
-      "time": "Sat, 10 Oct 2026 19:05:00 +0900"
+      "time": "Sun, 11 Oct 2026 07:31:00 +0900"
     }
   ]
 }
