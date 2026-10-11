@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-10-11 15:09",
-  "has_alert": false,
+  "updated_at": "2026-10-11 22:15",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サウジ首都空港に攻撃 12人死亡 米国務長官は攻撃を強く非難",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 11:59:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57816/20261011de57816_E0000064238_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-11T12:11:36Z"
     },
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホワイトソックスが地区シリーズで敗退 村上は4打数4三振",
-      "source": "NHK",
-      "time": "Sun, 11 Oct 2026 13:14:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57843/20261011de57843_E0000064299_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-11T12:11:36Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県乾燥注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-11T12:11:25Z"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "石破前首相 簗農相発言を批判“全国民の代表者との認識ない”",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 14:47:37 +0900",
+      "time": "Sun, 11 Oct 2026 17:44:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57884/20261011de57884_E0000064486_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース大谷翔平 復調へ第1戦前にフリー打撃で調整",
+      "text": "アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 14:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57881/20261011de57881_E0000064484_1_l.jpg"
+      "time": "Sun, 11 Oct 2026 18:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57965/20261011de57965_E0000064572_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "天皇皇后両陛下 青森で国民スポーツ大会の卓球競技を観戦",
+      "text": "サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 12:53:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57868/20261011de57868_E0000064416_1_l.jpg"
+      "time": "Sun, 11 Oct 2026 18:59:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57816/20261011de57816_E0000064238_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民 古屋前選対委員長 台湾訪問 頼総統と会談",
+      "text": "米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 14:09:29 +0900"
+      "time": "Sun, 11 Oct 2026 17:22:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57845/20261011de57845_E0000064538_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達",
+      "text": "北朝鮮が韓国との境界付近を「要塞化」？いったい何が",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 07:31:00 +0900"
+      "time": "Sun, 11 Oct 2026 19:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de57841/20261011de57841_E0000064473_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ベトナムのドクさん 鹿児島で水俣病の被害者らと意見交換",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 20:19:06 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "拉致被害者5人帰国から24年を前に 横田拓也さんが支援訴え",
+      "source": "NHK",
+      "time": "Sun, 11 Oct 2026 20:04:52 +0900"
     }
   ]
 }
