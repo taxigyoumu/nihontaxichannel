@@ -1,37 +1,29 @@
 {
-  "updated_at": "2026-10-12 07:15",
+  "updated_at": "2026-10-12 10:31",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１２日０５時０５分ころ、地震がありました。",
+      "text": "【震源・震度情報】１２日０９時５３分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-10-11T20:08:56Z"
+      "time": "2026-10-12T01:00:17Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ",
+      "text": "北朝鮮 相次ぎ“弾道ミサイル”発射 いずれもEEZ外に落下か",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 04:50:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58041/20261011de58041_E0000065390_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 10:20:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58077/20261012de58077_E0000065570_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フーシ派 リヤドの国際空港攻撃と主張 緊張高まり懸念",
+      "text": "【速報中】ドジャース ナショナルリーグ優勝決定シリーズ第1戦",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 04:37:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58042/20261011de58042_E0000065403_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "連休最終日も広く晴れ 太平洋沿岸は高波注意",
-      "source": "NHK",
-      "time": "Mon, 12 Oct 2026 06:02:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58040/20261011de58040_E0000065409_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 10:29:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58022/20261011de58022_E0000065520_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,10 +36,18 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿",
+      "text": "巨人一筋20年の坂本勇人 来季も現役続行の見通し",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 06:19:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58065/20261012de58065_E0000065412_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 05:10:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58051/20261012de58051_E0000065396_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フーシ派 リヤドの国際空港攻撃と主張 緊張高まり懸念",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 04:37:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58042/20261011de58042_E0000065403_1_l.jpg"
     },
     {
       "category": "news",
@@ -59,9 +59,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "巨人一筋20年の坂本勇人 来季も現役続行の見通し",
+      "text": "連休最終日も広く晴れ 太平洋沿岸は高波注意",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 05:10:07 +0900"
+      "time": "Mon, 12 Oct 2026 06:02:00 +0900"
     }
   ]
 }
