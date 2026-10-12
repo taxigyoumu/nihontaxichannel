@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-10-12 17:33",
-  "has_alert": false,
+  "updated_at": "2026-10-13 03:33",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１３日０２時２５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-12T17:28:37Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 那珂川町 工場火災 消火活動続く けが人なし",
+      "text": "ノーベル経済学賞にアメリカの2人の研究者",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 14:50:00 +0900",
+      "time": "Mon, 12 Oct 2026 21:19:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57272/20261009de57272_E0000065958_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "栃木 那珂川町 工場火災 鎮火のめど立たず 夜間も消火活動へ",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 21:59:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58117/20261012de58117_E0000065665_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず",
+      "text": "「やりがい感じるけど…」どうなる介護報酬 現場は？",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 13:42:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58077/20261012de58077_E0000065735_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 19:38:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58129/20261012de58129_E0000065777_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "経営者に戦略のアドバイスも 経営の中枢でAI活用の動き相次ぐ",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 19:46:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58173/20261012de58173_E0000065801_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "連休最終日 九州などで真夏日に 14日以降は北日本などで荒天も",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 17:51:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58040/20261011de58040_E0000065799_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サウジアラビア 首都の国際空港に攻撃相次ぐ 緊張の高まり懸念",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 19:33:58 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 17:25:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58196/20261012de58196_E0000004053_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "出雲全日本大学選抜駅伝 早稲田大が16年ぶり優勝",
-      "source": "NHK",
-      "time": "Mon, 12 Oct 2026 13:57:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58125/20261012de58125_E0000065719_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "国民 古川代表代行 簗農相“説明できなくば潔く身処すの当然”",
-      "source": "NHK",
-      "time": "Mon, 12 Oct 2026 17:15:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58170/20261012de58170_E0000065781_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャースは黒星スタート リーグ優勝決定シリーズ【詳報】",
-      "source": "NHK",
-      "time": "Mon, 12 Oct 2026 17:21:21 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "愛子さま 青森で国民スポーツ大会の軟式野球を観戦",
-      "source": "NHK",
-      "time": "Mon, 12 Oct 2026 17:22:00 +0900"
+      "time": "Mon, 12 Oct 2026 23:47:00 +0900"
     }
   ]
 }
