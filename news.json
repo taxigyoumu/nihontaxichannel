@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-10-12 10:31",
-  "has_alert": true,
+  "updated_at": "2026-10-12 17:33",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１２日０９時５３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-12T01:00:17Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "栃木 那珂川町 工場火災 消火活動続く けが人なし",
+      "source": "NHK",
+      "time": "Mon, 12 Oct 2026 14:50:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58117/20261012de58117_E0000065665_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北朝鮮 相次ぎ“弾道ミサイル”発射 いずれもEEZ外に落下か",
+      "text": "北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 10:20:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58077/20261012de58077_E0000065570_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 13:42:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58077/20261012de58077_E0000065735_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】ドジャース ナショナルリーグ優勝決定シリーズ第1戦",
+      "text": "プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 10:29:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58022/20261011de58022_E0000065520_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 17:25:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58196/20261012de58196_E0000004053_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“ロシアのグーグル”に無人機攻撃　一部サービス利用できず",
+      "text": "出雲全日本大学選抜駅伝 早稲田大が16年ぶり優勝",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 06:29:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58066/20261012de58066_E0000065414_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 13:57:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58125/20261012de58125_E0000065719_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "巨人一筋20年の坂本勇人 来季も現役続行の見通し",
+      "text": "国民 古川代表代行 簗農相“説明できなくば潔く身処すの当然”",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 05:10:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58051/20261012de58051_E0000065396_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 17:15:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58170/20261012de58170_E0000065781_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フーシ派 リヤドの国際空港攻撃と主張 緊張高まり懸念",
+      "text": "ドジャースは黒星スタート リーグ優勝決定シリーズ【詳報】",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 04:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58042/20261011de58042_E0000065403_1_l.jpg"
+      "time": "Mon, 12 Oct 2026 17:21:21 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパールで土石流が発生 軍が救助活動 土砂が川をせき止める",
+      "text": "愛子さま 青森で国民スポーツ大会の軟式野球を観戦",
       "source": "NHK",
-      "time": "Sun, 11 Oct 2026 22:17:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "連休最終日も広く晴れ 太平洋沿岸は高波注意",
-      "source": "NHK",
-      "time": "Mon, 12 Oct 2026 06:02:00 +0900"
+      "time": "Mon, 12 Oct 2026 17:22:00 +0900"
     }
   ]
 }
