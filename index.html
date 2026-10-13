@@ -668,37 +668,6 @@ for(var i=0;i<65;i++){
             title="安全注意喚起">
           </iframe>
         </div>
-        <!-- ③.3 9月度ミーティング動画 公開のお知らせ -->
-        <div class="ev-slot" id="ev-goodlearning-sep" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:16px 20px;display:flex;flex-direction:column;gap:11px;background:#fff;">
-          <div style="display:flex;align-items:center;gap:10px;">
-            <span style="background:#e52020;color:#fff;font-size:12px;font-weight:900;padding:3px 12px;border-radius:4px;letter-spacing:.06em;flex:none;">お知らせ</span>
-            <span style="font-size:17px;font-weight:900;color:var(--text-primary);line-height:1.3;">令和8年 <b style="color:var(--info-blue);">9月度</b> ミーティング動画を公開しました</span>
-          </div>
-          <div style="display:flex;gap:16px;flex:1;min-height:0;">
-            <div style="flex:1;display:flex;flex-direction:column;gap:10px;min-width:0;">
-              <div style="background:#FDF7EA;border:1px solid #EADFC4;border-radius:10px;padding:6px;align-self:flex-start;">
-                <img src="nyanshi_sep.jpg" alt="にゃん氏" style="display:block;width:180px;height:auto;border-radius:6px;">
-              </div>
-              <div style="font-size:13.5px;line-height:1.7;color:var(--text-primary);">
-                右のQRコードから<b>ログイン</b>して視聴してください。<br>
-                <b style="color:#e52020;">最後のページまで進んで「完了」ボタンを押す</b>まで、視聴完了になりません。
-              </div>
-            </div>
-            <div style="flex:none;width:212px;display:flex;flex-direction:column;align-items:center;gap:7px;">
-              <div style="background:#fff;border:2px solid var(--info-blue);border-radius:10px;padding:8px;">
-                <img src="goodlearning_qr.png" alt="グッドラーニング QRコード" style="display:block;width:148px;height:148px;">
-              </div>
-              <div style="text-align:center;line-height:1.15;">
-                <div style="font-size:12px;font-weight:800;color:var(--text-secondary);">視聴期限</div>
-                <div style="font-size:23px;font-weight:900;color:#e52020;">9月30日<span style="font-size:14px;">（水）</span>まで</div>
-              </div>
-            </div>
-          </div>
-          <div style="background:#e52020;color:#fff;border-radius:8px;padding:9px 14px;display:flex;align-items:center;gap:10px;">
-            <span style="font-size:20px;flex:none;">⚠️</span>
-            <span style="font-size:13px;font-weight:900;line-height:1.45;">期間を過ぎると<u>出庫停止</u>となる可能性があります。みなさんのご協力をお願いいたします。</span>
-          </div>
-        </div>
         <!-- ③.5 台数口配車ルール -->
         <div class="ev-slot" id="ev-daisuguchi" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:auto;padding:22px 26px;">
           <div style="font-size:12px;color:var(--text-secondary);margin-bottom:8px;">複数台同時配車時の乗務員指導用 ／ 制定日:2026年7月31日 発行:タクシー部</div>
@@ -733,110 +702,72 @@ for(var i=0;i<65;i++){
             酒酔いのお客様など、電話でのやり取りだけでは詳細な指示を正確に把握できないケースも多いため、現場での乗務員間の確認が料金トラブルやお客様対応トラブルの防止に直結します。台数口配車を受けた際は、必ず現場で他車の乗務員と確認を行ってください。
           </div>
         </div>
-        <!-- ③ ループ動画 -->
-        <div class="ev-slot" id="ev-video" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;display:flex;align-items:center;justify-content:center;">
-          <video id="ev-video-el"
-            muted playsinline autoplay preload="auto"
-            style="width:100%;height:100%;object-fit:contain;background:#000;">
-            <source src="movie.mp4" type="video/mp4">
-            お使いのブラウザは動画再生に対応していません。
-          </video>
-        </div>
-        <div class="ev-slot" id="ev-video2" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;display:flex;align-items:center;justify-content:center;">
-          <video id="ev-video2-el"
-            muted playsinline autoplay preload="auto"
-            style="width:100%;height:100%;object-fit:contain;background:#000;">
-            <source src="movie2.mp4" type="video/mp4">
-            お使いのブラウザは動画再生に対応していません。
-          </video>
-        </div>
-        <div class="ev-slot" id="ev-video3" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;display:flex;align-items:center;justify-content:center;">
-          <video id="ev-video3-el"
-            muted playsinline autoplay preload="auto"
-            style="width:100%;height:100%;object-fit:contain;background:#000;">
-            <source src="movie3.mp4" type="video/mp4">
-            お使いのブラウザは動画再生に対応していません。
-          </video>
-        </div>
-        <!-- ⑤-0 にゃん氏物語 特別編（漫画コマ送り＋テロップ、終了後 実際の事故映像へ） -->
-        <div class="ev-slot" id="ev-nyanshi-tokubetsu" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;">
-          <img id="ev-nyanshi-img" src="nyanshi1.jpg" alt="にゃん氏物語 特別編"
-            style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:1;transition:opacity .4s ease;">
-          <div style="position:absolute;left:0;right:0;bottom:0;z-index:10;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.93) 0%,rgba(0,0,0,.65) 75%,transparent 100%);">
-            <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
-              <span style="background:var(--accent);color:#000;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;">にゃん氏物語 特別編</span>
-              <span style="font-size:11px;color:#ffd9a0;">一瞬の油断が</span>
-            </div>
-            <div id="ev-nyanshi-text" style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">いつも通りの、何でもない一日のはずでした</div>
-          </div>
-        </div>
-
-        <!-- ⑤ 重大事故について（movie6→movie7 連続再生） -->
-        <div class="ev-slot" id="ev-video4" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;">
-          <video id="ev-video4-el"
-            muted playsinline preload="auto"
-            style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:1;transition:opacity .3s ease;">
-            <source src="movie6.mp4" type="video/mp4">
-            お使いのブラウザは動画再生に対応していません。
-          </video>
-          <video id="ev-video7-el"
-            muted playsinline preload="auto"
-            style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
-            <source src="movie7.mp4" type="video/mp4">
-            お使いのブラウザは動画再生に対応していません。
-          </video>
-        </div>
-
-        <!-- ④ 事故目撃映像（movie4→movie5→movie8 連続再生 → 終了したら次のスロットへ） -->
+        <!-- ④ 事故映像（令和8年9月度 3事例：movie10→movie11→movie12 連続再生 → 終了したら次のスロットへ）
+             各動画は「事故直前で静止コマ（約7秒）」で終わる。静止に入ったら問いかけ→答えのテロップへ切替（data-q＝静止開始秒）。
+             顔（車内カメラ）・前車ナンバーはぼかし済み。事故の瞬間は使わない。 -->
         <div class="ev-slot" id="ev-accident" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;">
-          <video id="ev-accident-v1-el"
+          <video id="ev-accident-v1-el" data-q="6.0"
             muted playsinline preload="auto"
             style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:1;transition:opacity .3s ease;">
-            <source src="movie4.mp4" type="video/mp4">
+            <source src="movie10.mp4" type="video/mp4">
           </video>
-          <video id="ev-accident-v2-el"
+          <video id="ev-accident-v2-el" data-q="7.5"
             muted playsinline preload="auto"
             style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
-            <source src="movie5.mp4" type="video/mp4">
+            <source src="movie11.mp4" type="video/mp4">
           </video>
-          <video id="ev-accident-v3-el"
+          <video id="ev-accident-v3-el" data-q="8.0"
             muted playsinline preload="auto"
             style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
-            <source src="movie8.mp4" type="video/mp4">
+            <source src="movie12.mp4" type="video/mp4">
           </video>
-          <video id="ev-accident-v4-el"
-            muted playsinline preload="auto"
-            style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
-            <source src="movie9.mp4" type="video/mp4">
-          </video>
-          <!-- テロップ①：movie4/5（周囲確認の徹底） -->
-          <div id="ev-accident-telop-1" style="position:absolute;left:0;right:0;bottom:0;z-index:10;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.93) 0%,rgba(0,0,0,.65) 75%,transparent 100%);transition:opacity .3s ease;">
+          <!-- テロップ①：事例1 夜の駐車場 -->
+          <div id="ev-accident-telop-1" class="ev-acc-telop" style="position:absolute;left:0;right:0;bottom:0;z-index:10;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.72) 78%,transparent 100%);transition:opacity .3s ease;">
             <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
               <span style="background:#e52020;color:#fff;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;animation:blink 1.4s step-start infinite;">実際の事故映像</span>
-              <span style="font-size:11px;color:#ffb0b0;">2026.07.05 忠節橋交差点　出合い頭衝突</span>
+              <span style="font-size:11px;color:#ffb0b0;">令和8年9月度　事例1　夜・店舗の駐車場</span>
             </div>
-            <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.25;text-shadow:0 2px 8px rgba(0,0,0,.9);">周囲の確認を徹底してください</div>
-            <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.18);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;letter-spacing:.02em;">「明日は我が身」</div>
+            <div class="ev-acc-q" style="transition:opacity .3s ease;">
+              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">その駐車場、先は見えていますか？</div>
+              <div style="margin-top:5px;font-size:12px;color:#ffd9d9;">このあと、どんな危険が起きるか考えてみてください</div>
+            </div>
+            <div class="ev-acc-a" style="display:none;">
+              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：暗くて見えないブロックに衝突。車内のお客様にも危険が及びました</div>
+              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">暗い駐車場は“道”じゃない。先が見えなければ、止まって降りて確認</div>
+              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">乗車時は「シートベルトをお願いします」の一声を。</div>
+            </div>
           </div>
-          <!-- テロップ②：movie8（シートベルト着用の呼びかけ徹底） -->
-          <div id="ev-accident-telop-2" style="position:absolute;left:0;right:0;bottom:0;z-index:10;opacity:0;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.72) 78%,transparent 100%);transition:opacity .3s ease;">
+          <!-- テロップ②：事例2 雨の夜の待機所 -->
+          <div id="ev-accident-telop-2" class="ev-acc-telop" style="position:absolute;left:0;right:0;bottom:0;z-index:10;opacity:0;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.72) 78%,transparent 100%);transition:opacity .3s ease;">
             <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
               <span style="background:#e52020;color:#fff;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;animation:blink 1.4s step-start infinite;">実際の事故映像</span>
-              <span style="font-size:11px;color:#ffb0b0;">2026.08.27　急ブレーキ　車内人身事故</span>
+              <span style="font-size:11px;color:#ffb0b0;">令和8年9月度　事例2　雨の夜・待機所への進入</span>
             </div>
-            <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.25;text-shadow:0 2px 8px rgba(0,0,0,.9);">シートベルト未着用のお客様が転倒し、救急車で搬送されました</div>
-            <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.18);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;letter-spacing:.02em;">シートベルトさえしていれば防げた事故です</div>
-            <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;line-height:1.55;">車内事故の多くがこのケースです。後部座席も2008年から一般道・高速を問わず着用が法律で義務化されています。<b style="color:#fff;">乗車時、お客様へシートベルト着用のお声かけを徹底してください。</b></div>
+            <div class="ev-acc-q" style="transition:opacity .3s ease;">
+              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">雨の夜、待機所に入るところです</div>
+              <div style="margin-top:5px;font-size:12px;color:#ffd9d9;">このあと、どんな危険が起きるか考えてみてください</div>
+            </div>
+            <div class="ev-acc-a" style="display:none;">
+              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：暗がりから現れた歩行者と接触しました</div>
+              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">入る前に一度止まる。曲がりながら探さない</div>
+              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">雨の夜は、見えているつもりが一番あぶない。出入口は歩行者が横切る場所です。</div>
+            </div>
           </div>
-          <!-- テロップ③：movie9（シートベルト未着用の事故がまた発生） -->
-          <div id="ev-accident-telop-3" style="position:absolute;left:0;right:0;bottom:0;z-index:10;opacity:0;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.96) 0%,rgba(0,0,0,.75) 80%,transparent 100%);transition:opacity .3s ease;">
+          <!-- テロップ③：事例3 夕方の渋滞中 -->
+          <div id="ev-accident-telop-3" class="ev-acc-telop" style="position:absolute;left:0;right:0;bottom:0;z-index:10;opacity:0;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.72) 78%,transparent 100%);transition:opacity .3s ease;">
             <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
               <span style="background:#e52020;color:#fff;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;animation:blink 1.4s step-start infinite;">実際の事故映像</span>
-              <span style="font-size:11px;color:#ffb0b0;">2026.09.01　シートベルト未着用　車内人身事故</span>
+              <span style="font-size:11px;color:#ffb0b0;">令和8年9月度　事例3　夕方・渋滞中</span>
             </div>
-            <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.25;text-shadow:0 2px 8px rgba(0,0,0,.9);"><span style="color:#ff5a5a;">またしても</span>、シートベルト未着用のお客様が衝突時にケガをされました</div>
-            <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.22);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;letter-spacing:.02em;">前回（8/27）に続き、同じ原因の事故が繰り返されています</div>
-            <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;line-height:1.55;">お客様の命と身体を守れるのは、乗せた乗務員だけです。<b style="color:#fff;">全てのお客様に、発車前のシートベルト着用のお声かけを必ず実施してください。</b></div>
+            <div class="ev-acc-q" style="transition:opacity .3s ease;">
+              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">運転者の目線はどこを向いていますか？</div>
+              <div style="margin-top:5px;font-size:12px;color:#ffd9d9;">このあと、どんな危険が起きるか考えてみてください</div>
+            </div>
+            <div class="ev-acc-a" style="display:none;">
+              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：手元に気を取られ、前の車に追突しました</div>
+              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">画面は止まってから。渋滞中も“運転中”</div>
+              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">夕日の逆光のときは、サンバイザーを使い車間を広く。</div>
+            </div>
           </div>
         </div>
 
@@ -1112,55 +1043,6 @@ for(var i=0;i<65;i++){
 (function(){
   var TICK = 250;
 
-  // にゃん氏物語 特別編：漫画コマ送り＋テロップ（画像を切替えながらテロップ文言を差し替える）
-  var NYANSHI_PANELS = [
-    { img:'nyanshi1.jpg', text:'いつも通りの、何でもない一日のはずでした',                                   dur:4500 },
-    { img:'nyanshi2.jpg', text:'そのとき、新しい配車指示が入りました',                                       dur:4000 },
-    { img:'nyanshi3.jpg', text:'「早く行かなきゃ……」焦りが、判断を鈍らせます',                                dur:4000 },
-    { img:'nyanshi4.jpg', text:'このとき、後方の車線を猛スピードで接近する車が',                              dur:4000 },
-    { img:'nyanshi5.jpg', text:'一瞬の後方確認不足が、大きな事故につながりました',                            dur:4500 },
-    { img:'nyanshi6.jpg', text:'相手ドライバーは、救急搬送されました',                                        dur:4500 },
-    { img:'nyanshi7.jpg', text:'原因は、配車指示に気を取られたことによる後方確認不足',                        dur:4500 },
-    { img:'nyanshi8.jpg', text:'配車が入っても、お客様は少し待ってくれます。まず安全確認、それから車線変更です', dur:5000 },
-    { img:'nyanshi8.jpg', text:'これは、実際にあった出来事です',                                              dur:3000 }
-  ];
-  var NYANSHI_TOTAL_MS = NYANSHI_PANELS.reduce(function(sum, p){ return sum + p.dur; }, 0);
-  var nyanshiIdx = 0;
-  var nyanshiTimer = null;
-  var nyanshiImgEl = null;
-  var nyanshiTextEl = null;
-  function showNyanshiPanel(i){
-    var p = NYANSHI_PANELS[i];
-    if(!nyanshiImgEl)  nyanshiImgEl  = document.getElementById('ev-nyanshi-img');
-    if(!nyanshiTextEl) nyanshiTextEl = document.getElementById('ev-nyanshi-text');
-    if(!nyanshiImgEl || !nyanshiTextEl) return;
-    if(nyanshiImgEl.getAttribute('src') !== p.img){
-      nyanshiImgEl.style.opacity = '0';
-      setTimeout(function(){
-        nyanshiImgEl.src = p.img;
-        nyanshiImgEl.style.opacity = '1';
-      }, 200);
-    }
-    nyanshiTextEl.textContent = p.text;
-  }
-  function scheduleNextNyanshiPanel(){
-    if(nyanshiTimer) clearTimeout(nyanshiTimer);
-    if(nyanshiIdx >= NYANSHI_PANELS.length - 1) return; // 最終コマで停止（次はスロット自体の自動切替に委ねる）
-    nyanshiTimer = setTimeout(function(){
-      nyanshiIdx++;
-      showNyanshiPanel(nyanshiIdx);
-      scheduleNextNyanshiPanel();
-    }, NYANSHI_PANELS[nyanshiIdx].dur);
-  }
-  function startNyanshiSequence(){
-    nyanshiIdx = 0;
-    showNyanshiPanel(0);
-    scheduleNextNyanshiPanel();
-  }
-  function stopNyanshiSequence(){
-    if(nyanshiTimer){ clearTimeout(nyanshiTimer); nyanshiTimer = null; }
-  }
-
   // 期間限定キャンペーン（2026/8/13〜8/18）：8月度事故多発の注意喚起を右下パネルに固定表示。
   // 期間を過ぎたら自動的に通常ローテーションへ復帰する。
   var _now = new Date();
@@ -1170,15 +1052,9 @@ for(var i=0;i<65;i++){
 
   var normalViews = [
     { slot:'ev-safety',  icon:'⚠️', title:'安全注意喚起',        sub:'重大事故・自責事故 警戒',   dur:20000, video:null },
-    { slot:'ev-goodlearning-sep', icon:'📢', title:'お知らせ', sub:'9月度ミーティング動画を公開しました', dur:18000, video:null },
     { slot:'ev-daisuguchi', icon:'🚕', title:'台数口配車ルール',  sub:'複数台同時配車時の乗務員指導', dur:25000, video:null },
     { slot:'ev-ihan',    icon:'⚠️', title:'注意喚起',            sub:'道路交通法令違反通知書について', dur:22000, video:null },
-    { slot:'ev-video',   icon:'🎬', title:'業務連絡 動画',        sub:'事故防止 注意喚起',          dur:30000, video:'ev-video-el' },
-    { slot:'ev-video2',  icon:'🎬', title:'業務連絡 動画',        sub:'GO後席決済機の注意事項',     dur:28000, video:'ev-video2-el' },
-    { slot:'ev-video3',  icon:'🎬', title:'業務連絡 動画',        sub:'スライドドアの確認',         dur:30000, video:'ev-video3-el' },
-    { slot:'ev-nyanshi-tokubetsu', icon:'📖', title:'業務連絡 特別編', sub:'にゃん氏物語 ─ 進路変更の油断', dur:NYANSHI_TOTAL_MS, video:null },
-    { slot:'ev-video4',  icon:'🚨', title:'業務連絡 動画',        sub:'重大事故について',           dur:60000, sequence:['ev-video4-el','ev-video7-el'] },
-    { slot:'ev-accident', icon:'🚨', title:'業務連絡 動画',       sub:'事故映像 ─ 周囲確認・シートベルト',  dur:250000, sequence:['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el','ev-accident-v4-el'] }
+    { slot:'ev-accident', icon:'🚨', title:'業務連絡 動画',       sub:'事故映像 ─ 見えにくいときは止まって確認',  dur:60000, sequence:['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el'] }
   ];
 
   var campaignViews = [
@@ -1189,9 +1065,7 @@ for(var i=0;i<65;i++){
     { slot:'ev-jiko1', icon:'🚨', title:'業務連絡',     sub:'8月12日発生 事故について',         dur:15000, video:null },
     { slot:'ev-jiko2', icon:'🚨', title:'業務連絡',     sub:'8月12日 事故現場の写真',           dur:16000, video:null },
     { slot:'ev-jiko3', icon:'🚨', title:'業務連絡',     sub:'ドライブレコーダー点検のお願い',   dur:16000, video:null },
-    { slot:'ev-ihan',  icon:'⚠️', title:'注意喚起',     sub:'道路交通法令違反通知書について',   dur:22000, video:null },
-    { slot:'ev-nyanshi-tokubetsu', icon:'📖', title:'業務連絡 特別編', sub:'にゃん氏物語 ─ 進路変更の油断', dur:NYANSHI_TOTAL_MS, video:null },
-    { slot:'ev-video4',  icon:'🚨', title:'業務連絡 動画',        sub:'重大事故について',           dur:60000, sequence:['ev-video4-el','ev-video7-el'] }
+    { slot:'ev-ihan',  icon:'⚠️', title:'注意喚起',     sub:'道路交通法令違反通知書について',   dur:22000, video:null }
   ];
 
   var views = _isCampaign ? campaignViews : normalViews;
@@ -1261,18 +1135,31 @@ for(var i=0;i<65;i++){
   }
 
   // 事故映像シーケンス：1本目→2本目→…と順に再生し、最後の1本が終わったら次のスロットへ自動切替
-  function updateAccidentTelop(activeTag){
-    var t1 = document.getElementById('ev-accident-telop-1');
-    var t2 = document.getElementById('ev-accident-telop-2');
-    var t3 = document.getElementById('ev-accident-telop-3');
-    if(!t1 || !t2 || !t3) return;
-    var id = activeTag ? activeTag.id : '';
-    var showT2 = (id === 'ev-accident-v3-el');
-    var showT3 = (id === 'ev-accident-v4-el');
-    t1.style.opacity = (showT2 || showT3) ? '0' : '1';
-    t2.style.opacity = showT2 ? '1' : '0';
-    t3.style.opacity = showT3 ? '1' : '0';
+  var ACC_IDS = ['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el'];
+  function setAccidentPhase(telop, answer){
+    if(!telop) return;
+    var q = telop.querySelector('.ev-acc-q'), a = telop.querySelector('.ev-acc-a');
+    if(q) q.style.display = answer ? 'none' : 'block';
+    if(a) a.style.display = answer ? 'block' : 'none';
   }
+  function updateAccidentTelop(activeTag){
+    var id = activeTag ? activeTag.id : '';
+    ACC_IDS.forEach(function(vid, k){
+      var t = document.getElementById('ev-accident-telop-' + (k + 1));
+      if(!t) return;
+      t.style.opacity = (vid === id) ? '1' : '0';
+      setAccidentPhase(t, false);
+    });
+  }
+  // 静止コマ（data-q 秒以降）に入ったら答えのテロップを表示
+  ACC_IDS.forEach(function(vid, k){
+    var tag = document.getElementById(vid);
+    if(!tag) return;
+    var qAt = parseFloat(tag.getAttribute('data-q')) || 0;
+    tag.addEventListener('timeupdate', function(){
+      setAccidentPhase(document.getElementById('ev-accident-telop-' + (k + 1)), tag.currentTime >= qAt);
+    });
+  });
   sequenceVideoTags.forEach(function(seq){
     seq.forEach(function(tag, k){
       if(!tag) return;
@@ -1321,8 +1208,6 @@ for(var i=0;i<65;i++){
         else { try { tag.pause(); } catch(e){} }        // 位置を保持して停止
       });
     }
-    if(v.slot === 'ev-nyanshi-tokubetsu'){ startNyanshiSequence(); }
-    else { stopNyanshiSequence(); }
     if(iconEl)  iconEl.textContent  = v.icon;
     if(titleEl) titleEl.textContent = v.title;
     if(subEl)   subEl.textContent   = v.sub + ' ／ 自動切替';
