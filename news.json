@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-13 17:03",
+  "updated_at": "2026-10-14 01:13",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州新幹線 博多～熊本 下り 運転再開 熊本以南は終日見合わせ",
+      "text": "ロシアが北海道新聞記者をスパイ容疑で拘束 国営タス通信",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 16:55:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58310/20261013de58310_E0000067495_1_l.jpg"
+      "time": "Wed, 14 Oct 2026 01:07:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58917/20261013de58917_E0000004045_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "韓国インチョンで切りつけ事件 8人けが うち1人心肺停止",
+      "text": "高市首相“簗農相が行政運営にあたるのがいいか 熟慮”",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 16:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58547/20261013de58547_E0000067434_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 20:49:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58352/20261013de58352_E0000069198_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "簗農相「説明尽くし真摯に対応」問責決議案提出の動きに",
+      "text": "自治体防災メール 不正アクセスでアドレス300万件など漏えいか",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 14:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58352/20261013de58352_E0000066691_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 21:54:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58789/20261013de58789_E0000069069_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "CEATEC開幕 フィジカルAIの出展相次ぐ サイバー攻撃への対応も",
+      "text": "ベトナム語の運転免許試験の問題 画像が漏えいか 千葉県警",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 11:55:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58370/20261013de58370_E0000066708_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 23:46:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58907/20261013de58907_E0000070238_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 金銭授受問題や海外視察めぐり百条委議案を提出",
+      "text": "中国の企業関係者らが北方領土の択捉島を訪問",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 14:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58517/20261013de58517_E0000067385_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 21:36:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58873/20261013de58873_E0000070149_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "奈良 香芝 こども園で園児が凍ったゼリー詰まらせ死亡",
+      "text": "一連の不正アクセスは“AIエージェント悪用の可能性”解析で",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 13:26:00 +0900"
+      "time": "Tue, 13 Oct 2026 19:49:24 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "原油の調達多角化に向けた法案を閣議決定 今国会に提出へ",
+      "text": "北海道でマフグの漁獲量増加 一方で養殖ホタテに被害か",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 15:45:00 +0900"
+      "time": "Tue, 13 Oct 2026 23:28:44 +0900"
     }
   ]
 }
