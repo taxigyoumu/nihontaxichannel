@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-10-13 03:33",
-  "has_alert": true,
+  "updated_at": "2026-10-13 10:05",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１３日０２時２５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-12T17:28:37Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドジャース×ブルワーズ ドジャース2連敗",
+      "source": "NHK",
+      "time": "Tue, 13 Oct 2026 09:35:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58219/20261012de58219_E0000065816_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル経済学賞にアメリカの2人の研究者",
+      "text": "きょうから予算委 消費税 経済政策 簗農相発言で論戦",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 21:19:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261009de57272/20261009de57272_E0000065958_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 05:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58277/20261012de58277_E0000066321_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 那珂川町 工場火災 鎮火のめど立たず 夜間も消火活動へ",
+      "text": "9月の企業物価指数 昨年同月比 6.8%上昇",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 21:59:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58117/20261012de58117_E0000065665_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 09:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58340/20261013de58340_E0000066683_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「やりがい感じるけど…」どうなる介護報酬 現場は？",
+      "text": "日経平均株価 一時1500円超下落 東京株式市場",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 19:38:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58129/20261012de58129_E0000065777_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 09:40:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58344/20261013de58344_E0000003660_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "経営者に戦略のアドバイスも 経営の中枢でAI活用の動き相次ぐ",
+      "text": "九州新幹線 架線確認のため始発から全線で運転見合わせ",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 19:46:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58173/20261012de58173_E0000065801_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 06:07:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58310/20261013de58310_E0000066409_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "連休最終日 九州などで真夏日に 14日以降は北日本などで荒天も",
+      "text": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 17:51:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261011de58040/20261011de58040_E0000065799_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 07:32:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サウジアラビア 首都の国際空港に攻撃相次ぐ 緊張の高まり懸念",
+      "text": "片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相",
       "source": "NHK",
-      "time": "Mon, 12 Oct 2026 19:33:58 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出",
-      "source": "NHK",
-      "time": "Mon, 12 Oct 2026 23:47:00 +0900"
+      "time": "Tue, 13 Oct 2026 00:30:15 +0900"
     }
   ]
 }
