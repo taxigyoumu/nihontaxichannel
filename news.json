@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-13 10:05",
+  "updated_at": "2026-10-13 17:03",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャース×ブルワーズ ドジャース2連敗",
+      "text": "九州新幹線 博多～熊本 下り 運転再開 熊本以南は終日見合わせ",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 09:35:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58219/20261012de58219_E0000065816_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 16:55:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58310/20261013de58310_E0000067495_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "きょうから予算委 消費税 経済政策 簗農相発言で論戦",
+      "text": "韓国インチョンで切りつけ事件 8人けが うち1人心肺停止",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 05:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261012de58277/20261012de58277_E0000066321_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 16:21:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58547/20261013de58547_E0000067434_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "9月の企業物価指数 昨年同月比 6.8%上昇",
+      "text": "簗農相「説明尽くし真摯に対応」問責決議案提出の動きに",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 09:09:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58340/20261013de58340_E0000066683_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 14:58:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58352/20261013de58352_E0000066691_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日経平均株価 一時1500円超下落 東京株式市場",
+      "text": "CEATEC開幕 フィジカルAIの出展相次ぐ サイバー攻撃への対応も",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 09:40:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58344/20261013de58344_E0000003660_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 11:55:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58370/20261013de58370_E0000066708_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "九州新幹線 架線確認のため始発から全線で運転見合わせ",
+      "text": "福岡県議会 金銭授受問題や海外視察めぐり百条委議案を提出",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 06:07:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58310/20261013de58310_E0000066409_1_l.jpg"
+      "time": "Tue, 13 Oct 2026 14:06:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58517/20261013de58517_E0000067385_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木県那珂川町の工場火災 24時間以上経過も鎮火せず",
+      "text": "奈良 香芝 こども園で園児が凍ったゼリー詰まらせ死亡",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 07:32:00 +0900"
+      "time": "Tue, 13 Oct 2026 13:26:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相",
+      "text": "原油の調達多角化に向けた法案を閣議決定 今国会に提出へ",
       "source": "NHK",
-      "time": "Tue, 13 Oct 2026 00:30:15 +0900"
+      "time": "Tue, 13 Oct 2026 15:45:00 +0900"
     }
   ]
 }
