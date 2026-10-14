@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-14 06:23",
+  "updated_at": "2026-10-14 09:27",
   "has_alert": false,
   "items": [
     {
@@ -21,40 +21,40 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "個人情報の流出「不安感じる」77％ NHK世論調査",
+      "text": "急発達する低気圧 北海道で暴風警戒 全国的に大気不安定",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 05:01:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58351/20261013de58351_E0000067361_1_l.jpg"
+      "time": "Wed, 14 Oct 2026 09:14:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58942/20261014de58942_E0000070594_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟 6人死亡火災 元幹部らの起訴受け経営トップが遺族に謝罪",
+      "text": "ノーベル平和賞ピレイ氏 アメリカの対応「非常に悲しい」",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 05:38:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58921/20261014de58921_E0000070250_1_l.jpg"
+      "time": "Wed, 14 Oct 2026 06:32:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58934/20261014de58934_E0000070265_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "九州新幹線 14日は始発から通常運行",
+      "source": "NHK",
+      "time": "Wed, 14 Oct 2026 06:41:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58945/20261014de58945_E0000070313_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「ボイスフィッシング」被害金洗浄か グループを摘発",
+      "source": "NHK",
+      "time": "Wed, 14 Oct 2026 09:02:37 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ホワイトハウスの新しい報道官 初会見はわずか15分で終了",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 05:36:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58937/20261014de58937_E0000070267_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フランスの高校生 教育環境悪化に抗議し再び大規模集会",
-      "source": "NHK",
-      "time": "Wed, 14 Oct 2026 05:36:02 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "なでしこジャパン　強豪ドイツに逆転負け",
-      "source": "NHK",
-      "time": "Wed, 14 Oct 2026 04:13:52 +0900"
+      "time": "Wed, 14 Oct 2026 05:36:00 +0900"
     }
   ]
 }
