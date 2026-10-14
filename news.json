@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-14 09:27",
+  "updated_at": "2026-10-14 14:13",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシアが北海道新聞記者をスパイ容疑で拘束 治安機関が発表",
+      "text": "高市首相 バス送迎“法令違反か否かは当局判断 簗大臣説明を”",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 04:27:00 +0900",
+      "time": "Wed, 14 Oct 2026 12:45:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58993/20261014de58993_E0000070691_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "10月14日は「鉄道の日」 各地の動き",
+      "source": "NHK",
+      "time": "Wed, 14 Oct 2026 13:42:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59081/20261014de59081_E0000071408_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「ゆめタウン」展開のイズミ 最大約40万件漏えいの可能性",
+      "source": "NHK",
+      "time": "Wed, 14 Oct 2026 12:41:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59111/20261014de59111_E0000071002_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も",
+      "source": "NHK",
+      "time": "Wed, 14 Oct 2026 12:03:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261013de58917/20261013de58917_E0000070242_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "簗農相 与党から続投困難の声も 高市首相 説明踏まえ判断へ",
+      "text": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 05:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58923/20261014de58923_E0000070252_1_l.jpg"
+      "time": "Wed, 14 Oct 2026 14:10:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58989/20261014de58989_E0000070675_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "急発達する低気圧 北海道で暴風警戒 全国的に大気不安定",
+      "text": "米駐ギリシャ大使が辞意 トランプ大統領“身内”を解任か",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 09:14:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58942/20261014de58942_E0000070594_1_l.jpg"
+      "time": "Wed, 14 Oct 2026 13:12:21 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル平和賞ピレイ氏 アメリカの対応「非常に悲しい」",
+      "text": "北海道は暴風警戒 東日本では大気不安定",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 06:32:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58934/20261014de58934_E0000070265_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "九州新幹線 14日は始発から通常運行",
-      "source": "NHK",
-      "time": "Wed, 14 Oct 2026 06:41:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58945/20261014de58945_E0000070313_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「ボイスフィッシング」被害金洗浄か グループを摘発",
-      "source": "NHK",
-      "time": "Wed, 14 Oct 2026 09:02:37 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホワイトハウスの新しい報道官 初会見はわずか15分で終了",
-      "source": "NHK",
-      "time": "Wed, 14 Oct 2026 05:36:00 +0900"
+      "time": "Wed, 14 Oct 2026 13:28:18 +0900"
     }
   ]
 }
