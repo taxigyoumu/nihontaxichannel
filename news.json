@@ -1,30 +1,22 @@
 {
-  "updated_at": "2026-10-14 14:13",
+  "updated_at": "2026-10-14 19:25",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 バス送迎“法令違反か否かは当局判断 簗大臣説明を”",
+      "text": "【速報中】 簗農相 辞表提出 道路予算発言など問題指摘の中",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 12:45:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58993/20261014de58993_E0000070691_1_l.jpg"
+      "time": "Wed, 14 Oct 2026 19:12:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59049/20261014de59049_E0000072700_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "10月14日は「鉄道の日」 各地の動き",
+      "text": "投稿動画で会社元代表の名誉を毀損か ユーチューバー逮捕",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 13:42:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59081/20261014de59081_E0000071408_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「ゆめタウン」展開のイズミ 最大約40万件漏えいの可能性",
-      "source": "NHK",
-      "time": "Wed, 14 Oct 2026 12:41:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59111/20261014de59111_E0000071002_1_l.jpg"
+      "time": "Wed, 14 Oct 2026 17:43:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59291/20261014de59291_E0000071582_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "埼玉 「大樹生命」元営業職員を顧客への詐欺容疑で逮捕",
+      "source": "NHK",
+      "time": "Wed, 14 Oct 2026 18:13:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59353/20261014de59353_E0000071620_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "渋谷区マンション建設 工事停止の申し立て 2審は退ける",
+      "source": "NHK",
+      "time": "Wed, 14 Oct 2026 19:01:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59164/20261014de59164_E0000071610_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "北海道大樹町で新たなロケット発射場の土台部分完成",
+      "source": "NHK",
+      "time": "Wed, 14 Oct 2026 18:11:04 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」",
       "source": "NHK",
-      "time": "Wed, 14 Oct 2026 14:10:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de58989/20261014de58989_E0000070675_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米駐ギリシャ大使が辞意 トランプ大統領“身内”を解任か",
-      "source": "NHK",
-      "time": "Wed, 14 Oct 2026 13:12:21 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北海道は暴風警戒 東日本では大気不安定",
-      "source": "NHK",
-      "time": "Wed, 14 Oct 2026 13:28:18 +0900"
+      "time": "Wed, 14 Oct 2026 14:10:00 +0900"
     }
   ]
 }
