@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-10-15 15:10",
-  "has_alert": true,
+  "updated_at": "2026-10-15 20:53",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日１４時１０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-15T05:13:11Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "ソースネクスト 顧客情報 約2251万件が情報漏えいか",
+      "source": "NHK",
+      "time": "Thu, 15 Oct 2026 19:24:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60043/20261015de60043_E0000077264_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドジャースが3連敗 WS進出にあとがなくなる【詳報】",
+      "text": "相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 14:49:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59178/20261014de59178_E0000071479_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 19:30:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59790/20261015de59790_E0000075571_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "農相に自民 武部新氏を起用 簗氏の後任に 高市首相",
+      "text": "声優の野沢雅子さん “声の生成AI利用”について語る",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 15:02:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59560/20261015de59560_E0000074633_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 18:55:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59778/20261015de59778_E0000076765_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ストーカー加害者にGPS機器 来週から有識者会議で議論 警察庁",
+      "text": "パナソニック ドラム式洗濯機64万台をリコール",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 13:43:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59718/20261015de59718_E0000075256_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 18:18:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59971/20261015de59971_E0000076675_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "横浜高校の織田翔希投手がアメリカ挑戦を表明",
+      "text": "産婦人科向けシステムに不正アクセス 医療機関は対応追われる",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 12:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59583/20261015de59583_E0000074527_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 18:38:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59731/20261015de59731_E0000075329_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "漫画家が出版社を提訴 “出版権は消滅”確認を求める",
+      "text": "武部氏 認証式を経て農相に就任 辞表提出の簗氏の後任に",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 05:18:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59459/20261014de59459_E0000073886_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 18:46:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 一時3500円以上値下がり AI・半導体関連銘柄に売り注文",
+      "text": "JR3社「不正アクセスに伴う個人情報漏えい 確認されず」",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 13:11:56 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "凍ったゼリーで男児死亡の民間こども園に監査 奈良 香芝",
-      "source": "NHK",
-      "time": "Thu, 15 Oct 2026 15:08:04 +0900"
+      "time": "Thu, 15 Oct 2026 19:15:35 +0900"
     }
   ]
 }
