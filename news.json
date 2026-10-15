@@ -1,35 +1,30 @@
 {
-  "updated_at": "2026-10-15 07:57",
-  "has_alert": true,
+  "updated_at": "2026-10-15 10:17",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日０７時４１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-14T22:43:53Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日０７時０１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-14T22:03:41Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日０６時５８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-14T22:01:24Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "農相に自民 武部新氏起用の意向 簗氏の後任に 高市首相",
+      "source": "NHK",
+      "time": "Thu, 15 Oct 2026 10:14:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59560/20261015de59560_E0000074496_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "簗農相辞表提出 首相きょう後任決定方針 野党は任命責任追及へ",
+      "text": "【速報中】ドジャース×ブルワーズ リーグ優勝決定S第3戦",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 04:40:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59520/20261015de59520_E0000074056_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 09:52:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59178/20261014de59178_E0000071479_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "株価 一時2500円以上値下がり",
+      "source": "NHK",
+      "time": "Thu, 15 Oct 2026 10:03:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59563/20261015de59563_E0000074468_1_l.jpg"
     },
     {
       "category": "news",
@@ -38,14 +33,6 @@
       "source": "NHK",
       "time": "Thu, 15 Oct 2026 04:52:09 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59523/20261015de59523_E0000074058_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドジャース×ブルワーズ リーグ優勝決定S 第3戦見どころ",
-      "source": "NHK",
-      "time": "Thu, 15 Oct 2026 07:00:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59178/20261014de59178_E0000071479_1_l.jpg"
     },
     {
       "category": "news",
@@ -60,22 +47,14 @@
       "label": "ニュース",
       "text": "警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 06:47:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59421/20261014de59421_E0000073125_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 06:47:14 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フランスの教育環境めぐるデモ ヨーロッパ各地に拡大",
+      "text": "米半導体企業 最大3兆円規模で新工場建設へ 日米合意に基づき",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 07:19:16 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋の園遊会 招待者決まる 宮部みゆきさんや吉田鋼太郎さんなど",
-      "source": "NHK",
-      "time": "Thu, 15 Oct 2026 05:40:43 +0900"
+      "time": "Thu, 15 Oct 2026 07:18:04 +0900"
     }
   ]
 }
