@@ -1,13 +1,27 @@
 {
-  "updated_at": "2026-10-16 01:15",
+  "updated_at": "2026-10-16 04:57",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１６日００時１３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-15T15:16:25Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-15T19:18:18Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】美濃地方では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-15T19:18:18Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県乾燥注意報】美濃地方では、空気の乾燥した状態が続くため、火の取り扱いに注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-15T19:18:17Z"
     },
     {
       "category": "news",
@@ -16,14 +30,6 @@
       "source": "NHK",
       "time": "Thu, 15 Oct 2026 21:55:07 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60043/20261015de60043_E0000077264_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる",
-      "source": "NHK",
-      "time": "Thu, 15 Oct 2026 19:30:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59790/20261015de59790_E0000075571_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,24 +50,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "パキスタンの学校の屋根崩落 子どもなど33人死亡",
+      "text": "「くまの子ウーフ」児童文学作家の神沢利子さん死去",
       "source": "NHK",
-      "time": "Fri, 16 Oct 2026 00:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60119/20261015de60119_E0000078191_1_l.jpg"
+      "time": "Fri, 16 Oct 2026 01:35:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60137/20261015de60137_E0000078206_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "訪問介護の関係団体が国に報酬引き上げなど要望",
+      "text": "台湾TSMC過去最高益「需要減速の兆候なし」",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 22:39:00 +0900"
+      "time": "Fri, 16 Oct 2026 00:54:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60118/20261015de60118_E0000078197_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国と北朝鮮を結ぶ橋が開通 現地で式典 本体工事完了は12年前",
+      "text": "国民 消費税減税で対案 住民税控除額引き上げや給付で負担軽減",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 22:58:22 +0900"
+      "time": "Fri, 16 Oct 2026 01:09:49 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "片山財務相 日韓通貨スワップ延長で合意",
+      "source": "NHK",
+      "time": "Fri, 16 Oct 2026 02:12:25 +0900"
     }
   ]
 }
