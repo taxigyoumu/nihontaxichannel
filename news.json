@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-10-15 10:17",
-  "has_alert": false,
+  "updated_at": "2026-10-15 15:10",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "農相に自民 武部新氏起用の意向 簗氏の後任に 高市首相",
-      "source": "NHK",
-      "time": "Thu, 15 Oct 2026 10:14:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59560/20261015de59560_E0000074496_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日１４時１０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-15T05:13:11Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】ドジャース×ブルワーズ リーグ優勝決定S第3戦",
+      "text": "ドジャースが3連敗 WS進出にあとがなくなる【詳報】",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 09:52:39 +0900",
+      "time": "Thu, 15 Oct 2026 14:49:13 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59178/20261014de59178_E0000071479_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 一時2500円以上値下がり",
+      "text": "農相に自民 武部新氏を起用 簗氏の後任に 高市首相",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 10:03:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59563/20261015de59563_E0000074468_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 15:02:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59560/20261015de59560_E0000074633_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道新聞記者の拘束受けて状況などの確認急ぐ 日本政府",
+      "text": "ストーカー加害者にGPS機器 来週から有識者会議で議論 警察庁",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 04:52:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59523/20261015de59523_E0000074058_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 13:43:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59718/20261015de59718_E0000075256_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "G20 財務相・中央銀行総裁会議 15日開幕へ",
+      "text": "横浜高校の織田翔希投手がアメリカ挑戦を表明",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 06:43:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59525/20261015de59525_E0000074048_1_l.jpg"
+      "time": "Thu, 15 Oct 2026 12:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59583/20261015de59583_E0000074527_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "警察庁 米マイクロソフトと連携しネット犯罪サービスを無害化",
+      "text": "漫画家が出版社を提訴 “出版権は消滅”確認を求める",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 06:47:14 +0900"
+      "time": "Thu, 15 Oct 2026 05:18:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261014de59459/20261014de59459_E0000073886_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米半導体企業 最大3兆円規模で新工場建設へ 日米合意に基づき",
+      "text": "株価 一時3500円以上値下がり AI・半導体関連銘柄に売り注文",
       "source": "NHK",
-      "time": "Thu, 15 Oct 2026 07:18:04 +0900"
+      "time": "Thu, 15 Oct 2026 13:11:56 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "凍ったゼリーで男児死亡の民間こども園に監査 奈良 香芝",
+      "source": "NHK",
+      "time": "Thu, 15 Oct 2026 15:08:04 +0900"
     }
   ]
 }
