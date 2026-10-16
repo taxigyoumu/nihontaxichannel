@@ -1,7 +1,23 @@
 {
-  "updated_at": "2026-10-16 07:57",
+  "updated_at": "2026-10-16 10:02",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【速報中】ドジャース×ブルワーズ 大谷翔平がスリーランHR",
+      "source": "NHK",
+      "time": "Fri, 16 Oct 2026 09:56:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60061/20261015de60061_E0000077393_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ西部オレゴン州の小学校で銃撃 複数死傷",
+      "source": "NHK",
+      "time": "Fri, 16 Oct 2026 09:22:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60199/20261016de60199_E0000078519_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -21,14 +37,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「うるう秒」廃止決定 秒の新定義も検討へ 国際度量衡総会",
-      "source": "NHK",
-      "time": "Fri, 16 Oct 2026 06:38:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60174/20261016de60174_E0000078244_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "トランプ大統領“死刑執行のライブ配信は中止”",
       "source": "NHK",
       "time": "Fri, 16 Oct 2026 06:18:02 +0900",
@@ -39,22 +47,14 @@
       "label": "ニュース",
       "text": "ドイツ市場開拓へ デパートで日本産のコメを試験販売",
       "source": "NHK",
-      "time": "Fri, 16 Oct 2026 07:18:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60190/20261016de60190_E0000078285_1_l.jpg"
+      "time": "Fri, 16 Oct 2026 07:18:19 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“王将”社長射殺事件 暴力団幹部にきょう判決 京都地裁",
+      "text": "“餃子の王将”社長射殺事件 暴力団幹部にきょう判決 京都地裁",
       "source": "NHK",
-      "time": "Fri, 16 Oct 2026 05:10:23 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "EU、中国製ハイブリッド車などの輸入大幅制限へ",
-      "source": "NHK",
-      "time": "Fri, 16 Oct 2026 06:26:36 +0900"
+      "time": "Fri, 16 Oct 2026 05:10:00 +0900"
     }
   ]
 }
