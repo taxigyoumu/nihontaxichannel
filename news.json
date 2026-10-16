@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-17 01:01",
+  "updated_at": "2026-10-17 04:37",
   "has_alert": false,
   "items": [
     {
@@ -9,6 +9,14 @@
       "source": "NHK",
       "time": "Fri, 16 Oct 2026 23:48:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60368/20261016de60368_E0000079391_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は?",
+      "source": "NHK",
+      "time": "Fri, 16 Oct 2026 21:29:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60239/20261016de60239_E0000080983_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,10 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“餃子の王将”社長殺害事件 暴力団幹部に無罪判決 京都地裁",
+      "text": "日銀植田総裁 今後も利上げ進める 2％の物価安定がより重要",
       "source": "NHK",
-      "time": "Fri, 16 Oct 2026 20:25:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de60144/20261015de60144_E0000079558_1_l.jpg"
+      "time": "Sat, 17 Oct 2026 01:30:39 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "ヤマト運輸 個人情報530万件余の外部流出を確認",
       "source": "NHK",
       "time": "Fri, 16 Oct 2026 15:02:54 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は?",
-      "source": "NHK",
-      "time": "Fri, 16 Oct 2026 21:29:50 +0900"
     }
   ]
 }
