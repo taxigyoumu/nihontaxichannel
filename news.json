@@ -1,14 +1,30 @@
 {
-  "updated_at": "2026-10-16 20:44",
+  "updated_at": "2026-10-17 01:01",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【詳しく】気象庁 緊急地震速報取り消し “M9.9と過大に推定”",
+      "text": "緊急地震速報の過大推定 「過去の対策が機能せず」気象庁",
       "source": "NHK",
-      "time": "Fri, 16 Oct 2026 19:51:58 +0900",
+      "time": "Fri, 16 Oct 2026 23:48:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60368/20261016de60368_E0000079391_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "NTTドコモ 緊急地震速報が利用者に配信されず",
+      "source": "NHK",
+      "time": "Fri, 16 Oct 2026 21:00:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60749/20261016de60749_E0000003646_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "コミックシーモアが不正アクセス確認 会員情報が漏えい",
+      "source": "NHK",
+      "time": "Fri, 16 Oct 2026 20:58:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60740/20261016de60740_E0000081735_1_l.jpg"
     },
     {
       "category": "news",
@@ -31,30 +47,14 @@
       "label": "ニュース",
       "text": "ヤマト運輸 個人情報530万件余の外部流出を確認",
       "source": "NHK",
-      "time": "Fri, 16 Oct 2026 15:02:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60395/20261016de60395_E0000079484_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "頭部にバット直撃の川上審判員が意識回復 家族「復帰めざす」",
-      "source": "NHK",
-      "time": "Fri, 16 Oct 2026 18:31:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261016de60624/20261016de60624_E0000079726_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "山中教授 iPS保険適用後初の手術「世界初で大きな一歩」",
-      "source": "NHK",
-      "time": "Fri, 16 Oct 2026 19:28:00 +0900"
+      "time": "Fri, 16 Oct 2026 15:02:54 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "個人情報漏えい のべ1億6500万人分余に 利用者の対策は?",
       "source": "NHK",
-      "time": "Fri, 16 Oct 2026 20:04:12 +0900"
+      "time": "Fri, 16 Oct 2026 21:29:50 +0900"
     }
   ]
 }
