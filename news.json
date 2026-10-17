@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-10-17 14:17",
-  "has_alert": false,
+  "updated_at": "2026-10-17 18:34",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "スカイチケット運営会社 クレカ情報も最大6000人余流出",
-      "source": "NHK",
-      "time": "Sat, 17 Oct 2026 11:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60862/20261017de60862_E0000082717_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相は参拝",
-      "source": "NHK",
-      "time": "Sat, 17 Oct 2026 12:24:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60815/20261017de60815_E0000082514_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高市首相 自衛隊殉職隊員を追悼“犠牲無にせず遺志受け継ぐ”",
-      "source": "NHK",
-      "time": "Sat, 17 Oct 2026 12:54:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60875/20261017de60875_E0000082736_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ホワイトハウス新報道官 就任からわずか5日で辞任と報道",
-      "source": "NHK",
-      "time": "Sat, 17 Oct 2026 07:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60818/20261017de60818_E0000082562_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１７日１７時４２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-17T08:44:19Z"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風30号 非常に強い勢力に発達する見込み 今後の情報に注意",
       "source": "NHK",
-      "time": "Sat, 17 Oct 2026 10:34:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60802/20261017de60802_E0000082515_1_l.jpg"
+      "time": "Sat, 17 Oct 2026 18:04:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60802/20261017de60802_E0000082907_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "AIリスク議論 サイバー攻撃 システムぜい弱性検出後数秒で悪用",
+      "text": "茨城 ひたちなか 高齢者2人が溺れていると通報 搬送時意識なし",
       "source": "NHK",
-      "time": "Sat, 17 Oct 2026 11:22:15 +0900"
+      "time": "Sat, 17 Oct 2026 18:02:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60962/20261017de60962_E0000082908_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会「百条委」議案可決 金銭授受問題や海外視察調査へ",
+      "text": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
       "source": "NHK",
-      "time": "Sat, 17 Oct 2026 07:04:00 +0900"
+      "time": "Sat, 17 Oct 2026 17:59:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60916/20261017de60916_E0000082879_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら参拝",
+      "source": "NHK",
+      "time": "Sat, 17 Oct 2026 18:18:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60815/20261017de60815_E0000082514_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛子さま 鳥取で防災推進国民大会に出席",
+      "source": "NHK",
+      "time": "Sat, 17 Oct 2026 18:19:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60971/20261017de60971_E0000082915_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "自民 小林政調会長 消費税減税法案成立へ多くの野党に働きかけ",
+      "source": "NHK",
+      "time": "Sat, 17 Oct 2026 17:30:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "奨学金受給の高校生 約2割が進学断念や変更を検討 物価高影響",
+      "source": "NHK",
+      "time": "Sat, 17 Oct 2026 18:23:11 +0900"
     }
   ]
 }
