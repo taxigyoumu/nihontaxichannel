@@ -1,13 +1,22 @@
 {
-  "updated_at": "2026-10-18 01:34",
-  "has_alert": true,
+  "updated_at": "2026-10-18 04:00",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１７日２３時４８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-17T14:50:39Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛媛 西条まつり 太鼓台の下敷きで担ぎ手の西条市副市長が死亡",
+      "source": "NHK",
+      "time": "Sun, 18 Oct 2026 02:01:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61058/20261018de61058_E0000083638_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "墜落した空自「グローバルホーク」機体の一部海底から引き揚げ",
+      "source": "NHK",
+      "time": "Sat, 17 Oct 2026 22:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de61020/20261017de61020_E0000083571_1_l.jpg"
     },
     {
       "category": "news",
@@ -20,10 +29,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "墜落した空自「グローバルホーク」機体の一部海底から引き揚げ",
+      "text": "靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら参拝",
       "source": "NHK",
-      "time": "Sat, 17 Oct 2026 22:00:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de61020/20261017de61020_E0000083571_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 01:25:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60815/20261017de60815_E0000082514_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,25 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら参拝",
-      "source": "NHK",
-      "time": "Sun, 18 Oct 2026 01:25:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60815/20261017de60815_E0000082514_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "茨城 ひたちなか 高齢の男女2人海で溺れる 搬送時意識なし",
-      "source": "NHK",
-      "time": "Sat, 17 Oct 2026 21:04:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de60962/20261017de60962_E0000083323_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "DeNAが2年ぶり日本シリーズ進出 CSファイナル 阪神に4連勝",
       "source": "NHK",
-      "time": "Sat, 17 Oct 2026 23:38:00 +0900"
+      "time": "Sun, 18 Oct 2026 01:47:32 +0900"
     },
     {
       "category": "news",
