@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-19 06:13",
-  "has_alert": false,
+  "updated_at": "2026-10-19 08:27",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１９日０８時２０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-18T23:23:46Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -15,8 +22,16 @@
       "label": "ニュース",
       "text": "非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 05:33:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61331/20261019de61331_E0000084992_1_l.jpg"
+      "time": "Mon, 19 Oct 2026 06:59:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61331/20261019de61331_E0000085104_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "あすにかけ西日本や東日本中心に大気非常に不安定",
+      "source": "NHK",
+      "time": "Mon, 19 Oct 2026 06:31:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61334/20261019de61334_E0000085018_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,10 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "横浜市長選挙 出口調査の結果は",
+      "text": "ロシア第2の都市にウクライナの攻撃 石油関連施設などに被害",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 20:02:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59773/20261015de59773_E0000084503_1_l.jpg"
+      "time": "Mon, 19 Oct 2026 06:28:23 +0900"
     },
     {
       "category": "news",
@@ -48,13 +62,6 @@
       "text": "世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か",
       "source": "NHK",
       "time": "Sun, 18 Oct 2026 17:24:20 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "プロ野球 阪神 藤川球児監督が会見 来シーズンへの決意語る",
-      "source": "NHK",
-      "time": "Sun, 18 Oct 2026 19:29:48 +0900"
     }
   ]
 }
