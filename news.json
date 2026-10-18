@@ -1,67 +1,74 @@
 {
-  "updated_at": "2026-10-18 16:44",
+  "updated_at": "2026-10-18 21:25",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１８日１６時３７分ころ、地震がありました。",
+      "text": "【震源・震度情報】１８日２１時１８分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-10-18T07:40:02Z"
+      "time": "2026-10-18T12:20:59Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１８日２０時５３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-18T11:56:34Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "世田谷 三軒茶屋 女性はねられ意識不明 荷物積み下ろし中か",
+      "text": "横浜市長選挙 出口調査の結果は",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 12:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61090/20261018de61090_E0000083882_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 20:02:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59773/20261015de59773_E0000084503_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "横浜市長選挙 新人の原澤敦美氏が初めての当選確実",
+      "source": "NHK",
+      "time": "Sun, 18 Oct 2026 21:07:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59772/20261015de59772_E0000084795_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 10:52:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61065/20261018de61065_E0000084063_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 19:04:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61065/20261018de61065_E0000084232_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "報道官退任 “中間選挙控え重要な広報ポスト空席に” 米NBC",
+      "text": "世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 14:35:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61125/20261018de61125_E0000084047_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 17:24:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61090/20261018de61090_E0000083882_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "愛知 新東名 シカと衝突し停車中の車にトラックが追突 1人死亡",
+      "text": "プロ野球 阪神 藤川球児監督が会見 来シーズンへの決意語る",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 11:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61091/20261018de61091_E0000083888_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 19:29:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61151/20261018de61151_E0000084665_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民 林前総務相 総裁選への言及は“時期尚早”",
+      "text": "カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 16:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61142/20261018de61142_E0000084073_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 20:29:42 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる",
+      "text": "SUBARU 車の衝突実験を“実機ではなくデジタルで”なぜ?【QA】",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 15:12:12 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "愛媛 西条まつり 太鼓台の下敷きで担ぎ手の西条市副市長が死亡",
-      "source": "NHK",
-      "time": "Sun, 18 Oct 2026 07:10:14 +0900"
+      "time": "Sun, 18 Oct 2026 19:31:26 +0900"
     }
   ]
 }
