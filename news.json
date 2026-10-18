@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-10-18 11:55",
-  "has_alert": false,
+  "updated_at": "2026-10-18 16:44",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "愛知 新東名 シカと衝突し停車中の車にトラックが追突 1人死亡",
-      "source": "NHK",
-      "time": "Sun, 18 Oct 2026 11:11:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61091/20261018de61091_E0000083888_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１８日１６時３７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-18T07:40:02Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米カンザス州 子どものサッカー試合会場に車突っ込み2人死亡",
+      "text": "世田谷 三軒茶屋 女性はねられ意識不明 荷物積み下ろし中か",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 11:41:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261018de61075/20261018de61075_E0000083841_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 12:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61090/20261018de61090_E0000083882_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 10:52:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61065/20261018de61065_E0000083877_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 10:52:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61065/20261018de61065_E0000084063_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "報道官退任 “中間選挙控え重要な広報ポスト空席に” 米NBC",
+      "source": "NHK",
+      "time": "Sun, 18 Oct 2026 14:35:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61125/20261018de61125_E0000084047_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛知 新東名 シカと衝突し停車中の車にトラックが追突 1人死亡",
+      "source": "NHK",
+      "time": "Sun, 18 Oct 2026 11:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61091/20261018de61091_E0000083888_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "自民 林前総務相 総裁選への言及は“時期尚早”",
+      "source": "NHK",
+      "time": "Sun, 18 Oct 2026 16:12:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61142/20261018de61142_E0000084073_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる",
+      "source": "NHK",
+      "time": "Sun, 18 Oct 2026 15:12:12 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "愛媛 西条まつり 太鼓台の下敷きで担ぎ手の西条市副市長が死亡",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 07:10:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61058/20261018de61058_E0000083638_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 調布の道路陥没から6年 補修8割終わるも完了のめど立たず",
-      "source": "NHK",
-      "time": "Sun, 18 Oct 2026 05:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de61038/20261017de61038_E0000083621_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "愛子さま 鳥取で避難所運営考えるカードゲームを体験",
-      "source": "NHK",
-      "time": "Sun, 18 Oct 2026 11:31:33 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東京 福生 男性が刃物で刺され死亡 知人の行方捜査",
-      "source": "NHK",
-      "time": "Sun, 18 Oct 2026 06:43:27 +0900"
+      "time": "Sun, 18 Oct 2026 07:10:14 +0900"
     }
   ]
 }
