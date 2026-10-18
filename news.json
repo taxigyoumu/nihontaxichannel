@@ -1,29 +1,30 @@
 {
-  "updated_at": "2026-10-18 08:43",
-  "has_alert": true,
+  "updated_at": "2026-10-18 11:55",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日０８時１６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-17T23:19:18Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛知 新東名 シカと衝突し停車中の車にトラックが追突 1人死亡",
+      "source": "NHK",
+      "time": "Sun, 18 Oct 2026 11:11:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61091/20261018de61091_E0000083888_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 急速に発達 23日に沖縄の南海上へ 今後の情報注意",
+      "text": "米カンザス州 子どものサッカー試合会場に車突っ込み2人死亡",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 07:30:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61065/20261018de61065_E0000083742_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 11:41:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261018de61075/20261018de61075_E0000083841_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "火星の衛星から砂持ち帰る計画 探査機「MMX」20日打ち上げへ",
+      "text": "台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 07:41:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de61034/20261017de61034_E0000083642_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 10:52:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61065/20261018de61065_E0000083877_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,25 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "インド ヒンドゥー教の祭典で大勢の人倒れ少なくとも17人死亡",
+      "text": "東京 調布の道路陥没から6年 補修8割終わるも完了のめど立たず",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 08:02:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261018de61074/20261018de61074_E0000083750_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 05:06:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261017de61038/20261017de61038_E0000083621_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道",
+      "text": "愛子さま 鳥取で避難所運営考えるカードゲームを体験",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 07:52:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61073/20261018de61073_E0000083747_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋田 奈良 クマに襲われけが人相次ぐ 警察などが注意呼びかけ",
-      "source": "NHK",
-      "time": "Sun, 18 Oct 2026 05:39:57 +0900"
+      "time": "Sun, 18 Oct 2026 11:31:33 +0900"
     },
     {
       "category": "news",
