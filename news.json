@@ -1,20 +1,14 @@
 {
-  "updated_at": "2026-10-18 21:25",
-  "has_alert": true,
+  "updated_at": "2026-10-19 01:02",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日２１時１８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-18T12:20:59Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日２０時５３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-18T11:56:34Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "横浜市長選挙 新人の原澤敦美氏が初当選",
+      "source": "NHK",
+      "time": "Mon, 19 Oct 2026 00:24:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59772/20261015de59772_E0000084795_1_l.jpg"
     },
     {
       "category": "news",
@@ -23,14 +17,6 @@
       "source": "NHK",
       "time": "Sun, 18 Oct 2026 20:02:54 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59773/20261015de59773_E0000084503_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "横浜市長選挙 新人の原澤敦美氏が初めての当選確実",
-      "source": "NHK",
-      "time": "Sun, 18 Oct 2026 21:07:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59772/20261015de59772_E0000084795_1_l.jpg"
     },
     {
       "category": "news",
@@ -51,17 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プロ野球 阪神 藤川球児監督が会見 来シーズンへの決意語る",
+      "text": "声や肖像 不正競争防止法の対象として明記検討へ 経済産業省",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 19:29:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61151/20261018de61151_E0000084665_1_l.jpg"
+      "time": "Sun, 18 Oct 2026 23:44:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261018de61309/20261018de61309_E0000003827_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報",
+      "text": "プロ野球 阪神 藤川球児監督が会見 来シーズンへの決意語る",
       "source": "NHK",
-      "time": "Sun, 18 Oct 2026 20:29:42 +0900"
+      "time": "Sun, 18 Oct 2026 19:29:48 +0900"
     },
     {
       "category": "news",
