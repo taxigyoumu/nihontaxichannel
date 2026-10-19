@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-10-19 10:31",
+  "updated_at": "2026-10-19 16:16",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１９日０８時２０分ころ、地震がありました。",
+      "text": "【震源・震度情報】１９日１５時５４分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-10-18T23:23:46Z"
+      "time": "2026-10-19T06:57:11Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ",
+      "text": "阪神 佐藤輝明 大リーグ挑戦へ 球団がポスティング移籍容認",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 06:59:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61331/20261019de61331_E0000085104_1_l.jpg"
+      "time": "Mon, 19 Oct 2026 16:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61537/20261019de61537_E0000086244_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 秋の例大祭の靖国神社参拝見送りへ 私費で玉串料奉納",
+      "text": "訪問介護の介護報酬 戸別訪問の移動コストなど反映方針 厚労省",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 08:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61346/20261019de61346_E0000085299_1_l.jpg"
+      "time": "Mon, 19 Oct 2026 16:11:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61601/20261019de61601_E0000086261_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "超党派議員約70人 靖国神社に参拝 井林国交相も",
+      "text": "関文科相 議員会館で政治資金パーティー 議運委員長が厳重注意",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 08:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61344/20261019de61344_E0000085305_1_l.jpg"
+      "time": "Mon, 19 Oct 2026 15:08:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61556/20261019de61556_E0000086180_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民 梶山氏 靖国神社に参拝 高市首相の総裁としての玉串料も",
+      "text": "神奈川 藤沢 バスや乗用車などの事故で14人搬送 1人意識なし",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 08:36:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61342/20261019de61342_E0000085278_1_l.jpg"
+      "time": "Mon, 19 Oct 2026 14:45:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61387/20261019de61387_E0000085425_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "横浜市長選挙 新人の原澤敦美氏が初当選",
+      "text": "JETROのホームページが不正アクセスで一時的に公開停止",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 05:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261015de59772/20261015de59772_E0000084795_1_l.jpg"
+      "time": "Mon, 19 Oct 2026 15:53:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61442/20261019de61442_E0000085455_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "あすにかけ西日本や東日本中心に大気非常に不安定",
+      "text": "非常に強い台風30号 沖縄は21日以降 波高くなるおそれ",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 06:31:00 +0900"
+      "time": "Mon, 19 Oct 2026 13:15:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア第2の都市にウクライナの攻撃 石油関連施設などに被害",
+      "text": "あすにかけ西日本と東日本を中心に大気不安定 激しい雨も",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 06:28:23 +0900"
+      "time": "Mon, 19 Oct 2026 12:17:00 +0900"
     }
   ]
 }
