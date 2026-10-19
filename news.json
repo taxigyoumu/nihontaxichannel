@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-10-19 23:49",
-  "has_alert": false,
+  "updated_at": "2026-10-20 05:19",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも",
-      "source": "NHK",
-      "time": "Mon, 19 Oct 2026 19:23:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61442/20261019de61442_E0000087102_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象解説情報（落雷・突風）】岐阜県では、２０日夜遅くにかけて、竜巻などの激しい突風、落雷、急な強い雨に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-19T20:10:33Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー マンチェスターシティーの財務規則違反を認定",
+      "text": "【速報中】火星衛星探査機「MMX」H3ロケットで打ち上げ 鹿児島",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 19:46:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61598/20261019de61598_E0000086345_1_l.jpg"
+      "time": "Tue, 20 Oct 2026 04:54:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089029_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高校無償化でも“私立は選べず”約3割 低所得世帯にNGO調査",
+      "text": "上皇后さま 92歳の誕生日",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 19:27:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61526/20261019de61526_E0000087352_1_l.jpg"
+      "time": "Tue, 20 Oct 2026 00:00:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61822/20261019de61822_E0000088254_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "超低出生体重児の大動脈の血管へのステント治療成功 静岡",
+      "text": "盛岡 東北道で車6台絡む事故 1台が炎上 1人死亡",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 23:17:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61864/20261019de61864_E0000089011_1_l.jpg"
+      "time": "Tue, 20 Oct 2026 05:09:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61903/20261020de61903_E0000003910_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“簗氏 事務員報酬支払い”報道 大学教授が宇都宮地検に告発状",
+      "text": "米国務長官は和平目指す姿勢強調もウクライナは不満表明",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 20:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61832/20261019de61832_E0000088273_1_l.jpg"
+      "time": "Tue, 20 Oct 2026 04:52:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61898/20261020de61898_E0000089024_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "旅客機の操縦席に小動物が見つかり欠航 福岡空港",
+      "text": "WFP“資金不足でガザの約50万人 食料支援が受けられなくなる”",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 21:53:00 +0900"
+      "time": "Tue, 20 Oct 2026 04:51:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61895/20261020de61895_E0000089027_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "企業・自治体のメール配信会社に不正アクセス 900万件流出か",
+      "text": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
       "source": "NHK",
-      "time": "Mon, 19 Oct 2026 22:39:13 +0900"
+      "time": "Tue, 20 Oct 2026 05:01:02 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "世界最大級ファンド「ブラックストーン」 日本に約6兆円投資へ",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 05:03:42 +0900"
     }
   ]
 }
