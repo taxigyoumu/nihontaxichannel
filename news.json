@@ -1,60 +1,53 @@
 {
-  "updated_at": "2026-10-20 05:19",
-  "has_alert": true,
+  "updated_at": "2026-10-20 08:50",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象解説情報（落雷・突風）】岐阜県では、２０日夜遅くにかけて、竜巻などの激しい突風、落雷、急な強い雨に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-10-19T20:10:33Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 08:25:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089057_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】火星衛星探査機「MMX」H3ロケットで打ち上げ 鹿児島",
+      "text": "トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 04:54:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089029_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "上皇后さま 92歳の誕生日",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 00:00:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61822/20261019de61822_E0000088254_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "盛岡 東北道で車6台絡む事故 1台が炎上 1人死亡",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 05:09:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61903/20261020de61903_E0000003910_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米国務長官は和平目指す姿勢強調もウクライナは不満表明",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 04:52:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61898/20261020de61898_E0000089024_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "WFP“資金不足でガザの約50万人 食料支援が受けられなくなる”",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 04:51:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61895/20261020de61895_E0000089027_1_l.jpg"
+      "time": "Tue, 20 Oct 2026 07:24:17 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61784/20261019de61784_E0000089157_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 05:01:02 +0900"
+      "time": "Tue, 20 Oct 2026 07:48:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61888/20261020de61888_E0000089020_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "食料品の消費税減税関連法案 きょう衆議院で審議入り",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 05:10:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61870/20261019de61870_E0000089012_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "東・西日本で大気不安定に 台風30号の最新情報 確認を",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 07:38:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61878/20261019de61878_E0000089060_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "上皇后さま 92歳の誕生日",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 00:00:50 +0900"
     },
     {
       "category": "news",
