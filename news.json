@@ -1,7 +1,38 @@
 {
-  "updated_at": "2026-10-20 23:04",
-  "has_alert": false,
+  "updated_at": "2026-10-21 03:34",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２１日０２時４０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-20T17:44:34Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "岩井コスモ証券 不正アクセスで顧客が意図しない売買注文",
+      "source": "NHK",
+      "time": "Wed, 21 Oct 2026 00:26:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62520/20261021de62520_E0000093096_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "神奈川 藤沢14人死傷事故 運転手「驚いてアクセル踏み込んだ」",
+      "source": "NHK",
+      "time": "Wed, 21 Oct 2026 00:04:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62515/20261020de62515_E0000093094_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 23:39:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62509/20261020de62509_E0000093090_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,14 +40,6 @@
       "source": "NHK",
       "time": "Tue, 20 Oct 2026 20:18:53 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62437/20261020de62437_E0000092163_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 19:51:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61968/20261020de61968_E0000089508_1_l.jpg"
     },
     {
       "category": "news",
@@ -31,30 +54,14 @@
       "label": "ニュース",
       "text": "台風30号 先島諸島に23日から接近見込み 西日本に影響可能性も",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 22:17:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61985/20261020de61985_E0000093050_1_l.jpg"
+      "time": "Tue, 20 Oct 2026 22:17:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "あす北～西日本で激しい雨か 北日本は荒天に 季節外れの暑さも",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 19:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61878/20261019de61878_E0000091650_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "食料品の消費税減税関連法案 首相“法案の早期成立目指す”",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 17:49:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フランス首相 状況次第で新たな外出禁止令求める考え",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 19:21:00 +0900"
+      "time": "Tue, 20 Oct 2026 19:08:00 +0900"
     }
   ]
 }
