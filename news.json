@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-20 12:17",
+  "updated_at": "2026-10-20 17:45",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "台風30号 23日から沖縄の先島諸島に接近見込み 最新情報確認を",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 16:12:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61985/20261020de61985_E0000090344_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "食料品の消費税減税関連法案 衆議院で審議入り",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 13:03:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61870/20261019de61870_E0000089012_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "大阪地裁前で男性刺される 容疑者は面識ありか 出頭して逮捕",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 12:03:25 +0900",
+      "time": "Tue, 20 Oct 2026 12:03:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61997/20261020de61997_E0000089521_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 11:36:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089509_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "食料品の消費税減税関連法案 きょう午後に衆議院で審議入り",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 12:00:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61870/20261019de61870_E0000089012_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 11:59:34 +0900",
+      "time": "Tue, 20 Oct 2026 17:34:49 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61968/20261020de61968_E0000089508_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国民 消費税減税法案の対案提出 住民税減税などで負担軽減図る",
+      "text": "暖冬で太平洋側中心に降水量多い見込み 気象庁3か月予報",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 11:58:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61991/20261020de61991_E0000089518_1_l.jpg"
+      "time": "Tue, 20 Oct 2026 16:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62219/20261020de62219_E0000003830_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 23日から沖縄の先島諸島に接近見込み 最新情報確認を",
+      "text": "火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 11:53:18 +0900"
+      "time": "Tue, 20 Oct 2026 16:43:19 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "上皇后さま 92歳の誕生日",
+      "text": "栃木 日光 山中で作業員が背後からクマに襲われけが",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 00:00:00 +0900"
+      "time": "Tue, 20 Oct 2026 17:21:38 +0900"
     }
   ]
 }
