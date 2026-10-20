@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-20 17:45",
+  "updated_at": "2026-10-20 23:04",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 23日から沖縄の先島諸島に接近見込み 最新情報確認を",
+      "text": "ふるさとチョイス 445万件の個人情報流出を発表",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 16:12:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61985/20261020de61985_E0000090344_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "食料品の消費税減税関連法案 衆議院で審議入り",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 13:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61870/20261019de61870_E0000089012_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大阪地裁前で男性刺される 容疑者は面識ありか 出頭して逮捕",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 12:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61997/20261020de61997_E0000089521_1_l.jpg"
+      "time": "Tue, 20 Oct 2026 20:18:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62437/20261020de62437_E0000092163_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "新名神高速6人死亡事故 被告に拘禁刑7年の判決 津地裁",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 17:34:49 +0900",
+      "time": "Tue, 20 Oct 2026 19:51:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61968/20261020de61968_E0000089508_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "暖冬で太平洋側中心に降水量多い見込み 気象庁3か月予報",
+      "text": "探査機「MMX」 火星へ向かう軌道に 衛星「フォボス」探査へ",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 16:53:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62219/20261020de62219_E0000003830_1_l.jpg"
+      "time": "Tue, 20 Oct 2026 20:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61814/20261019de61814_E0000089509_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功",
+      "text": "台風30号 先島諸島に23日から接近見込み 西日本に影響可能性も",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 16:43:19 +0900"
+      "time": "Tue, 20 Oct 2026 22:17:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de61985/20261020de61985_E0000093050_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "栃木 日光 山中で作業員が背後からクマに襲われけが",
+      "text": "あす北～西日本で激しい雨か 北日本は荒天に 季節外れの暑さも",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 17:21:38 +0900"
+      "time": "Tue, 20 Oct 2026 19:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261019de61878/20261019de61878_E0000091650_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "食料品の消費税減税関連法案 首相“法案の早期成立目指す”",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 17:49:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フランス首相 状況次第で新たな外出禁止令求める考え",
+      "source": "NHK",
+      "time": "Tue, 20 Oct 2026 19:21:00 +0900"
     }
   ]
 }
