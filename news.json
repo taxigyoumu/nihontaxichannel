@@ -1,14 +1,22 @@
 {
-  "updated_at": "2026-10-21 07:03",
+  "updated_at": "2026-10-21 09:43",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 野党からは対案も 与党は成立へ歩み寄り模索",
+      "text": "今年度上半期の貿易統計 2兆8000億円の赤字 昨年比98.8％拡大",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 05:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261020de62512/20261020de62512_E0000093100_1_l.jpg"
+      "time": "Wed, 21 Oct 2026 09:03:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62600/20261021de62600_E0000004045_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ政府 民生部門で中国AIのディープシーク利用禁止に",
+      "source": "NHK",
+      "time": "Wed, 21 Oct 2026 07:57:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62564/20261021de62564_E0000093265_1_l.jpg"
     },
     {
       "category": "news",
@@ -16,45 +24,37 @@
       "text": "台風30号 先島諸島に23日から接近か きょうは広範囲で激しい雨",
       "source": "NHK",
       "time": "Wed, 21 Oct 2026 06:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62549/20261021de62549_E0000093124_1_l.jpg"
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62549/20261021de62549_E0000093241_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "体操世界選手権男子団体 日本は金メダルで五輪出場権獲得",
+      "text": "イーロン・マスク氏 スペースXとテスラの統合を特別委で議論",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 05:55:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62550/20261021de62550_E0000004045_1_l.jpg"
+      "time": "Wed, 21 Oct 2026 07:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62558/20261021de62558_E0000093253_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 倶知安町で住宅火災 男女2人死亡",
+      "text": "外務省局長がロシア外務省幹部と会談 記者の即時解放強く要請",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 06:55:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62559/20261021de62559_E0000093155_1_l.jpg"
+      "time": "Wed, 21 Oct 2026 07:44:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62531/20261021de62531_E0000093112_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フランス各地で夜間外出禁止令続く 今週末もデモ 警備強化へ",
+      "text": "ゼレンスキー大統領 米特使と会談「3か国の首脳会談目指す」",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 05:28:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62533/20261021de62533_E0000093113_1_l.jpg"
+      "time": "Wed, 21 Oct 2026 07:24:16 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国の省エネ住宅事業で2万3000件超の情報漏えいのおそれ",
+      "text": "消費税減税法案 野党からは対案も 与党は成立へ歩み寄り模索",
       "source": "NHK",
-      "time": "Tue, 20 Oct 2026 23:39:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ふるさとチョイス 445万件の個人情報流出を発表",
-      "source": "NHK",
-      "time": "Tue, 20 Oct 2026 20:18:00 +0900"
+      "time": "Wed, 21 Oct 2026 05:48:00 +0900"
     }
   ]
 }
