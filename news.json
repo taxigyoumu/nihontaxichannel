@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-21 09:43",
+  "updated_at": "2026-10-21 14:41",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "今年度上半期の貿易統計 2兆8000億円の赤字 昨年比98.8％拡大",
+      "text": "東京と大阪で最も遅い真夏日 各地で季節外れの暑さに",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 09:03:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62600/20261021de62600_E0000004045_1_l.jpg"
+      "time": "Wed, 21 Oct 2026 13:32:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62637/20261021de62637_E0000094438_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ政府 民生部門で中国AIのディープシーク利用禁止に",
+      "text": "武部農相の政党支部 衆院選中に国の事業受注の企業から寄付",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 07:57:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62564/20261021de62564_E0000093265_1_l.jpg"
+      "time": "Wed, 21 Oct 2026 14:32:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62622/20261021de62622_E0000093654_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 先島諸島に23日から接近か きょうは広範囲で激しい雨",
+      "text": "マスク氏がウクライナ軍利用の通信サービス制限指示か 米報道",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 06:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62549/20261021de62549_E0000093241_1_l.jpg"
+      "time": "Wed, 21 Oct 2026 13:26:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62759/20261021de62759_E0000094417_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イーロン・マスク氏 スペースXとテスラの統合を特別委で議論",
+      "text": "台風30号 先島諸島23日から接近見込み 西日本に影響の可能性も",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 07:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62558/20261021de62558_E0000093253_1_l.jpg"
+      "time": "Wed, 21 Oct 2026 12:30:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62549/20261021de62549_E0000093628_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "片山財務相“消費税減税は早期に効果実感できる物価高対策”",
+      "source": "NHK",
+      "time": "Wed, 21 Oct 2026 12:37:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62724/20261021de62724_E0000093826_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "外務省局長がロシア外務省幹部と会談 記者の即時解放強く要請",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 07:44:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de62531/20261021de62531_E0000093112_1_l.jpg"
+      "time": "Wed, 21 Oct 2026 12:58:05 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ゼレンスキー大統領 米特使と会談「3か国の首脳会談目指す」",
+      "text": "不正アクセスによる個人情報漏えい相次ぎ警視庁に相談相次ぐ",
       "source": "NHK",
-      "time": "Wed, 21 Oct 2026 07:24:16 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税法案 野党からは対案も 与党は成立へ歩み寄り模索",
-      "source": "NHK",
-      "time": "Wed, 21 Oct 2026 05:48:00 +0900"
+      "time": "Wed, 21 Oct 2026 12:00:00 +0900"
     }
   ]
 }
