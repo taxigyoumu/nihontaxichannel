@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-10-23 03:05",
-  "has_alert": true,
+  "updated_at": "2026-10-23 06:49",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２３日０２時２１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-22T17:26:44Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風 先島諸島 暴風大雨厳重警戒 西日本・東日本も大雨おそれ",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 06:18:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000101745_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
+      "text": "体操 世界選手権 男子個人総合 橋本大輝が4連覇",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 00:17:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63461/20261022de63461_E0000099401_1_l.jpg"
+      "time": "Fri, 23 Oct 2026 06:36:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63973/20261023de63973_E0000101787_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ドラフト反応】横浜高校織田投手「アメリカ挑戦全くぶれず」",
+      "text": "フランス マクロン大統領「正当な理由ないデモ認めず」",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 21:44:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63462/20261022de63462_E0000099038_1_l.jpg"
+      "time": "Fri, 23 Oct 2026 06:25:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63966/20261023de63966_E0000101732_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "マイクロソフト「中国系ハッカー集団が大規模サイバー攻撃」",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 05:47:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63956/20261023de63956_E0000101721_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ANA エア・ドゥとソラシドに追加出資を検討",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 06:39:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63929/20261023de63929_E0000101699_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フィンランド 「核のごみ」最終処分場に政府が操業許可",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 05:39:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ドラフト 巨人“史上最年少14歳”の中学3年生を育成5位で指名",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 23:42:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63890/20261022de63890_E0000101595_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "経産省「ホワイトハッカー」のチーム立ち上げへ",
-      "source": "NHK",
-      "time": "Thu, 22 Oct 2026 17:33:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63664/20261022de63664_E0000099040_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風30号 先島諸島が暴風域 西～東日本 接近前から大雨も",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 01:11:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63248/20261022de63248_E0000098953_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ",
-      "source": "NHK",
-      "time": "Thu, 22 Oct 2026 22:00:34 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡県議会 現職議員が証言「農水委員長でゴルフ費用等負担」",
-      "source": "NHK",
-      "time": "Thu, 22 Oct 2026 21:24:00 +0900"
+      "time": "Thu, 22 Oct 2026 23:42:20 +0900"
     }
   ]
 }
