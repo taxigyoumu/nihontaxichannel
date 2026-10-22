@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-22 08:29",
+  "updated_at": "2026-10-22 10:44",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+      "source": "NHK",
+      "time": "Thu, 22 Oct 2026 10:40:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63326/20261022de63326_E0000004045_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -9,22 +17,6 @@
       "source": "NHK",
       "time": "Thu, 22 Oct 2026 05:14:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63209/20261021de63209_E0000097441_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "秋田 子吉川 氾濫特別警報は注意報に 危険な場所に近づかない",
-      "source": "NHK",
-      "time": "Thu, 22 Oct 2026 07:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63227/20261021de63227_E0000097543_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
-      "source": "NHK",
-      "time": "Thu, 22 Oct 2026 07:22:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63278/20261022de63278_E0000097676_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "秋田 子吉川に一時氾濫特別警報 川の増水など注意を",
+      "source": "NHK",
+      "time": "Thu, 22 Oct 2026 09:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63227/20261021de63227_E0000097931_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+      "source": "NHK",
+      "time": "Thu, 22 Oct 2026 09:38:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63278/20261022de63278_E0000097676_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "消費税減税法案 与党“審議重ね法案通過”野党“充実審議を”",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 06:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63246/20261022de63246_E0000097524_1_l.jpg"
+      "time": "Thu, 22 Oct 2026 06:08:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し",
+      "text": "ロシア ウクライナ アメリカの3か国高官協議 11月再開か",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 06:27:57 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "体操 世界選手権 女子団体 日本は銅メダルで五輪出場権獲得",
-      "source": "NHK",
-      "time": "Thu, 22 Oct 2026 05:42:00 +0900"
+      "time": "Thu, 22 Oct 2026 08:52:26 +0900"
     }
   ]
 }
