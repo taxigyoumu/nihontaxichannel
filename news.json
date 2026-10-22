@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-22 10:44",
+  "updated_at": "2026-10-22 16:02",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
+      "text": "すき家 JR 証券会社も “PHP”対応でサービス一時停止相次ぐ",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 10:40:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63326/20261022de63326_E0000004045_1_l.jpg"
+      "time": "Thu, 22 Oct 2026 15:11:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63324/20261022de63324_E0000098032_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“PHPでぜい弱性確認 速やかな対応を”情報処理推進機構",
+      "text": "神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 05:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63209/20261021de63209_E0000097441_1_l.jpg"
+      "time": "Thu, 22 Oct 2026 14:38:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63326/20261022de63326_E0000097977_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "免許証画像など漏えいし闇サイトで販売か 沖縄の会社から",
+      "source": "NHK",
+      "time": "Thu, 22 Oct 2026 11:54:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63353/20261022de63353_E0000098031_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "猛烈な台風30号 あす先島諸島接近 早めに対策を",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 07:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63248/20261022de63248_E0000097683_1_l.jpg"
+      "time": "Thu, 22 Oct 2026 15:51:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63248/20261022de63248_E0000098953_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "秋田 子吉川に一時氾濫特別警報 川の増水など注意を",
+      "text": "米とイスラエルが中間選挙後のイラン再攻撃計画策定か 米報道",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 09:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261021de63227/20261021de63227_E0000097931_1_l.jpg"
+      "time": "Thu, 22 Oct 2026 13:59:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63478/20261022de63478_E0000098731_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ドローン動画】一夜明けた子吉川は 秋田 由利本荘",
+      "text": "「コミックシーモア」流出はメールアドレスなど最大420万件に",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 09:38:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63278/20261022de63278_E0000097676_1_l.jpg"
+      "time": "Thu, 22 Oct 2026 13:15:27 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 与党“審議重ね法案通過”野党“充実審議を”",
+      "text": "プロ野球 ドラフト会議2026【速報予定16:50】各球団の指名は",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 06:08:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロシア ウクライナ アメリカの3か国高官協議 11月再開か",
-      "source": "NHK",
-      "time": "Thu, 22 Oct 2026 08:52:26 +0900"
+      "time": "Thu, 22 Oct 2026 15:36:51 +0900"
     }
   ]
 }
