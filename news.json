@@ -1,13 +1,20 @@
 {
-  "updated_at": "2026-10-22 22:04",
-  "has_alert": false,
+  "updated_at": "2026-10-23 03:05",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２３日０２時２１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-22T17:26:44Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 22:00:56 +0900",
+      "time": "Fri, 23 Oct 2026 00:17:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63461/20261022de63461_E0000099401_1_l.jpg"
     },
     {
@@ -15,8 +22,16 @@
       "label": "ニュース",
       "text": "【ドラフト反応】横浜高校織田投手「アメリカ挑戦全くぶれず」",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 21:44:15 +0900",
+      "time": "Thu, 22 Oct 2026 21:44:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63462/20261022de63462_E0000099038_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドラフト 巨人“史上最年少14歳”の中学3年生を育成5位で指名",
+      "source": "NHK",
+      "time": "Thu, 22 Oct 2026 23:42:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63890/20261022de63890_E0000101595_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +44,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 先島諸島一部が暴風域 西～東日本 接近前から大雨も",
+      "text": "台風30号 先島諸島が暴風域 西～東日本 接近前から大雨も",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 19:16:00 +0900",
+      "time": "Fri, 23 Oct 2026 01:11:37 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63248/20261022de63248_E0000098953_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ",
+      "source": "NHK",
+      "time": "Thu, 22 Oct 2026 22:00:34 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "福岡県議会 現職議員が証言「農水委員長でゴルフ費用等負担」",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 21:24:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261022de63876/20261022de63876_E0000101568_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "血液などでがん調べる自費の検査 学会が意義と限界まとめ",
-      "source": "NHK",
-      "time": "Thu, 22 Oct 2026 21:26:04 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「カプコン」全世界の会員メールアドレスなど約1177万件漏えい",
-      "source": "NHK",
-      "time": "Thu, 22 Oct 2026 18:27:00 +0900"
+      "time": "Thu, 22 Oct 2026 21:24:00 +0900"
     }
   ]
 }
