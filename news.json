@@ -1,7 +1,15 @@
 {
-  "updated_at": "2026-10-23 19:21",
+  "updated_at": "2026-10-24 00:20",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【気象解説】",
+      "source": "NHK",
+      "time": "Sat, 24 Oct 2026 00:07:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000105939_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,34 +21,26 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネパール ヒマラヤ山脈で2人の遺体見つかる 不明の日本人か",
+      "text": "作家の村上龍さん死去「コインロッカー・ベイビーズ」 74歳",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 18:52:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64496/20261023de64496_E0000104479_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "作家の村上龍さん死去「コインロッカー・ベイビーズ」74歳",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 18:04:31 +0900",
+      "time": "Fri, 23 Oct 2026 20:56:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64176/20261023de64176_E0000102916_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【ライブ】",
+      "text": "福岡県議会 元副議長が就任前に藏内氏に500万円手渡したと証言",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 19:15:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000104424_1_l.jpg"
+      "time": "Fri, 23 Oct 2026 23:54:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64536/20261023de64536_E0000105046_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
+      "text": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 19:06:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102393_1_l.jpg"
+      "time": "Fri, 23 Oct 2026 22:13:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64388/20261023de64388_E0000103319_1_l.jpg"
     },
     {
       "category": "news",
@@ -52,9 +52,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岩井コスモ証券会長 不正アクセスで陳謝 不正取引125万株",
+      "text": "NHK出版 約12万件の個人情報漏えい 不正アクセスで",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 19:11:05 +0900"
+      "time": "Fri, 23 Oct 2026 22:25:18 +0900"
     }
   ]
 }
