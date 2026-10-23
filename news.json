@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-23 06:49",
+  "updated_at": "2026-10-23 09:22",
   "has_alert": false,
   "items": [
     {
@@ -7,47 +7,47 @@
       "label": "ニュース",
       "text": "台風 先島諸島 暴風大雨厳重警戒 西日本・東日本も大雨おそれ",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 06:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000101745_1_l.jpg"
+      "time": "Fri, 23 Oct 2026 07:20:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000101827_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "エネルギー白書「石油危機以来の対策では対応しきれない事態」",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 09:11:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63997/20261023de63997_E0000102071_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "9月消費者物価 生鮮食品除く指数 前年同月比＋2.1％",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 08:51:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63991/20261023de63991_E0000102063_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日本製鉄傘下のUSスチール 4700億円余の投資計画を発表",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 09:15:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63999/20261023de63999_E0000102090_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "マイクロソフト「中国政府とつながりある集団がサイバー攻撃」",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 08:30:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63956/20261023de63956_E0000101788_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "体操 世界選手権 男子個人総合 橋本大輝が4連覇",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 06:36:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63973/20261023de63973_E0000101787_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フランス マクロン大統領「正当な理由ないデモ認めず」",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 06:25:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63966/20261023de63966_E0000101732_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "マイクロソフト「中国系ハッカー集団が大規模サイバー攻撃」",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 05:47:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63956/20261023de63956_E0000101721_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ANA エア・ドゥとソラシドに追加出資を検討",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 06:39:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63929/20261023de63929_E0000101699_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フィンランド 「核のごみ」最終処分場に政府が操業許可",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 05:39:00 +0900"
+      "time": "Fri, 23 Oct 2026 06:36:21 +0900"
     },
     {
       "category": "news",
