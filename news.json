@@ -1,7 +1,14 @@
 {
-  "updated_at": "2026-10-24 00:20",
-  "has_alert": false,
+  "updated_at": "2026-10-24 04:25",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日０２時３１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-23T17:34:27Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -29,18 +36,25 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡県議会 元副議長が就任前に藏内氏に500万円手渡したと証言",
+      "text": "政府 ガソリン補助見直しも検討 水準や時期など焦点",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 23:54:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64536/20261023de64536_E0000105046_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 01:46:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64636/20261024de64636_E0000003843_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "モスバーガー 流通済みプリペイドカード情報 約57万件が流出",
+      "text": "消費税減税法案 実質審議入り 支援金など論戦続く",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 22:13:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64388/20261023de64388_E0000103319_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 01:52:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64640/20261024de64640_E0000003847_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アパレル大手「アンドエスティ」客の個人情報約250万件流出か",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 21:47:14 +0900"
     },
     {
       "category": "news",
@@ -48,13 +62,6 @@
       "text": "佐川急便 流出した個人情報は最大5300万件超の可能性",
       "source": "NHK",
       "time": "Fri, 23 Oct 2026 17:01:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "NHK出版 約12万件の個人情報漏えい 不正アクセスで",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 22:25:18 +0900"
     }
   ]
 }
