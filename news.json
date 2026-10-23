@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-23 14:09",
+  "updated_at": "2026-10-23 19:21",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プロ野球 巨人の新監督に松井秀喜氏が就任へ",
+      "text": "巨人新監督に就任 松井秀喜氏が会見「新たな黄金時代を」",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 12:52:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64015/20261023de64015_E0000101674_1_l.jpg"
+      "time": "Fri, 23 Oct 2026 18:30:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64015/20261023de64015_E0000103196_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ネパール ヒマラヤ山脈で2人の遺体見つかる 不明の日本人か",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 18:52:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64496/20261023de64496_E0000104479_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "作家の村上龍さん死去「コインロッカー・ベイビーズ」74歳",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 13:52:30 +0900",
+      "time": "Fri, 23 Oct 2026 18:04:31 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64176/20261023de64176_E0000102916_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 先島諸島に最接近へ 暴風 高波に厳重警戒【ライブ】",
+      "text": "台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【ライブ】",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 12:17:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000102876_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "奈良公園周辺 子ジカ死骸4体見つかる 危害加えられた疑いも",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 12:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64116/20261023de64116_E0000102399_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "デジタル庁 最大1万3000件余の個人情報が漏えいの可能性",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 12:10:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64088/20261023de64088_E0000003838_1_l.jpg"
+      "time": "Fri, 23 Oct 2026 19:15:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000104424_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 12:02:00 +0900"
+      "time": "Fri, 23 Oct 2026 19:06:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102393_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【ドラフト反応】横浜高校織田投手「アメリカ挑戦全くぶれず」",
+      "text": "佐川急便 流出した個人情報は最大5300万件超の可能性",
       "source": "NHK",
-      "time": "Thu, 22 Oct 2026 21:44:00 +0900"
+      "time": "Fri, 23 Oct 2026 17:01:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "岩井コスモ証券会長 不正アクセスで陳謝 不正取引125万株",
+      "source": "NHK",
+      "time": "Fri, 23 Oct 2026 19:11:05 +0900"
     }
   ]
 }
