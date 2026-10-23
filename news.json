@@ -1,21 +1,22 @@
 {
-  "updated_at": "2026-10-24 04:25",
-  "has_alert": true,
+  "updated_at": "2026-10-24 07:28",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２４日０２時３１分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-23T17:34:27Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風30号 先島諸島が暴風域に 暴風や大雨などに厳重警戒",
+      "source": "NHK",
+      "time": "Sat, 24 Oct 2026 07:08:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64650/20261024de64650_E0000106132_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【気象解説】",
+      "text": "改正皇室典範 きょう施行",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 00:07:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de63968/20261023de63968_E0000105939_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 05:00:08 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64625/20261024de64625_E0000106052_1_l.jpg"
     },
     {
       "category": "news",
@@ -36,18 +37,17 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府 ガソリン補助見直しも検討 水準や時期など焦点",
+      "text": "台風31号が日本のはるか南東の海上で発生 今後の情報に注意を",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 01:46:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64636/20261024de64636_E0000003843_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 04:40:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64647/20261024de64647_E0000106057_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 実質審議入り 支援金など論戦続く",
+      "text": "フランスで再び抗議デモ実施へ パリの街に警戒感広がる",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 01:52:44 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64640/20261024de64640_E0000003847_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 05:47:42 +0900"
     },
     {
       "category": "news",
@@ -55,13 +55,6 @@
       "text": "アパレル大手「アンドエスティ」客の個人情報約250万件流出か",
       "source": "NHK",
       "time": "Fri, 23 Oct 2026 21:47:14 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "佐川急便 流出した個人情報は最大5300万件超の可能性",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 17:01:00 +0900"
     }
   ]
 }
