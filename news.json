@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-24 09:58",
+  "updated_at": "2026-10-24 14:35",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 先島諸島が暴風域に 沖縄で2人がけが",
+      "text": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 07:58:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64650/20261024de64650_E0000106132_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 13:49:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64764/20261024de64764_E0000106683_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "KDDI モンゴル自然保護区の大規模火災の経緯公表",
+      "text": "GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 05:20:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64642/20261024de64642_E0000106055_1_l.jpg"
+      "time": "Fri, 23 Oct 2026 22:01:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64076/20261023de64076_E0000102339_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フィギュアスケート GPシリーズ第1戦 青木祐奈が首位発進",
+      "text": "【最新情報】台風30号 先島諸島に接近 西～東日本で大雨おそれ",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 09:25:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64681/20261024de64681_E0000106353_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 12:55:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64650/20261024de64650_E0000106699_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風31号が日本のはるか南東の海上で発生 今後の情報に注意を",
+      "text": "台風30号 台湾で1人死亡 500人以上けが 警戒続く",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 04:40:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64647/20261024de64647_E0000106057_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 11:43:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64639/20261024de64639_E0000106406_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“ウクライナ南部の都市で停戦実現 メラニア夫人仲介”米政権",
+      "text": "沖縄 石垣島地方に「線状降水帯直前予測」 気象庁発表",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 09:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64657/20261024de64657_E0000106077_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 10:38:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64712/20261024de64712_E0000003982_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フランスで再び抗議デモ実施へ パリの街に警戒感広がる",
+      "text": "トランプ政権 対カナダ関税一部除外 接戦州の共和党候補が要請",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 05:47:42 +0900"
+      "time": "Sat, 24 Oct 2026 10:05:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アパレル大手「アンドエスティ」客の個人情報約250万件流出か",
+      "text": "仏パリ郊外で次々に銃撃1人死亡5人けが テロ事件とみて捜査",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 21:47:14 +0900"
+      "time": "Sat, 24 Oct 2026 10:00:00 +0900"
     }
   ]
 }
