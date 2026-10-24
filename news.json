@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-24 19:14",
+  "updated_at": "2026-10-24 23:03",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【最新情報】台風30号 東シナ海を北上 西～東日本で大雨おそれ",
+      "text": "【最新情報】台風30号西日本接近へ 西～東日本で大雨のおそれ",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 15:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64650/20261024de64650_E0000106732_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台風30号 台湾で1人死亡 600人以上けが 日本人学校で門倒れる",
-      "source": "NHK",
-      "time": "Sat, 24 Oct 2026 18:36:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64639/20261024de64639_E0000106406_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 22:48:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64650/20261024de64650_E0000107621_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 18:57:18 +0900",
+      "time": "Sat, 24 Oct 2026 18:57:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64764/20261024de64764_E0000106683_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“北朝鮮 キム総書記 きょう中国訪問”韓国複数メディア",
+      "text": "“北朝鮮 キム総書記が中国訪問”中国国営メディアが報道",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 15:45:00 +0900",
+      "time": "Sat, 24 Oct 2026 21:31:16 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64810/20261024de64810_E0000106725_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風30号 台湾で1人死亡 600人以上けが 日本人学校で門倒れる",
+      "source": "NHK",
+      "time": "Sat, 24 Oct 2026 22:26:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64639/20261024de64639_E0000106406_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明",
+      "source": "NHK",
+      "time": "Sat, 24 Oct 2026 21:53:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64937/20261024de64937_E0000107584_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【速報中】日本シリーズ ソフトバンク延長戦制す 庄子が決勝打",
+      "source": "NHK",
+      "time": "Sat, 24 Oct 2026 23:00:58 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "鳥取 琴浦町 発電所の風車から出火 けが人なし【動画】",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 18:21:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64864/20261024de64864_E0000106782_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【速報中】日本シリーズ DeNA×ソフトバンク 先手をとるのは",
-      "source": "NHK",
-      "time": "Sat, 24 Oct 2026 19:09:07 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フランスで再び抗議デモ実施へ パリの街に警戒感広がる",
-      "source": "NHK",
-      "time": "Sat, 24 Oct 2026 18:48:44 +0900"
+      "time": "Sat, 24 Oct 2026 18:21:31 +0900"
     }
   ]
 }
