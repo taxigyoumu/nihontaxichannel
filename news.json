@@ -1,21 +1,29 @@
 {
-  "updated_at": "2026-10-25 02:30",
+  "updated_at": "2026-10-25 05:10",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【最新情報】台風30号西日本接近へ 西～東日本で大雨のおそれ",
+      "text": "【最新情報】台風30号西日本接近へ 前線影響 広範囲大雨おそれ",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 22:48:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64650/20261024de64650_E0000107621_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 04:48:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000107686_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ブラジル大統領選挙 決選投票へ 世論調査は接戦予想",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 05:00:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64972/20261025de64972_E0000107681_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "日本シリーズ ソフトバンク延長制し先勝 庄子が決勝打【詳報】",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 02:27:21 +0900",
+      "time": "Sun, 25 Oct 2026 02:37:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64830/20261024de64830_E0000107655_1_l.jpg"
     },
     {
@@ -39,8 +47,7 @@
       "label": "ニュース",
       "text": "台風30号 台湾で1人死亡 600人以上けが 日本人学校で門倒れる",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 22:26:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64639/20261024de64639_E0000106406_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 22:26:02 +0900"
     },
     {
       "category": "news",
@@ -48,13 +55,6 @@
       "text": "愛知・名古屋アジアパラ大会閉会式 7日間の熱戦に幕",
       "source": "NHK",
       "time": "Sun, 25 Oct 2026 00:04:49 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカーJ1 第12節 広島が快勝 浅野拓磨が復帰後初ゴール",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 00:13:10 +0900"
     }
   ]
 }
