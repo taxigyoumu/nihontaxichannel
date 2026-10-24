@@ -1,38 +1,30 @@
 {
-  "updated_at": "2026-10-24 07:28",
+  "updated_at": "2026-10-24 09:58",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号 先島諸島が暴風域に 暴風や大雨などに厳重警戒",
+      "text": "台風30号 先島諸島が暴風域に 沖縄で2人がけが",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 07:08:40 +0900",
+      "time": "Sat, 24 Oct 2026 07:58:11 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64650/20261024de64650_E0000106132_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "改正皇室典範 きょう施行",
+      "text": "KDDI モンゴル自然保護区の大規模火災の経緯公表",
       "source": "NHK",
-      "time": "Sat, 24 Oct 2026 05:00:08 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64625/20261024de64625_E0000106052_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 05:20:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64642/20261024de64642_E0000106055_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "巨人新監督に就任 松井秀喜氏が会見「新たな黄金時代を」",
+      "text": "フィギュアスケート GPシリーズ第1戦 青木祐奈が首位発進",
       "source": "NHK",
-      "time": "Fri, 23 Oct 2026 18:30:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64015/20261023de64015_E0000103196_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "作家の村上龍さん死去「コインロッカー・ベイビーズ」 74歳",
-      "source": "NHK",
-      "time": "Fri, 23 Oct 2026 20:56:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261023de64176/20261023de64176_E0000102916_1_l.jpg"
+      "time": "Sat, 24 Oct 2026 09:25:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64681/20261024de64681_E0000106353_1_l.jpg"
     },
     {
       "category": "news",
@@ -41,6 +33,14 @@
       "source": "NHK",
       "time": "Sat, 24 Oct 2026 04:40:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64647/20261024de64647_E0000106057_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“ウクライナ南部の都市で停戦実現 メラニア夫人仲介”米政権",
+      "source": "NHK",
+      "time": "Sat, 24 Oct 2026 09:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64657/20261024de64657_E0000106077_1_l.jpg"
     },
     {
       "category": "news",
