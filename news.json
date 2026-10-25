@@ -1,88 +1,60 @@
 {
-  "updated_at": "2026-10-25 09:47",
-  "has_alert": true,
+  "updated_at": "2026-10-25 14:38",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２５日０８時５９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-25T00:04:13Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう２５日０８時５９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-25T00:02:40Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】２５日０８時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-10-25T00:02:17Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】２５日０８時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-10-25T00:01:17Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【台風30号情報】前線活動活発に 和歌山に線状降水帯直前予測",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 12:02:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000108134_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本 宮崎 鹿児島で震度3 津波の心配なし",
+      "text": "【映像】和歌山市で道路が川のように カラーコーンも流される",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 09:28:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64916/20261024de64916_E0000107907_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 11:33:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65066/20261025de65066_E0000107968_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【最新情報】台風30号九州に接近へ 広範囲で大雨おそれ",
+      "text": "和歌山 由良町全域と広川町の一部に避難指示",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 07:29:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000107686_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 14:14:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65148/20261025de65148_E0000004037_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化",
+      "text": "オバマ元大統領が接戦州入り“歯止めかける最後で最大の機会”",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 08:31:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64946/20261024de64946_E0000106683_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 12:25:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65071/20261025de65071_E0000107973_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【気象予報士解説 動画】台風30号 今後の見通しは",
+      "text": "自民“比例31議席削減 法案成立を” 野党 理解示す声や異論も",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 07:25:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64987/20261025de64987_E0000107765_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 14:22:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65143/20261025de65143_E0000107943_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フィギュア グランプリシリーズ第1戦 中井亜美が逆転優勝",
+      "text": "マラソン競歩 川野将虎が世界新記録で優勝",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 06:34:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64981/20261025de64981_E0000107702_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 14:22:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フランスで再び大規模なデモ 内相“暴力封じ込めた”強調",
+      "text": "消費税減税法案めぐり与野党国対委員長らが議論 NHK日曜討論",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 06:17:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "海底のプラごみ対策 分解酵素混ぜた新たなプラスチック開発",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 05:09:00 +0900"
+      "time": "Sun, 25 Oct 2026 12:01:00 +0900"
     }
   ]
 }
