@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-26 03:05",
+  "updated_at": "2026-10-26 06:03",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号は温帯低気圧に 西～東日本で大雨のおそれ",
+      "text": "台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 22:47:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000109263_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 05:53:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65420/20261026de65420_E0000109327_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "消費税減税法案 与党 通過時期探る 野党 支援金対象明示を",
+      "source": "NHK",
+      "time": "Mon, 26 Oct 2026 05:46:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65353/20261025de65353_E0000109191_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 01:59:00 +0900",
+      "time": "Mon, 26 Oct 2026 04:52:32 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65213/20261025de65213_E0000109257_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "体操世界選手権 種目別鉄棒で岡慎之助が銀メダル",
+      "text": "あすイスラエル総選挙 ネタニヤフ首相政権維持できるか焦点",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 02:29:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65415/20261026de65415_E0000004053_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 05:49:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65348/20261025de65348_E0000109193_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 00:27:49 +0900",
+      "time": "Mon, 26 Oct 2026 05:16:20 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65086/20261025de65086_E0000109032_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福島県知事選挙 2026 出口調査の結果は",
+      "text": "中国共産党の重要会議「五中全会」26日から開催",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 20:33:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65085/20261025de65085_E0000108360_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 05:37:49 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "新潟市長選挙 現職の中原八一氏 3回目の当選",
+      "text": "マラソン競歩 川野将虎が世界新記録で優勝",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 01:02:28 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "那覇市長選挙 現職の知念覚氏 2回目の当選",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 01:14:15 +0900"
+      "time": "Sun, 25 Oct 2026 23:00:04 +0900"
     }
   ]
 }
