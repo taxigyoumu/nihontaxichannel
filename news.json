@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-10-25 14:38",
-  "has_alert": false,
+  "updated_at": "2026-10-25 19:39",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【台風30号情報】前線活動活発に 和歌山に線状降水帯直前予測",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 12:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000108134_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２５日１９時１４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-25T10:17:40Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【映像】和歌山市で道路が川のように カラーコーンも流される",
+      "text": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選確実【速報】",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 11:33:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65066/20261025de65066_E0000107968_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 19:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65086/20261025de65086_E0000099026_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "和歌山 由良町全域と広川町の一部に避難指示",
+      "text": "【速報】福島県知事選挙 出口調査の結果は",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 14:14:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65148/20261025de65148_E0000004037_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 19:01:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65085/20261025de65085_E0000108360_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ハロウィーンイベントで突風 乳児含む4人けが 静岡 三島",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 18:39:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65278/20261025de65278_E0000108382_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【台風30号情報】前線の活動活発に 西・東日本で大雨のおそれ",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 19:07:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000108805_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【速報中】日本シリーズ ソフトバンク 庄子の適時打で追加点",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 19:37:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65213/20261025de65213_E0000108347_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "那覇の女性強盗殺人事件 米海兵隊員を起訴",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 18:51:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "オバマ元大統領が接戦州入り“歯止めかける最後で最大の機会”",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 12:25:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65071/20261025de65071_E0000107973_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自民“比例31議席削減 法案成立を” 野党 理解示す声や異論も",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 14:22:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65143/20261025de65143_E0000107943_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "マラソン競歩 川野将虎が世界新記録で優勝",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 14:22:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税法案めぐり与野党国対委員長らが議論 NHK日曜討論",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 12:01:00 +0900"
+      "time": "Sun, 25 Oct 2026 16:32:03 +0900"
     }
   ]
 }
