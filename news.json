@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-25 23:46",
+  "updated_at": "2026-10-26 03:05",
   "has_alert": false,
   "items": [
     {
@@ -13,25 +13,25 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "那覇市長選挙 現職の知念覚氏 2回目の当選",
+      "text": "ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 23:06:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65105/20261025de65105_E0000109287_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 01:59:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65213/20261025de65213_E0000109257_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】",
+      "text": "体操世界選手権 種目別鉄棒で岡慎之助が銀メダル",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 23:21:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65213/20261025de65213_E0000109257_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 02:29:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65415/20261026de65415_E0000004053_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 22:13:55 +0900",
+      "time": "Mon, 26 Oct 2026 00:27:49 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65086/20261025de65086_E0000109032_1_l.jpg"
     },
     {
@@ -47,14 +47,14 @@
       "label": "ニュース",
       "text": "新潟市長選挙 現職の中原八一氏 3回目の当選",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 23:07:40 +0900"
+      "time": "Mon, 26 Oct 2026 01:02:28 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」",
+      "text": "那覇市長選挙 現職の知念覚氏 2回目の当選",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 22:07:00 +0900"
+      "time": "Mon, 26 Oct 2026 01:14:15 +0900"
     }
   ]
 }
