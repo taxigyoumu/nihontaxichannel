@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-10-25 19:39",
-  "has_alert": true,
+  "updated_at": "2026-10-25 23:46",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２５日１９時１４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-25T10:17:40Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "台風30号は温帯低気圧に 西～東日本で大雨のおそれ",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 22:47:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000109263_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選確実【速報】",
+      "text": "那覇市長選挙 現職の知念覚氏 2回目の当選",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 19:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65086/20261025de65086_E0000099026_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 23:06:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65105/20261025de65105_E0000109287_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報】福島県知事選挙 出口調査の結果は",
+      "text": "ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 19:01:14 +0900",
+      "time": "Sun, 25 Oct 2026 23:21:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65213/20261025de65213_E0000109257_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 22:13:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65086/20261025de65086_E0000109032_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福島県知事選挙 2026 出口調査の結果は",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 20:33:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65085/20261025de65085_E0000108360_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ハロウィーンイベントで突風 乳児含む4人けが 静岡 三島",
+      "text": "新潟市長選挙 現職の中原八一氏 3回目の当選",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 18:39:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65278/20261025de65278_E0000108382_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 23:07:40 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【台風30号情報】前線の活動活発に 西・東日本で大雨のおそれ",
+      "text": "GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 19:07:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000108805_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【速報中】日本シリーズ ソフトバンク 庄子の適時打で追加点",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 19:37:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65213/20261025de65213_E0000108347_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "那覇の女性強盗殺人事件 米海兵隊員を起訴",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 18:51:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "オバマ元大統領が接戦州入り“歯止めかける最後で最大の機会”",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 16:32:03 +0900"
+      "time": "Sun, 25 Oct 2026 22:07:00 +0900"
     }
   ]
 }
