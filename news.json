@@ -1,21 +1,57 @@
 {
-  "updated_at": "2026-10-25 07:37",
-  "has_alert": false,
+  "updated_at": "2026-10-25 09:47",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２５日０８時５９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-25T00:04:13Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう２５日０８時５９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-25T00:02:40Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】２５日０８時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-10-25T00:02:17Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】２５日０８時５９分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-10-25T00:01:17Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【最新情報】台風30号九州に接近へ 広範囲で大雨おそれ 関東は",
+      "text": "【地震速報】熊本 宮崎 鹿児島で震度3 津波の心配なし",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 07:29:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000107704_1_l.jpg"
+      "time": "Sun, 25 Oct 2026 09:28:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64916/20261024de64916_E0000107907_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【最新情報】台風30号九州に接近へ 広範囲で大雨おそれ",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 07:29:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64932/20261024de64932_E0000107686_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 04:54:25 +0900",
+      "time": "Sun, 25 Oct 2026 08:31:26 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261024de64946/20261024de64946_E0000106683_1_l.jpg"
     },
     {
@@ -29,32 +65,24 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "フィギュア グランプリシリーズ第1戦 中井亜美が逆転優勝",
+      "source": "NHK",
+      "time": "Sun, 25 Oct 2026 06:34:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64981/20261025de64981_E0000107702_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "フランスで再び大規模なデモ 内相“暴力封じ込めた”強調",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 06:17:53 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64977/20261025de64977_E0000107693_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ウクライナ南部で限定停戦 大統領は人道状況改善に期待示す",
-      "source": "NHK",
-      "time": "Sun, 25 Oct 2026 06:03:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de64976/20261025de64976_E0000107699_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "神奈川 秦野の弘法山公園近くでクマ再出没 放獣個体と判明",
-      "source": "NHK",
-      "time": "Sat, 24 Oct 2026 21:53:19 +0900"
+      "time": "Sun, 25 Oct 2026 06:17:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "海底のプラごみ対策 分解酵素混ぜた新たなプラスチック開発",
       "source": "NHK",
-      "time": "Sun, 25 Oct 2026 05:09:21 +0900"
+      "time": "Sun, 25 Oct 2026 05:09:00 +0900"
     }
   ]
 }
