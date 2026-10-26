@@ -1,74 +1,60 @@
 {
-  "updated_at": "2026-10-27 04:42",
-  "has_alert": true,
+  "updated_at": "2026-10-27 08:32",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２７日０４時３２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-26T19:35:10Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２７日０２時１６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-26T17:18:48Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化",
+      "source": "NHK",
+      "time": "Tue, 27 Oct 2026 04:54:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 01:10:12 +0900",
+      "time": "Tue, 27 Oct 2026 01:10:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66041/20261026de66041_E0000113426_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "山口 美祢 菓子店強盗殺人事件“便利屋”仕事通じ接点か",
+      "source": "NHK",
+      "time": "Tue, 27 Oct 2026 06:53:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66072/20261027de66072_E0000113450_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "元検事正 部下への性的暴行の罪について きょう無罪主張へ",
+      "source": "NHK",
+      "time": "Tue, 27 Oct 2026 06:00:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66054/20261027de66054_E0000113442_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ",
+      "source": "NHK",
+      "time": "Tue, 27 Oct 2026 05:29:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66070/20261027de66070_E0000113448_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イスラエルきょう総選挙 野党側やや優勢 ネタニヤフ氏続投焦点",
+      "source": "NHK",
+      "time": "Tue, 27 Oct 2026 06:59:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 00:32:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66040/20261026de66040_E0000113435_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "韓国でAI悪用し800万超の個人情報入手か グループ検挙",
-      "source": "NHK",
-      "time": "Tue, 27 Oct 2026 00:53:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66026/20261026de66026_E0000113421_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 19:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65733/20261026de65733_E0000110772_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米IT大手メタ 株式発行で最大15兆円調達 AI巨額設備投資の方針",
-      "source": "NHK",
-      "time": "Tue, 27 Oct 2026 04:26:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66071/20261027de66071_E0000113449_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "金融大手 AI活用に向け人材育成強化の動き",
-      "source": "NHK",
-      "time": "Tue, 27 Oct 2026 03:51:44 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福田康夫元首相が死去 90歳",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 23:20:24 +0900"
+      "time": "Tue, 27 Oct 2026 00:32:28 +0900"
     }
   ]
 }
