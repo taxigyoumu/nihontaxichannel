@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-26 15:47",
+  "updated_at": "2026-10-26 22:50",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "家電量販店「Joshin」 顧客情報600万件漏えいの可能性",
+      "source": "NHK",
+      "time": "Mon, 26 Oct 2026 21:18:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65955/20261026de65955_E0000113330_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "電子ギフト会社に不正アクセス 5億5000万円分が不正発行",
+      "source": "NHK",
+      "time": "Mon, 26 Oct 2026 21:47:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de66013/20261026de66013_E0000004050_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も",
+      "source": "NHK",
+      "time": "Mon, 26 Oct 2026 19:37:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65733/20261026de65733_E0000110772_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "福田康夫元首相が死去 90歳",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 15:45:50 +0900",
+      "time": "Mon, 26 Oct 2026 18:57:52 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65501/20261026de65501_E0000109808_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ",
+      "text": "東京国際映画祭始まる 雨天も人気俳優らが登場",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 15:14:15 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65420/20261026de65420_E0000110688_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 20:50:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65966/20261026de65966_E0000112634_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "将棋 西山朋佳女流四冠 プロ入り表明 初の女性プロ棋士誕生へ",
+      "text": "大分市佐賀関の火災 被災した170棟余の公費解体の作業終了",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 11:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65487/20261026de65487_E0000110302_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 21:54:47 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドクターイエローの後継「ドクターS」が初運行 JR東海",
+      "text": "巨人 松井秀喜新監督に元監督の堀内恒夫さん「長期政権を」",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 11:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65533/20261026de65533_E0000109927_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "山口 美祢 強盗殺人事件 金庫には一定額の現金入っていたか",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 14:25:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65672/20261026de65672_E0000110589_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡 北九州 冠水した道路で車1台が立往生 けが人なし",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 12:09:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "高市首相 消費税減税法案など早期成立に向け与党に協力求める",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 14:21:07 +0900"
+      "time": "Mon, 26 Oct 2026 20:28:29 +0900"
     }
   ]
 }
