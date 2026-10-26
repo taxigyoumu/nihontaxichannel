@@ -1,5 +1,5 @@
 {
-  "updated_at": "2026-10-26 08:25",
+  "updated_at": "2026-10-26 10:27",
   "has_alert": false,
   "items": [
     {
@@ -13,10 +13,26 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ブラジル大統領選挙 決選投票 全土で2時間延長後に終了",
+      "text": "ブラジル大統領選挙 決選投票 現職のルーラ大統領が当選",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 07:10:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65416/20261026de65416_E0000109322_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 09:27:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65416/20261026de65416_E0000109809_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ大統領がオバマ元大統領に続き接戦のミシガン州に",
+      "source": "NHK",
+      "time": "Mon, 26 Oct 2026 10:15:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65474/20261026de65474_E0000109745_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ノーベル平和賞受賞者のマチャド氏 ベネズエラに帰国",
+      "source": "NHK",
+      "time": "Mon, 26 Oct 2026 08:45:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65452/20261026de65452_E0000109608_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "混乱広がるフランス 極右政党ルペン氏 来年春の大統領選に意欲",
+      "source": "NHK",
+      "time": "Mon, 26 Oct 2026 09:04:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 04:52:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65213/20261025de65213_E0000109257_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "あすイスラエル総選挙 ネタニヤフ首相政権維持できるか焦点",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 05:49:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65348/20261025de65348_E0000109193_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税法案 与党 通過時期探る 野党 支援金対象明示を",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 05:46:47 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福島県知事選挙 現職の内堀雅雄氏が4回目の当選",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 05:16:20 +0900"
+      "time": "Mon, 26 Oct 2026 04:52:32 +0900"
     }
   ]
 }
