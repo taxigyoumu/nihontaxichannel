@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-26 10:27",
+  "updated_at": "2026-10-26 15:47",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "福田康夫元首相が死去 90歳",
+      "source": "NHK",
+      "time": "Mon, 26 Oct 2026 15:45:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65501/20261026de65501_E0000109808_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 06:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65420/20261026de65420_E0000109451_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 15:14:15 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65420/20261026de65420_E0000110688_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ブラジル大統領選挙 決選投票 現職のルーラ大統領が当選",
+      "text": "将棋 西山朋佳女流四冠 プロ入り表明 初の女性プロ棋士誕生へ",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 09:27:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65416/20261026de65416_E0000109809_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 11:58:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65487/20261026de65487_E0000110302_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領がオバマ元大統領に続き接戦のミシガン州に",
+      "text": "ドクターイエローの後継「ドクターS」が初運行 JR東海",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 10:15:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65474/20261026de65474_E0000109745_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 11:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65533/20261026de65533_E0000109927_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ノーベル平和賞受賞者のマチャド氏 ベネズエラに帰国",
+      "text": "山口 美祢 強盗殺人事件 金庫には一定額の現金入っていたか",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 08:45:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65452/20261026de65452_E0000109608_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 14:25:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261026de65672/20261026de65672_E0000110589_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大相撲九州場所 番付発表 33歳の美ノ海が新三役",
+      "text": "福岡 北九州 冠水した道路で車1台が立往生 けが人なし",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 06:04:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261025de65392/20261025de65392_E0000109304_1_l.jpg"
+      "time": "Mon, 26 Oct 2026 12:09:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "混乱広がるフランス 極右政党ルペン氏 来年春の大統領選に意欲",
+      "text": "高市首相 消費税減税法案など早期成立に向け与党に協力求める",
       "source": "NHK",
-      "time": "Mon, 26 Oct 2026 09:04:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】",
-      "source": "NHK",
-      "time": "Mon, 26 Oct 2026 04:52:32 +0900"
+      "time": "Mon, 26 Oct 2026 14:21:07 +0900"
     }
   ]
 }
