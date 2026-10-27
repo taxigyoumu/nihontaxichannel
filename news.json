@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-27 12:36",
+  "updated_at": "2026-10-27 18:33",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "漫画家 ちばてつやさん死去 87歳 「あしたのジョー」",
+      "text": "GMO ハッカー集団“会社交渉応じなかった”1人の個人情報公開",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 12:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66136/20261027de66136_E0000113916_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "GMO ハッカー集団要求 応じない姿勢 顧客端末預かり解析進める",
-      "source": "NHK",
-      "time": "Tue, 27 Oct 2026 12:20:04 +0900",
+      "time": "Tue, 27 Oct 2026 17:25:09 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "元検事正 部下への性的暴行の起訴内容を否認 無罪を主張",
+      "text": "北朝鮮軍が韓国の対岸1.4キロの近距離に自走砲を配置",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 11:50:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66127/20261027de66127_E0000113857_1_l.jpg"
+      "time": "Tue, 27 Oct 2026 17:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66516/20261027de66516_E0000115223_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％",
+      "text": "漫画家 ちばてつやさん死去 87歳 「あしたのジョー」",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 10:56:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66125/20261027de66125_E0000113865_1_l.jpg"
+      "time": "Tue, 27 Oct 2026 17:43:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66136/20261027de66136_E0000113916_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "衆財金委 与党“30日の質疑を” 野党“支援金対象など明示を”",
+      "text": "大分大学の元教授 背任容疑で逮捕 大学に約3400万円損害か",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 12:26:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66122/20261027de66122_E0000113888_1_l.jpg"
+      "time": "Tue, 27 Oct 2026 17:41:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66485/20261027de66485_E0000115203_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省",
+      "text": "武部農相 運動員登録のカメラマン“報告書の訂正を依頼”",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 11:27:53 +0900"
+      "time": "Tue, 27 Oct 2026 17:15:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66416/20261027de66416_E0000115166_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "台湾 統一地方選挙に向け 台北などで激しい争い",
+      "text": "浜岡原発 運転差し止めの訴え退ける判決 静岡地裁",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 08:51:00 +0900"
+      "time": "Tue, 27 Oct 2026 17:49:50 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アンモニア船を普及へ 造船・海運・発電事業者7社が連携",
+      "source": "NHK",
+      "time": "Tue, 27 Oct 2026 17:30:00 +0900"
     }
   ]
 }
