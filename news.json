@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-28 05:23",
+  "updated_at": "2026-10-28 08:54",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "JR京浜東北線 全線で運転見合せ",
+      "source": "NHK",
+      "time": "Wed, 28 Oct 2026 07:38:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66737/20261028de66737_E0000003961_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 05:07:26 +0900",
+      "time": "Wed, 28 Oct 2026 05:07:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66716/20261028de66716_E0000117785_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "西高東低の冬型の気圧配置で風強まる 北日本で暴風警戒",
+      "source": "NHK",
+      "time": "Wed, 28 Oct 2026 07:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66726/20261028de66726_E0000117804_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "フラビオ・ボルソナロ氏 ブラジルを出国か 現地メディア報道",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 04:31:30 +0900",
+      "time": "Wed, 28 Oct 2026 07:00:44 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66719/20261028de66719_E0000117787_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "きょう日独首脳会談 サプライチェーン強じん化など確認へ",
+      "text": "イスラエル総選挙開票始まる“与野党陣営 獲得議席きっ抗か”",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 05:08:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66709/20261028de66709_E0000117776_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 08:21:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66728/20261028de66728_E0000117934_2_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "定数31議席削減案 各党が賛否表明へ 国民 総合的に判断へ",
+      "text": "山梨の女性死亡事件　台湾で夫を拘束　高額保険か",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 05:09:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66708/20261028de66708_E0000117780_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 07:15:10 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "EU EV優遇措置めぐり域外生産の日本車は対象外を検討",
+      "text": "フィンランドとノルウェーの首脳がプーチン大統領と電話会談",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 05:06:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66594/20261027de66594_E0000116311_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "来年産の主食用米需要“今年比最大50万トン近く少ない見通し”",
-      "source": "NHK",
-      "time": "Wed, 28 Oct 2026 05:03:44 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "プロ野球日本シリーズ 第4戦の見どころは",
-      "source": "NHK",
-      "time": "Wed, 28 Oct 2026 05:10:22 +0900"
+      "time": "Wed, 28 Oct 2026 06:58:54 +0900"
     }
   ]
 }
