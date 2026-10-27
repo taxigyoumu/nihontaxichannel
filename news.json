@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-10-28 00:41",
-  "has_alert": true,
+  "updated_at": "2026-10-28 05:23",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２８日００時２８分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-27T15:31:30Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "GMO“懸賞金支払い”で脅迫に対抗も不安続く",
+      "source": "NHK",
+      "time": "Wed, 28 Oct 2026 05:07:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66716/20261028de66716_E0000117785_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開",
+      "text": "フラビオ・ボルソナロ氏 ブラジルを出国か 現地メディア報道",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 21:12:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66048/20261027de66048_E0000113437_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 04:31:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66719/20261028de66719_E0000117787_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山下法相 検察庁のハラスメント調査“私の責任で公表する”",
+      "text": "きょう日独首脳会談 サプライチェーン強じん化など確認へ",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 00:09:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66696/20261027de66696_E0000117772_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 05:08:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66709/20261028de66709_E0000117776_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自転車2人乗りの規則見直し 都内で安全性を検討する会議",
+      "text": "定数31議席削減案 各党が賛否表明へ 国民 総合的に判断へ",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 23:43:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66691/20261027de66691_E0000117771_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 05:09:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66708/20261028de66708_E0000117780_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "漫画家 ちばてつやさん死去 87歳 「あしたのジョー」",
+      "text": "EU EV優遇措置めぐり域外生産の日本車は対象外を検討",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 20:40:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66136/20261027de66136_E0000113916_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 05:06:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66594/20261027de66594_E0000116311_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イスラエル総選挙 投票開始 ネタニヤフ首相続投できるかが焦点",
+      "text": "来年産の主食用米需要“今年比最大50万トン近く少ない見通し”",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 00:34:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261027de66339/20261027de66339_E0000114926_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 05:03:44 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本生命 元社員が診断書偽造で給付金を不正に受給",
+      "text": "プロ野球日本シリーズ 第4戦の見どころは",
       "source": "NHK",
-      "time": "Tue, 27 Oct 2026 21:23:04 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカー エムバペ選手が謝罪声明 「中国の独裁者」SNS発言で",
-      "source": "NHK",
-      "time": "Tue, 27 Oct 2026 22:04:00 +0900"
+      "time": "Wed, 28 Oct 2026 05:10:22 +0900"
     }
   ]
 }
