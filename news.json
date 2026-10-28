@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-10-28 12:52",
-  "has_alert": false,
+  "updated_at": "2026-10-28 19:19",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２８日１７時１７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-28T08:20:27Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "GMO“個人情報が掲載されたサイトのドメイン停止を確認”",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 12:18:00 +0900",
+      "time": "Wed, 28 Oct 2026 19:16:56 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66765/20261028de66765_E0000117785_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒",
+      "text": "日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 12:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66726/20261028de66726_E0000118863_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 18:15:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67231/20261028de67231_E0000119648_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「高度専門職」で中国人を不正入国させたか 会社役員ら逮捕",
+      "text": "“スペイン 高速鉄道の路線で列車どうしが衝突”ロイター通信",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 11:58:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66764/20261028de66764_E0000003570_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 18:40:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67291/20261028de67291_E0000004049_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フラビオ・ボルソナロ氏 ブラジル出国し米到着か 複数メディア",
+      "text": "【速報中】DeNAが先制 佐野のツーラン ソフトバンク戦",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 10:11:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66719/20261028de66719_E0000117787_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 18:43:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67008/20261028de67008_E0000119198_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "KDDI メールで障害発生 不正アクセスは“現時点で確認されず”",
+      "text": "ドン・キホーテなど 一部の顧客情報暗号化される 漏えい可能性",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 11:38:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66791/20261028de66791_E0000118283_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 18:48:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67238/20261028de67238_E0000119877_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イスラエル総選挙開票続く“与野党陣営 獲得議席きっ抗か”",
+      "text": "恋愛装い男性から多額詐欺事件で再逮捕 被害総額は1億円か",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 12:37:00 +0900"
+      "time": "Wed, 28 Oct 2026 18:29:10 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "衆院定数削減 国民 31議席削減案に賛成方針を決定",
+      "text": "山梨で刺され死亡の女性 “日本渡航前に身の危険感じていた”",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 12:29:08 +0900"
+      "time": "Wed, 28 Oct 2026 16:23:06 +0900"
     }
   ]
 }
