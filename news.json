@@ -1,67 +1,81 @@
 {
-  "updated_at": "2026-10-28 19:19",
+  "updated_at": "2026-10-29 01:44",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２８日１７時１７分ころ、地震がありました。",
+      "text": "【震源・震度情報】２９日０１時０４分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-10-28T08:20:27Z"
+      "time": "2026-10-28T16:07:11Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２９日００時５０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-28T15:52:43Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【長周期地震動に関する観測情報】２９日００時０７分ころの地震により、長周期地震動階級１を観測した地域があります。",
+      "source": "気象庁",
+      "time": "2026-10-28T15:17:31Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "GMO“個人情報が掲載されたサイトのドメイン停止を確認”",
+      "text": "【地震情報】千葉県北東部で震度5弱 津波の心配なし",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 19:16:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de66765/20261028de66765_E0000117785_1_l.jpg"
+      "time": "Thu, 29 Oct 2026 01:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67425/20261029de67425_E0000122276_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "スペイン 列車どうしの衝突事故“これまでに64人死亡”",
+      "source": "NHK",
+      "time": "Wed, 28 Oct 2026 23:50:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67291/20261028de67291_E0000121500_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 18:15:00 +0900",
+      "time": "Thu, 29 Oct 2026 01:10:04 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67231/20261028de67231_E0000119648_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“スペイン 高速鉄道の路線で列車どうしが衝突”ロイター通信",
+      "text": "日本航空 予約システムに不正アクセス 9万人超の情報漏えいか",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 18:40:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67291/20261028de67291_E0000004049_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 20:12:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67365/20261028de67365_E0000003591_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】DeNAが先制 佐野のツーラン ソフトバンク戦",
+      "text": "ホンダと日産 EV用バッテリーの協業へ具体的な交渉",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 18:43:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67008/20261028de67008_E0000119198_1_l.jpg"
+      "time": "Thu, 29 Oct 2026 01:05:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67424/20261029de67424_E0000004050_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドン・キホーテなど 一部の顧客情報暗号化される 漏えい可能性",
+      "text": "北朝鮮IPアドレスから韓国金融機関に接触 440万件以上",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 18:48:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261028de67238/20261028de67238_E0000119877_1_l.jpg"
+      "time": "Wed, 28 Oct 2026 22:22:06 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "恋愛装い男性から多額詐欺事件で再逮捕 被害総額は1億円か",
+      "text": "新幹線と活断層の交差 全国79か所 ズレで被害のおそれ 対策を",
       "source": "NHK",
-      "time": "Wed, 28 Oct 2026 18:29:10 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "山梨で刺され死亡の女性 “日本渡航前に身の危険感じていた”",
-      "source": "NHK",
-      "time": "Wed, 28 Oct 2026 16:23:06 +0900"
+      "time": "Wed, 28 Oct 2026 22:33:00 +0900"
     }
   ]
 }
