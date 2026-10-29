@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-10-29 16:26",
+  "updated_at": "2026-10-29 23:34",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スペイン高速鉄道衝突事故“乗客名簿に日本人2人か”外務省",
+      "text": "松江 3校の児童ら300人近く体調不良 同じセンター提供の給食後",
       "source": "NHK",
-      "time": "Thu, 29 Oct 2026 11:57:00 +0900",
+      "time": "Thu, 29 Oct 2026 22:10:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68105/20261029de68105_E0000125806_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ",
+      "source": "NHK",
+      "time": "Thu, 29 Oct 2026 22:08:27 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67453/20261029de67453_E0000122323_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "クレジットカードの情報2800人分漏えいか フィギュア販売企業",
+      "text": "GMO“攻撃者の特定につながる有力情報入手”警察などに提出",
       "source": "NHK",
-      "time": "Thu, 29 Oct 2026 15:01:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67768/20261029de67768_E0000004054_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "松屋フーズ 不正アクセス検知 HPとアプリを停止",
-      "source": "NHK",
-      "time": "Thu, 29 Oct 2026 14:33:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67623/20261029de67623_E0000123453_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "GMO社長“攻撃者特定につながる情報入手 警察などに提出する”",
-      "source": "NHK",
-      "time": "Thu, 29 Oct 2026 12:36:09 +0900",
+      "time": "Thu, 29 Oct 2026 19:14:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67553/20261029de67553_E0000122728_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "各地で今季いちばんの冷え込み 路面凍結などに注意を",
+      "text": "プロ野球 広島元投手 池谷公二郎さん死去 広島の黄金期支える",
       "source": "NHK",
-      "time": "Thu, 29 Oct 2026 15:51:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67465/20261029de67465_E0000122742_1_l.jpg"
+      "time": "Thu, 29 Oct 2026 17:23:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67535/20261029de67535_E0000123873_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ピアニスト反田恭平被告 道交法違反で執行猶予付き有罪判決",
+      "text": "電気料金 11月使用分が大手7社で過去最高を更新",
       "source": "NHK",
-      "time": "Thu, 29 Oct 2026 14:52:00 +0900"
+      "time": "Thu, 29 Oct 2026 18:30:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67703/20261029de67703_E0000124046_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "芥川賞作家のトランスジェンダー暴露 甲府市議に賠償命令",
+      "text": "今季いちばんの冷え込み 肌寒い一日に 31日にかけ大気不安定",
       "source": "NHK",
-      "time": "Thu, 29 Oct 2026 15:21:53 +0900"
+      "time": "Thu, 29 Oct 2026 18:50:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失",
+      "source": "NHK",
+      "time": "Thu, 29 Oct 2026 21:29:33 +0900"
     }
   ]
 }
