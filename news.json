@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-10-29 23:34",
+  "updated_at": "2026-10-30 05:02",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "スペイン鉄道事故 指令センターが速度制限伝えず運転再開か",
+      "source": "NHK",
+      "time": "Fri, 30 Oct 2026 05:00:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68171/20261030de68171_E0000126578_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡",
+      "source": "NHK",
+      "time": "Fri, 30 Oct 2026 04:38:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68166/20261030de68166_E0000126577_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「中野ブロードウェイ」で4600万円相当の腕時計 男が盗み逃走",
+      "source": "NHK",
+      "time": "Fri, 30 Oct 2026 00:39:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de68127/20261029de68127_E0000126546_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "朝日新聞 メール配信会社不正アクセスで7万件余漏えいか",
+      "source": "NHK",
+      "time": "Fri, 30 Oct 2026 00:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68144/20261030de68144_E0000126567_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ",
+      "text": "プロ野球 広島元投手 池谷公二郎さん死去 広島の黄金期支える",
       "source": "NHK",
-      "time": "Thu, 29 Oct 2026 22:08:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67453/20261029de67453_E0000122323_1_l.jpg"
+      "time": "Thu, 29 Oct 2026 17:23:35 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "GMO“攻撃者の特定につながる有力情報入手”警察などに提出",
       "source": "NHK",
-      "time": "Thu, 29 Oct 2026 19:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67553/20261029de67553_E0000122728_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "プロ野球 広島元投手 池谷公二郎さん死去 広島の黄金期支える",
-      "source": "NHK",
-      "time": "Thu, 29 Oct 2026 17:23:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67535/20261029de67535_E0000123873_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "電気料金 11月使用分が大手7社で過去最高を更新",
-      "source": "NHK",
-      "time": "Thu, 29 Oct 2026 18:30:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261029de67703/20261029de67703_E0000124046_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "今季いちばんの冷え込み 肌寒い一日に 31日にかけ大気不安定",
-      "source": "NHK",
-      "time": "Thu, 29 Oct 2026 18:50:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失",
-      "source": "NHK",
-      "time": "Thu, 29 Oct 2026 21:29:33 +0900"
+      "time": "Thu, 29 Oct 2026 19:14:00 +0900"
     }
   ]
 }
