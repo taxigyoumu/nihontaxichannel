@@ -1,30 +1,22 @@
 {
-  "updated_at": "2026-10-30 22:17",
+  "updated_at": "2026-10-31 03:42",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円",
+      "text": "【地震速報】熊本で震度3 津波の心配なし",
       "source": "NHK",
-      "time": "Fri, 30 Oct 2026 17:54:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68404/20261030de68404_E0000127826_1_l.jpg"
+      "time": "Sat, 31 Oct 2026 01:48:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68145/20261030de68145_E0000130846_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "富士山で初冠雪 今シーズンから新しい手法で観測",
+      "text": "【不正アクセス】個人情報流出などの発表相次ぐ（10月30日）",
       "source": "NHK",
-      "time": "Fri, 30 Oct 2026 21:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68207/20261030de68207_E0000126926_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "沖縄 宮古島沖でタグボート火災 男性機関長が死亡",
-      "source": "NHK",
-      "time": "Fri, 30 Oct 2026 21:17:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68347/20261030de68347_E0000127133_1_l.jpg"
+      "time": "Fri, 30 Oct 2026 23:41:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_l.jpg"
     },
     {
       "category": "news",
@@ -37,24 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "経団連 春闘方針原案“価格転嫁交渉 積極的に”【QAで詳しく】",
+      "text": "東大総長選 選考会議が詳しい選考の経緯を公表",
       "source": "NHK",
-      "time": "Fri, 30 Oct 2026 18:49:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68457/20261030de68457_E0000003609_1_l.jpg"
+      "time": "Fri, 30 Oct 2026 22:56:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68783/20261030de68783_E0000130823_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "部下への性的暴行の罪で無罪主張の元検事正 裁判所保釈認める",
+      "text": "ジャングリア沖縄“新スポンサー探し半年程度かけて進めたい”",
       "source": "NHK",
-      "time": "Fri, 30 Oct 2026 20:29:30 +0900"
+      "time": "Fri, 30 Oct 2026 21:18:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68752/20261030de68752_E0000130736_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "西武 平良海馬のポスティングシステムでの大リーグ移籍を容認",
+      "text": "岐阜でアジア最古のシカの化石 新種「ミズナミジカ」と命名",
       "source": "NHK",
-      "time": "Fri, 30 Oct 2026 21:38:00 +0900"
+      "time": "Fri, 30 Oct 2026 20:54:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "松江 給食で約300人体調不良 焼き魚のヒスタミンによる食中毒",
+      "source": "NHK",
+      "time": "Fri, 30 Oct 2026 22:59:38 +0900"
     }
   ]
 }
