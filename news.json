@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-10-31 03:42",
-  "has_alert": false,
+  "updated_at": "2026-10-31 07:45",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【地震速報】熊本で震度3 津波の心配なし",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 01:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68145/20261030de68145_E0000130846_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３１日０６時１５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-30T21:18:19Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３１日０５時４７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-30T20:50:31Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】３１日０５時２６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-30T20:29:45Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【不正アクセス】個人情報流出などの発表相次ぐ（10月30日）",
+      "text": "5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請",
       "source": "NHK",
-      "time": "Fri, 30 Oct 2026 23:41:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68227/20261030de68227_E0000003473_1_l.jpg"
+      "time": "Sat, 31 Oct 2026 06:59:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68824/20261031de68824_E0000130857_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続",
+      "text": "“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった",
       "source": "NHK",
-      "time": "Fri, 30 Oct 2026 19:31:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68221/20261030de68221_E0000128096_1_l.jpg"
+      "time": "Sat, 31 Oct 2026 06:21:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68827/20261031de68827_E0000130864_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日銀 物価2％到達で定着に軸足移す 利上げどう進めるか焦点",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 05:01:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68799/20261031de68799_E0000130841_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "G20外相会合が開幕 茂木外相“G20各国が連携・協調を”",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 06:47:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68825/20261031de68825_E0000130863_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "辺野古沖転覆事故 同志社会見に遺族「説明責任真剣に考えて」",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 05:30:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68798/20261031de68798_E0000130840_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "スペイン高速鉄道事故 先行列車に何らかのトラブルか",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 05:25:35 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "東大総長選 選考会議が詳しい選考の経緯を公表",
       "source": "NHK",
-      "time": "Fri, 30 Oct 2026 22:56:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68783/20261030de68783_E0000130823_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ジャングリア沖縄“新スポンサー探し半年程度かけて進めたい”",
-      "source": "NHK",
-      "time": "Fri, 30 Oct 2026 21:18:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261030de68752/20261030de68752_E0000130736_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "岐阜でアジア最古のシカの化石 新種「ミズナミジカ」と命名",
-      "source": "NHK",
-      "time": "Fri, 30 Oct 2026 20:54:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "松江 給食で約300人体調不良 焼き魚のヒスタミンによる食中毒",
-      "source": "NHK",
-      "time": "Fri, 30 Oct 2026 22:59:38 +0900"
+      "time": "Fri, 30 Oct 2026 22:56:22 +0900"
     }
   ]
 }
