@@ -1,27 +1,14 @@
 {
-  "updated_at": "2026-10-31 07:45",
-  "has_alert": true,
+  "updated_at": "2026-10-31 10:58",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日０６時１５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-30T21:18:19Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日０５時４７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-30T20:50:31Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】３１日０５時２６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-10-30T20:29:45Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "日米韓外相“3か国の結束は地域の要” 協力のすそ野拡大へ",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 10:38:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68857/20261031de68857_E0000131049_1_l.jpg"
     },
     {
       "category": "news",
@@ -34,34 +21,33 @@
     {
       "category": "news",
       "label": "ニュース",
+      "text": "北海道 特急列車とクマが衝突 現場に停止し運転再開めど立たず",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 04:39:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68820/20261031de68820_E0000131047_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "トランプ政権 ウクライナに迎撃ミサイルなど売却へ 21億ドル",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 09:19:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68846/20261031de68846_E0000131009_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった",
       "source": "NHK",
-      "time": "Sat, 31 Oct 2026 06:21:25 +0900",
+      "time": "Sat, 31 Oct 2026 09:21:59 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68827/20261031de68827_E0000130864_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日銀 物価2％到達で定着に軸足移す 利上げどう進めるか焦点",
+      "text": "ロシア独立系新聞が編集部閉鎖へ ノーベル委員会「深く憂慮」",
       "source": "NHK",
-      "time": "Sat, 31 Oct 2026 05:01:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68799/20261031de68799_E0000130841_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "G20外相会合が開幕 茂木外相“G20各国が連携・協調を”",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 06:47:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68825/20261031de68825_E0000130863_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "辺野古沖転覆事故 同志社会見に遺族「説明責任真剣に考えて」",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 05:30:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68798/20261031de68798_E0000130840_1_l.jpg"
+      "time": "Sat, 31 Oct 2026 06:37:00 +0900"
     },
     {
       "category": "news",
@@ -69,13 +55,6 @@
       "text": "スペイン高速鉄道事故 先行列車に何らかのトラブルか",
       "source": "NHK",
       "time": "Sat, 31 Oct 2026 05:25:35 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "東大総長選 選考会議が詳しい選考の経緯を公表",
-      "source": "NHK",
-      "time": "Fri, 30 Oct 2026 22:56:22 +0900"
     }
   ]
 }
