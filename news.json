@@ -1,7 +1,39 @@
 {
-  "updated_at": "2026-10-31 10:58",
+  "updated_at": "2026-10-31 17:15",
   "has_alert": false,
   "items": [
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "北海道 JR宗谷線特急とヒグマ衝突で脱線 終日一部運転見合わせ",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 13:59:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68820/20261031de68820_E0000131047_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“捕獲後に山に放した個体”とみられるクマを捕獲 神奈川 秦野",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 12:59:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68899/20261031de68899_E0000131224_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米西部の商業施設で銃撃 1人死亡 少なくとも3人大けが",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 16:30:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68949/20261031de68949_E0000004049_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フィギュアGPシリーズ第2戦 中田璃士が首位発進 友野一希は3位",
+      "source": "NHK",
+      "time": "Sat, 31 Oct 2026 14:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68918/20261031de68918_E0000131277_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -13,48 +45,9 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 06:59:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68824/20261031de68824_E0000130857_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北海道 特急列車とクマが衝突 現場に停止し運転再開めど立たず",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 04:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68820/20261031de68820_E0000131047_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "トランプ政権 ウクライナに迎撃ミサイルなど売却へ 21億ドル",
       "source": "NHK",
-      "time": "Sat, 31 Oct 2026 09:19:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68846/20261031de68846_E0000131009_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 09:21:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68827/20261031de68827_E0000130864_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ロシア独立系新聞が編集部閉鎖へ ノーベル委員会「深く憂慮」",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 06:37:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "スペイン高速鉄道事故 先行列車に何らかのトラブルか",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 05:25:35 +0900"
+      "time": "Sat, 31 Oct 2026 09:19:00 +0900"
     }
   ]
 }
