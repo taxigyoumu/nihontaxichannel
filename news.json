@@ -1,81 +1,95 @@
 {
-  "updated_at": "2026-11-01 04:03",
+  "updated_at": "2026-11-01 07:40",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-10-31T17:39:22Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日０７時１５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-31T22:22:22Z"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-10-31T17:39:22Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう　１日０７時１５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-31T22:19:39Z"
     },
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷・濃霧注意報】飛騨地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-10-31T17:39:10Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】　１日０７時１５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-10-31T22:18:31Z"
     },
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "GMO 被害者情報集める不審サイト ハッカー側と関連か",
-      "source": "NHK",
-      "time": "Sun, 01 Nov 2026 00:08:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de69043/20261031de69043_E0000132142_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日０７時１０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-31T22:13:17Z"
     },
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日に会見へ",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 20:55:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de69024/20261031de69024_E0000132056_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "“捕獲後に山に放した個体” クマ再出没し駆除 神奈川 秦野",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 19:16:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68899/20261031de68899_E0000131224_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　１日０６時２０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-10-31T21:23:18Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ",
+      "text": "【地震速報】福島県で震度3 津波の心配なし",
       "source": "NHK",
-      "time": "Sat, 31 Oct 2026 17:55:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68862/20261031de68862_E0000131310_1_l.jpg"
+      "time": "Sun, 01 Nov 2026 07:21:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69068/20261101de69068_E0000132258_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 JR宗谷線特急 ヒグマと衝突で脱線 1日も運転見合わせ",
+      "text": "クアッド外相 中国念頭に経済的威圧へ懸念共有 首脳会合へ連携",
       "source": "NHK",
-      "time": "Sat, 31 Oct 2026 19:22:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68820/20261031de68820_E0000131047_1_l.jpg"
+      "time": "Sun, 01 Nov 2026 06:17:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de69039/20261031de69039_E0000132143_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スペイン高速列車事故 “後続列車に停止措置とらず 信号も青”",
+      "text": "GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ",
       "source": "NHK",
-      "time": "Sat, 31 Oct 2026 17:42:00 +0900"
+      "time": "Sun, 01 Nov 2026 05:09:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de69037/20261031de69037_E0000132142_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "クラブツーリズム 不正アクセスで約432万件の個人情報漏えいか",
+      "text": "アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も",
       "source": "NHK",
-      "time": "Sat, 31 Oct 2026 22:55:26 +0900"
+      "time": "Sun, 01 Nov 2026 05:52:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69054/20261101de69054_E0000132190_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "茂木外相 ロシア外相と率直な意見交換 記者解放へ働きかけ継続",
+      "source": "NHK",
+      "time": "Sun, 01 Nov 2026 06:51:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69063/20261101de69063_E0000132207_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "GMOの被害者情報集める不審サイト ハッカー側と関連か",
+      "source": "NHK",
+      "time": "Sun, 01 Nov 2026 00:08:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ハロウィーン 東京 渋谷は混雑も“大きなトラブルなし”警視庁",
+      "source": "NHK",
+      "time": "Sun, 01 Nov 2026 06:15:00 +0900"
     }
   ]
 }
