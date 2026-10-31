@@ -1,7 +1,36 @@
 {
-  "updated_at": "2026-10-31 23:39",
-  "has_alert": false,
+  "updated_at": "2026-11-01 04:03",
+  "has_alert": true,
   "items": [
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-31T17:39:22Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-31T17:39:22Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県雷・濃霧注意報】飛騨地方では、濃霧による視程障害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-10-31T17:39:10Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "GMO 被害者情報集める不審サイト ハッカー側と関連か",
+      "source": "NHK",
+      "time": "Sun, 01 Nov 2026 00:08:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de69043/20261031de69043_E0000132142_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
@@ -21,14 +50,6 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道 JR宗谷線特急 ヒグマと衝突で脱線 あすも運転見合わせ",
-      "source": "NHK",
-      "time": "Sat, 31 Oct 2026 19:22:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68820/20261031de68820_E0000131047_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ",
       "source": "NHK",
       "time": "Sat, 31 Oct 2026 17:55:00 +0900",
@@ -37,10 +58,10 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ハロウィーン 各地で催し 渋谷や新宿ではトラブル防ごうと対策",
+      "text": "北海道 JR宗谷線特急 ヒグマと衝突で脱線 1日も運転見合わせ",
       "source": "NHK",
-      "time": "Sat, 31 Oct 2026 19:46:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68859/20261031de68859_E0000131385_1_l.jpg"
+      "time": "Sat, 31 Oct 2026 19:22:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261031de68820/20261031de68820_E0000131047_1_l.jpg"
     },
     {
       "category": "news",
