@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-01 17:39",
+  "updated_at": "2026-11-02 00:43",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "全日本大学駅伝は早稲田大が16年ぶり優勝 今シーズン2冠",
+      "text": "GMO傘下 顧客情報漏えい 9年近く外部から取得可能な状態",
       "source": "NHK",
-      "time": "Sun, 01 Nov 2026 16:41:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69096/20261101de69096_E0000132603_1_l.jpg"
+      "time": "Sun, 01 Nov 2026 22:27:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69281/20261101de69281_E0000133324_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "あすにかけて広い範囲で雨 北海道は積雪のおそれも 注意を",
+      "source": "NHK",
+      "time": "Sun, 01 Nov 2026 19:06:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69264/20261101de69264_E0000132801_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "茨城 鹿嶋 男性4人が海に転落 1人死亡 1人不明",
+      "source": "NHK",
+      "time": "Sun, 01 Nov 2026 23:43:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69207/20261101de69207_E0000133178_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "紅葉の名所「鳴子峡」近くで車が歩行者はねる 5人けが 宮城",
       "source": "NHK",
-      "time": "Sun, 01 Nov 2026 11:44:00 +0900",
+      "time": "Sun, 01 Nov 2026 20:38:54 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69105/20261101de69105_E0000132396_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "競馬 秋の天皇賞 ダノンデサイルが優勝 G1レース3勝目",
+      "text": "ヒグマ衝突で特急脱線のJR宗谷線 11月3日に運転再開へ",
       "source": "NHK",
-      "time": "Sun, 01 Nov 2026 17:24:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69198/20261101de69198_E0000132624_1_l.jpg"
+      "time": "Sun, 01 Nov 2026 19:29:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69260/20261101de69260_E0000133137_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プロ野球 日本ハム 伊藤大海がポスティングで大リーグ挑戦へ",
+      "text": "フェンシング全日本選手権 男子フルーレ 飯村一輝が初優勝",
       "source": "NHK",
-      "time": "Sun, 01 Nov 2026 17:31:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69210/20261101de69210_E0000132627_1_l.jpg"
+      "time": "Sun, 01 Nov 2026 22:57:35 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フィギュアGPシリーズ 島田麻央が今季世界最高得点で首位発進",
+      "text": "全日本大学駅伝は早稲田大が16年ぶり優勝 今シーズン2冠",
       "source": "NHK",
-      "time": "Sun, 01 Nov 2026 12:10:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69087/20261101de69087_E0000132389_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自民 小林政調会長 消費税減税法案“成立向け野党に働きかけ”",
-      "source": "NHK",
-      "time": "Sun, 01 Nov 2026 17:21:51 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も",
-      "source": "NHK",
-      "time": "Sun, 01 Nov 2026 14:03:44 +0900"
+      "time": "Sun, 01 Nov 2026 16:41:17 +0900"
     }
   ]
 }
