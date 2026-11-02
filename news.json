@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-11-02 13:16",
-  "has_alert": true,
+  "updated_at": "2026-11-02 21:44",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　２日１０時５７分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-02T02:01:53Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "GMO 不正アクセス問題 熊谷社長ら記者会見【詳細】",
+      "source": "NHK",
+      "time": "Mon, 02 Nov 2026 19:48:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69492/20261102de69492_E0000135773_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「中野ブロードウェイ」高級腕時計窃盗事件 被害品が店に届く",
+      "text": "ノジマ 不正アクセスで約700万件の個人情報漏えい",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 12:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69446/20261102de69446_E0000133862_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "GMO きょう午後に社長ら会見 ぜい弱性指摘後の対応なども焦点",
-      "source": "NHK",
-      "time": "Mon, 02 Nov 2026 11:40:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69276/20261101de69276_E0000133309_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
-      "source": "NHK",
-      "time": "Mon, 02 Nov 2026 10:48:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69346/20261102de69346_E0000133727_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "特殊詐欺Gトップか 容疑者逮捕 22億円の一部 暴力団に流れたか",
-      "source": "NHK",
-      "time": "Mon, 02 Nov 2026 12:12:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69403/20261102de69403_E0000003571_1_l.jpg"
+      "time": "Mon, 02 Nov 2026 19:16:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69780/20261102de69780_E0000136493_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "防災庁発足 「緊急要請」発表し備蓄や住宅耐震化など求める",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 12:08:25 +0900",
+      "time": "Mon, 02 Nov 2026 20:18:33 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69369/20261102de69369_E0000133899_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ネタニヤフ首相 トランプ大統領に選挙後イラン攻撃要求か 報道",
+      "text": "中野ブロードウェイ 高級時計窃盗事件 男は新幹線で西に移動か",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 12:13:30 +0900"
+      "time": "Mon, 02 Nov 2026 19:23:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69776/20261102de69776_E0000136665_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「年賀はがき」販売始まる 発行枚数は前年比25％減",
+      "text": "GMO 熊谷社長会見で陳謝 ぜい弱性指摘 サービス運営に生かせず",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 12:44:56 +0900"
+      "time": "Mon, 02 Nov 2026 21:25:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69276/20261101de69276_E0000136292_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「ネットマイル」 最大で約549万人分の個人情報漏えいの可能性",
+      "source": "NHK",
+      "time": "Mon, 02 Nov 2026 20:47:09 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロードサービス利用者の個人情報 最大約550万件漏えい",
+      "source": "NHK",
+      "time": "Mon, 02 Nov 2026 20:46:20 +0900"
     }
   ]
 }
