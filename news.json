@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-11-02 08:44",
-  "has_alert": false,
+  "updated_at": "2026-11-02 13:16",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　２日１０時５７分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-02T02:01:53Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "GMOきょう会見 不安の抑止やぜい弱性指摘後の対応が焦点",
+      "text": "「中野ブロードウェイ」高級腕時計窃盗事件 被害品が店に届く",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 04:42:07 +0900",
+      "time": "Mon, 02 Nov 2026 12:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69446/20261102de69446_E0000133862_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "GMO きょう午後に社長ら会見 ぜい弱性指摘後の対応なども焦点",
+      "source": "NHK",
+      "time": "Mon, 02 Nov 2026 11:40:56 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69276/20261101de69276_E0000133309_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ",
+      "text": "スペイン高速鉄道事故 日本人1人の死亡確認 地元当局が発表",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 05:09:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69323/20261102de69323_E0000133365_1_l.jpg"
+      "time": "Mon, 02 Nov 2026 10:48:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69346/20261102de69346_E0000133727_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "滋賀 甲賀市の住宅火災 3人遺体で見つかる 家族と連絡取れず",
+      "text": "特殊詐欺Gトップか 容疑者逮捕 22億円の一部 暴力団に流れたか",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 08:36:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69325/20261102de69325_E0000133388_1_l.jpg"
+      "time": "Mon, 02 Nov 2026 12:12:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69403/20261102de69403_E0000003571_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 フロリダ州で小型ジェット機が高速のまま墜落 9人死亡",
+      "text": "防災庁発足 「緊急要請」発表し備蓄や住宅耐震化など求める",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 08:29:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69327/20261102de69327_E0000133389_1_l.jpg"
+      "time": "Mon, 02 Nov 2026 12:08:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261102de69369/20261102de69369_E0000133899_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "災害対策司令塔の「防災庁」が発足 体制の抜本的強化へ 政府",
+      "text": "ネタニヤフ首相 トランプ大統領に選挙後イラン攻撃要求か 報道",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 04:39:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261101de69293/20261101de69293_E0000133331_1_l.jpg"
+      "time": "Mon, 02 Nov 2026 12:13:30 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ゆうちょ銀行の貯金利子上限 撤廃めぐる議論進む",
+      "text": "「年賀はがき」販売始まる 発行枚数は前年比25％減",
       "source": "NHK",
-      "time": "Mon, 02 Nov 2026 04:34:59 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ABU総会始まる NHK番組受賞",
-      "source": "NHK",
-      "time": "Mon, 02 Nov 2026 04:26:26 +0900"
+      "time": "Mon, 02 Nov 2026 12:44:56 +0900"
     }
   ]
 }
