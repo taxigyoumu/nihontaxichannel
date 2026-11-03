@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-03 20:35",
+  "updated_at": "2026-11-04 03:59",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ中間選挙 投票始まる トランプ政権への有権者の評価は",
+      "text": "アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票",
       "source": "NHK",
-      "time": "Tue, 03 Nov 2026 20:33:43 +0900",
+      "time": "Wed, 04 Nov 2026 03:30:17 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69983/20261103de69983_E0000137989_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定",
+      "text": "サッカーアジア杯 開催を来年12月に延期 サウジ情勢の影響で",
       "source": "NHK",
-      "time": "Tue, 03 Nov 2026 10:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69859/20261103de69859_E0000137454_2_l.jpg"
+      "time": "Tue, 03 Nov 2026 22:34:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69969/20261103de69969_E0000137965_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "カブス 鈴木誠也に“クオリファイング・オファー” 1年36億円",
+      "text": "ヒグマと衝突のJR宗谷線 4日から全区間で運転再開へ",
       "source": "NHK",
-      "time": "Tue, 03 Nov 2026 11:53:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69908/20261103de69908_E0000137677_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ",
-      "source": "NHK",
-      "time": "Tue, 03 Nov 2026 18:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70007/20261103de70007_E0000137986_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "超党派議員連盟がオランダへ出発 ICC赤根所長と面会へ",
-      "source": "NHK",
-      "time": "Tue, 03 Nov 2026 14:29:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69943/20261103de69943_E0000137914_1_l.jpg"
+      "time": "Tue, 03 Nov 2026 16:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69986/20261103de69986_E0000137970_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "細野防災相 “熊本地震の復旧・復興 防災庁が司令塔機能発揮”",
       "source": "NHK",
-      "time": "Tue, 03 Nov 2026 19:12:00 +0900"
+      "time": "Tue, 03 Nov 2026 19:12:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de70035/20261103de70035_E0000138115_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "剣道全日本選手権 男子は中田竜之介 女子は末永真理が優勝",
+      "text": "米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ",
       "source": "NHK",
-      "time": "Tue, 03 Nov 2026 19:19:00 +0900"
+      "time": "Tue, 03 Nov 2026 20:55:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69878/20261103de69878_E0000137625_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "旧統一教会 ハン・ハクチャ総裁 指定の病院離れ保釈取り消し",
+      "source": "NHK",
+      "time": "Tue, 03 Nov 2026 22:12:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サッカースペイン2部の試合で選手どうしが激突 1人死亡",
+      "source": "NHK",
+      "time": "Tue, 03 Nov 2026 23:15:28 +0900"
     }
   ]
 }
