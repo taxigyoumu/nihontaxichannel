@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-11-05 09:58",
-  "has_alert": false,
+  "updated_at": "2026-11-05 16:48",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　５日１４時１６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-05T05:19:25Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ中間選挙 民主党大勝 “トランプ氏に拒絶反応”米報道",
+      "text": "2026年の新語・流行語大賞の候補 30のことばは？",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 08:48:26 +0900",
+      "time": "Thu, 05 Nov 2026 14:38:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70801/20261105de70801_E0000143749_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ中間選挙 共和党大敗 イラン情勢への対応が焦点に",
+      "source": "NHK",
+      "time": "Thu, 05 Nov 2026 13:49:22 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69965/20261103de69965_E0000141859_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "伊豆諸島 雨で地盤緩んでいるところも 土砂災害に厳重警戒を",
+      "text": "ドコモに不正アクセスの可能性 オンラインサービス停止",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 09:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70681/20261105de70681_E0000142992_1_l.jpg"
+      "time": "Thu, 05 Nov 2026 10:54:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70776/20261105de70776_E0000003646_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「書道」無形文化遺産に登録へ ユネスコ評価機関「記載」勧告",
+      "text": "20年前の大雨取材で行方不明の記者 骨の一部見つかる 広島",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 07:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70701/20261105de70701_E0000142664_1_l.jpg"
+      "time": "Thu, 05 Nov 2026 15:20:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70937/20261105de70937_E0000143887_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 与党“あす衆院通過”野党“首相答弁で判断”",
+      "text": "ドコモ 通話やデータ通信しにくい状況 不正アクセス確認されず",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 06:00:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70693/20261105de70693_E0000142662_1_l.jpg"
+      "time": "Thu, 05 Nov 2026 16:40:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70883/20261105de70883_E0000143717_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "スペイン列車事故 日本人2人の死亡確認 外務省幹部",
+      "text": "アメリカ中間選挙 トランプ大統領の「ゲリマンダー」不発に",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 07:20:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70726/20261105de70726_E0000142696_1_l.jpg"
+      "time": "Thu, 05 Nov 2026 12:43:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 敗北理由はイラン “でもまた同じ決断する”",
+      "text": "香港の民主活動家 黄之鋒氏に懲役10年の判決",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 05:57:47 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "エボラ出血熱 WHO 新たなワクチン2種類の臨床試験へ",
-      "source": "NHK",
-      "time": "Thu, 05 Nov 2026 09:02:13 +0900"
+      "time": "Thu, 05 Nov 2026 16:37:38 +0900"
     }
   ]
 }
