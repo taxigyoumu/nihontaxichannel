@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-11-05 16:48",
-  "has_alert": true,
+  "updated_at": "2026-11-06 01:04",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　５日１４時１６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-05T05:19:25Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
+      "source": "NHK",
+      "time": "Thu, 05 Nov 2026 23:20:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71261/20261105de71261_E0000146628_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "2026年の新語・流行語大賞の候補 30のことばは？",
+      "text": "アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 14:38:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70801/20261105de70801_E0000143749_1_l.jpg"
+      "time": "Thu, 05 Nov 2026 21:40:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71262/20261105de71262_E0000146597_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ中間選挙 共和党大敗 イラン情勢への対応が焦点に",
+      "text": "ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 13:49:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69965/20261103de69965_E0000141859_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドコモに不正アクセスの可能性 オンラインサービス停止",
-      "source": "NHK",
-      "time": "Thu, 05 Nov 2026 10:54:00 +0900",
+      "time": "Thu, 05 Nov 2026 19:31:41 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70776/20261105de70776_E0000003646_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "20年前の大雨取材で行方不明の記者 骨の一部見つかる 広島",
+      "text": "アメリカ中間選挙 共和党大敗 トランプ大統領の対応は【詳報】",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 15:20:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70937/20261105de70937_E0000143887_1_l.jpg"
+      "time": "Thu, 05 Nov 2026 20:56:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69965/20261103de69965_E0000145914_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ドコモ 通話やデータ通信しにくい状況 不正アクセス確認されず",
+      "text": "「書道」無形文化遺産に登録へ ユネスコ評価機関「記載」勧告",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 16:40:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70883/20261105de70883_E0000143717_1_l.jpg"
+      "time": "Thu, 05 Nov 2026 19:32:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de70701/20261105de70701_E0000142664_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ中間選挙 トランプ大統領の「ゲリマンダー」不発に",
+      "text": "自転車青切符 半年間で1万6000件交付 “ながらスマホ”が4割",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 12:43:00 +0900"
+      "time": "Fri, 06 Nov 2026 00:29:53 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "香港の民主活動家 黄之鋒氏に懲役10年の判決",
+      "text": "取り調べ拒否が増加 検察が「マニュアル」作成し対応",
       "source": "NHK",
-      "time": "Thu, 05 Nov 2026 16:37:38 +0900"
+      "time": "Thu, 05 Nov 2026 22:15:23 +0900"
     }
   ]
 }
