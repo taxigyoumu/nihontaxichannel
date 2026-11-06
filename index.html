@@ -715,7 +715,7 @@ for(var i=0;i<65;i++){
             <div style="border:2px solid #d01818;border-radius:8px;padding:8px 10px;"><div style="font-size:11px;font-weight:700;color:#d01818;">事例3　10/14　人身</div><div style="font-size:14px;font-weight:900;color:var(--text-primary);">深夜の交差点 ─ 右折車と衝突</div></div>
             <div style="border:2px solid #d01818;border-radius:8px;padding:8px 10px;"><div style="font-size:11px;font-weight:700;color:#d01818;">事例4　10/17　人身</div><div style="font-size:14px;font-weight:900;color:var(--text-primary);">右折 ─ 対向車と衝突・横転</div></div>
           </div>
-          <div style="font-size:13px;color:var(--text-secondary);line-height:1.6;background:var(--bg-panel-hover);border-left:3px solid #d01818;border-radius:0 6px 6px 0;padding:8px 12px;">このあと実際の映像が流れます。<b style="color:var(--text-primary);">映像が止まったら「この先どうなるか」</b>を考えてください。</div>
+          <div style="font-size:13px;color:var(--text-secondary);line-height:1.6;background:var(--bg-panel-hover);border-left:3px solid #d01818;border-radius:0 6px 6px 0;padding:8px 12px;">このあと実際の映像が流れます。<b style="color:var(--text-primary);">映像が止まったら「この先どうなるか」</b>を考えてください。そのあと平面図で事故の流れを解説します。</div>
         </div>
 
         <!-- ④ 事故映像（9月・10月の4事例：movie13→14→15→16 連続再生 → 終了したら次のスロットへ。2026/11/6 一新）
@@ -804,6 +804,174 @@ for(var i=0;i<65;i++){
               <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：対向から直進してきた車と衝突。相手の車は横転し、けが人が出ました</div>
               <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">右折は、迷ったら待つ。慣れた場所ほど、もう一度見る</div>
               <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">減速しながらの「ついで右折」をしない。対向車がいなくなってから曲がる。</div>
+            </div>
+          </div>
+          <!-- 平面図＋解説（各映像の静止コマ後に表示。2026/11/7追加。図はイメージ） -->
+          <style>
+            .ev-acc-plan{position:absolute;inset:0;z-index:15;display:none;background:#10161e;color:#fff;padding:12px 16px;gap:14px;}
+            .ev-acc-plan .pl-fig{flex:0 0 44%;display:flex;flex-direction:column;min-width:0;}
+            .ev-acc-plan .pl-fig svg{flex:1;width:100%;min-height:0;}
+            .ev-acc-plan .pl-cap{font-size:10px;color:#9aa6b2;text-align:center;}
+            .ev-acc-plan .pl-txt{flex:1;display:flex;flex-direction:column;justify-content:center;gap:7px;min-width:0;}
+            .ev-acc-plan .pl-head{display:flex;align-items:center;gap:8px;flex-wrap:wrap;}
+            .ev-acc-plan .pl-tag{background:#e52020;color:#fff;font-size:11px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.06em;}
+            .ev-acc-plan .pl-date{font-size:13px;color:#ffb0b0;font-weight:700;}
+            .ev-acc-plan .pl-title{font-size:21px;font-weight:900;line-height:1.3;}
+            .ev-acc-plan .pl-row{display:flex;gap:8px;align-items:flex-start;font-size:15.5px;line-height:1.5;}
+            .ev-acc-plan .pl-lab{flex:0 0 auto;font-size:12.5px;font-weight:900;padding:2px 7px;border-radius:3px;margin-top:2px;}
+            .ev-acc-plan .l-what{background:#3a4552;color:#fff;}
+            .ev-acc-plan .l-why{background:#b8860b;color:#fff;}
+            .ev-acc-plan .l-fix{background:#1f8a4c;color:#fff;}
+            .ev-acc-plan .pl-key{margin-top:2px;padding:7px 12px;background:rgba(229,32,32,.18);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:17px;font-weight:900;}
+          </style>
+          <svg width="0" height="0" style="position:absolute">
+            <defs>
+              <marker id="pl-ar-y" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ffd23f"/></marker>
+              <marker id="pl-ar-r" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#ff5a5a"/></marker>
+              <marker id="pl-ar-g" viewBox="0 0 10 10" refX="6" refY="5" markerWidth="5" markerHeight="5" orient="auto"><path d="M0,0 L10,5 L0,10 z" fill="#3ddc84"/></marker>
+            </defs>
+          </svg>
+
+          <!-- 事例1 平面図 -->
+          <div id="ev-accident-plan-1" class="ev-acc-plan">
+            <div class="pl-fig">
+              <svg viewBox="0 0 300 300" preserveAspectRatio="xMidYMid meet" font-family="sans-serif">
+                <rect x="0" y="0" width="300" height="300" fill="#1b232d"/>
+                <rect x="186" y="156" width="114" height="144" fill="#4a5360"/>
+                <text x="243" y="232" fill="#d6dde5" font-size="13" text-anchor="middle" font-weight="700">塀・建物</text>
+                <text x="243" y="250" fill="#ffb0b0" font-size="11" text-anchor="middle">（先が見えない）</text>
+                <path d="M150,300 L150,175 Q150,120 205,120 L300,120" stroke="#5b6470" stroke-width="62" fill="none"/>
+                <path d="M150,300 L150,175 Q150,120 205,120 L300,120" stroke="#fff" stroke-width="2" stroke-dasharray="8 7" fill="none"/>
+                <circle cx="106" cy="76" r="9" fill="none" stroke="#ff9f1a" stroke-width="3"/><line x1="106" y1="85" x2="106" y2="100" stroke="#ff9f1a" stroke-width="3"/>
+                <text x="106" y="64" fill="#ff9f1a" font-size="11" text-anchor="middle" font-weight="700">カーブミラー</text>
+                <path d="M135,250 L135,178 Q135,104 205,104 L250,104" stroke="#ffd23f" stroke-width="3" fill="none" stroke-dasharray="6 4" marker-end="url(#pl-ar-y)"/>
+                <rect x="125" y="252" width="20" height="34" rx="4" fill="#ffd23f"/>
+                <text x="104" y="275" fill="#ffd23f" font-size="13" text-anchor="middle" font-weight="900">自車</text>
+                <path d="M282,138 L222,138" stroke="#ff5a5a" stroke-width="3" fill="none" marker-end="url(#pl-ar-r)"/>
+                <circle cx="282" cy="138" r="7" fill="#ff5a5a"/>
+                <text x="268" y="166" fill="#ff5a5a" font-size="12" text-anchor="middle" font-weight="900">自転車</text>
+                <text x="200" y="130" fill="#ff3030" font-size="24" text-anchor="middle" font-weight="900">✕</text>
+                <text x="58" y="190" fill="#9aa6b2" font-size="11" text-anchor="middle">雨・夕方</text>
+              </svg>
+              <div class="pl-cap">平面図（イメージ）　✕＝接触したあたり</div>
+            </div>
+            <div class="pl-txt">
+              <div class="pl-head"><span class="pl-tag">解説</span><span class="pl-date">事例1　9月29日　人身事故</span></div>
+              <div class="pl-title">見えない右カーブの先から、自転車</div>
+              <div class="pl-row"><span class="pl-lab l-what">何が</span><span>雨の夕方、右カーブを曲がった先で、向こうから来た自転車と接触。相手の方がけがをしました。</span></div>
+              <div class="pl-row"><span class="pl-lab l-why">なぜ</span><span>カーブの内側は塀と建物で、先が見えません。雨で路面がすべりやすく、止まるまでの距離ものびます。</span></div>
+              <div class="pl-row"><span class="pl-lab l-fix">防ぐ</span><span>先が見えるまでスピードを落とす。カーブミラーで向こう側を確認。自転車・歩行者が来る前提で曲がる。</span></div>
+              <div class="pl-key">見えないカーブは「見えるまで」ゆっくり</div>
+            </div>
+          </div>
+
+          <!-- 事例2 平面図 -->
+          <div id="ev-accident-plan-2" class="ev-acc-plan">
+            <div class="pl-fig">
+              <svg viewBox="0 0 300 300" preserveAspectRatio="xMidYMid meet" font-family="sans-serif">
+                <rect x="0" y="0" width="300" height="300" fill="#1b232d"/>
+                <rect x="0" y="40" width="300" height="90" fill="#5b6470"/>
+                <line x1="0" y1="85" x2="300" y2="85" stroke="#ffd23f" stroke-width="2.5"/>
+                <text x="250" y="32" fill="#d6dde5" font-size="12" text-anchor="middle" font-weight="700">国道156号</text>
+                <rect x="122" y="130" width="50" height="170" fill="#5b6470"/>
+                <text x="215" y="285" fill="#d6dde5" font-size="12" text-anchor="middle" font-weight="700">脇道（狭い）</text>
+                <path d="M100,130 L122,130 L122,152 Q110,138 100,130 z" fill="#c9ced6"/>
+                <circle cx="116" cy="140" r="15" fill="none" stroke="#ff3030" stroke-width="2.5"/>
+                <text x="70" y="168" fill="#ff5a5a" font-size="12" text-anchor="middle" font-weight="900">縁石の先端</text>
+                <path d="M150,262 L150,160 Q150,108 95,108 L28,108" stroke="#ffd23f" stroke-width="3" fill="none" marker-end="url(#pl-ar-y)"/>
+                <text x="60" y="124" fill="#ffd23f" font-size="10" text-anchor="middle">前輪</text>
+                <path d="M133,262 L133,170 Q131,148 120,142" stroke="#ff9f1a" stroke-width="3" stroke-dasharray="5 4" fill="none"/>
+                <text x="186" y="200" fill="#ff9f1a" font-size="11" text-anchor="middle" font-weight="700">後輪は</text>
+                <text x="186" y="214" fill="#ff9f1a" font-size="11" text-anchor="middle" font-weight="700">もっと内側</text>
+                <rect x="131" y="262" width="22" height="34" rx="4" fill="#ffd23f"/>
+                <text x="102" y="285" fill="#ffd23f" font-size="13" text-anchor="middle" font-weight="900">自車</text>
+                <text x="250" y="70" fill="#9aa6b2" font-size="11" text-anchor="middle">夕方・逆光</text>
+              </svg>
+              <div class="pl-cap">平面図（イメージ）　オレンジ点線＝後ろのタイヤの通り道</div>
+            </div>
+            <div class="pl-txt">
+              <div class="pl-head"><span class="pl-tag">解説</span><span class="pl-date">事例2　10月6日　物損事故</span></div>
+              <div class="pl-title">左折で、後ろのタイヤ側が縁石の先端に</div>
+              <div class="pl-row"><span class="pl-lab l-what">何が</span><span>渋滞を避けて脇道に入り、国道156号へ左折。車の左側（ステップ）を縁石の先端にこすりました。</span></div>
+              <div class="pl-row"><span class="pl-lab l-why">なぜ</span><span>狭い道で小さく回った。後ろのタイヤは前のタイヤより内側を通ります（内輪差）。夕方の逆光で縁石の先端が見えにくかった。</span></div>
+              <div class="pl-row"><span class="pl-lab l-fix">防ぐ</span><span>狭い道の左折は、ゆっくり大きく回る。暗い・逆光の場所はライトをつける。急いでいるときほど、走り慣れた道を。</span></div>
+              <div class="pl-key">急がば回れ。左折は後ろのタイヤを意識</div>
+            </div>
+          </div>
+
+          <!-- 事例3 平面図 -->
+          <div id="ev-accident-plan-3" class="ev-acc-plan">
+            <div class="pl-fig">
+              <svg viewBox="0 0 300 300" preserveAspectRatio="xMidYMid meet" font-family="sans-serif">
+                <rect x="0" y="0" width="300" height="300" fill="#1b232d"/>
+                <rect x="90" y="0" width="120" height="300" fill="#5b6470"/>
+                <rect x="0" y="110" width="300" height="80" fill="#5b6470"/>
+                <line x1="150" y1="0" x2="150" y2="105" stroke="#ffd23f" stroke-width="2.5"/>
+                <line x1="150" y1="195" x2="150" y2="300" stroke="#ffd23f" stroke-width="2.5"/>
+                <line x1="120" y1="195" x2="120" y2="300" stroke="#fff" stroke-width="2" stroke-dasharray="8 7"/>
+                <line x1="180" y1="0" x2="180" y2="105" stroke="#fff" stroke-width="2" stroke-dasharray="8 7"/>
+                <text x="222" y="96" fill="#d6dde5" font-size="10" text-anchor="start">（右折レーン）</text>
+                <text x="250" y="290" fill="#d6dde5" font-size="12" text-anchor="middle" font-weight="700">神田町通り</text>
+                <path d="M135,262 L135,128" stroke="#ffd23f" stroke-width="3" fill="none" marker-end="url(#pl-ar-y)"/>
+                <rect x="124" y="262" width="22" height="34" rx="4" fill="#ffd23f"/>
+                <text x="84" y="270" fill="#ffd23f" font-size="13" text-anchor="end" font-weight="900">自車</text>
+                <text x="84" y="286" fill="#ffd23f" font-size="10" text-anchor="end">直進・お客様4名</text>
+                <rect x="154" y="52" width="22" height="34" rx="4" fill="#ff5a5a"/>
+                <path d="M165,90 L165,118 Q163,142 110,140 L50,140" stroke="#ff5a5a" stroke-width="3" fill="none" marker-end="url(#pl-ar-r)"/>
+                <text x="222" y="62" fill="#ff5a5a" font-size="13" text-anchor="start" font-weight="900">相手車</text>
+                <text x="222" y="78" fill="#ff5a5a" font-size="10" text-anchor="start">右折</text>
+                <text x="135" y="146" fill="#ff3030" font-size="26" text-anchor="middle" font-weight="900">✕</text>
+                <circle cx="40" cy="212" r="7" fill="#3ddc84"/><text x="54" y="216" fill="#3ddc84" font-size="11" font-weight="700">青信号</text>
+                <text x="40" y="240" fill="#9aa6b2" font-size="11">深夜 0時すぎ</text>
+              </svg>
+              <div class="pl-cap">平面図（イメージ）　↑が北　✕＝衝突したあたり</div>
+            </div>
+            <div class="pl-txt">
+              <div class="pl-head"><span class="pl-tag">解説</span><span class="pl-date">事例3　10月14日　人身事故</span></div>
+              <div class="pl-title">青信号で直進中、対向の右折車が曲がってきた</div>
+              <div class="pl-row"><span class="pl-lab l-what">何が</span><span>深夜、お客様4名を乗せて交差点を直進中、対向から右折してきた車と正面衝突。お客様がけがをされました。</span></div>
+              <div class="pl-row"><span class="pl-lab l-why">なぜ</span><span>青信号・直進優先でも、「相手が止まってくれるだろう」で交差点に入った。深夜はすいていて速度も出やすい。</span></div>
+              <div class="pl-row"><span class="pl-lab l-fix">防ぐ</span><span>対向に右折車がいたら、アクセルを離して減速。相手のタイヤの向き・動きを見る。</span></div>
+              <div class="pl-key">「だろう」ではなく「右折してくるかもしれない」</div>
+            </div>
+          </div>
+
+          <!-- 事例4 平面図 -->
+          <div id="ev-accident-plan-4" class="ev-acc-plan">
+            <div class="pl-fig">
+              <svg viewBox="0 0 300 300" preserveAspectRatio="xMidYMid meet" font-family="sans-serif">
+                <rect x="0" y="0" width="300" height="300" fill="#1b232d"/>
+                <rect x="90" y="0" width="120" height="300" fill="#5b6470"/>
+                <line x1="150" y1="0" x2="150" y2="300" stroke="#ffd23f" stroke-width="2.5"/>
+                <line x1="120" y1="0" x2="120" y2="300" stroke="#fff" stroke-width="2" stroke-dasharray="8 7"/>
+                <line x1="180" y1="0" x2="180" y2="300" stroke="#fff" stroke-width="2" stroke-dasharray="8 7"/>
+                <rect x="216" y="96" width="84" height="84" fill="#4a5360"/>
+                <rect x="210" y="118" width="8" height="40" fill="#1b232d"/>
+                <text x="258" y="136" fill="#d6dde5" font-size="12" text-anchor="middle" font-weight="700">当社</text>
+                <text x="258" y="152" fill="#d6dde5" font-size="12" text-anchor="middle" font-weight="700">車庫</text>
+                <text x="45" y="290" fill="#d6dde5" font-size="12" text-anchor="middle" font-weight="700">神田町通り</text>
+                <g transform="rotate(35 146 186)"><rect x="135" y="169" width="22" height="34" rx="4" fill="#ffd23f"/></g>
+                <path d="M135,290 L135,232" stroke="#ffd23f" stroke-width="3" fill="none" stroke-dasharray="6 4"/>
+                <path d="M162,166 Q190,140 212,138" stroke="#ffd23f" stroke-width="3" fill="none" stroke-dasharray="6 4" marker-end="url(#pl-ar-y)"/>
+                <text x="84" y="200" fill="#ffd23f" font-size="13" text-anchor="end" font-weight="900">自車</text>
+                <text x="84" y="216" fill="#ffd23f" font-size="10" text-anchor="end">右折（迎車中）</text>
+                <rect x="154" y="40" width="22" height="34" rx="4" fill="#ff5a5a"/>
+                <path d="M165,78 L165,150" stroke="#ff5a5a" stroke-width="3" fill="none" marker-end="url(#pl-ar-r)"/>
+                <text x="222" y="48" fill="#ff5a5a" font-size="13" text-anchor="start" font-weight="900">相手車</text>
+                <text x="222" y="64" fill="#ff5a5a" font-size="10" text-anchor="start">直進→横転</text>
+                <text x="164" y="172" fill="#ff3030" font-size="26" text-anchor="middle" font-weight="900">✕</text>
+                <text x="64" y="120" fill="#ff9f1a" font-size="10.5" text-anchor="middle" font-weight="700">車の頭が</text>
+                <text x="64" y="134" fill="#ff9f1a" font-size="10.5" text-anchor="middle" font-weight="700">センターを越えた</text>
+              </svg>
+              <div class="pl-cap">平面図（イメージ）　↑が北　✕＝衝突したあたり</div>
+            </div>
+            <div class="pl-txt">
+              <div class="pl-head"><span class="pl-tag">解説</span><span class="pl-date">事例4　10月17日　人身事故</span></div>
+              <div class="pl-title">車庫へ右折、センター寄りの車線の直進車と衝突</div>
+              <div class="pl-row"><span class="pl-lab l-what">何が</span><span>迎車中、当社の車庫に入ろうと右折。対向のセンター寄りの車線を直進してきた車と衝突し、相手の車が横転しました。</span></div>
+              <div class="pl-row"><span class="pl-lab l-why">なぜ</span><span>ハンドルを早く・大きく切りすぎて、車の頭がセンターラインを越えていた。慣れた場所で確認が甘くなった。</span></div>
+              <div class="pl-row"><span class="pl-lab l-fix">防ぐ</span><span>右折待ちは、まっすぐ止まってハンドルを切らずに待つ。対向が2車線なら、両方の車線に車がいないのを確かめてから曲がる。</span></div>
+              <div class="pl-key">右折は、迷ったら待つ。会社の前ほど慎重に</div>
             </div>
           </div>
         </div>
@@ -1089,7 +1257,7 @@ for(var i=0;i<65;i++){
 
   var normalViews = [
     { slot:'ev-jiko-intro', icon:'⚠️', title:'注意喚起',      sub:'9月・10月の事故から 4事例',   dur:15000, video:null },
-    { slot:'ev-accident',   icon:'🚨', title:'業務連絡 動画', sub:'事故映像 ─ 止まった場面で「この先」を考える', dur:75000, sequence:['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el','ev-accident-v4-el'] }
+    { slot:'ev-accident',   icon:'🚨', title:'業務連絡 動画', sub:'事故映像 ─ 止まった場面で「この先」を考える → 平面図で解説', dur:135000, sequence:['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el','ev-accident-v4-el'] }
   ];
 
   var campaignViews = [
@@ -1171,6 +1339,15 @@ for(var i=0;i<65;i++){
 
   // 事故映像シーケンス：1本目→2本目→…と順に再生し、最後の1本が終わったら次のスロットへ自動切替
   var ACC_IDS = ['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el','ev-accident-v4-el'];
+  var PLAN_MS = 15000;   // 平面図＋解説の表示時間
+  var planTimer = null;
+  function hideAccidentPlans(){
+    if(planTimer){ clearTimeout(planTimer); planTimer = null; }
+    for(var pi = 1; pi <= ACC_IDS.length; pi++){
+      var pe = document.getElementById('ev-accident-plan-' + pi);
+      if(pe) pe.style.display = 'none';
+    }
+  }
   function setAccidentPhase(telop, answer){
     if(!telop) return;
     var q = telop.querySelector('.ev-acc-q'), a = telop.querySelector('.ev-acc-a');
@@ -1200,13 +1377,24 @@ for(var i=0;i<65;i++){
       if(!tag) return;
       tag.addEventListener('ended', function(){
         var next = seq[k + 1];
-        if(next){
-          tag.style.opacity = '0';
-          next.style.opacity = '1';
-          updateAccidentTelop(next);
-          tryPlay(next);
+        function goNext(){
+          hideAccidentPlans();
+          if(next){
+            tag.style.opacity = '0';
+            next.style.opacity = '1';
+            updateAccidentTelop(next);
+            tryPlay(next);
+          } else {
+            forceAdvance();
+          }
+        }
+        // 事故映像は、静止コマの後に「平面図＋解説」を PLAN_MS 表示してから次へ
+        var plan = document.getElementById('ev-accident-plan-' + (ACC_IDS.indexOf(tag.id) + 1));
+        if(plan){
+          plan.style.display = 'flex';
+          planTimer = setTimeout(goNext, PLAN_MS);
         } else {
-          forceAdvance();
+          goNext();
         }
       });
     });
@@ -1214,6 +1402,7 @@ for(var i=0;i<65;i++){
 
   function show(i){
     currentIdx = i;
+    hideAccidentPlans();
     slots.forEach(function(el, n){
       if(!el) return;
       var on = (n === i);
