@@ -1642,6 +1642,21 @@ for(var i=0;i<65;i++){
       if(barEl) barEl.style.background = isEventPage(pg) ? '#E5342E' : 'var(--nenkin)';
     }
     show(0);
+    // クリック（タップ）で送る：パネルの左1/3は前へ、それ以外は次へ
+    var panelEl = document.getElementById('panel-transit');
+    if(panelEl){
+      panelEl.style.cursor = 'pointer';
+      panelEl.title = 'クリックで次へ（左端クリックで前へ）';
+      panelEl.addEventListener('click', function(e){
+        if(e.target.closest && e.target.closest('a,button,input,select,textarea')) return;
+        var r = panelEl.getBoundingClientRect();
+        var back = (e.clientX - r.left) < r.width / 3;
+        idx = (idx + (back ? pages.length - 1 : 1)) % pages.length;
+        elapsed = 0;
+        show(idx);
+        if(barEl) barEl.style.width = '0%';
+      });
+    }
     setInterval(function(){
       elapsed += TICK;
       var dur = durationFor(idx);
