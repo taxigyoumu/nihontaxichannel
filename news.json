@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-06 19:21",
+  "updated_at": "2026-11-07 02:37",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "128の信用金庫 他金融機関への送金除いてサービス復旧",
+      "text": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 19:00:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71533/20261106de71533_E0000148009_1_l.jpg"
+      "time": "Fri, 06 Nov 2026 22:42:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71963/20261106de71963_E0000151031_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決",
+      "text": "アメリカ就業者数 市場予想上回る 来週の物価動向焦点",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 15:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71359/20261106de71359_E0000113888_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 00:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71979/20261106de71979_E0000151075_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答",
+      "text": "余命宣告後“神様の贈り物” 2200万円持ち去り実刑判決 仙台",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 18:31:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71650/20261106de71650_E0000148166_1_l.jpg"
+      "time": "Fri, 06 Nov 2026 21:23:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71905/20261106de71905_E0000150170_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "強い冬型の気圧配置に 北日本は大荒れ 大雪のおそれ",
+      "text": "高市首相 「台湾有事」答弁1年 “中国と安定的な関係構築を”",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 19:10:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71834/20261106de71834_E0000149675_1_l.jpg"
+      "time": "Fri, 06 Nov 2026 23:42:52 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71861/20261106de71861_E0000149898_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "佐川急便 5323万件が外部流出の可能性で“被害状況を調査中”",
+      "text": "訪問介護 厚生労働省が新たな支援方針 サービス維持への課題は",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 18:44:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71689/20261106de71689_E0000148147_1_l.jpg"
+      "time": "Fri, 06 Nov 2026 23:50:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71869/20261106de71869_E0000151052_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "総務省 NTTドコモに行政指導 アマゾンに契約者の情報漏えいで",
+      "text": "JESSE コカイン使用の疑いで逮捕 ロックバンドRIZEのボーカル",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 17:30:00 +0900"
+      "time": "Sat, 07 Nov 2026 02:31:18 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サブウェイ ライフ 個人情報漏えいか アララ不正アクセス影響",
+      "text": "フィギュアGP中国大会 男子前半は三浦が首位 佐藤が2位",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 18:02:48 +0900"
+      "time": "Sat, 07 Nov 2026 00:51:38 +0900"
     }
   ]
 }
