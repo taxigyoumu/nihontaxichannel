@@ -1,95 +1,60 @@
 {
-  "updated_at": "2026-11-06 07:09",
-  "has_alert": true,
+  "updated_at": "2026-11-06 11:42",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-05T21:43:57Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-05T21:43:57Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-05T21:41:59Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】美濃地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-05T21:41:59Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県濃霧注意報】美濃地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-05T21:41:48Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "消費税減税法案 衆議院財務金融委員会で可決",
+      "source": "NHK",
+      "time": "Fri, 06 Nov 2026 11:34:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71359/20261106de71359_E0000003850_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関心高まる「サイバーBCP」 攻撃された後も事業継続へ",
+      "text": "武部農相 公共事業受注企業から選挙中に受けた寄付を返金へ",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 05:05:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71299/20261106de71299_E0000146658_1_l.jpg"
+      "time": "Fri, 06 Nov 2026 11:33:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71388/20261106de71388_E0000147085_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "日経平均株価6万円割れ ことし5月以来 一時4000円超下落",
+      "source": "NHK",
+      "time": "Fri, 06 Nov 2026 10:53:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71341/20261106de71341_E0000147014_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "アメリカ 中間選挙の大敗受け ルビオ国務長官の去就報道相次ぐ",
+      "source": "NHK",
+      "time": "Fri, 06 Nov 2026 11:38:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71260/20261105de71260_E0000146984_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "NTTドコモ通信障害が復旧 原因は装置の不具合",
+      "source": "NHK",
+      "time": "Fri, 06 Nov 2026 11:03:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71360/20261106de71360_E0000147048_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 05:02:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261105de71261/20261105de71261_E0000146628_1_l.jpg"
+      "time": "Fri, 06 Nov 2026 10:51:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 与党きょう採決の構え 野党“具体像あいまい”",
+      "text": "不正アクセス対策 政府が予備費100億円の支出を決定",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 04:54:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71308/20261106de71308_E0000146660_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アメリカ中間選挙 共和党大敗 トランプ大統領の対応は【詳報】",
-      "source": "NHK",
-      "time": "Thu, 05 Nov 2026 20:56:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261103de69965/20261103de69965_E0000145914_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フランスで再び大規模デモ 高校で火災など混乱も",
-      "source": "NHK",
-      "time": "Fri, 06 Nov 2026 05:52:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71327/20261106de71327_E0000146673_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ”",
-      "source": "NHK",
-      "time": "Fri, 06 Nov 2026 06:01:03 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "原発賠償で国から東電への支援15兆円余 回収に最長39年と試算",
-      "source": "NHK",
-      "time": "Fri, 06 Nov 2026 05:23:00 +0900"
+      "time": "Fri, 06 Nov 2026 11:18:27 +0900"
     }
   ]
 }
