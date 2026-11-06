@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-11-07 02:37",
-  "has_alert": false,
+  "updated_at": "2026-11-07 07:40",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サイバー攻撃対応強化で法改正検討へ 国内通信情報取得が焦点",
-      "source": "NHK",
-      "time": "Fri, 06 Nov 2026 22:42:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71963/20261106de71963_E0000151031_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　７日０６時３０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-06T21:32:43Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ就業者数 市場予想上回る 来週の物価動向焦点",
+      "text": "消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 00:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71979/20261106de71979_E0000151075_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 05:47:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71985/20261107de71985_E0000151134_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "余命宣告後“神様の贈り物” 2200万円持ち去り実刑判決 仙台",
+      "text": "冬型強まり北日本中心に暴風警戒 大雪に十分注意を",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 21:23:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71905/20261106de71905_E0000150170_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 06:14:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72009/20261107de72009_E0000151121_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 「台湾有事」答弁1年 “中国と安定的な関係構築を”",
+      "text": "トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 23:42:52 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71861/20261106de71861_E0000149898_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 06:44:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72003/20261107de72003_E0000151128_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "訪問介護 厚生労働省が新たな支援方針 サービス維持への課題は",
+      "text": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
       "source": "NHK",
-      "time": "Fri, 06 Nov 2026 23:50:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261106de71869/20261106de71869_E0000151052_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 06:53:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71993/20261107de71993_E0000151148_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JESSE コカイン使用の疑いで逮捕 ロックバンドRIZEのボーカル",
+      "text": "ヨーロッパ旅客機にまた爆破予告 テレビ局も標的に",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 02:31:18 +0900"
+      "time": "Sat, 07 Nov 2026 05:52:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71996/20261107de71996_E0000151111_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フィギュアGP中国大会 男子前半は三浦が首位 佐藤が2位",
+      "text": "超党派議員連盟がICC訪問し赤根所長と面会「支援を強化」",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 00:51:38 +0900"
+      "time": "Sat, 07 Nov 2026 07:20:19 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米カリフォルニア州知事 すべての死刑囚548人を終身刑に減刑",
+      "source": "NHK",
+      "time": "Sat, 07 Nov 2026 06:36:40 +0900"
     }
   ]
 }
