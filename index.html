@@ -702,71 +702,108 @@ for(var i=0;i<65;i++){
             酒酔いのお客様など、電話でのやり取りだけでは詳細な指示を正確に把握できないケースも多いため、現場での乗務員間の確認が料金トラブルやお客様対応トラブルの防止に直結します。台数口配車を受けた際は、必ず現場で他車の乗務員と確認を行ってください。
           </div>
         </div>
-        <!-- ④ 事故映像（令和8年9月度 3事例：movie10→movie11→movie12 連続再生 → 終了したら次のスロットへ）
-             各動画は「事故直前で静止コマ（約7秒）」で終わる。静止に入ったら問いかけ→答えのテロップへ切替（data-q＝静止開始秒）。
-             顔（車内カメラ）・前車ナンバーはぼかし済み。事故の瞬間は使わない。 -->
+        <!-- ④-0 9月・10月の事故 4事例の導入（2026/11/6 一新） -->
+        <div class="ev-slot" id="ev-jiko-intro" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;overflow:hidden;padding:18px 24px;display:flex;flex-direction:column;justify-content:center;gap:12px;">
+          <div style="display:flex;align-items:center;gap:10px;flex-wrap:wrap;">
+            <span style="background:#e52020;color:#fff;font-size:12px;font-weight:900;padding:3px 11px;border-radius:4px;letter-spacing:.06em;animation:blink 1.4s step-start infinite;">注意喚起</span>
+            <span style="font-size:13px;font-weight:700;color:var(--text-secondary);">9月・10月に当社で起きた事故から</span>
+          </div>
+          <div style="font-size:24px;font-weight:900;color:var(--text-primary);line-height:1.3;">この2か月で、<span style="color:#d01818;">人身事故 4件</span></div>
+          <div style="display:grid;grid-template-columns:1fr 1fr;gap:8px;">
+            <div style="border:2px solid #d01818;border-radius:8px;padding:8px 10px;"><div style="font-size:11px;font-weight:700;color:#d01818;">事例1　9/29　人身</div><div style="font-size:14px;font-weight:900;color:var(--text-primary);">雨のカーブ ─ 自転車と接触</div></div>
+            <div style="border:2px solid var(--border);border-radius:8px;padding:8px 10px;"><div style="font-size:11px;font-weight:700;color:var(--text-secondary);">事例2　10/6</div><div style="font-size:14px;font-weight:900;color:var(--text-primary);">夕方の左折 ─ 縁石でこする</div></div>
+            <div style="border:2px solid #d01818;border-radius:8px;padding:8px 10px;"><div style="font-size:11px;font-weight:700;color:#d01818;">事例3　10/14　人身</div><div style="font-size:14px;font-weight:900;color:var(--text-primary);">深夜の交差点 ─ 右折車と衝突</div></div>
+            <div style="border:2px solid #d01818;border-radius:8px;padding:8px 10px;"><div style="font-size:11px;font-weight:700;color:#d01818;">事例4　10/17　人身</div><div style="font-size:14px;font-weight:900;color:var(--text-primary);">右折 ─ 対向車と衝突・横転</div></div>
+          </div>
+          <div style="font-size:13px;color:var(--text-secondary);line-height:1.6;background:var(--bg-panel-hover);border-left:3px solid #d01818;border-radius:0 6px 6px 0;padding:8px 12px;">このあと実際の映像が流れます。<b style="color:var(--text-primary);">映像が止まったら「この先どうなるか」</b>を考えてください。</div>
+        </div>
+
+        <!-- ④ 事故映像（9月・10月の4事例：movie13→14→15→16 連続再生 → 終了したら次のスロットへ。2026/11/6 一新）
+             各動画は「事故直前で静止コマ（9秒）」で終わる。静止に入ったら問いかけ→答えのテロップへ切替（data-q＝静止開始秒）。
+             前方カメラのみ切り出し（車内カメラ・お客様は映さない）、音声なし。事故の瞬間は使わない。 -->
         <div class="ev-slot" id="ev-accident" style="position:absolute;inset:0;opacity:0;transition:opacity .5s ease;pointer-events:none;background:#000;">
-          <video id="ev-accident-v1-el" data-q="6.0"
+          <video id="ev-accident-v1-el" data-q="5.8"
             muted playsinline preload="auto"
             style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:1;transition:opacity .3s ease;">
-            <source src="movie10.mp4" type="video/mp4">
+            <source src="movie13.mp4" type="video/mp4">
           </video>
-          <video id="ev-accident-v2-el" data-q="7.5"
+          <video id="ev-accident-v2-el" data-q="3.5"
             muted playsinline preload="auto"
             style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
-            <source src="movie11.mp4" type="video/mp4">
+            <source src="movie14.mp4" type="video/mp4">
           </video>
-          <video id="ev-accident-v3-el" data-q="8.0"
+          <video id="ev-accident-v3-el" data-q="4.9"
             muted playsinline preload="auto"
             style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
-            <source src="movie12.mp4" type="video/mp4">
+            <source src="movie15.mp4" type="video/mp4">
           </video>
-          <!-- テロップ①：事例1 夜の駐車場 -->
+          <video id="ev-accident-v4-el" data-q="5.0"
+            muted playsinline preload="auto"
+            style="position:absolute;inset:0;width:100%;height:100%;object-fit:contain;background:#000;opacity:0;transition:opacity .3s ease;">
+            <source src="movie16.mp4" type="video/mp4">
+          </video>
+          <!-- テロップ1 -->
           <div id="ev-accident-telop-1" class="ev-acc-telop" style="position:absolute;left:0;right:0;bottom:0;z-index:10;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.72) 78%,transparent 100%);transition:opacity .3s ease;">
             <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
               <span style="background:#e52020;color:#fff;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;animation:blink 1.4s step-start infinite;">実際の事故映像</span>
-              <span style="font-size:11px;color:#ffb0b0;">令和8年9月度　事例1　夜・店舗の駐車場</span>
+              <span style="font-size:11px;color:#ffb0b0;">9月29日　事例1　雨の夕方・カーブの先</span>
             </div>
             <div class="ev-acc-q" style="transition:opacity .3s ease;">
-              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">その駐車場、先は見えていますか？</div>
+              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">カーブの先、何が来るか見えていますか？</div>
               <div style="margin-top:5px;font-size:12px;color:#ffd9d9;">このあと、どんな危険が起きるか考えてみてください</div>
             </div>
             <div class="ev-acc-a" style="display:none;">
-              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：暗くて見えないブロックに衝突。車内のお客様にも危険が及びました</div>
-              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">暗い駐車場は“道”じゃない。先が見えなければ、止まって降りて確認</div>
-              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">乗車時は「シートベルトをお願いします」の一声を。</div>
+              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：前から来た自転車と接触。相手の方がけがをしました（人身事故）</div>
+              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">見えないカーブは、見えるまでゆっくり。カーブミラーで先を見る</div>
+              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">雨の日は止まるまでの距離がのびます。自転車を見つけたら、すぐ減速。</div>
             </div>
           </div>
-          <!-- テロップ②：事例2 雨の夜の待機所 -->
+          <!-- テロップ2 -->
           <div id="ev-accident-telop-2" class="ev-acc-telop" style="position:absolute;left:0;right:0;bottom:0;z-index:10;opacity:0;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.72) 78%,transparent 100%);transition:opacity .3s ease;">
             <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
               <span style="background:#e52020;color:#fff;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;animation:blink 1.4s step-start infinite;">実際の事故映像</span>
-              <span style="font-size:11px;color:#ffb0b0;">令和8年9月度　事例2　雨の夜・待機所への進入</span>
+              <span style="font-size:11px;color:#ffb0b0;">10月6日　事例2　夕方・脇道から大きな道へ左折</span>
             </div>
             <div class="ev-acc-q" style="transition:opacity .3s ease;">
-              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">雨の夜、待機所に入るところです</div>
+              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">左に曲がります。後ろのタイヤはどこを通りますか？</div>
               <div style="margin-top:5px;font-size:12px;color:#ffd9d9;">このあと、どんな危険が起きるか考えてみてください</div>
             </div>
             <div class="ev-acc-a" style="display:none;">
-              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：暗がりから現れた歩行者と接触しました</div>
-              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">入る前に一度止まる。曲がりながら探さない</div>
-              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">雨の夜は、見えているつもりが一番あぶない。出入口は歩行者が横切る場所です。</div>
+              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：左の後輪側が角の縁石に乗り上げ、車の左側をこすりました</div>
+              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">後ろのタイヤは内側を通る。左は、ゆっくり</div>
+              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">10月度の自責事故18件のうち8件が「車の左側をこする事故」です。</div>
             </div>
           </div>
-          <!-- テロップ③：事例3 夕方の渋滞中 -->
+          <!-- テロップ3 -->
           <div id="ev-accident-telop-3" class="ev-acc-telop" style="position:absolute;left:0;right:0;bottom:0;z-index:10;opacity:0;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.72) 78%,transparent 100%);transition:opacity .3s ease;">
             <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
               <span style="background:#e52020;color:#fff;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;animation:blink 1.4s step-start infinite;">実際の事故映像</span>
-              <span style="font-size:11px;color:#ffb0b0;">令和8年9月度　事例3　夕方・渋滞中</span>
+              <span style="font-size:11px;color:#ffb0b0;">10月14日　事例3　深夜・交差点を直進（お客様4名乗車）</span>
             </div>
             <div class="ev-acc-q" style="transition:opacity .3s ease;">
-              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">運転者の目線はどこを向いていますか？</div>
+              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">交差点の向こうにライトが見えます</div>
               <div style="margin-top:5px;font-size:12px;color:#ffd9d9;">このあと、どんな危険が起きるか考えてみてください</div>
             </div>
             <div class="ev-acc-a" style="display:none;">
-              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：手元に気を取られ、前の車に追突しました</div>
-              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">画面は止まってから。渋滞中も“運転中”</div>
-              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">夕日の逆光のときは、サンバイザーを使い車間を広く。</div>
+              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：対向から右折してきた車と正面衝突。お客様4名を乗せていました（人身事故）</div>
+              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">交差点では対向車の動きを見る。「右折してくるかも」でアクセルを離す</div>
+              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">深夜はすいていて、速度も油断も出やすい時間帯です。</div>
+            </div>
+          </div>
+          <!-- テロップ4 -->
+          <div id="ev-accident-telop-4" class="ev-acc-telop" style="position:absolute;left:0;right:0;bottom:0;z-index:10;opacity:0;padding:10px 16px 12px;background:linear-gradient(0deg,rgba(0,0,0,.95) 0%,rgba(0,0,0,.72) 78%,transparent 100%);transition:opacity .3s ease;">
+            <div style="display:flex;align-items:center;gap:9px;margin-bottom:5px;">
+              <span style="background:#e52020;color:#fff;font-size:10px;font-weight:900;padding:2px 9px;border-radius:3px;letter-spacing:.07em;animation:blink 1.4s step-start infinite;">実際の事故映像</span>
+              <span style="font-size:11px;color:#ffb0b0;">10月17日　事例4　昼・迎車中の右折</span>
+            </div>
+            <div class="ev-acc-q" style="transition:opacity .3s ease;">
+              <div style="font-size:16px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">その右折、行けますか？</div>
+              <div style="margin-top:5px;font-size:12px;color:#ffd9d9;">このあと、どんな危険が起きるか考えてみてください</div>
+            </div>
+            <div class="ev-acc-a" style="display:none;">
+              <div style="font-size:15px;font-weight:900;color:#fff;line-height:1.3;text-shadow:0 2px 8px rgba(0,0,0,.9);">このあと：対向から直進してきた車と衝突。相手の車は横転し、けが人が出ました</div>
+              <div style="margin-top:7px;padding:7px 12px;background:rgba(229,32,32,.2);border-left:3px solid #e52020;border-radius:0 6px 6px 0;font-size:14px;font-weight:900;color:#fff;">右折は、迷ったら待つ。慣れた場所ほど、もう一度見る</div>
+              <div style="margin-top:6px;font-size:11.5px;color:#ffd9d9;">減速しながらの「ついで右折」をしない。対向車がいなくなってから曲がる。</div>
             </div>
           </div>
         </div>
@@ -1051,10 +1088,8 @@ for(var i=0;i<65;i++){
   var _isCampaign = (_now >= _campaignStart && _now <= _campaignEnd);
 
   var normalViews = [
-    { slot:'ev-safety',  icon:'⚠️', title:'安全注意喚起',        sub:'重大事故・自責事故 警戒',   dur:20000, video:null },
-    { slot:'ev-daisuguchi', icon:'🚕', title:'台数口配車ルール',  sub:'複数台同時配車時の乗務員指導', dur:25000, video:null },
-    { slot:'ev-ihan',    icon:'⚠️', title:'注意喚起',            sub:'道路交通法令違反通知書について', dur:22000, video:null },
-    { slot:'ev-accident', icon:'🚨', title:'業務連絡 動画',       sub:'事故映像 ─ 見えにくいときは止まって確認',  dur:60000, sequence:['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el'] }
+    { slot:'ev-jiko-intro', icon:'⚠️', title:'注意喚起',      sub:'9月・10月の事故から 4事例',   dur:15000, video:null },
+    { slot:'ev-accident',   icon:'🚨', title:'業務連絡 動画', sub:'事故映像 ─ 止まった場面で「この先」を考える', dur:75000, sequence:['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el','ev-accident-v4-el'] }
   ];
 
   var campaignViews = [
@@ -1135,7 +1170,7 @@ for(var i=0;i<65;i++){
   }
 
   // 事故映像シーケンス：1本目→2本目→…と順に再生し、最後の1本が終わったら次のスロットへ自動切替
-  var ACC_IDS = ['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el'];
+  var ACC_IDS = ['ev-accident-v1-el','ev-accident-v2-el','ev-accident-v3-el','ev-accident-v4-el'];
   function setAccidentPhase(telop, answer){
     if(!telop) return;
     var q = telop.querySelector('.ev-acc-q'), a = telop.querySelector('.ev-acc-a');
