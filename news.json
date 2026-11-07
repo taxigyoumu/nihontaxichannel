@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-11-07 18:35",
-  "has_alert": false,
+  "updated_at": "2026-11-08 01:04",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　８日００時４２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-07T15:45:02Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ロシア JTの資産を追加で一時管理下に置く大統領令に署名",
+      "source": "NHK",
+      "time": "Sun, 08 Nov 2026 00:02:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72211/20261107de72211_E0000152448_2_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フィギュア 千葉百音が優勝 グランプリシリーズ第3戦 中国大会",
+      "source": "NHK",
+      "time": "Sat, 07 Nov 2026 23:56:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72221/20261107de72221_E0000152431_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "プロボウラーの中山律子さんが死去 一大ブームをけん引 84歳",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 16:06:00 +0900",
+      "time": "Sat, 07 Nov 2026 19:48:45 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72117/20261107de72117_E0000151606_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず",
+      "text": "ラグビー日本代表×ウェールズ【速報予定】欧州遠征の初戦",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 11:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72062/20261107de72062_E0000151392_1_l.jpg"
+      "time": "Sun, 08 Nov 2026 01:02:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72220/20261107de72220_E0000152367_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民党執行部 石破氏らに文書で説明要請 消費税法案採決退席で",
+      "text": "北茨城で親子3人乗った漁船座礁 50代の息子と娘が死亡",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 16:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72136/20261107de72136_E0000151611_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 22:12:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72072/20261107de72072_E0000151397_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "冬型強まり北日本中心に暴風警戒 大雪に十分注意を",
+      "text": "北日本で大荒れの天気 あすにかけ暴風高波に警戒 大雪に注意を",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 11:54:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72009/20261107de72009_E0000151419_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 20:40:31 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "介護現場のカスハラの実態は? 厚労省は対策強化へ",
+      "text": "J1 第14節 首位のFC東京 J1記録タイ9試合連続無失点で3連勝",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 16:09:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72045/20261107de72045_E0000151520_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "台湾有事発言1年 対話の糸口探る日本政府 日中の影響は?",
-      "source": "NHK",
-      "time": "Sat, 07 Nov 2026 18:12:33 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "北茨城の海岸で漁船座礁 乗っていた親子3人搬送 2人は意識不明",
-      "source": "NHK",
-      "time": "Sat, 07 Nov 2026 12:02:00 +0900"
+      "time": "Sun, 08 Nov 2026 00:22:13 +0900"
     }
   ]
 }
