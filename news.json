@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-11-08 01:04",
-  "has_alert": true,
+  "updated_at": "2026-11-08 05:23",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　８日００時４２分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-07T15:45:02Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】愛知県で震度5強 津波の心配なし",
+      "source": "NHK",
+      "time": "Sun, 08 Nov 2026 04:21:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72252/20261108de72252_E0000152476_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア JTの資産を追加で一時管理下に置く大統領令に署名",
+      "text": "気象庁記者会見 “同程度の地震に注意”【会見詳細】",
       "source": "NHK",
-      "time": "Sun, 08 Nov 2026 00:02:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72211/20261107de72211_E0000152448_2_l.jpg"
+      "time": "Sun, 08 Nov 2026 04:26:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72259/20261108de72259_E0000152498_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フィギュア 千葉百音が優勝 グランプリシリーズ第3戦 中国大会",
+      "text": "【鉄道影響】東海道新幹線 遅れ見込み 在来線一部運転見合わせ",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 23:56:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72221/20261107de72221_E0000152431_1_l.jpg"
+      "time": "Sun, 08 Nov 2026 05:21:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72329/20261108de72329_E0000003581_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プロボウラーの中山律子さんが死去 一大ブームをけん引 84歳",
+      "text": "愛知で震度5強【各地の被害情報】",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 19:48:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72117/20261107de72117_E0000151606_1_l.jpg"
+      "time": "Sun, 08 Nov 2026 05:12:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72310/20261108de72310_E0000003973_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ラグビー日本代表×ウェールズ【速報予定】欧州遠征の初戦",
+      "text": "愛知 豊橋 車の販売店でショーウィンドウのガラス大きく割れる",
       "source": "NHK",
-      "time": "Sun, 08 Nov 2026 01:02:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72220/20261107de72220_E0000152367_1_l.jpg"
+      "time": "Sun, 08 Nov 2026 03:33:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72297/20261108de72297_E0000152501_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北茨城で親子3人乗った漁船座礁 50代の息子と娘が死亡",
+      "text": "愛知県の高速 5つの道路で全線通行止め",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 22:12:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72072/20261107de72072_E0000151397_1_l.jpg"
+      "time": "Sun, 08 Nov 2026 02:21:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北日本で大荒れの天気 あすにかけ暴風高波に警戒 大雪に注意を",
+      "text": "地震の特徴 南海トラフ巨大地震との関連【災害担当記者 解説】",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 20:40:31 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "J1 第14節 首位のFC東京 J1記録タイ9試合連続無失点で3連勝",
-      "source": "NHK",
-      "time": "Sun, 08 Nov 2026 00:22:13 +0900"
+      "time": "Sun, 08 Nov 2026 04:18:30 +0900"
     }
   ]
 }
