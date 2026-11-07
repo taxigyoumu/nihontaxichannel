@@ -1,14 +1,7 @@
 {
-  "updated_at": "2026-11-07 07:40",
-  "has_alert": true,
+  "updated_at": "2026-11-07 11:31",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　７日０６時３０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-06T21:32:43Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -30,8 +23,16 @@
       "label": "ニュース",
       "text": "トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 06:44:26 +0900",
+      "time": "Sat, 07 Nov 2026 11:22:10 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72003/20261107de72003_E0000151128_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ベッセント財務長官と何副首相 貿易摩擦“休戦”の状況を協議",
+      "source": "NHK",
+      "time": "Sat, 07 Nov 2026 08:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72007/20261107de72007_E0000151303_1_l.jpg"
     },
     {
       "category": "news",
@@ -44,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ヨーロッパ旅客機にまた爆破予告 テレビ局も標的に",
-      "source": "NHK",
-      "time": "Sat, 07 Nov 2026 05:52:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71996/20261107de71996_E0000151111_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "超党派議員連盟がICC訪問し赤根所長と面会「支援を強化」",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 07:20:19 +0900"
+      "time": "Sat, 07 Nov 2026 07:20:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米カリフォルニア州知事 すべての死刑囚548人を終身刑に減刑",
+      "text": "COP前に北極観測の科学者 温暖化の速さに危機感訴え",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 06:36:40 +0900"
+      "time": "Sat, 07 Nov 2026 10:38:06 +0900"
     }
   ]
 }
