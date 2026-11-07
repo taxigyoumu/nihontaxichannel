@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-07 11:31",
+  "updated_at": "2026-11-07 18:35",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案が衆院通過 参院で与野党の合意形成が焦点に",
+      "text": "プロボウラーの中山律子さんが死去 一大ブームをけん引 84歳",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 05:47:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71985/20261107de71985_E0000151134_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 16:06:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72117/20261107de72117_E0000151606_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "GMO 管理者が全情報アクセス可能 リスク指摘も十分対策されず",
+      "source": "NHK",
+      "time": "Sat, 07 Nov 2026 11:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72062/20261107de72062_E0000151392_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "自民党執行部 石破氏らに文書で説明要請 消費税法案採決退席で",
+      "source": "NHK",
+      "time": "Sat, 07 Nov 2026 16:21:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72136/20261107de72136_E0000151611_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "冬型強まり北日本中心に暴風警戒 大雪に十分注意を",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 06:14:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72009/20261107de72009_E0000151121_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 11:54:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72009/20261107de72009_E0000151419_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ政権 ワイルズ首席補佐官が退任 ミラー氏起用へ",
+      "text": "介護現場のカスハラの実態は? 厚労省は対策強化へ",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 11:22:10 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72003/20261107de72003_E0000151128_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 16:09:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72045/20261107de72045_E0000151520_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ベッセント財務長官と何副首相 貿易摩擦“休戦”の状況を協議",
+      "text": "台湾有事発言1年 対話の糸口探る日本政府 日中の影響は?",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 08:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de72007/20261107de72007_E0000151303_1_l.jpg"
+      "time": "Sat, 07 Nov 2026 18:12:33 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "外務省幹部がロシア訪問 JT子会社への措置に抗議し撤回要求",
+      "text": "北茨城の海岸で漁船座礁 乗っていた親子3人搬送 2人は意識不明",
       "source": "NHK",
-      "time": "Sat, 07 Nov 2026 06:53:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261107de71993/20261107de71993_E0000151148_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "超党派議員連盟がICC訪問し赤根所長と面会「支援を強化」",
-      "source": "NHK",
-      "time": "Sat, 07 Nov 2026 07:20:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "COP前に北極観測の科学者 温暖化の速さに危機感訴え",
-      "source": "NHK",
-      "time": "Sat, 07 Nov 2026 10:38:06 +0900"
+      "time": "Sat, 07 Nov 2026 12:02:00 +0900"
     }
   ]
 }
