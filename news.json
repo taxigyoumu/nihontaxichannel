@@ -1,28 +1,7 @@
 {
-  "updated_at": "2026-11-08 20:25",
-  "has_alert": true,
+  "updated_at": "2026-11-09 02:10",
+  "has_alert": false,
   "items": [
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-08T11:03:16Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-08T11:03:16Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県乾燥注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-08T11:03:01Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
@@ -30,6 +9,14 @@
       "source": "NHK",
       "time": "Sun, 08 Nov 2026 19:37:39 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72420/20261108de72420_E0000152789_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "佐賀 鳥栖 ブリヂストン工場で火事 3時間半後に消し止められる",
+      "source": "NHK",
+      "time": "Mon, 09 Nov 2026 00:14:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72603/20261108de72603_E0000153740_1_l.jpg"
     },
     {
       "category": "news",
@@ -58,24 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "浦和レッズ 西川周作 J1最多出場試合記録を更新",
+      "text": "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず",
       "source": "NHK",
-      "time": "Sun, 08 Nov 2026 20:09:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72566/20261108de72566_E0000153139_1_l.jpg"
+      "time": "Sun, 08 Nov 2026 22:28:07 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小泉防衛相 陸海空自衛隊の垣根を越えた組織のあり方検討",
+      "text": "競馬 フォーエバーヤング ことしかぎりで引退へ",
       "source": "NHK",
-      "time": "Sun, 08 Nov 2026 15:18:52 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "JR内房線 約1か月半ぶりに全線再開 利用者から喜びの声 千葉",
-      "source": "NHK",
-      "time": "Sun, 08 Nov 2026 17:09:00 +0900"
+      "time": "Sun, 08 Nov 2026 21:43:00 +0900"
     }
   ]
 }
