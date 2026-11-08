@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-11-09 02:10",
-  "has_alert": false,
+  "updated_at": "2026-11-09 06:17",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "山林で女性遺体 女性が相談も警察は意向受け警告行わず",
-      "source": "NHK",
-      "time": "Sun, 08 Nov 2026 19:37:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72420/20261108de72420_E0000152789_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】　９日０５時１６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-08T20:19:50Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう　９日０５時１６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-08T20:18:43Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】　９日０５時１６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-11-08T20:18:08Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "佐賀 鳥栖 ブリヂストン工場で火事 3時間半後に消し止められる",
+      "text": "JR中央線快速電車 東京駅－高尾駅の上下線で運転見合わせ",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 00:14:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72603/20261108de72603_E0000153740_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 06:03:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72687/20261109de72687_E0000004046_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "拉致被害者家族らが大規模集会 政府の具体的な取り組み求める",
+      "text": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
       "source": "NHK",
-      "time": "Sun, 08 Nov 2026 18:42:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72485/20261108de72485_E0000153102_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 05:00:24 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72639/20261109de72639_E0000153825_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "COP31 あす開幕へ 対策実行に向け足並みそろえられるか焦点",
+      "text": "エジプトで列車衝突事故 7人死亡 112人けが",
       "source": "NHK",
-      "time": "Sun, 08 Nov 2026 19:37:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72408/20261108de72408_E0000153095_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 05:13:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72671/20261109de72671_E0000153844_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 総合格闘技団体代表に報道官打診",
+      "text": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
       "source": "NHK",
-      "time": "Sun, 08 Nov 2026 11:03:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72412/20261108de72412_E0000152780_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 05:09:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72633/20261108de72633_E0000153811_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナのエネルギー施設へ攻撃続く 60万人電力受けられず",
+      "text": "【地震速報】岩手県 宮城県で震度3 津波の心配なし",
       "source": "NHK",
-      "time": "Sun, 08 Nov 2026 22:28:07 +0900"
+      "time": "Mon, 09 Nov 2026 05:35:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72427/20261108de72427_E0000153846_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "競馬 フォーエバーヤング ことしかぎりで引退へ",
+      "text": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
       "source": "NHK",
-      "time": "Sun, 08 Nov 2026 21:43:00 +0900"
+      "time": "Mon, 09 Nov 2026 05:04:28 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イスラエル大統領 野党アイゼンコット氏に組閣要請",
+      "source": "NHK",
+      "time": "Mon, 09 Nov 2026 05:48:50 +0900"
     }
   ]
 }
