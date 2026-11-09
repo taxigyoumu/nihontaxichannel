@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-11-09 10:05",
-  "has_alert": false,
+  "updated_at": "2026-11-09 17:22",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "7月30日の市場介入 7兆9756億円 円買い介入で過去最大",
-      "source": "NHK",
-      "time": "Mon, 09 Nov 2026 09:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72699/20261109de72699_E0000004045_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【南海トラフ地震関連解説情報】　第１１１回南海トラフ沿いの地震に関する評価検討会で、南海トラフ周辺の地殻活動を評価しました。",
+      "source": "気象庁",
+      "time": "2026-11-09T08:00:14Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+      "text": "セガ メールアドレス219万件余流出 アララ不正アクセスの影響",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 08:37:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72633/20261108de72633_E0000153814_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 16:19:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72932/20261109de72932_E0000155138_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
+      "text": "産休取得の川田翔子市長が公務復帰「心機一転 仕事」京都 八幡",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 08:46:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72622/20261108de72622_E0000153769_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 13:05:41 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72721/20261109de72721_E0000154388_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
+      "text": "小学館 会員メールアドレスなど約199万件漏えいおそれ",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 08:42:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72639/20261109de72639_E0000153825_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 14:57:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72824/20261109de72824_E0000154466_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "エジプトで列車衝突事故 7人死亡 112人けが",
+      "text": "定数31議席削減 法案要綱が判明 統一名簿の具体的規定は見送り",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 05:13:35 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72671/20261109de72671_E0000153844_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 15:52:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72715/20261109de72715_E0000154952_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "きょう日越首脳会談 重要鉱物や原子力連携などで共同声明調整",
+      "text": "銀座で強力な電波発し周辺スマホ圏外に 電波法違反の疑い逮捕",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 07:37:26 +0900"
+      "time": "Mon, 09 Nov 2026 16:06:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72718/20261109de72718_E0000154329_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
+      "text": "自民・維新 消費税減税法案成立に向け 参議院審議でも緊密連携",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 09:21:00 +0900"
+      "time": "Mon, 09 Nov 2026 16:10:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "参院 野党6党 消費税減税法案“委員会審議入りは首相出席を”",
+      "source": "NHK",
+      "time": "Mon, 09 Nov 2026 16:02:00 +0900"
     }
   ]
 }
