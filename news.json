@@ -1,42 +1,37 @@
 {
-  "updated_at": "2026-11-09 06:17",
-  "has_alert": true,
+  "updated_at": "2026-11-09 10:05",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】　９日０５時１６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-08T20:19:50Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう　９日０５時１６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-08T20:18:43Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】　９日０５時１６分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-11-08T20:18:08Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "7月30日の市場介入 7兆9756億円 円買い介入で過去最大",
+      "source": "NHK",
+      "time": "Mon, 09 Nov 2026 09:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72699/20261109de72699_E0000004045_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR中央線快速電車 東京駅－高尾駅の上下線で運転見合わせ",
+      "text": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 06:03:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72687/20261109de72687_E0000004046_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 08:37:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72633/20261108de72633_E0000153814_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
+      "source": "NHK",
+      "time": "Mon, 09 Nov 2026 08:46:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72622/20261108de72622_E0000153769_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "山林遺体は石川県の20代女性と確認 監禁後まもなく殺害か",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 05:00:24 +0900",
+      "time": "Mon, 09 Nov 2026 08:42:13 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72639/20261109de72639_E0000153825_1_l.jpg"
     },
     {
@@ -50,32 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "COP31 きょう開幕へ 各国が足並みそろえられるか焦点に",
+      "text": "きょう日越首脳会談 重要鉱物や原子力連携などで共同声明調整",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 05:09:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72633/20261108de72633_E0000153811_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 07:37:26 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】岩手県 宮城県で震度3 津波の心配なし",
+      "text": "エヌビディアがフアンCEO調査 中国情報機関協力女性と親密報道",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 05:35:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261108de72427/20261108de72427_E0000153846_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税法案 あさって参議院で審議入り 与野党論戦へ",
-      "source": "NHK",
-      "time": "Mon, 09 Nov 2026 05:04:28 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "イスラエル大統領 野党アイゼンコット氏に組閣要請",
-      "source": "NHK",
-      "time": "Mon, 09 Nov 2026 05:48:50 +0900"
+      "time": "Mon, 09 Nov 2026 09:21:00 +0900"
     }
   ]
 }
