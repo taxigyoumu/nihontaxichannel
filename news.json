@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-11-09 17:22",
-  "has_alert": true,
+  "updated_at": "2026-11-10 03:59",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【南海トラフ地震関連解説情報】　第１１１回南海トラフ沿いの地震に関する評価検討会で、南海トラフ周辺の地殻活動を評価しました。",
-      "source": "気象庁",
-      "time": "2026-11-09T08:00:14Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "自民 石破前首相ら4人を戒告処分 本会議退席で 元総裁処分は初",
+      "source": "NHK",
+      "time": "Mon, 09 Nov 2026 19:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73129/20261109de73129_E0000156641_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "セガ メールアドレス219万件余流出 アララ不正アクセスの影響",
+      "text": "山口県警 ミスでボーナスなど8000万円余が未払い 一部時効に",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 16:19:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72932/20261109de72932_E0000155138_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 19:22:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73131/20261109de73131_E0000156736_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "産休取得の川田翔子市長が公務復帰「心機一転 仕事」京都 八幡",
+      "text": "震度5強 震源を静岡県西部から愛知県東部に変更 気象庁",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 13:05:41 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72721/20261109de72721_E0000154388_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 22:13:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73182/20261109de73182_E0000157817_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小学館 会員メールアドレスなど約199万件漏えいおそれ",
+      "text": "車から強力電波 周辺スマホ強制的に2Gに 詐欺メール送信狙いか",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 14:57:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72824/20261109de72824_E0000154466_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 19:20:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72718/20261109de72718_E0000155217_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "定数31議席削減 法案要綱が判明 統一名簿の具体的規定は見送り",
+      "text": "ニトリに不正アクセス 最大3762万件の個人情報が流出の可能性",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 15:52:03 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72715/20261109de72715_E0000154952_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 19:17:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73045/20261109de73045_E0000155270_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "銀座で強力な電波発し周辺スマホ圏外に 電波法違反の疑い逮捕",
+      "text": "ジャニー喜多川氏性加害で当事者の会元副代表と会社側が和解",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 16:06:19 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72718/20261109de72718_E0000154329_1_l.jpg"
+      "time": "Mon, 09 Nov 2026 20:38:47 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民・維新 消費税減税法案成立に向け 参議院審議でも緊密連携",
+      "text": "各地で冬のような寒さ あすも北～東日本は寒い1日に",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 16:10:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "参院 野党6党 消費税減税法案“委員会審議入りは首相出席を”",
-      "source": "NHK",
-      "time": "Mon, 09 Nov 2026 16:02:00 +0900"
+      "time": "Mon, 09 Nov 2026 19:00:52 +0900"
     }
   ]
 }
