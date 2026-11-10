@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-10 03:59",
+  "updated_at": "2026-11-10 10:57",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民 石破前首相ら4人を戒告処分 本会議退席で 元総裁処分は初",
+      "text": "9月家計調査 実質の消費支出6.8％減 10か月連続の減少",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 19:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73129/20261109de73129_E0000156641_1_l.jpg"
+      "time": "Tue, 10 Nov 2026 10:25:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73268/20261110de73268_E0000003932_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山口県警 ミスでボーナスなど8000万円余が未払い 一部時効に",
+      "text": "エヌビディアCEOと中国情報機関の協力者女性の疑惑 FBIが捜査",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 19:22:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73131/20261109de73131_E0000156736_1_l.jpg"
+      "time": "Tue, 10 Nov 2026 10:15:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73265/20261110de73265_E0000158163_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "震度5強 震源を静岡県西部から愛知県東部に変更 気象庁",
+      "text": "北日本と東日本で冬の寒さ 体調管理に注意",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 22:13:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73182/20261109de73182_E0000157817_1_l.jpg"
+      "time": "Tue, 10 Nov 2026 07:44:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73237/20261110de73237_E0000158095_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "車から強力電波 周辺スマホ強制的に2Gに 詐欺メール送信狙いか",
+      "text": "アメリカ ヘグセス国防長官 弾劾訴追決議案を共和党議員が提出",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 19:20:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de72718/20261109de72718_E0000155217_1_l.jpg"
+      "time": "Tue, 10 Nov 2026 10:38:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73227/20261110de73227_E0000157838_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ニトリに不正アクセス 最大3762万件の個人情報が流出の可能性",
+      "text": "日経平均株価 一時6万円台回復 半導体関連銘柄中心に買い注文",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 19:17:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261109de73045/20261109de73045_E0000155270_1_l.jpg"
+      "time": "Tue, 10 Nov 2026 09:28:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73262/20261110de73262_E0000158149_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ジャニー喜多川氏性加害で当事者の会元副代表と会社側が和解",
+      "text": "ネパール外相 COP31で「気候変動で未来が別物に」訴え",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 20:38:47 +0900"
+      "time": "Tue, 10 Nov 2026 10:39:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "各地で冬のような寒さ あすも北～東日本は寒い1日に",
+      "text": "トランプ大統領 移民政策「厳しすぎた」 民主と協力も",
       "source": "NHK",
-      "time": "Mon, 09 Nov 2026 19:00:52 +0900"
+      "time": "Tue, 10 Nov 2026 06:11:12 +0900"
     }
   ]
 }
