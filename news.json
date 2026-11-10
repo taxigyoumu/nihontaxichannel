@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-10 18:27",
+  "updated_at": "2026-11-11 02:12",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "非核三原則“堅持”の地方議会意見書 高市内閣の発足後に急増",
+      "text": "台風32号 小笠原最接近 暴風高波に警戒を",
       "source": "NHK",
-      "time": "Tue, 10 Nov 2026 18:02:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73511/20261110de73511_E0000159405_1_l.jpg"
+      "time": "Tue, 10 Nov 2026 21:49:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73756/20261110de73756_E0000161895_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ソフトバンクグループ中間決算 7680億円の赤字 DC計画変更で",
+      "text": "小泉防衛相 来年の自民総裁選“高市首相が立候補なら支える”",
       "source": "NHK",
-      "time": "Tue, 10 Nov 2026 18:07:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73545/20261110de73545_E0000159281_1_l.jpg"
+      "time": "Tue, 10 Nov 2026 23:58:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73825/20261110de73825_E0000161977_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "スマホ遠隔操作し商品だまし取った疑い 中国籍の2人逮捕 福岡",
+      "source": "NHK",
+      "time": "Tue, 10 Nov 2026 20:44:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73782/20261110de73782_E0000161237_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "7月の熊本地震 災害関連死5人認定 直接死など含め死者は43人に",
+      "source": "NHK",
+      "time": "Tue, 10 Nov 2026 21:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73781/20261110de73781_E0000161621_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "子どものSNS利用 発達段階に応じた考え方提示 こども家庭庁",
+      "source": "NHK",
+      "time": "Tue, 10 Nov 2026 19:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73287/20261110de73287_E0000160176_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "巨人 ドラフト1位指名であいさつ 織田翔希投手は同席せず",
       "source": "NHK",
-      "time": "Tue, 10 Nov 2026 17:46:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73588/20261110de73588_E0000159386_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ダルメシアンにかまれ女性が大けが 飼い主を逮捕 千葉",
-      "source": "NHK",
-      "time": "Tue, 10 Nov 2026 18:08:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73681/20261110de73681_E0000159400_1_l.jpg"
+      "time": "Tue, 10 Nov 2026 17:46:57 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "JR東「ウォークスルー改札」山手線全駅など再来年春に導入へ",
       "source": "NHK",
-      "time": "Tue, 10 Nov 2026 16:19:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73528/20261110de73528_E0000159231_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "エディオン 不正プログラムでクレカ情報500件余漏えいのおそれ",
-      "source": "NHK",
-      "time": "Tue, 10 Nov 2026 16:45:06 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "火星衛星探査機「MMX」 地球から600万キロの宇宙を順調に飛行",
-      "source": "NHK",
-      "time": "Tue, 10 Nov 2026 18:10:26 +0900"
+      "time": "Tue, 10 Nov 2026 16:19:00 +0900"
     }
   ]
 }
