@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-11-11 11:06",
-  "has_alert": false,
+  "updated_at": "2026-11-11 18:41",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "岐阜市のアパートで火事 1歳児含む12人搬送",
-      "source": "NHK",
-      "time": "Wed, 11 Nov 2026 10:20:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73892/20261111de73892_E0000162454_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-11T09:13:20Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-11T09:13:20Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県乾燥注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-11T09:13:06Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
+      "text": "自民 森山前幹事長 石破氏ら4人“国民の気持ち反映した行動”",
       "source": "NHK",
-      "time": "Wed, 11 Nov 2026 10:31:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73895/20261111de73895_E0000162456_1_l.jpg"
+      "time": "Wed, 11 Nov 2026 17:47:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74306/20261111de74306_E0000163680_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "各地で厳しい冷え込み 台風32号は小笠原離れるも高波警戒",
+      "text": "アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認",
       "source": "NHK",
-      "time": "Wed, 11 Nov 2026 06:05:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73870/20261111de73870_E0000162096_1_l.jpg"
+      "time": "Wed, 11 Nov 2026 18:30:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73933/20261111de73933_E0000162834_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "文化庁の新たな顕彰制度「食の至宝」 8人が受賞",
+      "text": "ビックカメラ 法人顧客の企業情報13万件余が流出 不正アクセス",
       "source": "NHK",
-      "time": "Wed, 11 Nov 2026 07:57:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73866/20261111de73866_E0000162248_1_l.jpg"
+      "time": "Wed, 11 Nov 2026 17:35:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74257/20261111de74257_E0000163655_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“年内入試”での生成AI活用めぐり大学の対応分かれる",
+      "text": "徳島 救急車と軽乗用車衝突 自宅で意識失い搬送中の女性死亡",
       "source": "NHK",
-      "time": "Wed, 11 Nov 2026 08:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73858/20261111de73858_E0000162182_1_l.jpg"
+      "time": "Wed, 11 Nov 2026 17:28:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74226/20261111de74226_E0000163657_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "逮捕の阿波市長ら 修理費用を機器の調達名目で請求か 徳島",
+      "text": "日本医師会長“70歳以上の窓口負担 原則3割引き上げに反対”",
       "source": "NHK",
-      "time": "Wed, 11 Nov 2026 06:35:04 +0900"
+      "time": "Wed, 11 Nov 2026 18:14:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de74347/20261111de74347_E0000163704_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 参院できょう審議入り 与党少数の中で論戦へ",
+      "text": "2026年度の国家公務員の給与引き上げ 改正給与法が成立",
       "source": "NHK",
-      "time": "Wed, 11 Nov 2026 04:52:00 +0900"
+      "time": "Wed, 11 Nov 2026 15:58:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "「ゴールデン・グラブ賞」 阪神から両リーグ最多の5人選出",
+      "source": "NHK",
+      "time": "Wed, 11 Nov 2026 18:11:58 +0900"
     }
   ]
 }
