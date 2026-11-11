@@ -1,22 +1,22 @@
 {
-  "updated_at": "2026-11-11 07:27",
+  "updated_at": "2026-11-11 11:06",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "エルニーニョ現象 過去最大の強さに どんな影響が",
+      "text": "岐阜市のアパートで火事 1歳児含む12人搬送",
       "source": "NHK",
-      "time": "Tue, 10 Nov 2026 19:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261110de73297/20261110de73297_E0000161200_1_l.jpg"
+      "time": "Wed, 11 Nov 2026 10:20:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73892/20261111de73892_E0000162454_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 参院できょう審議入り 与党少数の中で論戦へ",
+      "text": "「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで",
       "source": "NHK",
-      "time": "Wed, 11 Nov 2026 04:52:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73840/20261111de73840_E0000161991_1_l.jpg"
+      "time": "Wed, 11 Nov 2026 10:31:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73895/20261111de73895_E0000162456_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 ロシア ウクライナ高官協議 ゼレンスキー大統領「建設的」",
+      "text": "文化庁の新たな顕彰制度「食の至宝」 8人が受賞",
       "source": "NHK",
-      "time": "Wed, 11 Nov 2026 04:55:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73861/20261111de73861_E0000161024_1_l.jpg"
+      "time": "Wed, 11 Nov 2026 07:57:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73866/20261111de73866_E0000162248_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“年内入試”での生成AI活用めぐり大学の対応分かれる",
+      "source": "NHK",
+      "time": "Wed, 11 Nov 2026 08:18:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73858/20261111de73858_E0000162182_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "逮捕の阿波市長ら 修理費用を機器の調達名目で請求か 徳島",
       "source": "NHK",
-      "time": "Wed, 11 Nov 2026 06:35:04 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261111de73872/20261111de73872_E0000162025_1_l.jpg"
+      "time": "Wed, 11 Nov 2026 06:35:04 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR東「ウォークスルー改札」山手線全駅など再来年春に導入へ",
+      "text": "消費税減税法案 参院できょう審議入り 与党少数の中で論戦へ",
       "source": "NHK",
-      "time": "Tue, 10 Nov 2026 16:19:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "タマホーム社員 火災保険不正請求の疑い 損保各社調査求める",
-      "source": "NHK",
-      "time": "Wed, 11 Nov 2026 04:56:00 +0900"
+      "time": "Wed, 11 Nov 2026 04:52:00 +0900"
     }
   ]
 }
