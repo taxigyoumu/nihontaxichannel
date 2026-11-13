@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-13 11:45",
+  "updated_at": "2026-11-13 19:29",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】マイクロソフトで接続障害 世界各地で影響も",
+      "text": "【更新中】マイクロソフトで接続障害 世界各地で影響広がる",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 11:32:24 +0900",
+      "time": "Fri, 13 Nov 2026 19:09:01 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシアによる北海道新聞記者拘束1か月 即時解放求め続ける",
+      "text": "2人死亡ひき逃げ 逃走したとみられるトラック 相模原で発見",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 11:24:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75109/20261113de75109_E0000170393_1_l.jpg"
+      "time": "Fri, 13 Nov 2026 19:19:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75522/20261113de75522_E0000171997_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "独防衛企業にサイバー攻撃　独軍が無人機を運用停止と報道",
+      "text": "エヌビディア フアン氏 CEOを辞任 日本での受け止めは",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 11:07:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75142/20261113de75142_E0000170736_1_l.jpg"
+      "time": "Fri, 13 Nov 2026 18:53:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75212/20261113de75212_E0000170852_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
+      "text": "消費税減税法案 支援金“勤労者5割以上対象で検討” 高市首相",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 11:16:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75168/20261113de75168_E0000170769_1_l.jpg"
+      "time": "Fri, 13 Nov 2026 16:00:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75159/20261113de75159_E0000171607_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ゼレンスキー大統領 米特使らと会談「次回以降は欧州も参加」",
+      "text": "北朝鮮ハッカーが“顔泥棒” 暗号資産盗む 米FBI",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 11:19:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75174/20261113de75174_E0000170773_1_l.jpg"
+      "time": "Fri, 13 Nov 2026 15:24:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75357/20261113de75357_E0000171867_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "エヌビディア フアンCEOが辞任 業界全体に影響も",
+      "text": "大阪市 100万件超の市民らのメールアドレス漏えい",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 07:47:30 +0900"
+      "time": "Fri, 13 Nov 2026 16:01:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山崎正昭元参議院議長が死去 84歳",
+      "text": "紅白歌合戦ことしの出場歌手発表 初出場は7組【出場歌手一覧】",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 10:42:00 +0900"
+      "time": "Fri, 13 Nov 2026 18:41:42 +0900"
     }
   ]
 }
