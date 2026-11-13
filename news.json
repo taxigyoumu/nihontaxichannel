@@ -1,60 +1,95 @@
 {
-  "updated_at": "2026-11-14 02:58",
-  "has_alert": false,
+  "updated_at": "2026-11-14 08:26",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "マイクロソフトの接続障害「日本は比較的安定した状態続く」",
-      "source": "NHK",
-      "time": "Fri, 13 Nov 2026 22:46:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_l.jpg"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-13T21:17:14Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-13T21:17:14Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-13T21:15:57Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-13T21:15:57Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県濃霧注意報】飛騨地方では、濃霧による視程障害に注意してください。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-13T21:15:54Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "2人死亡ひき逃げ 逃走したとみられるトラック 相模原で発見",
+      "text": "【速報中】アメリカ全土の空港で航空機運航停止「通信の問題」",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 23:37:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75522/20261113de75522_E0000171997_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 08:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75764/20261114de75764_E0000174957_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費税減税法案 支援金“勤労者5割以上対象で検討”高市首相",
+      "text": "大阪 枚方 女児死亡事件 踏み台の練習中に父親が立腹し暴行か",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 19:36:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75159/20261113de75159_E0000171607_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 04:52:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75748/20261114de75748_E0000174789_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大手損保2社 タマホーム通じた火災保険販売停止へ",
+      "text": "神奈川 海老名 2人死亡 ひき逃げ疑いで運転手逮捕 容疑否認",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 20:11:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75561/20261113de75561_E0000172019_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 06:08:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75759/20261114de75759_E0000174799_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "巨人 ファンクラブ会員のメールアドレス80万件あまり流出",
+      "text": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 22:14:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75711/20261113de75711_E0000174687_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 05:48:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000174793_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イラン バーレーンの米軍通信設備を攻撃と発表",
+      "text": "高市首相“支援金対象5割以上” 野党“さらなる具体像を”",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 00:35:00 +0900"
+      "time": "Sat, 14 Nov 2026 05:32:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75743/20261114de75743_E0000174786_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪 枚方 3歳女児死亡で両親逮捕 虐待か",
+      "text": "米 ミシシッピ川でクルーズ船にタンカー衝突 救助活動続く",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 21:23:26 +0900"
+      "time": "Sat, 14 Nov 2026 07:31:24 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "エヌビディア先端半導体輸出 ラトニック商務長官の責任論浮上",
+      "source": "NHK",
+      "time": "Sat, 14 Nov 2026 06:20:07 +0900"
     }
   ]
 }
