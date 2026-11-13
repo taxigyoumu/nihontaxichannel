@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-13 07:01",
+  "updated_at": "2026-11-13 11:45",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "エヌビディア フアンCEOが辞任 業界全体に影響も",
+      "text": "【速報中】マイクロソフトで接続障害 世界各地で影響も",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 06:38:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261112de75078/20261112de75078_E0000170371_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "マイクロソフトのサービスで世界的な接続障害が発生",
-      "source": "NHK",
-      "time": "Fri, 13 Nov 2026 05:42:00 +0900",
+      "time": "Fri, 13 Nov 2026 11:32:24 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "山形 寒河江 住宅火災で1人の遺体 住人3人と連絡つかず",
-      "source": "NHK",
-      "time": "Fri, 13 Nov 2026 06:42:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75126/20261113de75126_E0000170439_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "プーチン大統領 米特使らと会談で局地停戦提案 ウクライナ警戒",
-      "source": "NHK",
-      "time": "Fri, 13 Nov 2026 06:51:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75124/20261113de75124_E0000170437_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税法案 参院特別委で質疑へ 効果や支援金めぐり論戦",
-      "source": "NHK",
-      "time": "Fri, 13 Nov 2026 04:55:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75105/20261113de75105_E0000170384_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "ロシアによる北海道新聞記者拘束1か月 即時解放求め続ける",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 05:22:55 +0900"
+      "time": "Fri, 13 Nov 2026 11:24:11 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75109/20261113de75109_E0000170393_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広島 3人死亡火災 同居の32歳長男が火つけたか 放火容疑で逮捕",
+      "text": "独防衛企業にサイバー攻撃　独軍が無人機を運用停止と報道",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 05:51:00 +0900"
+      "time": "Fri, 13 Nov 2026 11:07:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75142/20261113de75142_E0000170736_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "独メルセデス ドイツ国内の工場閉鎖を検討 コスト削減が急務",
+      "source": "NHK",
+      "time": "Fri, 13 Nov 2026 11:16:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75168/20261113de75168_E0000170769_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ゼレンスキー大統領 米特使らと会談「次回以降は欧州も参加」",
+      "source": "NHK",
+      "time": "Fri, 13 Nov 2026 11:19:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75174/20261113de75174_E0000170773_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "エヌビディア フアンCEOが辞任 業界全体に影響も",
+      "source": "NHK",
+      "time": "Fri, 13 Nov 2026 07:47:30 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "山崎正昭元参議院議長が死去 84歳",
+      "source": "NHK",
+      "time": "Fri, 13 Nov 2026 10:42:00 +0900"
     }
   ]
 }
