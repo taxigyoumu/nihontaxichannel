@@ -1,13 +1,13 @@
 {
-  "updated_at": "2026-11-13 19:29",
+  "updated_at": "2026-11-14 02:58",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【更新中】マイクロソフトで接続障害 世界各地で影響広がる",
+      "text": "マイクロソフトの接続障害「日本は比較的安定した状態続く」",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 19:09:01 +0900",
+      "time": "Fri, 13 Nov 2026 22:46:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75121/20261113de75121_E0000170396_1_l.jpg"
     },
     {
@@ -15,46 +15,46 @@
       "label": "ニュース",
       "text": "2人死亡ひき逃げ 逃走したとみられるトラック 相模原で発見",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 19:19:40 +0900",
+      "time": "Fri, 13 Nov 2026 23:37:02 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75522/20261113de75522_E0000171997_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "エヌビディア フアン氏 CEOを辞任 日本での受け止めは",
+      "text": "消費税減税法案 支援金“勤労者5割以上対象で検討”高市首相",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 18:53:38 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75212/20261113de75212_E0000170852_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "消費税減税法案 支援金“勤労者5割以上対象で検討” 高市首相",
-      "source": "NHK",
-      "time": "Fri, 13 Nov 2026 16:00:22 +0900",
+      "time": "Fri, 13 Nov 2026 19:36:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75159/20261113de75159_E0000171607_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北朝鮮ハッカーが“顔泥棒” 暗号資産盗む 米FBI",
+      "text": "大手損保2社 タマホーム通じた火災保険販売停止へ",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 15:24:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75357/20261113de75357_E0000171867_1_l.jpg"
+      "time": "Fri, 13 Nov 2026 20:11:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75561/20261113de75561_E0000172019_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪市 100万件超の市民らのメールアドレス漏えい",
+      "text": "巨人 ファンクラブ会員のメールアドレス80万件あまり流出",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 16:01:00 +0900"
+      "time": "Fri, 13 Nov 2026 22:14:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261113de75711/20261113de75711_E0000174687_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "紅白歌合戦ことしの出場歌手発表 初出場は7組【出場歌手一覧】",
+      "text": "イラン バーレーンの米軍通信設備を攻撃と発表",
       "source": "NHK",
-      "time": "Fri, 13 Nov 2026 18:41:42 +0900"
+      "time": "Sat, 14 Nov 2026 00:35:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大阪 枚方 3歳女児死亡で両親逮捕 虐待か",
+      "source": "NHK",
+      "time": "Fri, 13 Nov 2026 21:23:26 +0900"
     }
   ]
 }
