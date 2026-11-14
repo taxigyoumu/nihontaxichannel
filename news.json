@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-11-14 12:26",
-  "has_alert": true,
+  "updated_at": "2026-11-14 19:47",
+  "has_alert": false,
   "items": [
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１４日１１時１６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-14T02:19:28Z"
-    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アメリカ航空当局 全米の運航停止措置解除 8000便超欠航",
+      "text": "全米の空港で運航停止措置 欠航1万便超 解除後も混乱続く",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 12:02:00 +0900",
+      "time": "Sat, 14 Nov 2026 18:26:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75764/20261114de75764_E0000175023_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
+      "text": "大阪 枚方女児死亡 体に古いもの含め数10か所のあざ",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 12:22:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75768/20261114de75768_E0000175020_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大阪 枚方 女児死亡 父親「しつけで殴ることも」逮捕前説明",
-      "source": "NHK",
-      "time": "Sat, 14 Nov 2026 11:51:00 +0900",
+      "time": "Sat, 14 Nov 2026 17:44:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75748/20261114de75748_E0000174789_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "マイクロソフトの障害 広範囲にわたり復旧 「深くおわび」",
+      "text": "JR北海道 新観光列車「赤い星」公開 ターゲットは富裕層",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 12:18:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000174793_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 17:51:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75833/20261114de75833_E0000175437_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "小栗虫太郎の未発表原稿や創作メモが見つかる",
+      "text": "米中ロ3か国首脳会談 19日に初めての開催へ",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 11:06:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75792/20261114de75792_E0000175025_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 17:26:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75768/20261114de75768_E0000175020_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ミシシッピ川でクルーズ船にタンカー衝突 全員が救助",
+      "text": "横田めぐみさん拉致からあすで49年 新潟集会で家族が訴え",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 10:12:48 +0900"
+      "time": "Sat, 14 Nov 2026 18:44:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75866/20261114de75866_E0000175031_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "エヌビディア先端半導体輸出 ラトニック商務長官の責任論浮上",
+      "text": "マイクロソフトの接続障害 全面復旧と発表",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 06:20:07 +0900"
+      "time": "Sat, 14 Nov 2026 16:04:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大相撲九州場所7日目 横綱 豊昇龍が小結 義ノ富士を退け連勝",
+      "source": "NHK",
+      "time": "Sat, 14 Nov 2026 19:17:00 +0900"
     }
   ]
 }
