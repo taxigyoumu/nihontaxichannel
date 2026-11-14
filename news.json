@@ -1,60 +1,81 @@
 {
-  "updated_at": "2026-11-14 19:47",
-  "has_alert": false,
+  "updated_at": "2026-11-15 01:50",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１５日００時０５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-14T15:08:35Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう１５日００時０５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-14T15:07:41Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１５日００時０５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-11-14T15:06:34Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "全米の空港で運航停止措置 欠航1万便超 解除後も混乱続く",
+      "text": "高市首相 東南アジアなどと「アジア版IEA」創設を提唱で調整",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 18:26:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75764/20261114de75764_E0000175023_1_l.jpg"
+      "time": "Sun, 15 Nov 2026 00:46:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de76011/20261114de76011_E0000176281_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 00:04:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75990/20261114de75990_E0000176227_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【配信中】ラグビー日本代表×イングランド“仮想W杯”勝利は",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 01:46:46 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75976/20261114de75976_E0000176166_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【地震情報】熊本県で震度3 津波の心配なし（00:05）",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 01:02:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76024/20261115de76024_E0000176284_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "杉原千畝「命のビザ」パスポートの複製 生存のユダヤ人に寄贈",
+      "source": "NHK",
+      "time": "Sat, 14 Nov 2026 22:08:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75993/20261114de75993_E0000176247_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "大阪 枚方女児死亡 体に古いもの含め数10か所のあざ",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 17:44:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75748/20261114de75748_E0000174789_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 17:44:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JR北海道 新観光列車「赤い星」公開 ターゲットは富裕層",
+      "text": "全米の空港で運航停止措置 欠航1万便超 解除後も混乱続く",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 17:51:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75833/20261114de75833_E0000175437_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "米中ロ3か国首脳会談 19日に初めての開催へ",
-      "source": "NHK",
-      "time": "Sat, 14 Nov 2026 17:26:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75768/20261114de75768_E0000175020_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "横田めぐみさん拉致からあすで49年 新潟集会で家族が訴え",
-      "source": "NHK",
-      "time": "Sat, 14 Nov 2026 18:44:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75866/20261114de75866_E0000175031_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "マイクロソフトの接続障害 全面復旧と発表",
-      "source": "NHK",
-      "time": "Sat, 14 Nov 2026 16:04:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大相撲九州場所7日目 横綱 豊昇龍が小結 義ノ富士を退け連勝",
-      "source": "NHK",
-      "time": "Sat, 14 Nov 2026 19:17:00 +0900"
+      "time": "Sat, 14 Nov 2026 18:26:00 +0900"
     }
   ]
 }
