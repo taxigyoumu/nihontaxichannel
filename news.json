@@ -1,88 +1,60 @@
 {
-  "updated_at": "2026-11-14 08:26",
+  "updated_at": "2026-11-14 12:26",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-13T21:17:14Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-13T21:17:14Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-13T21:15:57Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】飛騨地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-13T21:15:57Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県濃霧注意報】飛騨地方では、濃霧による視程障害に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-13T21:15:54Z"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１４日１１時１６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-14T02:19:28Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報中】アメリカ全土の空港で航空機運航停止「通信の問題」",
+      "text": "アメリカ航空当局 全米の運航停止措置解除 8000便超欠航",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 08:09:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75764/20261114de75764_E0000174957_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 12:02:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75764/20261114de75764_E0000175023_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪 枚方 女児死亡事件 踏み台の練習中に父親が立腹し暴行か",
+      "text": "米中ロ3か国首脳会談19日開催 3者会談は初 ホワイトハウス発表",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 04:52:00 +0900",
+      "time": "Sat, 14 Nov 2026 12:22:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75768/20261114de75768_E0000175020_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "大阪 枚方 女児死亡 父親「しつけで殴ることも」逮捕前説明",
+      "source": "NHK",
+      "time": "Sat, 14 Nov 2026 11:51:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75748/20261114de75748_E0000174789_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神奈川 海老名 2人死亡 ひき逃げ疑いで運転手逮捕 容疑否認",
+      "text": "マイクロソフトの障害 広範囲にわたり復旧 「深くおわび」",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 06:08:31 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75759/20261114de75759_E0000174799_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "マイクロソフト 接続障害「広範囲にわたる復旧がみられる」",
-      "source": "NHK",
-      "time": "Sat, 14 Nov 2026 05:48:54 +0900",
+      "time": "Sat, 14 Nov 2026 12:18:43 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75755/20261114de75755_E0000174793_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相“支援金対象5割以上” 野党“さらなる具体像を”",
+      "text": "小栗虫太郎の未発表原稿や創作メモが見つかる",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 05:32:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75743/20261114de75743_E0000174786_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 11:06:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75792/20261114de75792_E0000175025_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 ミシシッピ川でクルーズ船にタンカー衝突 救助活動続く",
+      "text": "ミシシッピ川でクルーズ船にタンカー衝突 全員が救助",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 07:31:24 +0900"
+      "time": "Sat, 14 Nov 2026 10:12:48 +0900"
     },
     {
       "category": "news",
