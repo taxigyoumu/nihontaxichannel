@@ -1,27 +1,38 @@
 {
-  "updated_at": "2026-11-15 01:50",
-  "has_alert": true,
+  "updated_at": "2026-11-15 06:04",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１５日００時０５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-14T15:08:35Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "ASEAN首脳会議開幕へ トランプ大統領のアジアへの姿勢にも注目",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 05:12:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75995/20261114de75995_E0000176242_1_l.jpg"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう１５日００時０５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-14T15:07:41Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "米中 関税引き下げのための「貿易委員会」初会合開く",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 05:45:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75960/20261114de75960_E0000175834_1_l.jpg"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】１５日００時０５分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-11-14T15:06:34Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす 通算2勝目",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 00:04:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75990/20261114de75990_E0000176308_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ラグビー日本代表 イングランドに13トライ奪われ大敗【詳報】",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 05:29:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75976/20261114de75976_E0000176295_1_l.jpg"
     },
     {
       "category": "news",
@@ -34,48 +45,16 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす",
-      "source": "NHK",
-      "time": "Sun, 15 Nov 2026 00:04:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75990/20261114de75990_E0000176227_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【配信中】ラグビー日本代表×イングランド“仮想W杯”勝利は",
-      "source": "NHK",
-      "time": "Sun, 15 Nov 2026 01:46:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75976/20261114de75976_E0000176166_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【地震情報】熊本県で震度3 津波の心配なし（00:05）",
-      "source": "NHK",
-      "time": "Sun, 15 Nov 2026 01:02:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76024/20261115de76024_E0000176284_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "杉原千畝「命のビザ」パスポートの複製 生存のユダヤ人に寄贈",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 22:08:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75993/20261114de75993_E0000176247_1_l.jpg"
+      "time": "Sat, 14 Nov 2026 22:08:50 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪 枚方女児死亡 体に古いもの含め数10か所のあざ",
+      "text": "自民 松山参院会長 消費税減税法案“国民・公明 方向性同じ”",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 17:44:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "全米の空港で運航停止措置 欠航1万便超 解除後も混乱続く",
-      "source": "NHK",
-      "time": "Sat, 14 Nov 2026 18:26:00 +0900"
+      "time": "Sat, 14 Nov 2026 23:07:00 +0900"
     }
   ]
 }
