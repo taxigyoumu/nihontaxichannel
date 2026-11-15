@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-15 06:04",
+  "updated_at": "2026-11-15 10:10",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ASEAN首脳会議開幕へ トランプ大統領のアジアへの姿勢にも注目",
+      "text": "アメリカ 航空機運航停止の影響で14日も混乱続く",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 05:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75995/20261114de75995_E0000176242_1_l.jpg"
+      "time": "Sun, 15 Nov 2026 06:31:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76032/20261115de76032_E0000176300_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米中 関税引き下げのための「貿易委員会」初会合開く",
+      "text": "インフルエンサー「あっすん」 風営法違反疑いで逮捕",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 05:45:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75960/20261114de75960_E0000175834_1_l.jpg"
+      "time": "Sun, 15 Nov 2026 08:25:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76043/20261115de76043_E0000176428_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー日本代表 ブラジルに勝利 W杯の雪辱果たす 通算2勝目",
+      "text": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 00:04:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75990/20261114de75990_E0000176308_1_l.jpg"
+      "time": "Sun, 15 Nov 2026 09:01:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76042/20261115de76042_E0000176374_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ラグビー日本代表 イングランドに13トライ奪われ大敗【詳報】",
+      "text": "横田めぐみさん拉致から49年　早紀江さん「会いたい」",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 05:29:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75976/20261114de75976_E0000176295_1_l.jpg"
+      "time": "Sun, 15 Nov 2026 07:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de75986/20261114de75986_E0000176220_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 東南アジアなどと「アジア版IEA」創設を提唱で調整",
+      "text": "枚方女児死亡 「以前から夫が娘殴るの見た」逮捕前に母親説明",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 00:46:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de76011/20261114de76011_E0000176281_1_l.jpg"
+      "time": "Sun, 15 Nov 2026 06:03:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261114de76000/20261114de76000_E0000176270_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "杉原千畝「命のビザ」パスポートの複製 生存のユダヤ人に寄贈",
+      "text": "若手登竜門の国際コンクール バイオリンで小西真璃花さん4位",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 22:08:50 +0900"
+      "time": "Sun, 15 Nov 2026 08:53:25 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "自民 松山参院会長 消費税減税法案“国民・公明 方向性同じ”",
+      "text": "スペースXの大型宇宙船 地球周回後の発射台キャッチに初成功",
       "source": "NHK",
-      "time": "Sat, 14 Nov 2026 23:07:00 +0900"
+      "time": "Sun, 15 Nov 2026 09:46:00 +0900"
     }
   ]
 }
