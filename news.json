@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-16 00:45",
+  "updated_at": "2026-11-16 05:47",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡市長選挙 再選挙の見通し 全候補者 法定得票数に届かず",
+      "text": "福岡市長選挙 再選挙へ 候補者13人 法定得票数に届かず",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 00:27:22 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76099/20261115de76099_E0000163666_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 02:17:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76099/20261115de76099_E0000177756_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡市長選挙 出口調査の結果は",
+      "text": "松山市長選挙 新人の中野泰誠氏が初当選",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 20:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76105/20261115de76105_E0000177363_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "松山市長選挙 新人の中野泰誠氏が初めての当選確実",
-      "source": "NHK",
-      "time": "Mon, 16 Nov 2026 00:29:00 +0900",
+      "time": "Mon, 16 Nov 2026 02:16:03 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76096/20261115de76096_E0000177754_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "松山市長選挙 出口調査の結果は",
+      "text": "野球日本代表 韓国に5対1で勝利し大会3連覇",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 20:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76103/20261115de76103_E0000177431_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 01:37:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76311/20261115de76311_E0000177735_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "愛媛県知事選挙 現職の中村時広氏が5回目の当選【速報】",
+      "text": "大阪 枚方 3歳女児死亡 父親が約1時間断続的に暴行か",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 22:56:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76094/20261115de76094_E0000177675_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 05:26:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76282/20261115de76282_E0000177679_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【速報】愛媛県知事選挙 出口調査の結果は",
+      "text": "高市首相 東南アジアなどと先端技術分野で共同研究提案へ",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 21:05:00 +0900"
+      "time": "Mon, 16 Nov 2026 05:21:35 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76245/20261115de76245_E0000177580_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "フィギュアGPアメリカ 中井亜美が今季世界最高得点で首位発進",
+      "text": "消費税減税法案 参院で審議続く 国民 公明の協力が焦点に",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 15:12:00 +0900"
+      "time": "Mon, 16 Nov 2026 05:38:51 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛媛県知事選挙 現職の中村時広氏が5回目の当選",
+      "source": "NHK",
+      "time": "Mon, 16 Nov 2026 02:13:54 +0900"
     }
   ]
 }
