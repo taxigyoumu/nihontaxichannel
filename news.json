@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-15 17:08",
+  "updated_at": "2026-11-16 00:45",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
+      "text": "福岡市長選挙 再選挙の見通し 全候補者 法定得票数に届かず",
+      "source": "NHK",
+      "time": "Mon, 16 Nov 2026 00:27:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76099/20261115de76099_E0000163666_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "福岡市長選挙 出口調査の結果は",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 20:21:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76105/20261115de76105_E0000177363_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "松山市長選挙 新人の中野泰誠氏が初めての当選確実",
+      "source": "NHK",
+      "time": "Mon, 16 Nov 2026 00:29:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76096/20261115de76096_E0000177754_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "松山市長選挙 出口調査の結果は",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 20:48:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76103/20261115de76103_E0000177431_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "愛媛県知事選挙 現職の中村時広氏が5回目の当選【速報】",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 22:56:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76094/20261115de76094_E0000177675_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "【速報】愛媛県知事選挙 出口調査の結果は",
+      "source": "NHK",
+      "time": "Sun, 15 Nov 2026 21:05:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
       "text": "フィギュアGPアメリカ 中井亜美が今季世界最高得点で首位発進",
       "source": "NHK",
-      "time": "Sun, 15 Nov 2026 15:12:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76124/20261115de76124_E0000176805_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ハンズ渋谷店きょう営業終了 別れ惜しむ人でにぎわう",
-      "source": "NHK",
-      "time": "Sun, 15 Nov 2026 17:02:34 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76062/20261115de76062_E0000176779_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”",
-      "source": "NHK",
-      "time": "Sun, 15 Nov 2026 09:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76042/20261115de76042_E0000176374_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "大阪 枚方女児死亡 “虐待”情報も市がことしは母親と面会せず",
-      "source": "NHK",
-      "time": "Sun, 15 Nov 2026 11:53:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76074/20261115de76074_E0000176495_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "インフルエンサー「あっすん」 風営法違反疑いで逮捕",
-      "source": "NHK",
-      "time": "Sun, 15 Nov 2026 08:25:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76043/20261115de76043_E0000176428_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "スペースXの大型宇宙船 地球周回後の発射台キャッチに初成功",
-      "source": "NHK",
-      "time": "Sun, 15 Nov 2026 16:48:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "女子ゴルフ国内ツアー 桑木志帆が初の年間女王",
-      "source": "NHK",
-      "time": "Sun, 15 Nov 2026 15:35:00 +0900"
+      "time": "Sun, 15 Nov 2026 15:12:00 +0900"
     }
   ]
 }
