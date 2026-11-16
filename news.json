@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-16 09:43",
+  "updated_at": "2026-11-16 16:37",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "7-9月のGDP 年率-0.1％ 4期ぶりのマイナス",
+      "text": "NTTドコモ 一部利用者で通信障害 今月3度目 原因調査を急ぐ",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 08:56:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76344/20261116de76344_E0000004045_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 12:44:13 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76369/20261116de76369_E0000178164_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡市長選挙 再選挙へ 候補者13人 法定得票数に届かず",
+      "text": "香港のディズニーで不正アクセス 電子チケット盗み取られたか",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 06:29:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76099/20261115de76099_E0000178107_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 14:54:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76430/20261116de76430_E0000178878_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "松山市長選挙 新人の中野泰誠氏が初当選",
+      "text": "東京大学総長選考 教職員有志「説明は一定程度進んだ」",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 06:40:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76096/20261115de76096_E0000177754_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 16:28:43 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76596/20261116de76596_E0000179126_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "野球日本代表 韓国に5対1で勝利し大会3連覇",
+      "text": "3文書改定“財源必要あれば税調で議論” 自民 小野寺税調会長",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 01:37:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76311/20261115de76311_E0000177735_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 15:41:23 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76562/20261116de76562_E0000179002_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験",
+      "text": "定数削減法案 今国会成立へ早期の衆院通過目指す 自民維新幹部",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 05:40:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261115de76292/20261115de76292_E0000177695_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 16:26:20 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76590/20261116de76590_E0000179144_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大阪 枚方 3歳女児死亡 父親が約1時間断続的に暴行か",
+      "text": "アメリカ・中国・ロシアの3か国首脳会談 中国も正式に発表",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 05:26:00 +0900"
+      "time": "Mon, 16 Nov 2026 12:38:34 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 東南アジアなどと先端技術分野で共同研究提案へ",
+      "text": "高市首相 フィリピン到着 石油備蓄などで新たな枠組み提唱へ",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 05:21:00 +0900"
+      "time": "Mon, 16 Nov 2026 16:33:00 +0900"
     }
   ]
 }
