@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-16 16:37",
+  "updated_at": "2026-11-17 02:53",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "NTTドコモ 一部利用者で通信障害 今月3度目 原因調査を急ぐ",
+      "text": "東京 中野 路上で女性刺され死亡 強盗殺人未遂容疑で男を逮捕",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 12:44:13 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76369/20261116de76369_E0000178164_1_l.jpg"
+      "time": "Tue, 17 Nov 2026 00:30:32 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76817/20261116de76817_E0000181540_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "香港のディズニーで不正アクセス 電子チケット盗み取られたか",
+      "text": "トランプ大統領「キム・ジョンウン総書記とも会う可能性」",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 14:54:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76430/20261116de76430_E0000178878_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 23:52:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76866/20261116de76866_E0000182014_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京大学総長選考 教職員有志「説明は一定程度進んだ」",
+      "text": "理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 16:28:43 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76596/20261116de76596_E0000179126_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 17:17:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76603/20261116de76603_E0000179153_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "3文書改定“財源必要あれば税調で議論” 自民 小野寺税調会長",
+      "text": "四国電力 ウェブ委託会社に不正アクセス 約60万件の情報流出",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 15:41:23 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76562/20261116de76562_E0000179002_1_l.jpg"
+      "time": "Mon, 16 Nov 2026 20:49:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/r/kiji/20261116de76812/20261116de76812_E0000181240_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "定数削減法案 今国会成立へ早期の衆院通過目指す 自民維新幹部",
+      "text": "広島カープ“契約更新せず”通告された3選手 説明求め申し入れ",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 16:26:20 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76590/20261116de76590_E0000179144_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アメリカ・中国・ロシアの3か国首脳会談 中国も正式に発表",
-      "source": "NHK",
-      "time": "Mon, 16 Nov 2026 12:38:34 +0900"
+      "time": "Mon, 16 Nov 2026 21:00:19 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261116de76820/20261116de76820_E0000181608_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "高市首相 フィリピン到着 石油備蓄などで新たな枠組み提唱へ",
       "source": "NHK",
-      "time": "Mon, 16 Nov 2026 16:33:00 +0900"
+      "time": "Mon, 16 Nov 2026 22:10:04 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ニデック 半期報告書の提出期限延長を国に申請",
+      "source": "NHK",
+      "time": "Mon, 16 Nov 2026 21:04:06 +0900"
     }
   ]
 }
