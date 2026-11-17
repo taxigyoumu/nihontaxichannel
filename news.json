@@ -1,67 +1,88 @@
 {
-  "updated_at": "2026-11-17 19:07",
+  "updated_at": "2026-11-18 04:15",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１７日１７時００分ころ、地震がありました。",
+      "text": "【震源・震度情報】１８日０２時５４分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-17T08:03:08Z"
+      "time": "2026-11-17T17:58:11Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源に関する情報】きょう１８日０２時５４分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-17T17:57:10Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震度速報】１８日０２時５４分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "source": "気象庁",
+      "time": "2026-11-17T17:56:26Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１８日０２時３５分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-17T17:37:34Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領がマニラ到着 一連のアジア外交スタート",
+      "text": "クアッド首脳会合“経済的威圧に深刻な懸念”共同文書まとめる",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 19:04:39 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77165/20261117de77165_E0000185217_1_l.jpg"
+      "time": "Wed, 18 Nov 2026 01:36:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76934/20261117de76934_E0000186152_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 APECにあわせてプーチン大統領と接触する見通し",
+      "text": "日韓首脳会談 シャトル外交継続 イ大統領来年1月訪日の意向",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 17:33:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77251/20261117de77251_E0000183521_1_l.jpg"
+      "time": "Wed, 18 Nov 2026 00:32:42 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77438/20261117de77438_E0000186201_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍",
+      "text": "熊本県芦北町で震度3",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 18:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77026/20261117de77026_E0000183058_1_l.jpg"
+      "time": "Wed, 18 Nov 2026 03:04:16 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77474/20261118de77474_E0000186257_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺",
+      "text": "楽天証券 約447万口座で利用者の年収や保有商品情報漏えいか",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 18:37:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76912/20261117de76912_E0000182376_1_l.jpg"
+      "time": "Tue, 17 Nov 2026 20:34:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77397/20261117de77397_E0000185496_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中野 女性刺殺事件 「女性を殺して自分も死のうと思った」供述",
+      "text": "千葉県いすみ市に「レベル4土砂災害危険警報」",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 18:25:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77103/20261117de77103_E0000182399_1_l.jpg"
+      "time": "Wed, 18 Nov 2026 03:21:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77477/20261118de77477_E0000003985_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "政府広報に都市伝説系ユーチューバーを起用で物議",
+      "text": "サッカー日本代表　森保監督最後の試合を勝利で飾れず",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 17:52:00 +0900"
+      "time": "Wed, 18 Nov 2026 01:31:19 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "レッサーパンダ「風太」が最高齢でギネス世界記録認定",
+      "text": "愛子さま 公式訪問先のシンガポールに到着",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 17:58:54 +0900"
+      "time": "Tue, 17 Nov 2026 21:43:52 +0900"
     }
   ]
 }
