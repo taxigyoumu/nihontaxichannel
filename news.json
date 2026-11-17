@@ -1,67 +1,67 @@
 {
-  "updated_at": "2026-11-17 10:31",
+  "updated_at": "2026-11-17 19:07",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１７日０８時２７分ころ、地震がありました。",
+      "text": "【震源・震度情報】１７日１７時００分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-16T23:30:05Z"
+      "time": "2026-11-17T08:03:08Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア機か 一時領空侵犯 福岡 沖ノ島周辺",
+      "text": "トランプ大統領がマニラ到着 一連のアジア外交スタート",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 09:30:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76912/20261117de76912_E0000004049_1_l.jpg"
+      "time": "Tue, 17 Nov 2026 19:04:39 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77165/20261117de77165_E0000185217_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "東京 中野 女性刺殺事件 39歳容疑者を強盗殺人未遂疑いで逮捕",
+      "text": "高市首相 APECにあわせてプーチン大統領と接触する見通し",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 05:23:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76885/20261117de76885_E0000182073_1_l.jpg"
+      "time": "Tue, 17 Nov 2026 17:33:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77251/20261117de77251_E0000183521_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "クアッド首脳 中国動向念頭\"経済的威圧に深刻懸念表明\"で調整",
+      "text": "江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 05:35:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76878/20261117de76878_E0000182020_1_l.jpg"
+      "time": "Tue, 17 Nov 2026 18:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77026/20261117de77026_E0000183058_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "理研のスパコン「富岳」不正アクセス 研究データなど漏えいか",
+      "text": "ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 05:44:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76883/20261117de76883_E0000182023_1_l.jpg"
+      "time": "Tue, 17 Nov 2026 18:37:59 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76912/20261117de76912_E0000182376_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア報道官 日ロ首脳会談の可能性「排除せず」",
+      "text": "中野 女性刺殺事件 「女性を殺して自分も死のうと思った」供述",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 07:21:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76899/20261117de76899_E0000182149_1_l.jpg"
+      "time": "Tue, 17 Nov 2026 18:25:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77103/20261117de77103_E0000182399_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "強盗殺人未遂事件 容疑者に中学生も 愛知 小牧",
+      "text": "政府広報に都市伝説系ユーチューバーを起用で物議",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 09:48:00 +0900"
+      "time": "Tue, 17 Nov 2026 17:52:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "愛子さま きょうからシンガポールを公式訪問",
+      "text": "レッサーパンダ「風太」が最高齢でギネス世界記録認定",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 07:01:00 +0900"
+      "time": "Tue, 17 Nov 2026 17:58:54 +0900"
     }
   ]
 }
