@@ -1,74 +1,81 @@
 {
-  "updated_at": "2026-11-18 18:41",
+  "updated_at": "2026-11-19 03:37",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１８日１８時３７分ころ、地震がありました。",
+      "text": "【震源・震度情報】１９日０３時３４分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-18T09:40:58Z"
+      "time": "2026-11-18T18:36:20Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源に関する情報】きょう１８日１８時３７分ころ、地震がありました。",
+      "text": "【震源・震度情報】１９日０３時２８分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-18T09:40:14Z"
+      "time": "2026-11-18T18:30:29Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震度速報】１８日１８時３７分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
+      "text": "【震源・震度情報】１９日０３時２２分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-18T09:38:50Z"
+      "time": "2026-11-18T18:24:46Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１９日０３時２０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-18T18:23:15Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】１９日０３時１９分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-18T18:22:06Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "今夜 APEC首脳会議 習主席 トランプ大統領をみずから出迎え",
+      "text": "【地震速報】熊本県で震度5弱 津波の心配なし（2:22）",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 18:25:03 +0900",
+      "time": "Thu, 19 Nov 2026 03:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78097/20261119de78097_E0000190488_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "熊本県で震度5弱 揺れの映像",
+      "source": "NHK",
+      "time": "Thu, 19 Nov 2026 03:21:48 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78111/20261119de78111_E0000190496_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "APEC 高市首相 習近平国家主席と握手 プーチン氏と意見交わす",
+      "source": "NHK",
+      "time": "Thu, 19 Nov 2026 01:54:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77690/20261118de77690_E0000190352_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え",
+      "source": "NHK",
+      "time": "Wed, 18 Nov 2026 21:48:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77556/20261118de77556_E0000187974_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相APECで中国到着 習主席出迎えは プーチン氏と接触調整",
+      "text": "歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 18:18:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77690/20261118de77690_E0000187799_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ネットにつながらない携帯電話発売へ 脱ネット需要がねらい",
-      "source": "NHK",
-      "time": "Wed, 18 Nov 2026 17:04:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77672/20261118de77672_E0000187433_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "アントニオ猪木さんの孫が新日本プロレス入団 あの名ぜりふも",
-      "source": "NHK",
-      "time": "Wed, 18 Nov 2026 18:07:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77895/20261118de77895_E0000187874_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "Suicaペンギンは“ウサギ”に交代へ JR東日本",
-      "source": "NHK",
-      "time": "Wed, 18 Nov 2026 16:44:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77768/20261118de77768_E0000187872_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "愛知 強殺未遂事件 少年4人は前日に新幹線で仙台から移動か",
-      "source": "NHK",
-      "time": "Wed, 18 Nov 2026 18:21:03 +0900"
+      "time": "Thu, 19 Nov 2026 00:38:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77513/20261118de77513_E0000186666_1_l.jpg"
     },
     {
       "category": "news",
@@ -76,6 +83,13 @@
       "text": "三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出",
       "source": "NHK",
       "time": "Wed, 18 Nov 2026 18:26:03 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "サッカー日本代表 森保監督が最後の指揮終えて帰国",
+      "source": "NHK",
+      "time": "Wed, 18 Nov 2026 22:44:00 +0900"
     }
   ]
 }
