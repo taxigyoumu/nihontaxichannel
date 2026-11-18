@@ -1,88 +1,67 @@
 {
-  "updated_at": "2026-11-18 04:15",
+  "updated_at": "2026-11-18 10:45",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１８日０２時５４分ころ、地震がありました。",
+      "text": "【震源・震度情報】１８日０９時４１分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-17T17:58:11Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源に関する情報】きょう１８日０２時５４分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-17T17:57:10Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】１８日０２時５４分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-11-17T17:56:26Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１８日０２時３５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-17T17:37:34Z"
+      "time": "2026-11-18T00:44:57Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "クアッド首脳会合“経済的威圧に深刻な懸念”共同文書まとめる",
+      "text": "エヌビディア フアン氏復帰に意欲も取締役会は「意向ない」",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 01:36:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de76934/20261117de76934_E0000186152_1_l.jpg"
+      "time": "Wed, 18 Nov 2026 10:31:37 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77484/20261118de77484_E0000186305_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日韓首脳会談 シャトル外交継続 イ大統領来年1月訪日の意向",
+      "text": "APEC首脳会議　日中接触や米中ロ首脳会談が焦点",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 00:32:42 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77438/20261117de77438_E0000186201_1_l.jpg"
+      "time": "Wed, 18 Nov 2026 05:11:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77459/20261118de77459_E0000186238_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本県芦北町で震度3",
+      "text": "高市首相がAPECで訪中 プーチン大統領と接触調整",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 03:04:16 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77474/20261118de77474_E0000186257_1_l.jpg"
+      "time": "Wed, 18 Nov 2026 05:14:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77470/20261118de77470_E0000186253_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "楽天証券 約447万口座で利用者の年収や保有商品情報漏えいか",
+      "text": "能登半島地震 災害関連死3人答申 認定なら死者761人に",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 20:34:37 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261117de77397/20261117de77397_E0000185496_1_l.jpg"
+      "time": "Wed, 18 Nov 2026 10:24:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77511/20261118de77511_E0000186621_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "千葉県いすみ市に「レベル4土砂災害危険警報」",
+      "text": "大分 佐賀関火災から1年 地域の空洞化防げるかが課題に",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 03:21:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77477/20261118de77477_E0000003985_1_l.jpg"
+      "time": "Wed, 18 Nov 2026 10:22:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77501/20261118de77501_E0000186612_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー日本代表　森保監督最後の試合を勝利で飾れず",
+      "text": "愛知 強盗殺人未遂事件 関与ほのめかす5人のうち3人中学生",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 01:31:19 +0900"
+      "time": "Wed, 18 Nov 2026 06:51:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "愛子さま 公式訪問先のシンガポールに到着",
+      "text": "関東などで一時雨強まる　低気圧急発達で荒天に",
       "source": "NHK",
-      "time": "Tue, 17 Nov 2026 21:43:52 +0900"
+      "time": "Wed, 18 Nov 2026 06:35:00 +0900"
     }
   ]
 }
