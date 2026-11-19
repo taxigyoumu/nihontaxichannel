@@ -1,74 +1,60 @@
 {
-  "updated_at": "2026-11-19 17:27",
-  "has_alert": true,
+  "updated_at": "2026-11-20 02:33",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１９日１７時１６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-19T08:19:00Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１９日１７時０５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-19T08:08:05Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を",
+      "source": "NHK",
+      "time": "Thu, 19 Nov 2026 21:32:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【現地の映像配信】米中ロ3か国首脳会談まもなく始まる",
+      "text": "PHPに新たなぜい弱性 修正プログラム公開 サービス一時停止も",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 17:24:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000191009_1_l.jpg"
+      "time": "Fri, 20 Nov 2026 02:19:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78620/20261119de78620_E0000192500_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "JT ロシア現地法人“実質的経営権喪失”約1兆3770億円の損失へ",
+      "text": "高市首相 トランプ大統領から米中ロ首脳会談の説明受ける",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 16:39:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78445/20261119de78445_E0000152158_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 23:48:26 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78721/20261119de78721_E0000194556_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相“クアッドで揺るぎない結束”【記者会見 動画】",
+      "text": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 17:02:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78187/20261119de78187_E0000191991_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "関文科相の政治資金パーティーめぐり 与野党折り合わず",
-      "source": "NHK",
-      "time": "Thu, 19 Nov 2026 16:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78444/20261119de78444_E0000192013_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "【速報中】米中首脳会談 貿易やAIなど意見を交わしたか",
-      "source": "NHK",
-      "time": "Thu, 19 Nov 2026 16:24:00 +0900",
+      "time": "Thu, 19 Nov 2026 19:07:46 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78419/20261119de78419_E0000191894_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意",
+      "text": "ロヒンギャ迫害はジェノサイドと認定 国際司法裁判所が判決",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 13:38:18 +0900"
+      "time": "Thu, 19 Nov 2026 22:18:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78716/20261119de78716_E0000194535_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本 水俣市の避難指示 解除",
+      "text": "資産情報漏えいした可能性の楽天証券に金融庁が報告徴求命令",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 16:30:06 +0900"
+      "time": "Fri, 20 Nov 2026 00:51:34 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ドイツBMW 2018年以来の24時間ストライキ実施へ",
+      "source": "NHK",
+      "time": "Fri, 20 Nov 2026 01:43:15 +0900"
     }
   ]
 }
