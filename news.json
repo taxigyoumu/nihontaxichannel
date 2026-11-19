@@ -1,88 +1,74 @@
 {
-  "updated_at": "2026-11-19 09:56",
+  "updated_at": "2026-11-19 17:27",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１９日０９時３８分ころ、地震がありました。",
+      "text": "【震源・震度情報】１９日１７時１６分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-19T00:41:50Z"
+      "time": "2026-11-19T08:19:00Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源に関する情報】きょう１９日０９時３８分ころ、地震がありました。",
+      "text": "【震源・震度情報】１９日１７時０５分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-19T00:40:51Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震度速報】１９日０９時３８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
-      "source": "気象庁",
-      "time": "2026-11-19T00:40:17Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１９日０９時０５分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-19T00:07:43Z"
+      "time": "2026-11-19T08:08:05Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震情報】熊本県で震度5弱 今後1週間程度は注意を",
+      "text": "【現地の映像配信】米中ロ3か国首脳会談まもなく始まる",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 06:37:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78097/20261119de78097_E0000190488_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 17:24:18 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000191009_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ",
+      "text": "JT ロシア現地法人“実質的経営権喪失”約1兆3770億円の損失へ",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 04:46:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000190500_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 16:39:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78445/20261119de78445_E0000152158_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 プーチン大統領と意見交換 習主席とは握手",
+      "text": "高市首相“クアッドで揺るぎない結束”【記者会見 動画】",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 04:50:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78112/20261119de78112_E0000190499_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 17:02:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78187/20261119de78187_E0000191991_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "消費減税に合わせた支援金 年収56万円程度からの案",
+      "text": "関文科相の政治資金パーティーめぐり 与野党折り合わず",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 06:14:36 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78090/20261119de78090_E0000190485_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 16:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78444/20261119de78444_E0000192013_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "低気圧発達で風強まる 北海道中心に暴風に警戒",
+      "text": "【速報中】米中首脳会談 貿易やAIなど意見を交わしたか",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 06:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78132/20261119de78132_E0000190538_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 16:24:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78419/20261119de78419_E0000191894_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "来年度税制改正 東京と地方の偏在是正など論点 自民税制調査会",
+      "text": "【地震情報】熊本県で震度5弱 熊本地震の一連 1週間程度は注意",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 05:31:00 +0900"
+      "time": "Thu, 19 Nov 2026 13:38:18 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "FRBが10月会合の議事録公表 ほぼ全員が「追加利上げ適切」",
+      "text": "熊本 水俣市の避難指示 解除",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 08:36:40 +0900"
+      "time": "Thu, 19 Nov 2026 16:30:06 +0900"
     }
   ]
 }
