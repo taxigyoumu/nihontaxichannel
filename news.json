@@ -1,95 +1,88 @@
 {
-  "updated_at": "2026-11-19 03:37",
+  "updated_at": "2026-11-19 09:56",
   "has_alert": true,
   "items": [
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１９日０３時３４分ころ、地震がありました。",
+      "text": "【震源・震度情報】１９日０９時３８分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-18T18:36:20Z"
+      "time": "2026-11-19T00:41:50Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１９日０３時２８分ころ、地震がありました。",
+      "text": "【震源に関する情報】きょう１９日０９時３８分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-18T18:30:29Z"
+      "time": "2026-11-19T00:40:51Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１９日０３時２２分ころ、地震がありました。",
+      "text": "【震度速報】１９日０９時３８分ころ、地震による強い揺れを感じました。震度３以上が観測された地域をお知らせします。",
       "source": "気象庁",
-      "time": "2026-11-18T18:24:46Z"
+      "time": "2026-11-19T00:40:17Z"
     },
     {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】１９日０３時２０分ころ、地震がありました。",
+      "text": "【震源・震度情報】１９日０９時０５分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-18T18:23:15Z"
-    },
-    {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】１９日０３時１９分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-18T18:22:06Z"
+      "time": "2026-11-19T00:07:43Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【地震速報】熊本県で震度5弱 津波の心配なし（2:22）",
+      "text": "【地震情報】熊本県で震度5弱 今後1週間程度は注意を",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 03:05:00 +0900",
+      "time": "Thu, 19 Nov 2026 06:37:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78097/20261119de78097_E0000190488_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "熊本県で震度5弱 揺れの映像",
+      "text": "注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 03:21:48 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78111/20261119de78111_E0000190496_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 04:46:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000190500_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "APEC 高市首相 習近平国家主席と握手 プーチン氏と意見交わす",
+      "text": "高市首相 プーチン大統領と意見交換 習主席とは握手",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 01:54:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77690/20261118de77690_E0000190352_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 04:50:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78112/20261119de78112_E0000190499_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え",
+      "text": "消費減税に合わせた支援金 年収56万円程度からの案",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 21:48:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77556/20261118de77556_E0000187974_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 06:14:36 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78090/20261119de78090_E0000190485_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット",
+      "text": "低気圧発達で風強まる 北海道中心に暴風に警戒",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 00:38:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261118de77513/20261118de77513_E0000186666_1_l.jpg"
+      "time": "Thu, 19 Nov 2026 06:18:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78132/20261119de78132_E0000190538_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出",
+      "text": "来年度税制改正 東京と地方の偏在是正など論点 自民税制調査会",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 18:26:03 +0900"
+      "time": "Thu, 19 Nov 2026 05:31:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "サッカー日本代表 森保監督が最後の指揮終えて帰国",
+      "text": "FRBが10月会合の議事録公表 ほぼ全員が「追加利上げ適切」",
       "source": "NHK",
-      "time": "Wed, 18 Nov 2026 22:44:00 +0900"
+      "time": "Thu, 19 Nov 2026 08:36:40 +0900"
     }
   ]
 }
