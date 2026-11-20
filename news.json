@@ -1,22 +1,30 @@
 {
-  "updated_at": "2026-11-20 02:33",
+  "updated_at": "2026-11-20 09:15",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を",
+      "text": "初の米中ロ首脳会談 国際秩序や国際情勢への影響が焦点",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 21:32:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78117/20261119de78117_E0000193620_1_l.jpg"
+      "time": "Fri, 20 Nov 2026 06:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78735/20261120de78735_E0000194566_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "PHPに新たなぜい弱性 修正プログラム公開 サービス一時停止も",
+      "text": "強い冬型の気圧配置 北海道・北陸で暴風警戒 山沿いでは積雪も",
       "source": "NHK",
-      "time": "Fri, 20 Nov 2026 02:19:49 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78620/20261119de78620_E0000192500_1_l.jpg"
+      "time": "Fri, 20 Nov 2026 07:09:25 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78769/20261120de78769_E0000194727_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "米AI開発「アンソロピック」上場 過去最大規模の約13兆円調達",
+      "source": "NHK",
+      "time": "Fri, 20 Nov 2026 07:23:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78753/20261120de78753_E0000194575_1_l.jpg"
     },
     {
       "category": "news",
@@ -29,32 +37,24 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】米中首脳会談 貿易やAIなど意見を交わしたか",
+      "text": "米中ロ首脳会談の影響注視 同盟国・同志国と連携強化 日本政府",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 19:07:46 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78419/20261119de78419_E0000191894_1_l.jpg"
+      "time": "Fri, 20 Nov 2026 08:04:33 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78749/20261120de78749_E0000194572_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロヒンギャ迫害はジェノサイドと認定 国際司法裁判所が判決",
+      "text": "ダウ平均株価が5万ドル割れ 終値としては約5か月ぶり",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 22:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78716/20261119de78716_E0000194535_1_l.jpg"
+      "time": "Fri, 20 Nov 2026 07:15:13 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "資産情報漏えいした可能性の楽天証券に金融庁が報告徴求命令",
+      "text": "10月消費者物価 生鮮食品除く指数 前年同月比＋2.2％",
       "source": "NHK",
-      "time": "Fri, 20 Nov 2026 00:51:34 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドイツBMW 2018年以来の24時間ストライキ実施へ",
-      "source": "NHK",
-      "time": "Fri, 20 Nov 2026 01:43:15 +0900"
+      "time": "Fri, 20 Nov 2026 09:03:53 +0900"
     }
   ]
 }
