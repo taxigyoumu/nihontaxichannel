@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-11-20 09:15",
-  "has_alert": false,
+  "updated_at": "2026-11-20 16:36",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "初の米中ロ首脳会談 国際秩序や国際情勢への影響が焦点",
-      "source": "NHK",
-      "time": "Fri, 20 Nov 2026 06:00:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78735/20261120de78735_E0000194566_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２０日１６時３１分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-20T07:34:11Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "強い冬型の気圧配置 北海道・北陸で暴風警戒 山沿いでは積雪も",
+      "text": "株価 3000円超の下落 AI・半導体業界の先行き懸念でほぼ全面安",
       "source": "NHK",
-      "time": "Fri, 20 Nov 2026 07:09:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78769/20261120de78769_E0000194727_1_l.jpg"
+      "time": "Fri, 20 Nov 2026 16:09:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78808/20261120de78808_E0000196232_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米AI開発「アンソロピック」上場 過去最大規模の約13兆円調達",
+      "text": "大阪 枚方 3歳女児死亡 父親のスマホに暴行事件当日の動画保存",
       "source": "NHK",
-      "time": "Fri, 20 Nov 2026 07:23:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78753/20261120de78753_E0000194575_1_l.jpg"
+      "time": "Fri, 20 Nov 2026 14:05:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79000/20261120de79000_E0000195952_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "高市首相 トランプ大統領から米中ロ首脳会談の説明受ける",
+      "text": "トランプ大統領 アジア訪問終えホワイトハウスに 各国の反応は",
       "source": "NHK",
-      "time": "Thu, 19 Nov 2026 23:48:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261119de78721/20261119de78721_E0000194556_1_l.jpg"
+      "time": "Fri, 20 Nov 2026 16:02:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78820/20261120de78820_E0000195150_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米中ロ首脳会談の影響注視 同盟国・同志国と連携強化 日本政府",
+      "text": "高知空港に米軍の戦闘機1機が緊急着陸 民間航空機など影響なし",
       "source": "NHK",
-      "time": "Fri, 20 Nov 2026 08:04:33 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78749/20261120de78749_E0000194572_1_l.jpg"
+      "time": "Fri, 20 Nov 2026 15:34:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de79057/20261120de79057_E0000196143_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ダウ平均株価が5万ドル割れ 終値としては約5か月ぶり",
+      "text": "「ポケットチェンジ」パスポート番号2万件余流出",
       "source": "NHK",
-      "time": "Fri, 20 Nov 2026 07:15:13 +0900"
+      "time": "Fri, 20 Nov 2026 13:42:22 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261120de78976/20261120de78976_E0000147912_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "10月消費者物価 生鮮食品除く指数 前年同月比＋2.2％",
+      "text": "民間移管H3ロケット 情報収集衛星搭載し来年1月11日打ち上げへ",
       "source": "NHK",
-      "time": "Fri, 20 Nov 2026 09:03:53 +0900"
+      "time": "Fri, 20 Nov 2026 14:57:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "井林国交相 麻生コンクリートのJIS認証取消に「適切に対応」",
+      "source": "NHK",
+      "time": "Fri, 20 Nov 2026 11:16:00 +0900"
     }
   ]
 }
