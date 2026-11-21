@@ -1,88 +1,67 @@
 {
-  "updated_at": "2026-11-21 07:56",
+  "updated_at": "2026-11-21 12:48",
   "has_alert": true,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、大雪や落雷、電線等への着雪に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-20T22:31:11Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】岐阜県では、大雪や落雷、電線等への着雪に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-20T22:31:11Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県雷・霜・着雪注意報】岐阜県では、急な強い雨や落雷、電線等への着雪に注意してください。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-20T22:30:49Z"
-    },
-    {
       "category": "quake",
       "label": "地震",
-      "text": "【震源・震度情報】２１日０６時２２分ころ、地震がありました。",
+      "text": "【震源・震度情報】２１日１２時１７分ころ、地震がありました。",
       "source": "気象庁",
-      "time": "2026-11-20T21:27:42Z"
+      "time": "2026-11-21T03:19:48Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "冬型の気圧配置 新潟は大雨 北～東日本の山沿いは積雪",
+      "text": "冬型の気圧配置 北～東日本の山沿い中心に積雪増 各地で事故も",
       "source": "NHK",
-      "time": "Sat, 21 Nov 2026 07:08:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79490/20261121de79490_E0000199290_1_l.jpg"
+      "time": "Sat, 21 Nov 2026 12:29:04 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79490/20261121de79490_E0000199630_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "【動画】今後の雨と積雪の見通しは 気象予報士解説 （21日）",
+      "text": "住宅街にクマ出没の前橋 けさ警察官が目撃 捜索続く",
       "source": "NHK",
-      "time": "Sat, 21 Nov 2026 07:34:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79497/20261121de79497_E0000199373_1_l.jpg"
+      "time": "Sat, 21 Nov 2026 11:54:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79555/20261121de79555_E0000199609_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関文科相 政治資金パーティーめぐり 野党から辞任要求相次ぐ",
+      "text": "東電 資本提携後も重要事項の意思決定に国が拒否権保持 提示",
       "source": "NHK",
-      "time": "Sat, 21 Nov 2026 06:30:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79475/20261121de79475_E0000199292_1_l.jpg"
+      "time": "Sat, 21 Nov 2026 11:16:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79559/20261121de79559_E0000199621_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "トランプ大統領 中ロ首脳との3者会談の意義強調",
+      "text": "プロ野球DeNA FA権行使オリックスの宗と契約合意",
       "source": "NHK",
-      "time": "Sat, 21 Nov 2026 06:26:11 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79489/20261121de79489_E0000199294_1_l.jpg"
+      "time": "Sat, 21 Nov 2026 12:38:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79591/20261121de79591_E0000199763_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ナスダック指数が一時5%超の急落 AIブーム持続性に疑問符",
+      "text": "トランプ大統領 米国外のデータセンター建設認めず 罰則も",
       "source": "NHK",
-      "time": "Sat, 21 Nov 2026 07:01:32 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79481/20261121de79481_E0000199268_1_l.jpg"
+      "time": "Sat, 21 Nov 2026 10:16:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79543/20261121de79543_E0000199566_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本企業などから高額収入の海外居住者 課税強化へ",
+      "text": "愛子さま マーライオン公園を視察 帰国へ",
       "source": "NHK",
-      "time": "Sat, 21 Nov 2026 05:33:28 +0900"
+      "time": "Sat, 21 Nov 2026 11:00:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "日本とサウジアラビア 原油の備蓄可能量 3倍で合意",
+      "text": "リニア工事現場付近の川で水吹き上がる JR東海が関連調査 川崎",
       "source": "NHK",
-      "time": "Fri, 20 Nov 2026 18:46:00 +0900"
+      "time": "Sat, 21 Nov 2026 11:13:00 +0900"
     }
   ]
 }
