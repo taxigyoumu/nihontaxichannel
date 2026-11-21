@@ -1,60 +1,74 @@
 {
-  "updated_at": "2026-11-21 21:03",
-  "has_alert": false,
+  "updated_at": "2026-11-22 04:37",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日０４時０３分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-21T19:06:04Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２２日０２時３０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-21T17:33:26Z"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅",
+      "source": "NHK",
+      "time": "Sun, 22 Nov 2026 00:03:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79776/20261121de79776_E0000200692_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "香川 JR予讃線 特急が乗客約90人乗せ立往生 信号トラブルで",
+      "source": "NHK",
+      "time": "Sun, 22 Nov 2026 04:34:34 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79790/20261122de79790_E0000200721_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "山形新幹線 早朝の一部列車を除き通常運転の見通し",
+      "source": "NHK",
+      "time": "Sun, 22 Nov 2026 04:27:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79780/20261122de79780_E0000200702_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ラグビー日本代表 スコットランドに62点差の大敗【詳報】",
+      "source": "NHK",
+      "time": "Sun, 22 Nov 2026 04:10:09 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79756/20261121de79756_E0000200709_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "フィギュアGP第5戦 島田麻央 2連勝でファイナル進出決定",
+      "source": "NHK",
+      "time": "Sun, 22 Nov 2026 03:24:47 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79775/20261121de79775_E0000200684_1_l.jpg"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響",
       "source": "NHK",
-      "time": "Sat, 21 Nov 2026 18:40:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79490/20261121de79490_E0000199887_1_l.jpg"
+      "time": "Sat, 21 Nov 2026 23:11:25 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "前橋 市街地出没のクマ見つからず 22日朝から捜索再開",
+      "text": "除雪車にはねられ 国道横断中の女性死亡 福井 勝山",
       "source": "NHK",
-      "time": "Sat, 21 Nov 2026 20:56:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79555/20261121de79555_E0000199609_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "将棋の福間香奈女流四冠 第2子の妊娠を公表",
-      "source": "NHK",
-      "time": "Sat, 21 Nov 2026 20:13:17 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79734/20261121de79734_E0000200419_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "自民 鈴木幹事長 関文科相問責対応“消費税法案など成立優先”",
-      "source": "NHK",
-      "time": "Sat, 21 Nov 2026 15:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79553/20261121de79553_E0000199850_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "愛子さま シンガポール訪問終え帰国",
-      "source": "NHK",
-      "time": "Sat, 21 Nov 2026 18:50:26 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79709/20261121de79709_E0000199891_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "将棋「竜王戦」第4局 藤井聡太六冠が防衛6連覇果たす",
-      "source": "NHK",
-      "time": "Sat, 21 Nov 2026 19:13:03 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "サッカーJ1第15節 FC東京がJ1新記録の10試合連続無失点達成",
-      "source": "NHK",
-      "time": "Sat, 21 Nov 2026 20:55:44 +0900"
+      "time": "Sat, 21 Nov 2026 21:38:33 +0900"
     }
   ]
 }
