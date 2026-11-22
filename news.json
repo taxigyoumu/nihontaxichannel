@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-23 00:31",
+  "updated_at": "2026-11-23 06:30",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "クマは地下水路に? 内部調査も姿は確認できず 警戒続く前橋",
-      "source": "NHK",
-      "time": "Sun, 22 Nov 2026 20:45:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79777/20261122de79777_E0000200695_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
       "text": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
       "source": "NHK",
-      "time": "Sun, 22 Nov 2026 22:40:47 +0900",
+      "time": "Mon, 23 Nov 2026 04:45:05 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79933/20261122de79933_E0000201168_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大相撲九州場所 大の里 7回目の優勝 若元春との優勝決定戦制す",
+      "text": "野党 関文科相辞任求める声強まる 木原官房長官“説明が重要”",
       "source": "NHK",
-      "time": "Sun, 22 Nov 2026 23:11:24 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79989/20261122de79989_E0000201222_1_l.jpg"
+      "time": "Mon, 23 Nov 2026 06:18:21 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80109/20261123de80109_E0000201933_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "住宅街にクマ出没の前橋 地下水路に潜んでいる可能性 警戒続く",
+      "source": "NHK",
+      "time": "Mon, 23 Nov 2026 06:01:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de80089/20261122de80089_E0000201919_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
+      "source": "NHK",
+      "time": "Mon, 23 Nov 2026 05:40:07 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80121/20261123de80121_E0000201936_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ウクライナ キーウ近郊に攻撃 4人死亡 ロシアの攻撃激化",
+      "source": "NHK",
+      "time": "Mon, 23 Nov 2026 05:19:29 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80114/20261123de80114_E0000201934_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "「東アジア反日武装戦線」メンバーの死刑囚が東京拘置所で死亡",
       "source": "NHK",
-      "time": "Sun, 22 Nov 2026 20:37:59 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79958/20261122de79958_E0000201202_1_l.jpg"
+      "time": "Sun, 22 Nov 2026 20:37:59 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "韓国 大学入試 スマートグラスなどの対策で混乱 教育相が辞意",
       "source": "NHK",
-      "time": "Sun, 22 Nov 2026 20:21:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de80041/20261122de80041_E0000201745_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "熊本地震で被災の小学生 陸上の全国大会で堂々の走り",
-      "source": "NHK",
-      "time": "Sun, 22 Nov 2026 21:21:15 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "タワーレコード 不正アクセスで約1100万件の個人情報流出",
-      "source": "NHK",
-      "time": "Sun, 22 Nov 2026 15:11:18 +0900"
+      "time": "Sun, 22 Nov 2026 20:21:50 +0900"
     }
   ]
 }
