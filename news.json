@@ -1,20 +1,22 @@
 {
-  "updated_at": "2026-11-22 04:37",
-  "has_alert": true,
+  "updated_at": "2026-11-22 09:03",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日０４時０３分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-21T19:06:04Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を",
+      "source": "NHK",
+      "time": "Sun, 22 Nov 2026 06:57:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79767/20261121de79767_E0000200757_1_l.jpg"
     },
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２２日０２時３０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-21T17:33:26Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く",
+      "source": "NHK",
+      "time": "Sun, 22 Nov 2026 05:02:31 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79781/20261122de79781_E0000200700_1_l.jpg"
     },
     {
       "category": "news",
@@ -27,48 +29,32 @@
     {
       "category": "news",
       "label": "ニュース",
-      "text": "香川 JR予讃線 特急が乗客約90人乗せ立往生 信号トラブルで",
+      "text": "ホテル更衣室で保育園児など盗撮疑い 福島県警の行政職員逮捕",
       "source": "NHK",
-      "time": "Sun, 22 Nov 2026 04:34:34 +0900",
+      "time": "Sun, 22 Nov 2026 07:29:44 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79820/20261122de79820_E0000200815_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "香川 JR予讃線信号トラブル 特急など約6時間立往生も運転再開",
+      "source": "NHK",
+      "time": "Sun, 22 Nov 2026 06:14:00 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79790/20261122de79790_E0000200721_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "山形新幹線 早朝の一部列車を除き通常運転の見通し",
+      "text": "ゼレンスキー大統領「3か国首脳会談はロシアにとっては失敗」",
       "source": "NHK",
-      "time": "Sun, 22 Nov 2026 04:27:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79780/20261122de79780_E0000200702_1_l.jpg"
+      "time": "Sun, 22 Nov 2026 08:07:20 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ラグビー日本代表 スコットランドに62点差の大敗【詳報】",
+      "text": "デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」",
       "source": "NHK",
-      "time": "Sun, 22 Nov 2026 04:10:09 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79756/20261121de79756_E0000200709_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フィギュアGP第5戦 島田麻央 2連勝でファイナル進出決定",
-      "source": "NHK",
-      "time": "Sun, 22 Nov 2026 03:24:47 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261121de79775/20261121de79775_E0000200684_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響",
-      "source": "NHK",
-      "time": "Sat, 21 Nov 2026 23:11:25 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "除雪車にはねられ 国道横断中の女性死亡 福井 勝山",
-      "source": "NHK",
-      "time": "Sat, 21 Nov 2026 21:38:33 +0900"
+      "time": "Sun, 22 Nov 2026 08:38:38 +0900"
     }
   ]
 }
