@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-11-23 19:17",
-  "has_alert": false,
+  "updated_at": "2026-11-24 07:09",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "24日は荒れた天気に 強風や大雨による土砂災害に十分注意を",
-      "source": "NHK",
-      "time": "Mon, 23 Nov 2026 19:05:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80272/20261123de80272_E0000202585_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２４日０６時００分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-23T21:03:25Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「核のごみ」文献調査 茨城 常陸大宮で初の市民説明会",
+      "text": "エヌビディアCEO 辞任のフアン氏が復帰へ 株価一時36％超上昇",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 18:49:27 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80257/20261123de80257_E0000202372_1_l.jpg"
+      "time": "Tue, 24 Nov 2026 06:38:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80304/20261123de80304_E0000202896_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福島 大雪による孤立状態が解消 電力復旧作業や雪かき進む",
+      "text": "野党 関大臣の問責決議案協議 政府・与党 情勢見極め対応検討",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 19:11:30 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80164/20261123de80164_E0000202128_1_l.jpg"
+      "time": "Tue, 24 Nov 2026 04:53:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80283/20261123de80283_E0000202910_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "岐阜 雪の影響で停電 携帯電話の通信障害や鉄道運転見合わせも",
+      "text": "荒れた天気 強風・土砂災害に十分注意 あす日本海側で雪強まる",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 18:22:12 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80192/20261123de80192_E0000202322_1_l.jpg"
+      "time": "Tue, 24 Nov 2026 06:22:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80284/20261123de80284_E0000202974_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "長野 雪の影響で停電続く “24日中の復旧を目指す”",
+      "text": "雪の影響で停電続く 岐阜県内約3190戸 長野県内470戸",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 18:52:56 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80268/20261123de80268_E0000202378_1_l.jpg"
+      "time": "Tue, 24 Nov 2026 06:32:38 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80343/20261124de80343_E0000202975_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "松山 住宅が全焼 男女2人遺体発見 居住のきょうだい連絡取れず",
+      "text": "東京電力 福島での廃炉と賠償の部門を統合へ",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 17:38:00 +0900"
+      "time": "Mon, 23 Nov 2026 18:24:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80254/20261123de80254_E0000202368_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "住宅街のクマ“水路に潜む可能性”警戒続く 学校は再開へ 前橋",
+      "text": "ロシア拘束の北海道新聞記者に2回目の領事面会 健康に問題なし",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 17:50:59 +0900"
+      "time": "Tue, 24 Nov 2026 05:41:00 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "有価証券報告書の制度見直しへ 経営者はより責任持って確認を",
+      "source": "NHK",
+      "time": "Tue, 24 Nov 2026 05:31:00 +0900"
     }
   ]
 }
