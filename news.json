@@ -1,67 +1,60 @@
 {
-  "updated_at": "2026-11-23 10:55",
-  "has_alert": true,
+  "updated_at": "2026-11-23 19:17",
+  "has_alert": false,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２３日０８時５０分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-22T23:53:17Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "24日は荒れた天気に 強風や大雨による土砂災害に十分注意を",
+      "source": "NHK",
+      "time": "Mon, 23 Nov 2026 19:05:06 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80272/20261123de80272_E0000202585_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "横溝正史が戦時下に陸軍「幻の雑誌」に掲載した推理小説発見",
+      "text": "「核のごみ」文献調査 茨城 常陸大宮で初の市民説明会",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 09:16:28 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80134/20261123de80134_E0000202079_1_l.jpg"
+      "time": "Mon, 23 Nov 2026 18:49:27 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80257/20261123de80257_E0000202372_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "“会談模索もキム総書記の条件を米が受け入れられず”米報道",
+      "text": "福島 大雪による孤立状態が解消 電力復旧作業や雪かき進む",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 09:26:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80133/20261123de80133_E0000202080_1_l.jpg"
+      "time": "Mon, 23 Nov 2026 19:11:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80164/20261123de80164_E0000202128_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "松山市中心部近くの住宅で火事 2人と連絡取れず",
+      "text": "岐阜 雪の影響で停電 携帯電話の通信障害や鉄道運転見合わせも",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 08:27:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80132/20261123de80132_E0000202067_1_l.jpg"
+      "time": "Mon, 23 Nov 2026 18:22:12 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80192/20261123de80192_E0000202322_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄 首里城正殿が復元 きょう正午から一般公開",
+      "text": "長野 雪の影響で停電続く “24日中の復旧を目指す”",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 06:42:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de80078/20261122de80078_E0000201905_1_l.jpg"
+      "time": "Mon, 23 Nov 2026 18:52:56 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80268/20261123de80268_E0000202378_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」",
+      "text": "松山 住宅が全焼 男女2人遺体発見 居住のきょうだい連絡取れず",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 10:36:50 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80145/20261123de80145_E0000202085_1_l.jpg"
+      "time": "Mon, 23 Nov 2026 17:38:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "野党 関文科相辞任求める声強まる 木原官房長官“説明が重要”",
+      "text": "住宅街のクマ“水路に潜む可能性”警戒続く 学校は再開へ 前橋",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 06:18:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ドイツ最大労組 メルセデスの工場でも24時間ストライキ",
-      "source": "NHK",
-      "time": "Mon, 23 Nov 2026 09:48:00 +0900"
+      "time": "Mon, 23 Nov 2026 17:50:59 +0900"
     }
   ]
 }
