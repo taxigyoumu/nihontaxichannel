@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-11-23 06:30",
-  "has_alert": false,
+  "updated_at": "2026-11-23 10:55",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２３日０８時５０分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-22T23:53:17Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声",
+      "text": "横溝正史が戦時下に陸軍「幻の雑誌」に掲載した推理小説発見",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 04:45:05 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de79933/20261122de79933_E0000201168_1_l.jpg"
+      "time": "Mon, 23 Nov 2026 09:16:28 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80134/20261123de80134_E0000202079_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "“会談模索もキム総書記の条件を米が受け入れられず”米報道",
+      "source": "NHK",
+      "time": "Mon, 23 Nov 2026 09:26:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80133/20261123de80133_E0000202080_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "松山市中心部近くの住宅で火事 2人と連絡取れず",
+      "source": "NHK",
+      "time": "Mon, 23 Nov 2026 08:27:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80132/20261123de80132_E0000202067_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "沖縄 首里城正殿が復元 きょう正午から一般公開",
+      "source": "NHK",
+      "time": "Mon, 23 Nov 2026 06:42:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de80078/20261122de80078_E0000201905_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべき」",
+      "source": "NHK",
+      "time": "Mon, 23 Nov 2026 10:36:50 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80145/20261123de80145_E0000202085_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "野党 関文科相辞任求める声強まる 木原官房長官“説明が重要”",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 06:18:21 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80109/20261123de80109_E0000201933_1_l.jpg"
+      "time": "Mon, 23 Nov 2026 06:18:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "住宅街にクマ出没の前橋 地下水路に潜んでいる可能性 警戒続く",
+      "text": "ドイツ最大労組 メルセデスの工場でも24時間ストライキ",
       "source": "NHK",
-      "time": "Mon, 23 Nov 2026 06:01:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261122de80089/20261122de80089_E0000201919_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "インドネシアの製菓工場で火災 3人死亡 36人行方不明",
-      "source": "NHK",
-      "time": "Mon, 23 Nov 2026 05:40:07 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80121/20261123de80121_E0000201936_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "ウクライナ キーウ近郊に攻撃 4人死亡 ロシアの攻撃激化",
-      "source": "NHK",
-      "time": "Mon, 23 Nov 2026 05:19:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261123de80114/20261123de80114_E0000201934_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「東アジア反日武装戦線」メンバーの死刑囚が東京拘置所で死亡",
-      "source": "NHK",
-      "time": "Sun, 22 Nov 2026 20:37:59 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "韓国 大学入試 スマートグラスなどの対策で混乱 教育相が辞意",
-      "source": "NHK",
-      "time": "Sun, 22 Nov 2026 20:21:50 +0900"
+      "time": "Mon, 23 Nov 2026 09:48:00 +0900"
     }
   ]
 }
