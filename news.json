@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-25 03:04",
+  "updated_at": "2026-11-25 11:41",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "三冠王 佐藤輝明選手がカブスと合意 契約6年 約191億円 米報道",
+      "text": "埼玉 上尾で住宅火災 親子2人と連絡とれず",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 02:52:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80905/20261125de80905_E0000206959_1_l.jpg"
+      "time": "Wed, 25 Nov 2026 11:21:40 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80995/20261125de80995_E0000207414_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "株価 一時2000円超の値下がり",
+      "source": "NHK",
+      "time": "Wed, 25 Nov 2026 11:30:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80958/20261125de80958_E0000207435_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "中国で初めて外国人宇宙飛行士を乗せた有人宇宙船を打ち上げ",
+      "source": "NHK",
+      "time": "Wed, 25 Nov 2026 11:29:57 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80985/20261125de80985_E0000207412_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "ナスダック 一転下落 エヌビディア企業統治に懸念",
+      "source": "NHK",
+      "time": "Wed, 25 Nov 2026 07:09:54 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80932/20261125de80932_E0000207093_1_l.jpg"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
+      "source": "NHK",
+      "time": "Wed, 25 Nov 2026 10:41:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80970/20261125de80970_E0000207401_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
       "text": "神奈川 小田原厚木道路で77歳運転の逆走車が衝突 34歳男性死亡",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 01:52:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80911/20261125de80911_E0000206961_1_l.jpg"
+      "time": "Wed, 25 Nov 2026 01:52:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "楽天証券情報漏えいの詳細判明 全体件数は約441万件",
+      "text": "広島 庄原 高齢女性殺害事件で55歳会社員を逮捕",
       "source": "NHK",
-      "time": "Tue, 24 Nov 2026 23:33:25 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80890/20261124de80890_E0000206942_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "中国上海市トップが規律違反疑いで調査　中国国営メディア",
-      "source": "NHK",
-      "time": "Wed, 25 Nov 2026 02:59:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80879/20261124de80879_E0000206937_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "カイロス4号機 来年1月22日に打ち上げ 企業が発表",
-      "source": "NHK",
-      "time": "Tue, 24 Nov 2026 23:18:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261124de80861/20261124de80861_E0000206875_1_l.jpg"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "「あ・じゃ・ぱん！」「ららら科學の子」矢作俊彦さん死去",
-      "source": "NHK",
-      "time": "Tue, 24 Nov 2026 21:36:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "WHO テドロス事務局長がキューバ視察 米制裁が医療に影響",
-      "source": "NHK",
-      "time": "Tue, 24 Nov 2026 23:25:24 +0900"
+      "time": "Wed, 25 Nov 2026 06:59:00 +0900"
     }
   ]
 }
