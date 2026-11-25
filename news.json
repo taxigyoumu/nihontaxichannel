@@ -1,60 +1,74 @@
 {
-  "updated_at": "2026-11-25 21:03",
-  "has_alert": false,
+  "updated_at": "2026-11-26 06:53",
+  "has_alert": true,
   "items": [
     {
-      "category": "news",
-      "label": "ニュース",
-      "text": "福岡 駐輪場刺殺事件 警察が男から事情聴く 事件に関与か",
-      "source": "NHK",
-      "time": "Wed, 25 Nov 2026 20:44:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81118/20261125de81118_E0000208150_1_l.jpg"
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日０５時１８分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-25T20:24:24Z"
+    },
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日０５時１２分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-25T20:15:04Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "卓球 五輪3大会連続でメダル 石川佳純さんが結婚 SNSで発表",
+      "text": "福岡 駅員殴った疑いで49歳逮捕 男性刺殺事件と関連調べ",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 20:30:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81444/20261125de81444_E0000210444_1_l.jpg"
+      "time": "Thu, 26 Nov 2026 06:20:10 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81511/20261125de81511_E0000211230_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "安倍元首相銃撃事件 弁護団は2審で懲役10年以下主張へ",
+      "text": "PayPayでシステム障害 カード連携サービスで決済できず",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 20:51:58 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81466/20261125de81466_E0000210435_1_l.jpg"
+      "time": "Wed, 25 Nov 2026 23:16:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81532/20261125de81532_E0000211171_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神奈川 逆走死亡事故 5分以上逆走 複数の車と接触しそうに",
+      "text": "米 過剰生産で日本など追加関税 既存税率含め日本は最大15％に",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 19:27:02 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81436/20261125de81436_E0000210176_1_l.jpg"
+      "time": "Thu, 26 Nov 2026 06:35:30 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81560/20261126de81560_E0000211233_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "2029年大河ドラマは「三成のうた」 主演は神木隆之介さん",
+      "text": "野党 関文科相問責決議案 きょう提出へ 与党は否決へ全力",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 20:00:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81004/20261125de81004_E0000208429_1_l.jpg"
+      "time": "Thu, 26 Nov 2026 05:34:55 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81559/20261126de81559_E0000211185_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "兵庫 伊丹 3歳女児死亡 児相は父親には具体的に問いたださず",
+      "text": "FRB“幅広い業種でコスト上昇”来月の追加利上げ判断注目",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 20:18:00 +0900"
+      "time": "Thu, 26 Nov 2026 06:26:53 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81570/20261126de81570_E0000211231_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "MLB労使交渉期限まで1週間 労使活動停止「ロックアウト」迫る",
+      "text": "本格導入の支援金 諸外国との負担差27万円を踏まえ支給額検討",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 19:39:00 +0900"
+      "time": "Thu, 26 Nov 2026 05:59:28 +0900"
+    },
+    {
+      "category": "news",
+      "label": "ニュース",
+      "text": "蓮池薫さん講演 “北朝鮮に日本の存在感示し拉致問題解決を”",
+      "source": "NHK",
+      "time": "Thu, 26 Nov 2026 06:15:23 +0900"
     }
   ]
 }
