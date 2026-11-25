@@ -1,60 +1,60 @@
 {
-  "updated_at": "2026-11-25 11:41",
+  "updated_at": "2026-11-25 21:03",
   "has_alert": false,
   "items": [
     {
       "category": "news",
       "label": "ニュース",
-      "text": "埼玉 上尾で住宅火災 親子2人と連絡とれず",
+      "text": "福岡 駐輪場刺殺事件 警察が男から事情聴く 事件に関与か",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 11:21:40 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80995/20261125de80995_E0000207414_1_l.jpg"
+      "time": "Wed, 25 Nov 2026 20:44:51 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81118/20261125de81118_E0000208150_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "株価 一時2000円超の値下がり",
+      "text": "卓球 五輪3大会連続でメダル 石川佳純さんが結婚 SNSで発表",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 11:30:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80958/20261125de80958_E0000207435_1_l.jpg"
+      "time": "Wed, 25 Nov 2026 20:30:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81444/20261125de81444_E0000210444_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "中国で初めて外国人宇宙飛行士を乗せた有人宇宙船を打ち上げ",
+      "text": "安倍元首相銃撃事件 弁護団は2審で懲役10年以下主張へ",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 11:29:57 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80985/20261125de80985_E0000207412_1_l.jpg"
+      "time": "Wed, 25 Nov 2026 20:51:58 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81466/20261125de81466_E0000210435_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ナスダック 一転下落 エヌビディア企業統治に懸念",
+      "text": "神奈川 逆走死亡事故 5分以上逆走 複数の車と接触しそうに",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 07:09:54 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80932/20261125de80932_E0000207093_1_l.jpg"
+      "time": "Wed, 25 Nov 2026 19:27:02 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81436/20261125de81436_E0000210176_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "国連事務総長 「AIと核は破滅のレシピ」 リスク管理体制を",
+      "text": "2029年大河ドラマは「三成のうた」 主演は神木隆之介さん",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 10:41:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de80970/20261125de80970_E0000207401_1_l.jpg"
+      "time": "Wed, 25 Nov 2026 20:00:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81004/20261125de81004_E0000208429_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "神奈川 小田原厚木道路で77歳運転の逆走車が衝突 34歳男性死亡",
+      "text": "兵庫 伊丹 3歳女児死亡 児相は父親には具体的に問いたださず",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 01:52:00 +0900"
+      "time": "Wed, 25 Nov 2026 20:18:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "広島 庄原 高齢女性殺害事件で55歳会社員を逮捕",
+      "text": "MLB労使交渉期限まで1週間 労使活動停止「ロックアウト」迫る",
       "source": "NHK",
-      "time": "Wed, 25 Nov 2026 06:59:00 +0900"
+      "time": "Wed, 25 Nov 2026 19:39:00 +0900"
     }
   ]
 }
