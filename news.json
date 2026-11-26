@@ -1,60 +1,67 @@
 {
-  "updated_at": "2026-11-26 12:55",
-  "has_alert": false,
+  "updated_at": "2026-11-26 22:31",
+  "has_alert": true,
   "items": [
+    {
+      "category": "quake",
+      "label": "地震",
+      "text": "【震源・震度情報】２６日２１時３６分ころ、地震がありました。",
+      "source": "気象庁",
+      "time": "2026-11-26T12:39:38Z"
+    },
     {
       "category": "news",
       "label": "ニュース",
       "text": "参院 野党側 関文科相の問責決議案を提出 あす採決へ",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 12:48:20 +0900",
+      "time": "Thu, 26 Nov 2026 19:22:55 +0900",
       "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81559/20261126de81559_E0000211699_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡 駐輪場男性刺殺事件 逃走の男は商業施設に約20分間滞在か",
+      "text": "ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 11:54:18 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81597/20261126de81597_E0000211623_1_l.jpg"
+      "time": "Thu, 26 Nov 2026 14:01:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81607/20261126de81607_E0000212377_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "PayPayのシステム障害が復旧 クレジットカード連携決済が再開",
+      "text": "アポ電強盗事件 ３人の被告の無期懲役が確定へ 最高裁",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 10:07:06 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261125de81532/20261125de81532_E0000211171_1_l.jpg"
+      "time": "Thu, 26 Nov 2026 20:36:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de82095/20261126de82095_E0000214493_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アディーレ法律事務所 不正アクセスで個人情報漏えい",
+      "text": "「独身偽装」で出産 2審は賠償増額 610万余支払い命令",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 12:20:29 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81692/20261126de81692_E0000211756_1_l.jpg"
+      "time": "Thu, 26 Nov 2026 19:56:14 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de82076/20261126de82076_E0000214470_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "店の壁の内側に女性の遺体 被告殺人の罪争う 札幌地裁",
+      "text": "不登校が過去最多35万9424人 小学生で増加 親は離職のケースも",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 12:25:51 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81713/20261126de81713_E0000211818_1_l.jpg"
+      "time": "Thu, 26 Nov 2026 18:34:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81766/20261126de81766_E0000212729_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "米 過剰生産で日本など追加関税 既存税率含め日本は最大15％に",
+      "text": "年末商戦前にダークパターンや詐欺サイトに注意呼びかけ",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 12:09:42 +0900"
+      "time": "Thu, 26 Nov 2026 21:37:02 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "大谷翔平が今季振り返り 来季の巻き返し誓う 一問一答も掲載",
+      "text": "プロ野球広島に開示求めた3人 「戦力構想外」の回答と明らかに",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 11:25:04 +0900"
+      "time": "Thu, 26 Nov 2026 18:43:00 +0900"
     }
   ]
 }
