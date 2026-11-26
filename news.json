@@ -1,67 +1,81 @@
 {
-  "updated_at": "2026-11-26 22:31",
+  "updated_at": "2026-11-27 07:46",
   "has_alert": true,
   "items": [
     {
-      "category": "quake",
-      "label": "地震",
-      "text": "【震源・震度情報】２６日２１時３６分ころ、地震がありました。",
-      "source": "気象庁",
-      "time": "2026-11-26T12:39:38Z"
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-26T22:20:14Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-26T22:20:14Z"
+    },
+    {
+      "category": "weather",
+      "label": "気象",
+      "text": "【岐阜県霜注意報】注意報を解除します。",
+      "source": "岐阜地方気象台",
+      "time": "2026-11-26T22:20:08Z"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "参院 野党側 関文科相の問責決議案を提出 あす採決へ",
+      "text": "関文科相問責決議案 きょう採決 可否はギリギリの情勢か",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 19:22:55 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81559/20261126de81559_E0000211699_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 04:45:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82148/20261127de82148_E0000215259_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】",
+      "text": "沖縄県で明け方に線状降水帯発生 レベル4危険警報も",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 14:01:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81607/20261126de81607_E0000212377_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 07:19:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82176/20261127de82176_E0000215277_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "アポ電強盗事件 ３人の被告の無期懲役が確定へ 最高裁",
+      "text": "北海道新聞記者の妻の手記をロシアメディアも報じる",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 20:36:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de82095/20261126de82095_E0000214493_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 05:07:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82163/20261127de82163_E0000215271_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "「独身偽装」で出産 2審は賠償増額 610万余支払い命令",
+      "text": "学校のいじめ79万件超で過去最多 「性的いじめ」初調査 文科省",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 19:56:14 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de82076/20261126de82076_E0000214470_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 05:08:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82139/20261127de82139_E0000215252_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "不登校が過去最多35万9424人 小学生で増加 親は離職のケースも",
+      "text": "住宅購入の資金 贈与税の非課税措置を延長の方向で調整",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 18:34:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261126de81766/20261126de81766_E0000212729_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 07:29:45 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82144/20261127de82144_E0000215256_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "年末商戦前にダークパターンや詐欺サイトに注意呼びかけ",
+      "text": "福岡 刺殺事件 男がカーディガン購入 逃走のため服装変えたか",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 21:37:02 +0900"
+      "time": "Fri, 27 Nov 2026 04:50:00 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "プロ野球広島に開示求めた3人 「戦力構想外」の回答と明らかに",
+      "text": "フィンランド 「核のごみ」最終処分場 操業許可後初の報道公開",
       "source": "NHK",
-      "time": "Thu, 26 Nov 2026 18:43:00 +0900"
+      "time": "Fri, 27 Nov 2026 05:34:00 +0900"
     }
   ]
 }
