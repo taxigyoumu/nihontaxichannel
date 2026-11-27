@@ -1,81 +1,60 @@
 {
-  "updated_at": "2026-11-27 07:46",
-  "has_alert": true,
+  "updated_at": "2026-11-27 13:45",
+  "has_alert": false,
   "items": [
     {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-26T22:20:14Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県気象警報・注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-26T22:20:14Z"
-    },
-    {
-      "category": "weather",
-      "label": "気象",
-      "text": "【岐阜県霜注意報】注意報を解除します。",
-      "source": "岐阜地方気象台",
-      "time": "2026-11-26T22:20:08Z"
+      "category": "news",
+      "label": "ニュース",
+      "text": "「副首都」来年秋に指定 再来年春から運用へ 想定日程公表",
+      "source": "NHK",
+      "time": "Fri, 27 Nov 2026 11:27:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82236/20261127de82236_E0000215966_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "関文科相問責決議案 きょう採決 可否はギリギリの情勢か",
+      "text": "【更新中】関文科相への問責決議案 反対多数で否決 参院本会議",
       "source": "NHK",
-      "time": "Fri, 27 Nov 2026 04:45:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82148/20261127de82148_E0000215259_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 13:35:03 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82148/20261127de82148_E0000215875_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "沖縄県で明け方に線状降水帯発生 レベル4危険警報も",
+      "text": "【記者解説】関文科相への問責決議案 なぜ否決",
       "source": "NHK",
-      "time": "Fri, 27 Nov 2026 07:19:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82176/20261127de82176_E0000215277_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 12:51:49 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82351/20261127de82351_E0000216268_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "北海道新聞記者の妻の手記をロシアメディアも報じる",
+      "text": "【速報中】フィギュアNHK杯 開幕 アイスダンス 森田組は欠場",
       "source": "NHK",
-      "time": "Fri, 27 Nov 2026 05:07:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82163/20261127de82163_E0000215271_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 13:39:05 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82343/20261127de82343_E0000216238_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "学校のいじめ79万件超で過去最多 「性的いじめ」初調査 文科省",
+      "text": "エヌビディアが東南アジア4か国への輸出を停止 欧米メディア",
       "source": "NHK",
-      "time": "Fri, 27 Nov 2026 05:08:00 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82139/20261127de82139_E0000215252_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 08:00:00 +0900",
+      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82164/20261127de82164_E0000215263_1_l.jpg"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "住宅購入の資金 贈与税の非課税措置を延長の方向で調整",
+      "text": "処方された糖尿病治療薬「マンジャロ」を他人に販売か 逮捕",
       "source": "NHK",
-      "time": "Fri, 27 Nov 2026 07:29:45 +0900",
-      "image": "https://imgu.web.nhk/news/u/news/nd/kiji/20261127de82144/20261127de82144_E0000215256_1_l.jpg"
+      "time": "Fri, 27 Nov 2026 12:57:24 +0900"
     },
     {
       "category": "news",
       "label": "ニュース",
-      "text": "福岡 刺殺事件 男がカーディガン購入 逃走のため服装変えたか",
+      "text": "福岡 男性刺殺事件 駐輪場の事務所に立ち寄った後襲ったか",
       "source": "NHK",
-      "time": "Fri, 27 Nov 2026 04:50:00 +0900"
-    },
-    {
-      "category": "news",
-      "label": "ニュース",
-      "text": "フィンランド 「核のごみ」最終処分場 操業許可後初の報道公開",
-      "source": "NHK",
-      "time": "Fri, 27 Nov 2026 05:34:00 +0900"
+      "time": "Fri, 27 Nov 2026 12:00:00 +0900"
     }
   ]
 }
